@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Duly Adopted",
+    "date": "2025-04-25",
+    "organization_id": "~{\"classification\": \"executive\"}",
+    "classification": [
+      "enrolled"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HR 24-7"
+}

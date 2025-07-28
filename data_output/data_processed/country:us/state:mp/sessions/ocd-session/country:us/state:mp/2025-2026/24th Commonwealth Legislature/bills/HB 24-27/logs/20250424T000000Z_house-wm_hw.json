@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "HOUSE-WM & HW",
+    "date": "2025-04-24",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 24-27"
+}
