@@ -1,12 +1,16 @@
 name: Update Data
 
 on:
+  schedule:
+    - cron: "0 1 * * *" # every day at 1am UTC
   workflow_dispatch:
-  # schedule:
-  #   - cron: "0 1 * * *" # every day at 1am UTC
-
-env:
-  STATE: mp
+    inputs:
+      use-scrape-cache:
+        type: boolean
+        description: Use open states scraper cache
+      force-update:
+        type: boolean
+        description: 'Force push changes even if there are upstream changes (use with caution)'
 
 jobs:
   update-data:
@@ -16,74 +20,75 @@ jobs:
       contents: write
 
     steps:
-      - name: Get Date
-        id: get-date
+      - uses: windy-civi/opencivicdata-blockchain-transformer@bill-text-extraction
+        with:
+           state: usa
+           github-token: ${{ secrets.GITHUB_TOKEN }}
+           use-scrape-cache: ${{ inputs.use-scrape-cache }}
+           force-update: ${{ inputs.force-update }}
+      
+      # Zip the data first to avoid path issues
+      - name: Zip processed data
         run: |
-          echo "date=$(/bin/date \"+%Y%m%dT%H%M%S\")" >> $GITHUB_OUTPUT
-        shell: bash
+          cd data_output
+          zip -r processed-data.zip data_processed/
+      
+      # Upload the zip file instead
+      - name: Upload processed data
+        uses: actions/upload-artifact@v4
+        with:
+          name: processed-data
+          path: data_output/processed-data.zip
+          retention-days: 1
 
-      - name: Checkout Repo
+  extract-bill-text:
+    name: Extract Bill Text
+    runs-on: ubuntu-latest
+    needs: update-data
+    permissions:
+      contents: write
+    
+    steps:
+      - name: Checkout code
         uses: actions/checkout@v4
         with:
+          repository: windy-civi/opencivicdata-blockchain-transformer
+          ref: bill-text-extraction
           token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Setup Python
-        uses: actions/setup-python@v5
+      
+      - name: Set up Python
+        uses: actions/setup-python@v4
         with:
-          python-version: "3.13"
-          cache: "pipenv"
-
-      - name: Cache Scrapes
-        uses: actions/cache@v4
+          python-version: '3.11'
+      
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+      
+      # Download and extract the zip file
+      - name: Download processed data
+        uses: actions/download-artifact@v4
         with:
-          path: ${{ runner.temp }}/_working/_cache
-          key: cache-scrapes-key-${{ steps.get-date.outputs.date }}
-          restore-keys: |
-            cache-scrapes-key-
-
-      - name: Clone and Build Scrapers from Source
+          name: processed-data
+          path: data_output/
+      
+      - name: Extract processed data
         run: |
-          git clone https://github.com/openstates/openstates-scrapers.git
-          cd openstates-scrapers
-          docker build -t openstates/scrapers:dev .
-
-      - name: Scrape Data
+          cd data_output
+          unzip processed-data.zip
+      
+      - name: Extract Bill Text
         run: |
-          mkdir -p ${RUNNER_TEMP}/_working
-          docker run \
-              -v "${RUNNER_TEMP}/_working/_data":/opt/openstates/openstates/_data \
-              -v "${RUNNER_TEMP}/_working/_cache":/opt/openstates/openstates/_cache \
-              openstates/scrapers:dev \
-              $STATE bills --scrape --fastmode
-
-      - name: Sanitize Data (removes _id and scraped_at)
+          python openstates_scraped_data_formatter/extract_bill_text.py \
+            --processed-folder ./data_output/data_processed \
+            --batch-size 100
+      
+      # Commit and push the extracted text files with proper authentication
+      - name: Commit extracted text files
         run: |
-          find ${RUNNER_TEMP}/_working/_data -type f -name "*.json" -exec bash -c 'jq "del(..|._id?, .scraped_at?)" "{}" > "{}.tmp" && mv "{}.tmp" "{}"' \;
-
-      - name: Format Data
-        working-directory: ./openstates_scraped_data_formatter
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add data_output/data_processed/
+          git commit -m "Add extracted bill text files" || echo "No changes to commit"
+          git push origin bill-text-extraction
         env:
-          FORMATTER_INPUT_FOLDER: ${{ runner.temp }}/_working/_data/$STATE
-        run: |
-          pip install pipenv
-          pipenv install
-          pipenv run python main.py --state $STATE --input-folder $FORMATTER_INPUT_FOLDER
-          cd ${{ github.workspace }} || exit 1
-
-      - name: Copy Scraped Data to Repo
-        run: |
-          mkdir -p "$GITHUB_WORKSPACE/_data/$STATE"
-          cp -r "${RUNNER_TEMP}/_working/_data/$STATE"/* "$GITHUB_WORKSPACE/_data/$STATE/"
-
-      - name: Update Repo
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          git config user.email "no_email"
-          git config user.name "Windy Civi Bot"
-          git fetch origin main
-          git pull origin main --rebase || true
-
-          git add _data data_output bill_session_mapping sessions
-          git diff --cached --quiet && echo "No changes to commit" || git commit -m "Automated report update (report dated ${{ steps.get-date.outputs.date }})"
-          git push || echo "⚠️ Git push failed — possibly due to upstream changes."
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
