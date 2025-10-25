@@ -1,0 +1,93 @@
+{
+  "legislative_session": "24",
+  "identifier": "HJR 24-9",
+  "title": "To respectfully urge the United States Department of the Treasury, United States Customs and Border Protection, the United States Postal Service and any other responsible federal agencies to immediately cease and desist the implementation of Executive Order 14324 and remit to the Commonwealth of the Northern Mariana Islands all revenues collected under Executive Order 14324, or in the alternative, to recognize the CNMI\u2019s authority to collect such revenues itself consistent with the Covenant and applicable law in the event that said charges must be imposed.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "joint resolution"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Date Introduced",
+      "date": "2025-09-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:00:33Z"
+      }
+    },
+    {
+      "description": "House Final Reading",
+      "date": "2025-09-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:00:33Z"
+      }
+    },
+    {
+      "description": "Senate Final Reading",
+      "date": "2025-09-30",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:00:33Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "BLAS JONATHAN \u201cBJ\u201d T. ATTAO, EDMUND S. VILLAGOMEZ, JOHN PAUL P. SABLAN, JOEL C. CAMACHO, RALPH N. YUMUL, VINCENT R. ALDAN, AND DANIEL I. AQUINO JR.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"BLAS JONATHAN \\u201cBJ\\u201d T. ATTAO, EDMUND S. VILLAGOMEZ, JOHN PAUL P. SABLAN, JOEL C. CAMACHO, RALPH N. YUMUL, VINCENT R. ALDAN, AND DANIEL I. AQUINO JR.\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "HJR 24-9",
+      "links": [
+        {
+          "url": "https://cnmileg.net/documents/house/hse_jres/24/HJR24-9.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://cnmileg.net/leg_sts.asp?legID=19974&secID=1",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:mp/government",
+    "name": "Northern Mariana Islands",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:mp"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:00:33Z"
+  }
+}

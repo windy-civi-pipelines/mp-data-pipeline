@@ -1,0 +1,116 @@
+{
+  "legislative_session": "24",
+  "identifier": "HLB 24-6",
+  "title": "To appropriate the remaining fund balance of $50,411.00 under Saipan Local Law 21-10 (Project Code 7192H) for the maintenance, repairs and improvements of Commonwealth parks and recreational facilities in Precinct IV and for the purchase of base coarse to repair secondary roadways in Precinct IV; and for other purposes.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Date Introduced",
+      "date": "2025-03-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:00:33Z"
+      }
+    },
+    {
+      "description": "House First Reading",
+      "date": "2025-03-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:00:33Z"
+      }
+    },
+    {
+      "description": "House Final Reading",
+      "date": "2025-03-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:00:33Z"
+      }
+    },
+    {
+      "description": "S.L.L. 24-01",
+      "date": "2025-04-07",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:00:33Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Camacho, JC\nOmar, MJ",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Camacho, JC\\nOmar, MJ\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "HLB 24-6",
+      "links": [
+        {
+          "url": "https://cnmileg.net/documents/house/hse_lb/24/HLB24-6.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "S.L.L. 24-01",
+      "links": [
+        {
+          "url": "https://cnmileg.net/documents/files/SLL%2024-01%20(HLB%2023-6%20To%20appropriate%20the%20remaining%20fund%20balance%20of%20%2450%2C411_00%20under%20Saipan%20Local%20Law%2021-10%20(Project%20Code%207192H)%20for%20P-IV%20Projects).pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://cnmileg.net/leg_sts.asp?legID=19865&secID=1",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:mp/government",
+    "name": "Northern Mariana Islands",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:mp"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:00:33Z"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "legislative_session": "24",
+  "identifier": "HLB 24-13",
+  "title": "To amend 10 CMC \u00a7 12114 to provide for the compensation of the members of the Rota Casino Commission.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Date Introduced",
+      "date": "2025-06-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:00:33Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Ogo, JMA",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Ogo, JMA\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "HLB 24-13",
+      "links": [
+        {
+          "url": "https://cnmileg.net/documents/house/hse_lb/24/HLB24-13.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://cnmileg.net/leg_sts.asp?legID=19898&secID=1",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:mp/government",
+    "name": "Northern Mariana Islands",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:mp"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:00:33Z"
+  }
+}

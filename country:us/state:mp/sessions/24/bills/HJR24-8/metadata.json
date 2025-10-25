@@ -1,0 +1,93 @@
+{
+  "legislative_session": "24",
+  "identifier": "HJR 24-8",
+  "title": "To urge the United States to take immediate and comprehensive action to identify, remove, and safely dispose of World War II-era unexploded ordnance throughout the Northern Mariana Islands.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "joint resolution"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Date Introduced",
+      "date": "2025-09-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:00:33Z"
+      }
+    },
+    {
+      "description": "House Final Reading",
+      "date": "2025-09-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:00:33Z"
+      }
+    },
+    {
+      "description": "Senate Final Reading",
+      "date": "2025-09-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:00:33Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Aquino, JR, DI",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Aquino, JR, DI\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "HJR 24-8",
+      "links": [
+        {
+          "url": "https://cnmileg.net/documents/house/hse_jres/24/HJR24-8.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://cnmileg.net/leg_sts.asp?legID=19973&secID=1",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:mp/government",
+    "name": "Northern Mariana Islands",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:mp"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:00:33Z"
+  }
+}

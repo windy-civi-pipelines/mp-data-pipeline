@@ -1,0 +1,81 @@
+{
+  "legislative_session": "24",
+  "identifier": "HLB 24-20",
+  "title": "To appropriate Forty Two Thousand Dollars ($42,000.00) from revenues collected from poker fees in the Second Senatorial District; and for other purposes.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Date Introduced",
+      "date": "2025-07-31",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:00:33Z"
+      }
+    },
+    {
+      "description": "TALD",
+      "date": "2025-07-31",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:00:33Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "San Nicolas, PH",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"San Nicolas, PH\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "HLB 24-20",
+      "links": [
+        {
+          "url": "https://cnmileg.net/documents/house/hse_lb/24/HLB24-20.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://cnmileg.net/leg_sts.asp?legID=19943&secID=1",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:mp/government",
+    "name": "Northern Mariana Islands",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:mp"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:00:33Z"
+  }
+}

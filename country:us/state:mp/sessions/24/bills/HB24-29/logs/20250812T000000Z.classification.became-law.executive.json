@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "P.L. 24-11",
+    "date": "2025-08-12",
+    "organization_id": "~{\"classification\": \"executive\"}",
+    "classification": [
+      "became-law"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 24-29"
+}

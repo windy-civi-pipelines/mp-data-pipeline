@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "TALD",
+    "date": "2025-04-25",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HLB 24-7"
+}

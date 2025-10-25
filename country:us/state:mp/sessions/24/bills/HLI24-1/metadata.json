@@ -1,0 +1,56 @@
+{
+  "legislative_session": "24",
+  "identifier": "HLI 24-1",
+  "title": "To amend Article XV, Section 1 of the Constitution of the Commonwealth of the Northern Mariana Islands to define \u201cGeneral Revenues\u201d and \u201cSpecial Revenues\u201d consistent with CNMI Supreme Court ruling, \u201cIn the Matter of a Petition for Certified Question,\u201d and to clarify that the Public School System\u2019s twenty-five percent guaranteed appropriation shall be calculated on the net General Revenues after crediting debt service and statutory obligations.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [],
+  "sponsorships": [
+    {
+      "name": "Attao, BJT",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Attao, BJT\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "HLI 24-1",
+      "links": [
+        {
+          "url": "https://cnmileg.net/documents/house/hse_legini/24/HLI24-1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://cnmileg.net/leg_sts.asp?legID=19981&secID=1",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:mp/government",
+    "name": "Northern Mariana Islands",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:mp"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:00:33Z"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "S.L.L. 24-08",
+    "date": "2025-08-04",
+    "organization_id": "~{\"classification\": \"executive\"}",
+    "classification": [
+      "became-law"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HLB 24-18"
+}

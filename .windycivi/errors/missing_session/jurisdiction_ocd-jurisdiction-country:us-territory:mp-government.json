@@ -1,0 +1,26 @@
+{
+  "id": "ocd-jurisdiction/country:us/territory:mp/government",
+  "name": "Northern Mariana Islands",
+  "url": "https://gov.mp",
+  "division_id": "ocd-division/country:us/territory:mp",
+  "classification": "state",
+  "legislative_sessions": [
+    {
+      "_scraped_name": "23",
+      "identifier": "23",
+      "name": "23rd Commonwealth Legislature",
+      "start_date": "2023-01-01",
+      "end_date": "2023-12-31",
+      "active": false
+    },
+    {
+      "_scraped_name": "24",
+      "identifier": "24",
+      "name": "24th Commonwealth Legislature",
+      "start_date": "2025-01-01",
+      "end_date": "2026-12-31",
+      "active": true
+    }
+  ],
+  "extras": {}
+}

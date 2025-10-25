@@ -1,0 +1,56 @@
+{
+  "legislative_session": "24",
+  "identifier": "HB 24-53",
+  "title": "To amend 1 CMC \u00a7 7831 to exempt the Commonwealth Utilities Corporation (CUC) from the mandatory one percent (1%) Public Auditor Fee, forgive all arrears related to such fee, and establish a cost-based audit recovery system with mandatory reporting and penalties for noncompliance; and for other purposes.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [],
+  "sponsorships": [
+    {
+      "name": "Aldan, VR",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Aldan, VR\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "HB 24-53",
+      "links": [
+        {
+          "url": "https://cnmileg.net/documents/house/hse_bills/24/HB24-53.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://cnmileg.net/leg_sts.asp?legID=19953&secID=1",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:mp/government",
+    "name": "Northern Mariana Islands",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:mp"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:00:33Z"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "HOUSE-Transportation & Infrastructure",
+    "date": "2025-08-29",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 24-56"
+}
