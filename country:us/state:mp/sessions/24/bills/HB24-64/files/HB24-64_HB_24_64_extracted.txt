@@ -1,0 +1,452 @@
+Title: A BILL FOR AN ACT
+Official Title: A BILL FOR AN ACT
+Number of Sections: 1
+Source: versions - HB 24-64
+Media Type: application/pdf
+Strikethrough Detection: 8 sections found
+
+================================================================================
+
+Section 1:
+TWENTY-FOURTH NORTHERN MARIANAS COMMONWEALTH
+LEGISLATURE
+IN THE HOUSE OF REPRESENTATIVES
+Regular Session, 2025 H. B. 24- 014
+To establish the CNMI Vehicle Buy-Back and Modernization
+Program, enabling the systematic removal and auction of
+government vehicles seven years or older, regardless of
+operational status, and directing revenues to the CNMI
+Modernization Fund to support fleet upgrades across all
+agencies.
+BE IT ENACTED BY THE 24TH NORTHERN MARIANAS
+COMMONWEALTH LEGISLATURE:
+1 Section 1. Short Title. This Act shall be known and may be cited as the
+2 "CNMI Vehicle Buy-Back and Modernization Act of 2025."
+3 Section 2. Findings and Purpose. Facing the reality that a significant
+4 number of Commonwealth government vehicles are seven years or older, the
+5 Legislature finds that these aging units have become a recurring drain on limited
+6 public resources. Their high maintenance costs, frequent breakdowns, and
+7 diminished reliability not only weaken operational readiness across agencies but
+8 also slow the delivery of essential public services. The accumulation of outdated
+9 vehicles demonstrates the need for a systemic solution, rather than piecemeal
+10 replacement, to address this persistent burden.
+HOUSE BILL 24- (1,14
+1 Leveraging a structured buy-back and auction process offers a strategic
+2 pathway to convert this liability into an asset. By mandating that aging vehicles be
+3 surveyed, decommissioned, and offered to the public through transparent auctions,
+4 the Commonwealth can recover value that would otherwise be lost. In turn, this
+5 approach expands access to affordable vehicles for residents and businesses, fosters
+6 a more active secondary market, and ensures that every stage of the replacement
+7 cycle contributes to modernization rather than waste.
+8 Ensuring fiscal transparency and legislative oversight is central to this
+9 framework. Under Commonwealth law, revenues deposited into any special fund,
+10 including the CNMI Modernization Fund created by this Act, cannot be expended
+11 absent a legislative appropriation. This constitutional requirement prevents
+12 unilateral spending, compels agencies to justify their modernization requests, and
+13 enables the Legislature to weigh priorities across departments. By channeling
+14 revenues into a non-lapsing fund subject to annual appropriation, the program
+15 strengthens both efficiency and accountability while keeping the Legislature firmly
+16 in control of resource allocation.
+17 Elevating this Fund above the baseline of general revenues is equally
+18 important. The Legislature clarifies that proceeds from the Vehicle Buy-Back and
+19 Modernization Program are special revenues with a direct and exclusive nexus to
+20 government fleet renewal. As such, these funds do not form part of the "general
+21 revenues" under Article XV, Section 1(e) of the CNMI Constitution and are not
+2
+- -
+HOUSE BILL 24- GM
+1 subject to the twenty-five percent (25%) computation for the Public School System.
+2 By defining this boundary clearly, This Act protects both the PSS's constitutional
+3 entitlement and the integrity of a fund designed solely for modernization.
+4 Thus, the purpose of This Act is to establish a comprehensive and
+5 responsible program for government fleet renewal that turns aged vehicles into an
+6 opportunity for progress. By requiring auctions, dedicating proceeds to a special
+7 modernization fund, and subjecting expenditures to legislative appropriation, the
+8 Commonwealth will achieve long-term savings, improve the safety and efficiency
+9 of its vehicle fleet, and reinforce fiscal discipline through transparent oversight.
+10 This Act ensures that modernization is not a one-time event but a sustained cycle
+11 of accountability and reinvestment.
+12 Section 3. Enactment. Title 1, Government, Division 9, Miscellaneous
+13 Provisions, of the Commonwealth Code is amended by adding a new Chapter 10 to
+14 read as follows:
+15 "Chapter 10. Vehicle Buy-Back and Modernization Act
+16 § 100. Short Title. This chapter may be cited as the Vehicle Buy-Back and
+17 Modernization Act of 2025.
+18 § 101. Definitions.
+19 As used in this Chapter, the following terms shall have the meanings set
+20 forth below:
+21 (a) "Program" means the Vehicle Buy-Back and Modernization Program
+22 established by This Act.
+23 (b) "Eligible Vehicle" means a government-owned vehicle that is seven (7)
+24 years or older, regardless of operational status or mechanical condition.
+25 (c) "Participating Agency" means any CNMI government department,
+3
+- -
+HOUSE BILL 24- WA
+1 office, bureau, board, commission, authority, corporation, or
+2 autonomous agency.
+3 (d) "Buy-Back Auction" means the process of selling Eligible Vehicles or
+4 parts through an open, competitive bidding process conducted under this
+5 Chapter.
+6 (e) "Modernization Fund" means the special fund established under § 105
+7 of this Chapter.
+8 (f) "Operable Vehicle" means a vehicle that can be legally and safely
+9 driven on public roads with only routine maintenance or minor repair.
+10 (g) "Non-operable Vehicle" means a vehicle that cannot be legally or safely
+11 driven on public roads without significant repair, or that has been
+12 designated for salvage or dismantling.
+13 (h) "Resident" means a natural person domiciled in the Commonwealth of
+14 the Northern Mariana Islands, including U.S. citizens and nationals
+15 lawfully residing in the Commonwealth.
+16 (i) "Private Citizen" means a Resident who is not purchasing in an official
+17 capacity for a Commonwealth government agency.
+18 §102. Establishment of the Vehicle Buy-Back Program.
+19 (a) The CNMI hereby establishes the Vehicle Buy-Back and Modernization
+20 Program, jointly administered by the Secretary of Finance and the Director of
+21 Procurement and Supply.
+22 (b) Participating Agencies shall submit annually to the Division of
+23 Procurement and Supply, Department of Finance, an inventory of all vehicles seven
+24 (7) years or older.
+25 (c) To ensure maximum value recovery, no vehicle, regardless of condition,
+26 shall be surveyed out, scrapped, or discarded unless first offered through the public
+27 auction process established in this chapter except as otherwise provided by this
+28 Chapter and in harmony with existing surplus property laws. This requirement
+4-
+HOUSE BILL 24- GPM
+1 includes non-operational vehicles or those deemed unrepairable, which may be sold
+2 as-is for salvage or parts.
+3 (d) Upon approval by the Director of Procurement and Supply and the
+4 Secretary of Finance, eligible vehicles shall be decommissioned and prepared for
+5 public auction.
+6 §103. Vehicle Auction Process.
+7 (a) All Eligible Vehicles shall be sold "As-Is, Where-Is" via public auction,
+8 conducted at least once per fiscal year.
+9 (b) Eligible bidders shall include Private Citizens, Residents, CNMI-
+10 licensed businesses, and Commonwealth government employees, consistent with §
+11 101 of this Chapter.
+12 (c) The auction shall be publicly advertised at least thirty (30) days in
+13 advance using print, radio, and official CNMI government platforms.
+14 (d) The Secretary of Finance shall ensure all bids are conducted
+15 transparently and competitively, in accordance with CNMI procurement and
+16 surplus disposal policies.
+17 (e) Winning bidders must, within fifteen (15) business days, comply with
+18 the following requirements:
+19 (1) For Operable Vehicles: register the vehicle in compliance with
+20 CNMI vehicle registration laws.
+21 (2) Provide proof of insurance in accordance with CNMI laws,
+22 where applicable.
+23 (3) Failure to comply will result in forfeiture of the vehicle or parts
+24 and a penalty fee as determined by the Secretary of Finance.
+25 §104. Terms of Sale and Liability.
+26 (a) All vehicles sold through the Program are sold in "As-Is, Where-Is"
+27 condition, and the CNMI government makes no warranties, expressed or implied.
+28 (b) The CNMI assumes no liability for any repairs, damages, or issues
+5
+HOUSE BILL 24- 0 111
+1 arising from the vehicles or parts after their sale under this Program.
+2 (c) Purchasers are solely responsible for the transport, registration, and legal
+3 operation or use of vehicles or parts acquired through the Program.
+4 §105. Establishment of the CNMI Modernization Fund.
+5 (a) A special fund, known as the CNMI Modernization Fund, is hereby
+6 created, separate and apart from the General Fund, and shall be non-lapsing.
+7 (b) All revenues generated by the Vehicle Buy-Back Program,
+8 including auction proceeds and penalty fees, shall be deposited into the
+9 Modernization Fund.
+10 (c) Notwithstanding subsection (d), the Public School System (PSS)
+11 shall not be eligible to receive revenues or appropriations from the CNMI
+12 Modernization Fund.
+13 (d) The Secretary of Finance shall administer the Modernization Fund,
+14 and the Legislature shall appropriate these special revenues from this Fund for the
+15 following purposes:
+16 (1) Government fleet modernization, including:
+17 (A) Replacing outdated or inoperable vehicles; and
+18 (B) Purchasing or leasing more energy-efficient, fuel-efficient, or
+19 low-maintenance vehicles.
+20 (2) Funding requests from CNMI government agencies, provided that the
+21 agency submits a written request to the Secretary of Finance including:
+22 (A) Justification for the upgrade;
+23 (B) Evidence that the proposed vehicle(s) demonstrate
+24 improvements in efficiency, safety, or environmental impact; and
+25 (C) Alignment with long-term cost savings or operational
+26 enhancement goals.
+27 (3) Other authorized uses, including:
+28 (A) Infrastructure or equipment improvements related to
+6
+HOUSE BILL 24- (014
+1 government fleet operations;
+2 (B) Public safety and emergency response vehicle upgrades; and
+3 (C) Technological enhancements to vehicle tracking, fuel
+4 management, or maintenance systems.
+5 §106. Reporting Requirements.
+6 No later than 60 days after the close of each fiscal year, the Secretary of
+7 Finance and the Director of Procurement and Supply shall jointly submit an annual
+8 report to the Legislature, detailing:
+9 (1) The number and condition of vehicles auctioned;
+10 (2) Total revenues generated by the Program;
+11 (3) Amounts disbursed from the Modernization Fund;
+12 (4) Agencies benefiting from modernization efforts funded by the
+13 Program; and
+14 (5) Recommendations for improving the Program's effectiveness and
+15 efficiency."
+16 Section 4. Severability. If any provisions of this Act or the application of
+17 any such provision to any person or circumstance should be held invalid by a court
+18 of competent jurisdiction, the remainder of this Act or the application of its
+19 provisions to persons or circumstances other than those to which it is held invalid
+20 shall not be affected thereby.
+21 Section 5. Savings Clause. This Act and any repealer contained herein
+22 shall not be construed as affecting any existing right acquired under contract or
+23 acquired under statutes repealed or under any rule, regulation, or order adopted
+24 under the statutes. Repealers contained in this Act shall not affect any proceeding
+25 instituted under or pursuant to prior law. The enactment of this Act shall not have
+7
+-
+HOUSE BILL 24- (014
+1 the effect of terminating, or in any way modifying, any liability, civil or criminal,
+2 which shall already be in existence on the date this Act becomes effective.
+3 Section 6. Effective Date. This Act shall take effect upon its approval by
+4 the Governor, or its becoming law without such approval.
+Prefiled: 0 9-' 907c-
+Date: Introduced by:
+Rep. Daniel I. Aqui
+Reviewed for Legal Sufficiency by:
+/5 2_._ _—
+Jqêph L.G. Taijeron, fr.,
+House Legal Counsel
+Date: 1 3 °
+-8
+[DELETED: R M e s r a a o v s y o o o s a d t t C F t s f u a a S " S 2 F a P F t r t a n o C g v a s y o o t L p r T h m c b a d a v t n f a s r t p]
+[DELETED:  L p p s t a E f t a o i c t t f i a l a T c r p u e L t w p a d B c r i a s t a a t p s i E t F a t b o g i e i r -]
+[DELETED:  s B e t p o T A i t e a c a r o m C o T o S T 1 P r " § u ( " ( m a g -]
+[DELETED:  W b b c c o ( p C o ( " V m a v t b l a s d d o p r w r o t h b d ( t N M I i U c a n l ( " c § ( P j a b t S o a t D o P ( A s a t t D o ( ( s a C w l]
+[DELETED:  i ( b t D S a t S p § ( c ( E b s i C R C l 1 ( s b a l t ( d i a ( T S o F s e b a c t a c i a w C p a ( t ( C ( P p o i a w C l w ( a § ( c n l]
+[DELETED:  0 a o ( A c ( r g b t V P i a p a f s b d i t M ( N S s n b e t r o a t C ( T a f ( ( l ( a E t A l s o ( o]
+[DELETED:  g ( ( T e t v t f m § N F ( T ( T ( A ( A b f m e f b t P ( R e S a o c j t r o t A o t a o i p s S r h s a r i]
+[DELETED:  t w S t  I 1]
+
+
+================================================================================
+
+Raw Text:
+TWENTY-FOURTH NORTHERN MARIANAS COMMONWEALTH
+LEGISLATURE
+IN THE HOUSE OF REPRESENTATIVES
+Regular Session, 2025 H. B. 24- 014
+A BILL FOR AN ACT
+To establish the CNMI Vehicle Buy-Back and Modernization
+Program, enabling the systematic removal and auction of
+government vehicles seven years or older, regardless of
+operational status, and directing revenues to the CNMI
+Modernization Fund to support fleet upgrades across all
+agencies.
+BE IT ENACTED BY THE 24TH NORTHERN MARIANAS
+COMMONWEALTH LEGISLATURE:
+1 Section 1. Short Title. This Act shall be known and may be cited as the
+2 "CNMI Vehicle Buy-Back and Modernization Act of 2025."
+3 Section 2. Findings and Purpose. Facing the reality that a significant
+4 number of Commonwealth government vehicles are seven years or older, the
+5 Legislature finds that these aging units have become a recurring drain on limited
+6 public resources. Their high maintenance costs, frequent breakdowns, and
+7 diminished reliability not only weaken operational readiness across agencies but
+8 also slow the delivery of essential public services. The accumulation of outdated
+9 vehicles demonstrates the need for a systemic solution, rather than piecemeal
+10 replacement, to address this persistent burden.
+
+HOUSE BILL 24- (1,14
+1 Leveraging a structured buy-back and auction process offers a strategic
+2 pathway to convert this liability into an asset. By mandating that aging vehicles be
+3 surveyed, decommissioned, and offered to the public through transparent auctions,
+4 the Commonwealth can recover value that would otherwise be lost. In turn, this
+5 approach expands access to affordable vehicles for residents and businesses, fosters
+6 a more active secondary market, and ensures that every stage of the replacement
+7 cycle contributes to modernization rather than waste.
+8 Ensuring fiscal transparency and legislative oversight is central to this
+9 framework. Under Commonwealth law, revenues deposited into any special fund,
+10 including the CNMI Modernization Fund created by this Act, cannot be expended
+11 absent a legislative appropriation. This constitutional requirement prevents
+12 unilateral spending, compels agencies to justify their modernization requests, and
+13 enables the Legislature to weigh priorities across departments. By channeling
+14 revenues into a non-lapsing fund subject to annual appropriation, the program
+15 strengthens both efficiency and accountability while keeping the Legislature firmly
+16 in control of resource allocation.
+17 Elevating this Fund above the baseline of general revenues is equally
+18 important. The Legislature clarifies that proceeds from the Vehicle Buy-Back and
+19 Modernization Program are special revenues with a direct and exclusive nexus to
+20 government fleet renewal. As such, these funds do not form part of the "general
+21 revenues" under Article XV, Section 1(e) of the CNMI Constitution and are not
+2
+- -
+
+HOUSE BILL 24- GM
+1 subject to the twenty-five percent (25%) computation for the Public School System.
+2 By defining this boundary clearly, This Act protects both the PSS's constitutional
+3 entitlement and the integrity of a fund designed solely for modernization.
+4 Thus, the purpose of This Act is to establish a comprehensive and
+5 responsible program for government fleet renewal that turns aged vehicles into an
+6 opportunity for progress. By requiring auctions, dedicating proceeds to a special
+7 modernization fund, and subjecting expenditures to legislative appropriation, the
+8 Commonwealth will achieve long-term savings, improve the safety and efficiency
+9 of its vehicle fleet, and reinforce fiscal discipline through transparent oversight.
+10 This Act ensures that modernization is not a one-time event but a sustained cycle
+11 of accountability and reinvestment.
+12 Section 3. Enactment. Title 1, Government, Division 9, Miscellaneous
+13 Provisions, of the Commonwealth Code is amended by adding a new Chapter 10 to
+14 read as follows:
+15 "Chapter 10. Vehicle Buy-Back and Modernization Act
+16 § 100. Short Title. This chapter may be cited as the Vehicle Buy-Back and
+17 Modernization Act of 2025.
+18 § 101. Definitions.
+19 As used in this Chapter, the following terms shall have the meanings set
+20 forth below:
+21 (a) "Program" means the Vehicle Buy-Back and Modernization Program
+22 established by This Act.
+23 (b) "Eligible Vehicle" means a government-owned vehicle that is seven (7)
+24 years or older, regardless of operational status or mechanical condition.
+25 (c) "Participating Agency" means any CNMI government department,
+3
+- -
+
+HOUSE BILL 24- WA
+1 office, bureau, board, commission, authority, corporation, or
+2 autonomous agency.
+3 (d) "Buy-Back Auction" means the process of selling Eligible Vehicles or
+4 parts through an open, competitive bidding process conducted under this
+5 Chapter.
+6 (e) "Modernization Fund" means the special fund established under § 105
+7 of this Chapter.
+8 (f) "Operable Vehicle" means a vehicle that can be legally and safely
+9 driven on public roads with only routine maintenance or minor repair.
+10 (g) "Non-operable Vehicle" means a vehicle that cannot be legally or safely
+11 driven on public roads without significant repair, or that has been
+12 designated for salvage or dismantling.
+13 (h) "Resident" means a natural person domiciled in the Commonwealth of
+14 the Northern Mariana Islands, including U.S. citizens and nationals
+15 lawfully residing in the Commonwealth.
+16 (i) "Private Citizen" means a Resident who is not purchasing in an official
+17 capacity for a Commonwealth government agency.
+18 §102. Establishment of the Vehicle Buy-Back Program.
+19 (a) The CNMI hereby establishes the Vehicle Buy-Back and Modernization
+20 Program, jointly administered by the Secretary of Finance and the Director of
+21 Procurement and Supply.
+22 (b) Participating Agencies shall submit annually to the Division of
+23 Procurement and Supply, Department of Finance, an inventory of all vehicles seven
+24 (7) years or older.
+25 (c) To ensure maximum value recovery, no vehicle, regardless of condition,
+26 shall be surveyed out, scrapped, or discarded unless first offered through the public
+27 auction process established in this chapter except as otherwise provided by this
+28 Chapter and in harmony with existing surplus property laws. This requirement
+4-
+
+HOUSE BILL 24- GPM
+1 includes non-operational vehicles or those deemed unrepairable, which may be sold
+2 as-is for salvage or parts.
+3 (d) Upon approval by the Director of Procurement and Supply and the
+4 Secretary of Finance, eligible vehicles shall be decommissioned and prepared for
+5 public auction.
+6 §103. Vehicle Auction Process.
+7 (a) All Eligible Vehicles shall be sold "As-Is, Where-Is" via public auction,
+8 conducted at least once per fiscal year.
+9 (b) Eligible bidders shall include Private Citizens, Residents, CNMI-
+10 licensed businesses, and Commonwealth government employees, consistent with §
+11 101 of this Chapter.
+12 (c) The auction shall be publicly advertised at least thirty (30) days in
+13 advance using print, radio, and official CNMI government platforms.
+14 (d) The Secretary of Finance shall ensure all bids are conducted
+15 transparently and competitively, in accordance with CNMI procurement and
+16 surplus disposal policies.
+17 (e) Winning bidders must, within fifteen (15) business days, comply with
+18 the following requirements:
+19 (1) For Operable Vehicles: register the vehicle in compliance with
+20 CNMI vehicle registration laws.
+21 (2) Provide proof of insurance in accordance with CNMI laws,
+22 where applicable.
+23 (3) Failure to comply will result in forfeiture of the vehicle or parts
+24 and a penalty fee as determined by the Secretary of Finance.
+25 §104. Terms of Sale and Liability.
+26 (a) All vehicles sold through the Program are sold in "As-Is, Where-Is"
+27 condition, and the CNMI government makes no warranties, expressed or implied.
+28 (b) The CNMI assumes no liability for any repairs, damages, or issues
+5
+
+HOUSE BILL 24- 0 111
+1 arising from the vehicles or parts after their sale under this Program.
+2 (c) Purchasers are solely responsible for the transport, registration, and legal
+3 operation or use of vehicles or parts acquired through the Program.
+4 §105. Establishment of the CNMI Modernization Fund.
+5 (a) A special fund, known as the CNMI Modernization Fund, is hereby
+6 created, separate and apart from the General Fund, and shall be non-lapsing.
+7 (b) All revenues generated by the Vehicle Buy-Back Program,
+8 including auction proceeds and penalty fees, shall be deposited into the
+9 Modernization Fund.
+10 (c) Notwithstanding subsection (d), the Public School System (PSS)
+11 shall not be eligible to receive revenues or appropriations from the CNMI
+12 Modernization Fund.
+13 (d) The Secretary of Finance shall administer the Modernization Fund,
+14 and the Legislature shall appropriate these special revenues from this Fund for the
+15 following purposes:
+16 (1) Government fleet modernization, including:
+17 (A) Replacing outdated or inoperable vehicles; and
+18 (B) Purchasing or leasing more energy-efficient, fuel-efficient, or
+19 low-maintenance vehicles.
+20 (2) Funding requests from CNMI government agencies, provided that the
+21 agency submits a written request to the Secretary of Finance including:
+22 (A) Justification for the upgrade;
+23 (B) Evidence that the proposed vehicle(s) demonstrate
+24 improvements in efficiency, safety, or environmental impact; and
+25 (C) Alignment with long-term cost savings or operational
+26 enhancement goals.
+27 (3) Other authorized uses, including:
+28 (A) Infrastructure or equipment improvements related to
+6
+
+HOUSE BILL 24- (014
+1 government fleet operations;
+2 (B) Public safety and emergency response vehicle upgrades; and
+3 (C) Technological enhancements to vehicle tracking, fuel
+4 management, or maintenance systems.
+5 §106. Reporting Requirements.
+6 No later than 60 days after the close of each fiscal year, the Secretary of
+7 Finance and the Director of Procurement and Supply shall jointly submit an annual
+8 report to the Legislature, detailing:
+9 (1) The number and condition of vehicles auctioned;
+10 (2) Total revenues generated by the Program;
+11 (3) Amounts disbursed from the Modernization Fund;
+12 (4) Agencies benefiting from modernization efforts funded by the
+13 Program; and
+14 (5) Recommendations for improving the Program's effectiveness and
+15 efficiency."
+16 Section 4. Severability. If any provisions of this Act or the application of
+17 any such provision to any person or circumstance should be held invalid by a court
+18 of competent jurisdiction, the remainder of this Act or the application of its
+19 provisions to persons or circumstances other than those to which it is held invalid
+20 shall not be affected thereby.
+21 Section 5. Savings Clause. This Act and any repealer contained herein
+22 shall not be construed as affecting any existing right acquired under contract or
+23 acquired under statutes repealed or under any rule, regulation, or order adopted
+24 under the statutes. Repealers contained in this Act shall not affect any proceeding
+25 instituted under or pursuant to prior law. The enactment of this Act shall not have
+7
+-
+
+HOUSE BILL 24- (014
+1 the effect of terminating, or in any way modifying, any liability, civil or criminal,
+2 which shall already be in existence on the date this Act becomes effective.
+3 Section 6. Effective Date. This Act shall take effect upon its approval by
+4 the Governor, or its becoming law without such approval.
+Prefiled: 0 9-' 907c-
+Date: Introduced by:
+Rep. Daniel I. Aqui
+Reviewed for Legal Sufficiency by:
+/5 2_._ _—
+Jqêph L.G. Taijeron, fr.,
+House Legal Counsel
+Date: 1 3 °
+-8
+
+[DELETED: R M e s r a a o v s y o o o s a d t t C F t s f u a a S " S 2 F a P F t r t a n o C g v a s y o o t L p r T h m c b a d a v t n f a s r t p]
+[DELETED:  L p p s t a E f t a o i c t t f i a l a T c r p u e L t w p a d B c r i a s t a a t p s i E t F a t b o g i e i r -]
+[DELETED:  s B e t p o T A i t e a c a r o m C o T o S T 1 P r " § u ( " ( m a g -]
+[DELETED:  W b b c c o ( p C o ( " V m a v t b l a s d d o p r w r o t h b d ( t N M I i U c a n l ( " c § ( P j a b t S o a t D o P ( A s a t t D o ( ( s a C w l]
+[DELETED:  i ( b t D S a t S p § ( c ( E b s i C R C l 1 ( s b a l t ( d i a ( T S o F s e b a c t a c i a w C p a ( t ( C ( P p o i a w C l w ( a § ( c n l]
+[DELETED:  0 a o ( A c ( r g b t V P i a p a f s b d i t M ( N S s n b e t r o a t C ( T a f ( ( l ( a E t A l s o ( o]
+[DELETED:  g ( ( T e t v t f m § N F ( T ( T ( A ( A b f m e f b t P ( R e S a o c j t r o t A o t a o i p s S r h s a r i]
+[DELETED:  t w S t  I 1]

@@ -1,0 +1,353 @@
+Title: A BILL FOR AN ACT
+Official Title: A BILL FOR AN ACT
+Number of Sections: 1
+Source: versions - HB 24-38
+Media Type: application/pdf
+Strikethrough Detection: 7 sections found
+
+================================================================================
+
+Section 1:
+TWENTY-FOURTH NORTHERN MARIANAS COMMONWEALTH
+LEGISLATURE
+IN THE HOUSE OF REPRESENTATIVES
+3g
+Session, 2025 H. B. 24-
+To establish a dedicated CNMI Emergency Reserve Fund
+("Rainy Day Fund") with annual mandatory deposits and
+procedures for fund disbursement in times of declared
+emergency, while ensuring fiscal accountability.
+BE IT ENACTED BY THE 24TH NORTHERN MARIANAS
+COMMONWEALTH LEGISLATURE:
+1 Section 1. Short Title. This Act may be cited as the "Rainy Day Fund Act
+2 of 2025."
+3 Section 2. Findings and Purpose. Securing long-term fiscal stability while
+4 responding to short-term crises is a recurring challenge for the Commonwealth. The
+5 Legislature finds that repeated natural disasters and economic shocks—including
+6 Super Typhoons Soudelor, Mangkhut, and Yutu, followed by the COVID-19
+7 pandemic—have exposed the limitations of reactive budgeting. In each instance,
+8 the absence of a pre-committed emergency reserve delayed the government's
+9 response and placed undue strain on general operations. This Act corrects that
+10 structural vulnerability by establishing a statutory Rainy Day Fund with annual
+11 deposits of $1,000,000 or one percent of General Revenues, whichever is greater,
+12 beginning in Fiscal Year 2026.
+31
+HOUSE BILL 24-
+1 Acknowledging existing statutory measures, the Legislature affirms that
+2 this Act supplements—not repeals—Public Law 20-82, codified at 4 CMC § 2308,
+3 which established a Commonwealth Reserves Fund. While that law shares the same
+4 general policy aim, it lacks an enforceable deposit mechanism, disbursement
+5 controls, and protections against fund lapse. This law was also enacted during a
+6 period of anticipated gaming revenues that have proven to be inconsistent.
+7 Likewise, the contingency-based funding authority for mayors under 1 CMC §
+8 5109 supports local flexibility but does not provide a centralized fiscal buffer for
+9 Commonwealth-wide emergencies. This Act, however, enhances both efforts by
+10 creating a durable, centralized reserve structure with automatic deposits and defined
+11 access protocols.
+12 Valid emergency declarations by the Governor shall serve as the sole basis
+13 for initiating fund disbursement. The Governor's role in identifying emergencies is
+14 constitutionally grounded; however, fund release remains subject to a joint
+15 resolution of the Legislature. To preserve emergency responsiveness while
+16 ensuring oversight, the joint resolution process under this Act operates outside of
+17 budget legislation and is exempt from veto or override. This preserves clear lines
+18 of accountability between the branches without inviting judicial second-guessing
+19 of political judgment calls during times of crisis.
+2
+31
+HOUSE BILL 24-
+1 Ensuring transparency and trust in the use of these funds, the Secretary of
+2 Finance is required to submit a detailed report to the Legislature no later than 180
+3 days after the end of an emergency declaration—or 60 days before the end of the
+4 fiscal year, whichever comes first. This report must account for each disbursement
+5 and include recommendations for future policy improvements. The Fund is hereby
+6 designated as non-lapsing, shall remain segregated from the General Fund, and is
+7 classified as a Special Revenue Fund not subject to the education set-aside under
+8 Article XV, Section 1(e) of the CNMI Constitution.
+9 Strengthening the Commonwealth's emergency posture without
+10 undermining existing frameworks, this Act creates an enduring reserve mechanism
+11 that aligns with best practices in fiscal governance. It prioritizes readiness over
+12 reaction without displacing localized or prior statutory tools and establishes a
+13 permanent fiscal safeguard aligned with best practices in public finance. By
+14 separating emergency savings from political budgeting cycles and reinforcing—but
+15 not supplanting—existing statutory tools, including 1 CMC § 5109 and 4 CMC §
+16 2308, the Commonwealth SAVES: it Secures stability, Acknowledges gaps,
+17 Validates separation of powers, Ensures accountability, and Strengthens resilience.
+18 Section 3. Enactment: Subject to codification by the CNMI Law Revision
+19 Commission, there is hereby enacted a new Chapter under Title 1, Division 7 of the
+20 Commonwealth Code to read as follows:
+3
+_
+HOUSE BILL 24-0
+1 "Chapter . CNMI Emergency Reserve Fund.
+2 § 101. Emergency Reserve Fund Established.
+3 (a) There is hereby established within the Commonwealth Treasury
+4 a Special Revenue fund to be known as the CNMI Emergency
+5 Reserve Fund (hereinafter also referred to as the "Fund").
+6 (b) Within 30 days of the effective date of the Commonwealth
+7 annual budget appropriation, the Secretary of Finance shall
+8 deposit $1,000,000 or an amount equal to one percent of the
+9 General Revenues, as defined herein in subsection (e),
+10 whichever is greater, annually into the Fund, beginning Fiscal
+11 Year 2026.
+12 (c) Said revenues in the Fund shall not be subject to allocation under
+13 Article XV, Section 1(e) of the Commonwealth Constitution.
+14 (d) The Fund shall not lapse at the end of a fiscal year and shall not
+15 be used for any purpose except as provided in this Chapter.
+16 (e) For the purposes of this Chapter, term "General Revenues"
+17 refers to Commonwealth revenue available for appropriation,
+18 which includes all budgetary resources legally available for
+19 appropriation in a given fiscal year, less those revenues defined
+20 as "Special Revenues", and less debt service, and mandatory
+21 payments to the NMI Settlement Fund under the Settlement
+4
+- -
+HOUSE BILL 24- *X
+1 Agreement. The Fund is expressly designated as Special
+2 Revenue.
+3 § 102. Executive Request for Disbursement. The Governor or his
+4 or her designee may, upon issuing a valid emergency declaration
+5 pursuant to applicable law, submit a written request to the
+6 Legislature for the use of the Fund. The request shall specify: (1)
+7 The nature of the emergency; (2) The total amount of funds
+8 requested; and (3) The purpose for which the funds will be used.
+9 § 103. Legislative Appropriation by Joint Resolution. The
+10 Legislature may appropriate funds from the CNMI Emergency
+11 Reserve Fund solely by joint resolution. The appropriation shall:
+12 (a) Be limited to purposes directly related to the declared
+13 emergency;
+14 (b) Be enacted through a joint resolution and not be included
+15 in any budget act, general appropriation bill, or committee report;
+16 (c) Not be subject to veto or override procedures; and
+17 (d) Be transmitted to the Governor for information purposes
+18 only.
+19 § 104. Reporting by Secretary of Finance. No later than 180
+20 calendar days after the termination of the applicable emergency
+21 declaration, or not less than 60 days prior to the end of the fiscal
+- 5
+-
+fi
+HOUSE BILL 24-
+1 year, whichever is earlier as determined by the Secretary of Finance,
+2 the Secretary shall submit a report to the presiding officers of the
+3 Legislature on all expenditures made from the Fund. The report
+4 shall include:
+5 (1) The amount disbursed;
+6 (2) The specific use of each disbursement;
+7 (3) The remaining balance; and
+8 (4) Any recommendations for future improvement.
+9 § 105. Nonjusticiability. No court of the Commonwealth shall have
+10 jurisdiction to enjoin, review, or invalidate any provision of this
+11 Chapter or any action taken pursuant to it, including the validity of
+12 an emergency declaration, the Governor's request, or a legislative
+13 appropriation under this Chapter."
+14 Section 4. Seyerability. If any provisions of this Act or the application of
+15 any such provision to any person or circumstance should be held invalid by a court
+16 of competent jurisdiction, the remainder of this Act or the application of its
+17 provisions to persons or circumstances other than those to which it is held invalid
+18 shall not be affected thereby.
+19 Section 5. Sayings Clause. This Act and any repealer contained herein
+20 shall not be construed as affecting any existing right acquired under contract or
+21 acquired under statutes repealed or under any rule, regulation, or order adopted
+6
+- _
+31
+HOUSE BILL 24-
+1 under the statutes. Repealers contained in this Act shall not affect any proceeding
+2 instituted under or pursuant to prior law. The enactment of the Act shall not have
+3 the effect of terminating, or in any way modifying, any liability, civil or criminal,
+4 which shall already be in existence on the date this Act becomes effective.
+5 Section 6. Effective Date. This Act shall take effect upon its approval by
+6 the Governor, or it becoming law without such approval.
+Prefiled: 71/0 11421-
+Date: Introduced by:
+Rep. Diego V.F. ' nacho
+Reviewed for legal sufficiency by:
+--7/A
+J eph L.G. TaijeronrH ouse Legal Counsel
+Date:
+7
+[DELETED: S e a d C R F D F w a m d a f f i t o d S o S S r S S M a Y f b t C p t a o a p e d t g r p g T A c s b R D F w d]
+[DELETED:  A m L t w g p a i l a d m d c p o a g r t h p t b i L f m u 1 C 5 C c a V f g h f r r s t a j r o t L T p e r w e b o o]
+[DELETED:  E F d f a d c A S t C e p w u t r w d l o s t a e a p f a w b i p f B s n t C i S s g V S S C]
+[DELETED:  . § ( a 3 d o t e o t C a a t S F s R a d i s ( Y A ( b ( F t p o t C t " R r C a w i a b r l a f a a R m t t N S u t S -]
+[DELETED:  A T F i e d a S R § d p t a l s a w r t t T n o t e ( T t a o f r 1 L A b J R T m a f f t C E R ( e i ( o § R b o N l t 1 d t t t a5]
+[DELETED:  y t L T s ( s ( § j r a a a o c t r o t o t a o i p S u r _]
+[DELETED:  u i t w S t e o.'n]
+
+
+================================================================================
+
+Raw Text:
+TWENTY-FOURTH NORTHERN MARIANAS COMMONWEALTH
+LEGISLATURE
+IN THE HOUSE OF REPRESENTATIVES
+3g
+Session, 2025 H. B. 24-
+A BILL FOR AN ACT
+To establish a dedicated CNMI Emergency Reserve Fund
+("Rainy Day Fund") with annual mandatory deposits and
+procedures for fund disbursement in times of declared
+emergency, while ensuring fiscal accountability.
+BE IT ENACTED BY THE 24TH NORTHERN MARIANAS
+COMMONWEALTH LEGISLATURE:
+1 Section 1. Short Title. This Act may be cited as the "Rainy Day Fund Act
+2 of 2025."
+3 Section 2. Findings and Purpose. Securing long-term fiscal stability while
+4 responding to short-term crises is a recurring challenge for the Commonwealth. The
+5 Legislature finds that repeated natural disasters and economic shocks—including
+6 Super Typhoons Soudelor, Mangkhut, and Yutu, followed by the COVID-19
+7 pandemic—have exposed the limitations of reactive budgeting. In each instance,
+8 the absence of a pre-committed emergency reserve delayed the government's
+9 response and placed undue strain on general operations. This Act corrects that
+10 structural vulnerability by establishing a statutory Rainy Day Fund with annual
+11 deposits of $1,000,000 or one percent of General Revenues, whichever is greater,
+12 beginning in Fiscal Year 2026.
+
+31
+HOUSE BILL 24-
+1 Acknowledging existing statutory measures, the Legislature affirms that
+2 this Act supplements—not repeals—Public Law 20-82, codified at 4 CMC § 2308,
+3 which established a Commonwealth Reserves Fund. While that law shares the same
+4 general policy aim, it lacks an enforceable deposit mechanism, disbursement
+5 controls, and protections against fund lapse. This law was also enacted during a
+6 period of anticipated gaming revenues that have proven to be inconsistent.
+7 Likewise, the contingency-based funding authority for mayors under 1 CMC §
+8 5109 supports local flexibility but does not provide a centralized fiscal buffer for
+9 Commonwealth-wide emergencies. This Act, however, enhances both efforts by
+10 creating a durable, centralized reserve structure with automatic deposits and defined
+11 access protocols.
+12 Valid emergency declarations by the Governor shall serve as the sole basis
+13 for initiating fund disbursement. The Governor's role in identifying emergencies is
+14 constitutionally grounded; however, fund release remains subject to a joint
+15 resolution of the Legislature. To preserve emergency responsiveness while
+16 ensuring oversight, the joint resolution process under this Act operates outside of
+17 budget legislation and is exempt from veto or override. This preserves clear lines
+18 of accountability between the branches without inviting judicial second-guessing
+19 of political judgment calls during times of crisis.
+2
+
+31
+HOUSE BILL 24-
+1 Ensuring transparency and trust in the use of these funds, the Secretary of
+2 Finance is required to submit a detailed report to the Legislature no later than 180
+3 days after the end of an emergency declaration—or 60 days before the end of the
+4 fiscal year, whichever comes first. This report must account for each disbursement
+5 and include recommendations for future policy improvements. The Fund is hereby
+6 designated as non-lapsing, shall remain segregated from the General Fund, and is
+7 classified as a Special Revenue Fund not subject to the education set-aside under
+8 Article XV, Section 1(e) of the CNMI Constitution.
+9 Strengthening the Commonwealth's emergency posture without
+10 undermining existing frameworks, this Act creates an enduring reserve mechanism
+11 that aligns with best practices in fiscal governance. It prioritizes readiness over
+12 reaction without displacing localized or prior statutory tools and establishes a
+13 permanent fiscal safeguard aligned with best practices in public finance. By
+14 separating emergency savings from political budgeting cycles and reinforcing—but
+15 not supplanting—existing statutory tools, including 1 CMC § 5109 and 4 CMC §
+16 2308, the Commonwealth SAVES: it Secures stability, Acknowledges gaps,
+17 Validates separation of powers, Ensures accountability, and Strengthens resilience.
+18 Section 3. Enactment: Subject to codification by the CNMI Law Revision
+19 Commission, there is hereby enacted a new Chapter under Title 1, Division 7 of the
+20 Commonwealth Code to read as follows:
+3
+_
+
+HOUSE BILL 24-0
+1 "Chapter . CNMI Emergency Reserve Fund.
+2 § 101. Emergency Reserve Fund Established.
+3 (a) There is hereby established within the Commonwealth Treasury
+4 a Special Revenue fund to be known as the CNMI Emergency
+5 Reserve Fund (hereinafter also referred to as the "Fund").
+6 (b) Within 30 days of the effective date of the Commonwealth
+7 annual budget appropriation, the Secretary of Finance shall
+8 deposit $1,000,000 or an amount equal to one percent of the
+9 General Revenues, as defined herein in subsection (e),
+10 whichever is greater, annually into the Fund, beginning Fiscal
+11 Year 2026.
+12 (c) Said revenues in the Fund shall not be subject to allocation under
+13 Article XV, Section 1(e) of the Commonwealth Constitution.
+14 (d) The Fund shall not lapse at the end of a fiscal year and shall not
+15 be used for any purpose except as provided in this Chapter.
+16 (e) For the purposes of this Chapter, term "General Revenues"
+17 refers to Commonwealth revenue available for appropriation,
+18 which includes all budgetary resources legally available for
+19 appropriation in a given fiscal year, less those revenues defined
+20 as "Special Revenues", and less debt service, and mandatory
+21 payments to the NMI Settlement Fund under the Settlement
+4
+- -
+
+HOUSE BILL 24- *X
+1 Agreement. The Fund is expressly designated as Special
+2 Revenue.
+3 § 102. Executive Request for Disbursement. The Governor or his
+4 or her designee may, upon issuing a valid emergency declaration
+5 pursuant to applicable law, submit a written request to the
+6 Legislature for the use of the Fund. The request shall specify: (1)
+7 The nature of the emergency; (2) The total amount of funds
+8 requested; and (3) The purpose for which the funds will be used.
+9 § 103. Legislative Appropriation by Joint Resolution. The
+10 Legislature may appropriate funds from the CNMI Emergency
+11 Reserve Fund solely by joint resolution. The appropriation shall:
+12 (a) Be limited to purposes directly related to the declared
+13 emergency;
+14 (b) Be enacted through a joint resolution and not be included
+15 in any budget act, general appropriation bill, or committee report;
+16 (c) Not be subject to veto or override procedures; and
+17 (d) Be transmitted to the Governor for information purposes
+18 only.
+19 § 104. Reporting by Secretary of Finance. No later than 180
+20 calendar days after the termination of the applicable emergency
+21 declaration, or not less than 60 days prior to the end of the fiscal
+- 5
+-
+
+fi
+HOUSE BILL 24-
+1 year, whichever is earlier as determined by the Secretary of Finance,
+2 the Secretary shall submit a report to the presiding officers of the
+3 Legislature on all expenditures made from the Fund. The report
+4 shall include:
+5 (1) The amount disbursed;
+6 (2) The specific use of each disbursement;
+7 (3) The remaining balance; and
+8 (4) Any recommendations for future improvement.
+9 § 105. Nonjusticiability. No court of the Commonwealth shall have
+10 jurisdiction to enjoin, review, or invalidate any provision of this
+11 Chapter or any action taken pursuant to it, including the validity of
+12 an emergency declaration, the Governor's request, or a legislative
+13 appropriation under this Chapter."
+14 Section 4. Seyerability. If any provisions of this Act or the application of
+15 any such provision to any person or circumstance should be held invalid by a court
+16 of competent jurisdiction, the remainder of this Act or the application of its
+17 provisions to persons or circumstances other than those to which it is held invalid
+18 shall not be affected thereby.
+19 Section 5. Sayings Clause. This Act and any repealer contained herein
+20 shall not be construed as affecting any existing right acquired under contract or
+21 acquired under statutes repealed or under any rule, regulation, or order adopted
+6
+- _
+
+31
+HOUSE BILL 24-
+1 under the statutes. Repealers contained in this Act shall not affect any proceeding
+2 instituted under or pursuant to prior law. The enactment of the Act shall not have
+3 the effect of terminating, or in any way modifying, any liability, civil or criminal,
+4 which shall already be in existence on the date this Act becomes effective.
+5 Section 6. Effective Date. This Act shall take effect upon its approval by
+6 the Governor, or it becoming law without such approval.
+Prefiled: 71/0 11421-
+Date: Introduced by:
+Rep. Diego V.F. ' nacho
+Reviewed for legal sufficiency by:
+--7/A
+J eph L.G. TaijeronrH ouse Legal Counsel
+Date:
+7
+
+[DELETED: S e a d C R F D F w a m d a f f i t o d S o S S r S S M a Y f b t C p t a o a p e d t g r p g T A c s b R D F w d]
+[DELETED:  A m L t w g p a i l a d m d c p o a g r t h p t b i L f m u 1 C 5 C c a V f g h f r r s t a j r o t L T p e r w e b o o]
+[DELETED:  E F d f a d c A S t C e p w u t r w d l o s t a e a p f a w b i p f B s n t C i S s g V S S C]
+[DELETED:  . § ( a 3 d o t e o t C a a t S F s R a d i s ( Y A ( b ( F t p o t C t " R r C a w i a b r l a f a a R m t t N S u t S -]
+[DELETED:  A T F i e d a S R § d p t a l s a w r t t T n o t e ( T t a o f r 1 L A b J R T m a f f t C E R ( e i ( o § R b o N l t 1 d t t t a5]
+[DELETED:  y t L T s ( s ( § j r a a a o c t r o t o t a o i p S u r _]
+[DELETED:  u i t w S t e o.'n]

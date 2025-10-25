@@ -1,0 +1,661 @@
+Title: A BILL FOR AN ACT
+Official Title: A BILL FOR AN ACT
+Number of Sections: 1
+Source: versions - HB 24-60
+Media Type: application/pdf
+Strikethrough Detection: 13 sections found
+
+================================================================================
+
+Section 1:
+TWENTY-FOURTH NORTHERN MARIANAS COMMONWEALTH
+LEGISLATURE
+IN THE HOUSE OF REPRESENTATIVES
+p-lem b-e---‘ 9, Xs-
+(Scovil
+Regular Session, 2025 H. B. 1 4+400
+To safeguard the Commonwealth's landfill capacity, public
+health, and environment by restricting the acceptance and
+disposal of waste generated off-island unless certain health,
+safety, and environmental conditions are met.
+BE IT ENACTED BY THE 24TH NORTHERN MARIANAS
+COMMONWEALTH LEGISLATURE:
+1 Section 1. Findings and Purpose. The Legislature finds that contractors
+2 for the United States Department of Defense have recently sought to dispose of
+3 large quantities of construction and demolition debris from the Republic of the
+4 Marshall Islands as well as pharmaceutical waste from Guam in the
+5 Commonwealth's landfills.
+6 Under current practice, when such requests are made, the waste originator
+7 must provide laboratory analysis demonstrating that the material is not hazardous.
+8 If confirmed as non-hazardous, existing Commonwealth law does not explicitly
+9 prohibit acceptance of the material for disposal within the Commonwealth. While
+10 such acceptance may be technically permissible under present statutory language,
+11 the practice poses serious risks and costs to the CNMI.
+400
+24
+HOUSE BILL
+1 First, landfill space in the CNMI is extremely limited, expensive to develop,
+2 and intended to serve the disposal needs of residents and businesses in the Northern
+3 Mariana Islands. Unrestricted importation of off-island waste would accelerate the
+4 depletion of landfill capacity and increase long-term disposal costs for the local
+5 community. The Legislature finds that waste disposal is typically a local
+6 government function and that protecting remaining landfill capacity is crucial to
+7 public welfare.
+8 Second, even where initial testing indicates that imported waste is non-
+9 hazardous, there remains a significant risk of contamination or hidden hazards in
+10 the waste stream. Imported waste may contain invasive species or undisclosed
+11 hazardous substances that could escape detection. Accepting such materials could
+12 expose the CNMI to environmental harm and liability under federal law. The
+13 Commonwealth lacks practical means to continuously monitor and verify the
+14 composition of waste generated outside its jurisdiction to the same degree it
+15 oversees locally generated waste. Thus, allowing solid waste from outside sources
+16 into local facilities creates an undue risk to the Commonwealth's environment and
+17 public health that cannot be adequately mitigated by ordinary inspection alone.
+18 Third, the Legislature is concerned that accepting off-island waste without
+19 the safeguards established by this Act would set a dangerous precedent, effectively
+20 encouraging the Commonwealth to become a regional dumping ground. This would
+2
+_
+HOUSE BILL 24. ' (00
+1 undermine environmental protection efforts and public confidence in the
+2 government's ability to manage waste responsibly.
+3 At the same time, the Commonwealth may not adopt a categorical ban on
+4 waste originating in other U.S. jurisdictions merely to reserve landfill capacity, as
+5 such discrimination against interstate commerce likely violates the dormant
+6 Commerce Clause of the United States Constitution. And while the Covenant to
+7 Establish a Commonwealth of the Northern Mariana Islands in Political Union with
+8 the United States of America affords the CNMI distinct authority with respect to
+9 imports from outside the U.S. customs territory—subject to the United States'
+10 international obligations—this Act advances legitimate health, safety, and capacity
+11 objectives through even-handed standards that apply uniformly to all off-island
+12 waste rather than origin-based prohibitions.
+13 Accordingly, this Act is crafted to protect public health, safety, and the
+14 environment by applying the Commonwealth's environmental safeguards to all
+15 solid waste, while imposing additional, neutral conditions on imported waste to
+16 address the unique risks of off-island disposal and the Commonwealth's limited
+17 landfill capacity. These measures are carefully tailored to ensure that imported
+18 waste is managed to at least the same standard as local waste, with further
+19 safeguards justified by the distinct risks posed by the shipment and handling of
+20 imported waste, uncertainties in its composition, and the added strain such disposal
+21 places on the Commonwealth's finite landfill capacity. The Legislature further
+3
+-
+24-Coo
+HOUSE BILL
+1 finds that any incidental burden on interstate commerce that these requirements
+2 may impose is not clearly excessive in relation to the substantial local benefits they
+3 provide, and no reasonable non-discriminatory alternative can adequately protect
+4 the Commonwealth's landfill capacity and fragile environment and ecosystem. In
+5 other words, requirements imposed by this Act, such as practicable-alternative
+6 analysis, financial assurance, and cost-based impact fees, are not protectionist
+7 measures but are instead neutral safeguards tailored to both mitigate the specific
+8 risks of accepting and disposing off-island waste and to ensure that the costs and
+9 liabilities of such waste are not unfairly shifted onto the people of the Northern
+10 Mariana Islands. In this regard, the Legislature's intent is to lawfully safeguard the
+11 Commonwealth's environment and landfill capacity consistent with the Commerce
+12 Clause of the United States Constitution.
+13 Therefore, the purpose of this Act is to explicitly restrict the acceptance of
+14 solid waste originating outside the Commonwealth unless specified health, safety,
+15 and environmental conditions are met. Narrow exceptions are provided for waste
+16 streams that the Commonwealth is required to accept under federal law, for
+17 materials imported solely for recycling or resource recovery (with no landfilling of
+18 such materials), and for emergency situations declared by the Governor when no
+19 reasonable alternative exists to protect public health or safety. In all other cases,
+20 off-island waste may not be disposed of in Commonwealth landfills unless it has
+21 been processed or handled to comply with the CNMI's environmental standards
+4
+-
+b
+HOUSE BILL 2 61 610
+1 and its acceptance will not harm the public interest. By closing the gap in current
+2 law that has allowed importation of supposedly "non-hazardous" waste without
+3 sufficient safeguards, this Act ensures that all solid waste—regardless of origin-
+4 is managed under a framework that protects the Commonwealth's environment,
+5 preserves scarce landfill capacity, and affirms the people's right to a clean and
+6 healthful environment as guaranteed by Article I, Section 9 of the Constitution of
+7 the Northern Mariana Islands.
+8 Section 2. Amendment. Section 3518 of Article 1, Chapter 5, Division 3,
+9 Title 2 of the Commonwealth Code is hereby amended to read as follows:
+10 "§ 3518. Prohibited Activities.
+11 (a) It is unlawful for any person to:
+12 (1) Violate any provision of this chapter or any rule or regulation
+13 established by authority of this chapter;
+14 (b)(2) Own, operate, or use debris staging areas for disposal of solid
+15 waste without an emergency permit issued pursuant to this
+16 chapter. The use of open dumps for disposal of solid waste is
+17 strictly prohibited;
+18 (e)(3) Place, or allow to be placed, any solid waste on the roads or on
+19 any public or private property contrary to the provisions of law;
+20 01)(4) Own or manage a solid waste management facility without a
+21 disposal permit issued pursuant to this chapter;
+5
+N-4 6
+HOUSE BILL
+1 (e)(5) Operate a business the purpose of which is to collect or transport
+2 solid waste without a collection permit issued pursuant to this
+3 chapter;
+4 0)(6) Collect, transport, process, or dispose of solid waste or hazardous
+5 waste in such a manner as to degrade the environment, create a
+6 public nuisance, create a health or safety hazard, or in a manner
+7 otherwise contrary to this chapter;
+8 (g)(7) Transport solid waste on any road unless adequate precautions
+9 are taken to contain and prevent the solid waste from falling off
+10 the vehicle;
+11 (h)(8) Destroy, or attempt to destroy, by burning, except in an
+12 incinerator approved by the chief, any solid waste that will give
+13 off offensive odors or that is within one mile of any village or
+14 other residential or urban area. Burning of trees, bush, grass, or
+15 other organic detritus of land clearing or landscaping is
+16 permissible as permitted by law; or
+17 03(9) Dispose of any hazardous waste without a hazardous waste
+18 management permit issued pursuant to 2 CMC § 3122(c)(2).
+19 (10) Import or accept for disposal within the Commonwealth any solid
+20 waste that was not generated in the Commonwealth, except as
+21 expressly authorized under 2 CMC § 3522.
+6
+46
+2q -
+HOUSE BILL
+1 (b) Any person who violates this Section; any special permit, condition,
+2 order, or requirement issued under 2 CMC § 3522; or any regulation
+3 adopted under this Chapter; is subject to the penalties provided in
+4 2 CMC § 3519. Special permits issued under 2 CMC § 3522 may be
+5 suspended or revoked for cause, in addition to other remedies."
+6 Section 3. Enactment. Section 3522 of Article 1, Chapter 5, Division 3,
+7 Title 2 of the Commonwealth Code is hereby enacted to read as follows:
+8 "§ 3522. Off-Island Solid Waste: Special Permit, Standards, Fees, and
+9 Procedures.
+10 (a) The Bureau of Environmental and Coastal Quality (BECQ), in
+11 consultation with the Department of Public Works (DPW), may issue
+12 a special permit authorizing the importation and disposal of solid waste
+13 generated outside the Commonwealth only as provided for in this
+14 Section and in accordance with regulations adopted pursuant to 2 CMC
+15 § 3523.
+16 (b) The prohibition in 2 CMC § 3518(a)(10) does not apply to:
+17 (1) Waste streams the Commonwealth is required to accept under
+18 federal law or binding international treaty obligations; or
+19 (2) Materials brought into the Commonwealth solely for recycling or
+20 resource recovery, where no portion is disposed of in a
+21 Commonwealth landfill, and where prior written approval is
+7
+2-11-• 40
+HOUSE BILL
+1 obtained from BECQ and DPW.
+2 (c) All solid waste disposed of in the Commonwealth—whether locally
+3 generated or authorized under a permit issued pursuant to this
+4 Section must meet the same composition, segregation, and
+5 environmental protection standards established by Commonwealth law
+6 and regulation. For off-island waste, the permit applicant bears the
+7 burden of demonstrating compliance through testing, chain-of-custody
+8 documentation, and other verifications required by BECQ.
+9 (d) BECQ shall deny a permit if acceptance of the proposed waste would
+10 unreasonably burden landfill capacity needed for local waste, which
+11 shall be determined by applying objective, uniform capacity thresholds
+12 and forecasting methodologies established by regulation.
+13 (e) The applicant must demonstrate to BECQ's satisfaction that no
+14 practicable, environmentally protective alternative disposal option is
+15 available that would entail equal or lower overall risk and impacts
+16 considering transport distance, safety, environmental protection, and
+17 cost.
+18 (f) As a condition of any permit, the applicant shall pay a cost-based impact
+19 fee reasonably calculated to recover the incremental costs uniquely
+20 associated with authorizing off-island waste under this Section,
+21 including port inspection/handling, transportation risk, additional
+8
+-
+24-60
+HOUSE BILL •
+1 monitoring and testing, administrative oversight, capacity reservation
+2 and long-term stewardship, and potential contingent liabilities. Fees
+3 shall be applied uniformly to all waste accepted under this Section and
+4 deposited into the Solid Waste Management Revolving Fund. The fee
+5 schedule and supporting cost study shall be established by regulation.
+6 (g) The applicant shall provide financial assurance, such as bonds,
+7 insurance, letters of credit, or other mechanisms acceptable to BECQ,
+8 in an amount commensurate with potential remediation, removal, or
+9 liability costs under Commonwealth or federal law and consistent with
+10 criteria established by regulation.
+11 (h) Proposed permits shall be subject to public notice and hearing. BECQ
+12 shall issue written findings addressing compliance with this Section
+13 and any regulation established by law.
+14 (i) All testing protocols and documentation requirements, capacity-
+15 threshold methodologies, fee schedules and supporting cost studies,
+16 financial-assurance criteria, and application, notice, hearing, and
+17 decision procedures required to implement this Section shall be
+18 established by regulation and are incorporated by reference as
+19 conditions of any permit issued under this Section. In the event of a
+20 conflict, the substantive requirements of this Section control.
+21 (j) Nothing in this Section shall be construed to compel the Commonwealth
+9
+21-60
+HOUSE BILL
+1 or any public landfill to accept off-island waste where acceptance
+2 would conflict with Commonwealth law or valid permit conditions, or
+3 would otherwise unreasonably burden landfill capacity needed for
+4 local waste.
+5 (k) This Section shall be applied consistent with federal law, including any
+6 requirement that federal agencies comply with state and local solid and
+7 hazardous waste management requirements to the same extent as any
+8 person, subject to any applicable federal exemptions."
+9 Section 4. Enactment. Section 3523 of Article 1, Chapter 5, Division 3,
+10 Title 2 of the Commonwealth Code is hereby enacted to read as follows
+11 "§ 3523. Off-Island Solid Waste Regulations; Capacity Thresholds;
+12 Fees; Financial Assurance; Procedures.
+13 (a) The Bureau of Environmental and Coastal Quality (BECQ), in
+14 consultation with the Department of Public Works (DPW), shall
+15 promulgate regulations to implement and administer 2 CMC § 3522.
+16 (b) Regulations adopted under this Section shall:
+17 (1) Operationalize the substantive requirements of 2 CMC § 3522;
+18 (2) Establish objective landfill capacity thresholds and methodologies,
+19 including life-of-site projections, to determine when accepting
+20 additional off-island waste would unreasonably burden capacity
+21 needed for local waste;
+- 10-
+24- GO
+HOUSE BILL
+1 (3) Adopt a cost-based impact fee schedule supported by a written cost
+2 study documenting the incremental costs and risks associated with
+3 authorizing off-island waste under 2 CMC § 3522;
+4 (i) Fees shall be applied uniformly to all waste accepted under 2
+5 CMC § 3522 and deposited into the Solid Waste Management
+6 Revolving Fund.
+7 (4) Specify acceptable financial-assurance instruments and amounts
+8 commensurate with potential remediation and liability exposure;
+9 (5) Prescribe testing protocols, acceptable laboratories, sampling
+10 frequency, chain-of-custody, and documentation sufficient to
+11 verify compliance with Commonwealth standards for waste
+12 composition and management; and
+13 (6) Set application completeness standards, public notice and hearing
+14 procedures, timelines for decisions, written-finding requirements,
+15 permit terms, renewal, modification, suspension, and revocation
+16 processes.
+17 (c) No special permit under 2 CMC § 3522 may be issued until regulations
+18 adopted under this Section take effect. A permit issued in contravention
+19 of this subsection is void."
+-11-
+HOUSE BILL
+1 Section 5. Implementation; Deadline; Interim Guidance; Construction;
+2 Fee Seyerability; APA Applicability.
+3 (a) Within 180 days after enactment, the Bureau of Environmental and
+4 Coastal Quality, in consultation with the Department of Public Works,
+5 shall promulgate regulations pursuant to 2 CMC § 3523.
+6 (c) Regulations promulgated pursuant to 2 CMC § 3523 may implement but
+7 may not diminish or expand the substantive prohibitions, standards, or
+8 exceptions set forth in 2 CMC § 3518(a)(10) or 2 CMC § 3522.
+9 (d) If any fee provision adopted under 2 CMC § 3523 is held invalid, the
+10 remainder of the regulations shall remain in effect; however, no special
+11 permit under 2 CMC § 3522 may be issued unless a valid fee schedule
+12 is in force.
+13 (e) Regulations shall be promulgated in accordance with the Commonwealth
+14 Administrative Procedure Act, 1 CMC §§ 9101 et seq., and applied
+15 consistent with CNMI and federal law.
+16 Section 6. Seyerability. If any provisions of this Act or the application of
+17 any such provision to any person or circumstance should be held invalid by a court
+18 of competent jurisdiction, the remainder of this Act or the application of its
+19 provisions to persons or circumstances other than those to which it is held invalid
+20 shall not be affected thereby.
+- 12 -
+HOUSE BILL 24'66
+1 Section 7. Savings Clause. This Act and any repealer contained herein
+2 shall not be construed as affecting any existing right acquired under contract or
+3 acquired under statutes repealed or under any rule, regulation, or order adopted
+4 under the statutes. Repealers contained in this Act shall not affect any proceeding
+5 instituted under or pursuant to prior law. The enactment of the Act shall not have
+6 the effect of terminating, or in any way modifying, any liability, civil or criminal,
+7 which shall already be in existence on the date this Act becomes effective.
+8 Section 8. Effective Date. This Act shall take effect upon its approval by
+9 the Governor, or it becoming law without such approval.
+Prefiled: g (.1 /9 02S-
+Date: Introduced by:
+Reviewed for legal sufficiency by:
+H se Legal Counsel
+Date: 51104 6 9 20s
+- 13 -
+[DELETED:   s l c a b r a a o g o u c S f d M I a w a p w f G i t C U m s t]
+[DELETED:  F a M d c T L f t w d i t a l g p S i w n t w I w m c s u h t C t h a l u l T l p t c a v t o w o i t t s i o i]
+[DELETED:  ' ( u e p e a p c i t g A w s d a i c l v t d C E t o U t U S o u t t b m t m a t s l w t t]
+[DELETED:  f b m p t o w r b t A s a p a f a a c i f a n p m r l C T s s t i t u l f s]
+[DELETED: 6 a l s i c h t " ( V p w e p p t t O w a]
+[DELETED: 4 ( O s w c C w p o ( a t D o a t d b b e i a o o c o i D a w a (]
+[DELETED:  ( p o a u t i s t t p i 2 s T " ( T B o E a C Q ( i o t o a p f i t W t i r t u f w n i o a a p i]
+[DELETED:  ( w d o l g o a u a p i p t t S m m t s c s a e a r F o w b t b a T m d B t n t e e l r a t o]
+[DELETED:  • l s a p c l F s s ( T a s p f a s a b i l A t p d r c f c a h a p t i S s b b r a b r]
+[DELETED:  o a p l t a o w w a C o u b l c n f l a r s p S O W R T ( B o a Q ( w D o W s ( l t o w b]
+[DELETED:  ( d a s u C R ( S a f i a a c ( P t a l s c d s t c w C s f w]
+[DELETED:  S F ( W 1 d B o E a P s ( m e ( p ( P C e a c t r o A o t o i p]
+[DELETED:  T A r s a r u i t w t11 9]
+
+
+================================================================================
+
+Raw Text:
+TWENTY-FOURTH NORTHERN MARIANAS COMMONWEALTH
+LEGISLATURE
+IN THE HOUSE OF REPRESENTATIVES
+p-lem b-e---‘ 9, Xs-
+(Scovil
+Regular Session, 2025 H. B. 1 4+400
+A BILL FOR AN ACT
+To safeguard the Commonwealth's landfill capacity, public
+health, and environment by restricting the acceptance and
+disposal of waste generated off-island unless certain health,
+safety, and environmental conditions are met.
+BE IT ENACTED BY THE 24TH NORTHERN MARIANAS
+COMMONWEALTH LEGISLATURE:
+1 Section 1. Findings and Purpose. The Legislature finds that contractors
+2 for the United States Department of Defense have recently sought to dispose of
+3 large quantities of construction and demolition debris from the Republic of the
+4 Marshall Islands as well as pharmaceutical waste from Guam in the
+5 Commonwealth's landfills.
+6 Under current practice, when such requests are made, the waste originator
+7 must provide laboratory analysis demonstrating that the material is not hazardous.
+8 If confirmed as non-hazardous, existing Commonwealth law does not explicitly
+9 prohibit acceptance of the material for disposal within the Commonwealth. While
+10 such acceptance may be technically permissible under present statutory language,
+11 the practice poses serious risks and costs to the CNMI.
+
+400
+24
+HOUSE BILL
+1 First, landfill space in the CNMI is extremely limited, expensive to develop,
+2 and intended to serve the disposal needs of residents and businesses in the Northern
+3 Mariana Islands. Unrestricted importation of off-island waste would accelerate the
+4 depletion of landfill capacity and increase long-term disposal costs for the local
+5 community. The Legislature finds that waste disposal is typically a local
+6 government function and that protecting remaining landfill capacity is crucial to
+7 public welfare.
+8 Second, even where initial testing indicates that imported waste is non-
+9 hazardous, there remains a significant risk of contamination or hidden hazards in
+10 the waste stream. Imported waste may contain invasive species or undisclosed
+11 hazardous substances that could escape detection. Accepting such materials could
+12 expose the CNMI to environmental harm and liability under federal law. The
+13 Commonwealth lacks practical means to continuously monitor and verify the
+14 composition of waste generated outside its jurisdiction to the same degree it
+15 oversees locally generated waste. Thus, allowing solid waste from outside sources
+16 into local facilities creates an undue risk to the Commonwealth's environment and
+17 public health that cannot be adequately mitigated by ordinary inspection alone.
+18 Third, the Legislature is concerned that accepting off-island waste without
+19 the safeguards established by this Act would set a dangerous precedent, effectively
+20 encouraging the Commonwealth to become a regional dumping ground. This would
+2
+_
+
+HOUSE BILL 24. ' (00
+1 undermine environmental protection efforts and public confidence in the
+2 government's ability to manage waste responsibly.
+3 At the same time, the Commonwealth may not adopt a categorical ban on
+4 waste originating in other U.S. jurisdictions merely to reserve landfill capacity, as
+5 such discrimination against interstate commerce likely violates the dormant
+6 Commerce Clause of the United States Constitution. And while the Covenant to
+7 Establish a Commonwealth of the Northern Mariana Islands in Political Union with
+8 the United States of America affords the CNMI distinct authority with respect to
+9 imports from outside the U.S. customs territory—subject to the United States'
+10 international obligations—this Act advances legitimate health, safety, and capacity
+11 objectives through even-handed standards that apply uniformly to all off-island
+12 waste rather than origin-based prohibitions.
+13 Accordingly, this Act is crafted to protect public health, safety, and the
+14 environment by applying the Commonwealth's environmental safeguards to all
+15 solid waste, while imposing additional, neutral conditions on imported waste to
+16 address the unique risks of off-island disposal and the Commonwealth's limited
+17 landfill capacity. These measures are carefully tailored to ensure that imported
+18 waste is managed to at least the same standard as local waste, with further
+19 safeguards justified by the distinct risks posed by the shipment and handling of
+20 imported waste, uncertainties in its composition, and the added strain such disposal
+21 places on the Commonwealth's finite landfill capacity. The Legislature further
+3
+-
+
+24-Coo
+HOUSE BILL
+1 finds that any incidental burden on interstate commerce that these requirements
+2 may impose is not clearly excessive in relation to the substantial local benefits they
+3 provide, and no reasonable non-discriminatory alternative can adequately protect
+4 the Commonwealth's landfill capacity and fragile environment and ecosystem. In
+5 other words, requirements imposed by this Act, such as practicable-alternative
+6 analysis, financial assurance, and cost-based impact fees, are not protectionist
+7 measures but are instead neutral safeguards tailored to both mitigate the specific
+8 risks of accepting and disposing off-island waste and to ensure that the costs and
+9 liabilities of such waste are not unfairly shifted onto the people of the Northern
+10 Mariana Islands. In this regard, the Legislature's intent is to lawfully safeguard the
+11 Commonwealth's environment and landfill capacity consistent with the Commerce
+12 Clause of the United States Constitution.
+13 Therefore, the purpose of this Act is to explicitly restrict the acceptance of
+14 solid waste originating outside the Commonwealth unless specified health, safety,
+15 and environmental conditions are met. Narrow exceptions are provided for waste
+16 streams that the Commonwealth is required to accept under federal law, for
+17 materials imported solely for recycling or resource recovery (with no landfilling of
+18 such materials), and for emergency situations declared by the Governor when no
+19 reasonable alternative exists to protect public health or safety. In all other cases,
+20 off-island waste may not be disposed of in Commonwealth landfills unless it has
+21 been processed or handled to comply with the CNMI's environmental standards
+4
+-
+
+b
+HOUSE BILL 2 61 610
+1 and its acceptance will not harm the public interest. By closing the gap in current
+2 law that has allowed importation of supposedly "non-hazardous" waste without
+3 sufficient safeguards, this Act ensures that all solid waste—regardless of origin-
+4 is managed under a framework that protects the Commonwealth's environment,
+5 preserves scarce landfill capacity, and affirms the people's right to a clean and
+6 healthful environment as guaranteed by Article I, Section 9 of the Constitution of
+7 the Northern Mariana Islands.
+8 Section 2. Amendment. Section 3518 of Article 1, Chapter 5, Division 3,
+9 Title 2 of the Commonwealth Code is hereby amended to read as follows:
+10 "§ 3518. Prohibited Activities.
+11 (a) It is unlawful for any person to:
+12 (1) Violate any provision of this chapter or any rule or regulation
+13 established by authority of this chapter;
+14 (b)(2) Own, operate, or use debris staging areas for disposal of solid
+15 waste without an emergency permit issued pursuant to this
+16 chapter. The use of open dumps for disposal of solid waste is
+17 strictly prohibited;
+18 (e)(3) Place, or allow to be placed, any solid waste on the roads or on
+19 any public or private property contrary to the provisions of law;
+20 01)(4) Own or manage a solid waste management facility without a
+21 disposal permit issued pursuant to this chapter;
+5
+
+N-4 6
+HOUSE BILL
+1 (e)(5) Operate a business the purpose of which is to collect or transport
+2 solid waste without a collection permit issued pursuant to this
+3 chapter;
+4 0)(6) Collect, transport, process, or dispose of solid waste or hazardous
+5 waste in such a manner as to degrade the environment, create a
+6 public nuisance, create a health or safety hazard, or in a manner
+7 otherwise contrary to this chapter;
+8 (g)(7) Transport solid waste on any road unless adequate precautions
+9 are taken to contain and prevent the solid waste from falling off
+10 the vehicle;
+11 (h)(8) Destroy, or attempt to destroy, by burning, except in an
+12 incinerator approved by the chief, any solid waste that will give
+13 off offensive odors or that is within one mile of any village or
+14 other residential or urban area. Burning of trees, bush, grass, or
+15 other organic detritus of land clearing or landscaping is
+16 permissible as permitted by law; or
+17 03(9) Dispose of any hazardous waste without a hazardous waste
+18 management permit issued pursuant to 2 CMC § 3122(c)(2).
+19 (10) Import or accept for disposal within the Commonwealth any solid
+20 waste that was not generated in the Commonwealth, except as
+21 expressly authorized under 2 CMC § 3522.
+6
+
+46
+2q -
+HOUSE BILL
+1 (b) Any person who violates this Section; any special permit, condition,
+2 order, or requirement issued under 2 CMC § 3522; or any regulation
+3 adopted under this Chapter; is subject to the penalties provided in
+4 2 CMC § 3519. Special permits issued under 2 CMC § 3522 may be
+5 suspended or revoked for cause, in addition to other remedies."
+6 Section 3. Enactment. Section 3522 of Article 1, Chapter 5, Division 3,
+7 Title 2 of the Commonwealth Code is hereby enacted to read as follows:
+8 "§ 3522. Off-Island Solid Waste: Special Permit, Standards, Fees, and
+9 Procedures.
+10 (a) The Bureau of Environmental and Coastal Quality (BECQ), in
+11 consultation with the Department of Public Works (DPW), may issue
+12 a special permit authorizing the importation and disposal of solid waste
+13 generated outside the Commonwealth only as provided for in this
+14 Section and in accordance with regulations adopted pursuant to 2 CMC
+15 § 3523.
+16 (b) The prohibition in 2 CMC § 3518(a)(10) does not apply to:
+17 (1) Waste streams the Commonwealth is required to accept under
+18 federal law or binding international treaty obligations; or
+19 (2) Materials brought into the Commonwealth solely for recycling or
+20 resource recovery, where no portion is disposed of in a
+21 Commonwealth landfill, and where prior written approval is
+7
+
+2-11-• 40
+HOUSE BILL
+1 obtained from BECQ and DPW.
+2 (c) All solid waste disposed of in the Commonwealth—whether locally
+3 generated or authorized under a permit issued pursuant to this
+4 Section must meet the same composition, segregation, and
+5 environmental protection standards established by Commonwealth law
+6 and regulation. For off-island waste, the permit applicant bears the
+7 burden of demonstrating compliance through testing, chain-of-custody
+8 documentation, and other verifications required by BECQ.
+9 (d) BECQ shall deny a permit if acceptance of the proposed waste would
+10 unreasonably burden landfill capacity needed for local waste, which
+11 shall be determined by applying objective, uniform capacity thresholds
+12 and forecasting methodologies established by regulation.
+13 (e) The applicant must demonstrate to BECQ's satisfaction that no
+14 practicable, environmentally protective alternative disposal option is
+15 available that would entail equal or lower overall risk and impacts
+16 considering transport distance, safety, environmental protection, and
+17 cost.
+18 (f) As a condition of any permit, the applicant shall pay a cost-based impact
+19 fee reasonably calculated to recover the incremental costs uniquely
+20 associated with authorizing off-island waste under this Section,
+21 including port inspection/handling, transportation risk, additional
+8
+-
+
+24-60
+HOUSE BILL •
+1 monitoring and testing, administrative oversight, capacity reservation
+2 and long-term stewardship, and potential contingent liabilities. Fees
+3 shall be applied uniformly to all waste accepted under this Section and
+4 deposited into the Solid Waste Management Revolving Fund. The fee
+5 schedule and supporting cost study shall be established by regulation.
+6 (g) The applicant shall provide financial assurance, such as bonds,
+7 insurance, letters of credit, or other mechanisms acceptable to BECQ,
+8 in an amount commensurate with potential remediation, removal, or
+9 liability costs under Commonwealth or federal law and consistent with
+10 criteria established by regulation.
+11 (h) Proposed permits shall be subject to public notice and hearing. BECQ
+12 shall issue written findings addressing compliance with this Section
+13 and any regulation established by law.
+14 (i) All testing protocols and documentation requirements, capacity-
+15 threshold methodologies, fee schedules and supporting cost studies,
+16 financial-assurance criteria, and application, notice, hearing, and
+17 decision procedures required to implement this Section shall be
+18 established by regulation and are incorporated by reference as
+19 conditions of any permit issued under this Section. In the event of a
+20 conflict, the substantive requirements of this Section control.
+21 (j) Nothing in this Section shall be construed to compel the Commonwealth
+9
+
+21-60
+HOUSE BILL
+1 or any public landfill to accept off-island waste where acceptance
+2 would conflict with Commonwealth law or valid permit conditions, or
+3 would otherwise unreasonably burden landfill capacity needed for
+4 local waste.
+5 (k) This Section shall be applied consistent with federal law, including any
+6 requirement that federal agencies comply with state and local solid and
+7 hazardous waste management requirements to the same extent as any
+8 person, subject to any applicable federal exemptions."
+9 Section 4. Enactment. Section 3523 of Article 1, Chapter 5, Division 3,
+10 Title 2 of the Commonwealth Code is hereby enacted to read as follows
+11 "§ 3523. Off-Island Solid Waste Regulations; Capacity Thresholds;
+12 Fees; Financial Assurance; Procedures.
+13 (a) The Bureau of Environmental and Coastal Quality (BECQ), in
+14 consultation with the Department of Public Works (DPW), shall
+15 promulgate regulations to implement and administer 2 CMC § 3522.
+16 (b) Regulations adopted under this Section shall:
+17 (1) Operationalize the substantive requirements of 2 CMC § 3522;
+18 (2) Establish objective landfill capacity thresholds and methodologies,
+19 including life-of-site projections, to determine when accepting
+20 additional off-island waste would unreasonably burden capacity
+21 needed for local waste;
+- 10-
+
+24- GO
+HOUSE BILL
+1 (3) Adopt a cost-based impact fee schedule supported by a written cost
+2 study documenting the incremental costs and risks associated with
+3 authorizing off-island waste under 2 CMC § 3522;
+4 (i) Fees shall be applied uniformly to all waste accepted under 2
+5 CMC § 3522 and deposited into the Solid Waste Management
+6 Revolving Fund.
+7 (4) Specify acceptable financial-assurance instruments and amounts
+8 commensurate with potential remediation and liability exposure;
+9 (5) Prescribe testing protocols, acceptable laboratories, sampling
+10 frequency, chain-of-custody, and documentation sufficient to
+11 verify compliance with Commonwealth standards for waste
+12 composition and management; and
+13 (6) Set application completeness standards, public notice and hearing
+14 procedures, timelines for decisions, written-finding requirements,
+15 permit terms, renewal, modification, suspension, and revocation
+16 processes.
+17 (c) No special permit under 2 CMC § 3522 may be issued until regulations
+18 adopted under this Section take effect. A permit issued in contravention
+19 of this subsection is void."
+-11-
+
+HOUSE BILL
+1 Section 5. Implementation; Deadline; Interim Guidance; Construction;
+2 Fee Seyerability; APA Applicability.
+3 (a) Within 180 days after enactment, the Bureau of Environmental and
+4 Coastal Quality, in consultation with the Department of Public Works,
+5 shall promulgate regulations pursuant to 2 CMC § 3523.
+6 (c) Regulations promulgated pursuant to 2 CMC § 3523 may implement but
+7 may not diminish or expand the substantive prohibitions, standards, or
+8 exceptions set forth in 2 CMC § 3518(a)(10) or 2 CMC § 3522.
+9 (d) If any fee provision adopted under 2 CMC § 3523 is held invalid, the
+10 remainder of the regulations shall remain in effect; however, no special
+11 permit under 2 CMC § 3522 may be issued unless a valid fee schedule
+12 is in force.
+13 (e) Regulations shall be promulgated in accordance with the Commonwealth
+14 Administrative Procedure Act, 1 CMC §§ 9101 et seq., and applied
+15 consistent with CNMI and federal law.
+16 Section 6. Seyerability. If any provisions of this Act or the application of
+17 any such provision to any person or circumstance should be held invalid by a court
+18 of competent jurisdiction, the remainder of this Act or the application of its
+19 provisions to persons or circumstances other than those to which it is held invalid
+20 shall not be affected thereby.
+- 12 -
+
+HOUSE BILL 24'66
+1 Section 7. Savings Clause. This Act and any repealer contained herein
+2 shall not be construed as affecting any existing right acquired under contract or
+3 acquired under statutes repealed or under any rule, regulation, or order adopted
+4 under the statutes. Repealers contained in this Act shall not affect any proceeding
+5 instituted under or pursuant to prior law. The enactment of the Act shall not have
+6 the effect of terminating, or in any way modifying, any liability, civil or criminal,
+7 which shall already be in existence on the date this Act becomes effective.
+8 Section 8. Effective Date. This Act shall take effect upon its approval by
+9 the Governor, or it becoming law without such approval.
+Prefiled: g (.1 /9 02S-
+Date: Introduced by:
+Reviewed for legal sufficiency by:
+H se Legal Counsel
+Date: 51104 6 9 20s
+- 13 -
+
+[DELETED:   s l c a b r a a o g o u c S f d M I a w a p w f G i t C U m s t]
+[DELETED:  F a M d c T L f t w d i t a l g p S i w n t w I w m c s u h t C t h a l u l T l p t c a v t o w o i t t s i o i]
+[DELETED:  ' ( u e p e a p c i t g A w s d a i c l v t d C E t o U t U S o u t t b m t m a t s l w t t]
+[DELETED:  f b m p t o w r b t A s a p a f a a c i f a n p m r l C T s s t i t u l f s]
+[DELETED: 6 a l s i c h t " ( V p w e p p t t O w a]
+[DELETED: 4 ( O s w c C w p o ( a t D o a t d b b e i a o o c o i D a w a (]
+[DELETED:  ( p o a u t i s t t p i 2 s T " ( T B o E a C Q ( i o t o a p f i t W t i r t u f w n i o a a p i]
+[DELETED:  ( w d o l g o a u a p i p t t S m m t s c s a e a r F o w b t b a T m d B t n t e e l r a t o]
+[DELETED:  • l s a p c l F s s ( T a s p f a s a b i l A t p d r c f c a h a p t i S s b b r a b r]
+[DELETED:  o a p l t a o w w a C o u b l c n f l a r s p S O W R T ( B o a Q ( w D o W s ( l t o w b]
+[DELETED:  ( d a s u C R ( S a f i a a c ( P t a l s c d s t c w C s f w]
+[DELETED:  S F ( W 1 d B o E a P s ( m e ( p ( P C e a c t r o A o t o i p]
+[DELETED:  T A r s a r u i t w t11 9]

@@ -1,0 +1,974 @@
+Title: A BILL FOR AN ACT
+Official Title: A BILL FOR AN ACT
+Number of Sections: 1
+Source: versions - HB 24-32
+Media Type: application/pdf
+Strikethrough Detection: 20 sections found
+
+================================================================================
+
+Section 1:
+TWENTY-FOURTH NORTHERN MARIANAS COMMONWEALTH
+LEGISLATURE
+IN THE HOUSE OF REPRESENTATIVES
+52,
+Regular Session, 2025 H. B. 24-
+To establish a tax on transient accommodations and to regulate the
+operation of short-term rentals in the Commonwealth; and for other
+purposes.
+BE IT ENACTED BY THE 24TH NORTHERN MARIANAS
+COMMONWEALTH LEGISLATURE:
+1 Section 1. Findings and Purpose. The proliferation of short-term rentals
+2 involving nontraditional accommodations—such as houses, apartments, and
+3 condominium units—has significantly altered the landscape of the
+4 Commonwealth's housing market. These rentals, often marketed to tourists and
+5 transient occupants, have led to increased competition for housing, rising long-term
+6 rental prices, and regulatory challenges in residentially zoned areas. Operators who
+7 fail to comply with business licensing, zoning rules, and tax laws undermine the
+8 integrity of the market and place law-abiding operators at a disadvantage.
+9 Registration of all operators engaged in furnishing transient
+10 accommodations is essential for effective regulation and tax enforcement. In a
+11 sector where listings may involve a single room or an entire resort posted online
+12 without direct oversight, the government faces serious challenges in identifying
+HOUSE BILL 24- $2•
+1 operators and ensuring compliance. A centralized registry will improve
+2 enforcement, promote transparency, and ensure a level playing field.
+3 Authorizing certain private entities to serve as tax collection agents will ease
+4 the burden of administration and improve tax compliance. In particular, online
+5 hosting platforms that facilitate booking and payment services are in a strong
+6 position to collect and remit taxes on behalf of their operators. Requiring
+7 registration of such platforms as tax collection agents will streamline compliance
+8 and level the playing field.
+9 Noncompliance often stems from operators structuring rental contracts to
+10 appear as long-term leases exceeding ninety days while in reality allowing
+11 occupancy by individuals for shorter durations. The Legislature finds that an
+12 accommodation is subject to tax under this Act if it is used or occupied for fewer
+13 than ninety consecutive days, regardless of the stated term of the lease or
+14 agreement. The factual use of the accommodation shall govern whether it is deemed
+15 transient for taxation purposes.
+16 Strengthening enforcement through fines, citations, registration mandates,
+17 and platform-level accountability will modernize the Commonwealth's tax
+18 framework and prevent further erosion of the tax base. This Act replaces the
+19 outdated Hotel Occupancy Tax with a Transient Accommodations Tax that reflects
+20 the realities of today's rental and tourism market. Therefore, the purpose of this
+21 Act is to:
+2
+HOUSE BILL 24- S IX
+1 1. Repeal the Hotel Occupancy Tax and establish a Transient
+2 Accommodations Tax;
+3 2. Require persons to register prior to engaging or continuing in the business
+4 of furnishing transient accommodations, which includes posting any
+5 advertisement for furnishing a transient accommodation;
+6 3. Make any person who fails to register prior to engaging or continuing in the
+7 business of furnishing transient accommodations, which includes posting
+8 any advertisement for furnishing a transient accommodation, subject to a
+9 citation process and monetary fines;
+10 4. Make any person who enters into an agreement to furnish transient
+11 accommodations without registering subject to a citation process and
+12 monetary fines;
+13 5. Require a hosting platform that collects fees for booking services to register
+14 as a tax collection agent on behalf of its operators for purposes of the
+15 transient accommodations tax; and
+16 6. Make any person who offers transient accommodations through a hosting
+17 platform that is not registered as a tax collection agent subject to a citation
+18 process and monetary fines.
+19 7. Ensure that the revenues collected pursuant to the tax formerly known as
+20 the Hotel Occupancy Tax, codified at Title 4 section 1502 as repealed and
+21 re-enacted herein, shall continue to be distributed pursuant to Public Law
+3
+- -
+HOUSE BILL 24-
+1 19-36, codified at 4 CMC § 1803, to wit, 80 percent to the Marianas Visitors
+2 Authority and 20 percent to the Northern Marianas Retirement Fund.
+3 Section 2. Repeal and Re-enactment. Title 4, Division 1, Revenue and
+4 Taxation, section 1502, "Hotel Occupancy Tax," of the Commonwealth Code is
+5 hereby repealed and re-enacted to read as follows:
+6 "§1502. Transient Accommodations Tax.
+7 (a) Short Title. This Act may be cited as the "Transient Accommodations
+8 Act of 2025."
+9 (b) Definitions. As used in this chapter:
+10 (1) "Booking service" means any reservation or payment service provided
+11 by a person or entity that facilitates a transient accommodation transaction between
+12 an operator and a prospective transient or occupant, and for which the person or
+13 entity collects or receives, directly or indirectly, through an agent or intermediary,
+14 a fee in connection with the reservation or payment services provided for the
+15 transient accommodation transaction.
+16 (2) "Division" means the Division of Revenue of Taxation of Department
+17 of Finance of the Commonwealth of the Northern Mariana Islands.
+18 (3) "Director" means the Director of the Division of Revenue of Taxation
+19 of Department of Finance of the Commonwealth of the Northern Mariana Islands.
+20 (4) "Gross rental" or "gross rental proceeds" means the gross receipts, cash
+21 or accrued, of the taxpayer received as compensation for the furnishing of transient
+4
+HOUSE BILL 24- ' IX
+1 accommodations or entering into arrangements to furnish transient
+2 accommodations and the value proceeding or accruing from the furnishing of
+3 transient accommodations or entering into arrangements to furnish transient
+4 accommodations, including resort fees, without any deductions on account of the
+5 cost of property or services sold, the cost of materials used, labor cost, taxes,
+6 royalties, interest, discounts, or any other expenses whatsoever.
+7 The words "gross rental" or "gross rental proceeds" shall not be construed
+8 to include the amounts of taxes imposed by chapter 2 or this chapter on operators
+9 of transient accommodations, transient accommodations brokers, travel agencies,
+10 and tour packagers and passed on, collected, and received from the consumer as
+11 part of the receipts received as compensation for the furnishing of transient
+12 accommodations or entering into arrangements to furnish transient
+13 accommodations.
+14 Where transient accommodations are furnished through arrangements made
+15 by a transient accommodations broker, travel agency, or tour packager at
+16 noncommissionable negotiated contract rates and the gross income is divided
+17 between the operator of transient accommodations on the one hand and the transient
+18 accommodations broker, travel agency, or tour packager on the other hand, the tax
+19 imposed by this chapter shall apply to each operator and transient accommodations
+20 broker, travel agency, or tour packager with respect to that person's respective
+21 portion of the proceeds and no more. For purposes of this definition, where the
+5
+HOUSE BILL 24- Wi
+1 operator maintains a schedule of rates for identifiable groups of individuals, upon
+2 which the accommodations are leased, let, or rented, gross rental or gross rental
+3 proceeds means the receipts collected and received based upon the scheduled rates
+4 and recorded as receipts in its books and records.
+5 (5) "Hosting platform" means a person or entity that participates in the
+6 transient accommodations business by providing, and collecting or receiving a fee
+7 for, booking services through which an operator may offer a transient
+8 accommodation. Hosting platforms usually, though not necessarily, provide
+9 booking services through an online platform that allows an operator to advertise the
+10 transient accommodations through a website provided by the hosting platform and
+11 the hosting platform conducts a transaction by which potential renters arrange, use,
+12 or pay, whether the renter pays rent directly to the operator or to the hosting
+13 platform.
+14 (6) "Lease", "let", or "rental" means the leasing or renting of living
+15 quarters or sleeping or housekeeping accommodations in hotels, apartment hotels,
+16 motels, condominiums or units, cooperative apartments, rooming houses, or other
+17 places in which lodgings are regularly furnished to transients for a consideration,
+18 without transfer of the title of such property.
+19 (7) "Local contact" means an individual residing in the Commonwealth
+20 or an entity with a place of business and at least one employee, officer, partner,
+6
+_
+HOUSE BILL 24- Va.
+1 member, or other person working on behalf of the company who is residing in the
+2 Commonwealth.
+3 (8) "Operator" means any person operating a transient accommodation,
+4 whether as owner or proprietor or as lessee, sublessee, mortgagee in possession,
+5 licensee, or otherwise, or engaging or continuing in any service business which
+6 involves the actual furnishing of transient accommodation.
+7 (9) "Transient accommodations" means the furnishing of a room,
+8 apartment, suite, single family dwelling, or the like to a transient for less than ninety
+9 consecutive days for each letting in a hotel, apartment hotel, motel, condominium
+10 or unit, cooperative apartment, dwelling unit, or rooming house that provides living
+11 quarters, sleeping, or housekeeping accommodations, or other place in which
+12 lodgings are regularly furnished to transients.
+13 (10) "Transient accommodations broker" means any person or entity,
+14 including but not limited to persons who operate online websites, online travel
+15 agencies, or online booking agencies, that offers, lists, advertises, or accepts
+16 reservations or collects whole or partial payment for transient accommodations.
+17 (c) Imposition of Tax and Rates.
+18 (1) There is levied and shall be assessed and collected each month a tax
+19 of fifteen percent on the gross rental or gross rental proceeds derived from
+20 furnishing transient accommodations.
+7
+-
+1 Ea.
+HOUSE BILL 24-
+1 (2) Every transient accommodations broker, travel agency, and tour
+2 packager who arranges transient accommodations at noncommissioned negotiated
+3 contract rates and every operator shall pay to the Commonwealth the tax imposed
+4 by subsection (a) as provided in this chapter.
+5 (d) Exemptions.
+6 (1) Accommodations furnished to foreign diplomats and consular officials
+7 who are holding cards issued or authorized by the United States Department of
+8 State granting them an exemption from state taxes.
+9 (2) Accommodations furnished to Commonwealth residents during a state
+10 of major disaster declared by the Governor.
+11 (e) Certificate of Registration.
+12 (1) Each operator, as a condition precedent to engaging or continuing in the
+13 business of furnishing transient accommodations, shall register with the Director
+14 the name and location of each place of business within the Commonwealth subject
+15 to this subsection. The operator shall make a one-time payment as follows:
+16 (i) $5 for each registration for transient accommodations consisting of one
+17 to five units; and
+18 (ii) $15 for each registration for transient accommodations consisting of six
+19 or more units;
+20 Upon receipt of payment, the Director shall issue a certificate of registration
+21 in such form as the Director determines, attesting that the registration has been
+8
+-
+W.
+HOUSE BILL 24-
+1 made. The registration shall not be transferable and shall be valid only for the
+2 operator in whose name it is issued and for the transaction of business at the place
+3 designated therein. Acquisition of additional transient accommodation units after
+4 payment of the one-time fee shall not result in additional fees.
+5 (2) The registration, or in lieu thereof a notice stating where the registration
+6 may be inspected and examined, shall at all times be conspicuously displayed at the
+7 place for which it is issued. The name, phone number, and electronic mail address
+8 of the local contact shall also be conspicuously displayed in the same place. Failure
+9 to meet the requirements of this subsection shall be unlawful. A citation issued
+10 under this subsection for each transient accommodation in violation shall include a
+11 monetary fine of not less than:
+12 (i) $500 per day, for a first violation;
+13 (ii) $1,000 per day, for a second violation; and
+14 (iii) $5,000 per day, for a third and any subsequent violation.
+15 (3) Any advertisement, including online advertisements, for any transient
+16 accommodation shall conspicuously include:
+17 (i) The registration identification number or a link to the registration
+18 identification number of the operator; and
+19 (ii) The local contact's name, phone number, and email address. This
+20 paragraph shall be considered satisfied if this information is provided to the
+21 transient prior to the furnishing of the accommodation.
+-9
+HOUSE BILL 24- V ai%
+1 (4) Failure to meet the requirements of paragraph (3) shall be unlawful. The
+2 Division may issue citations to any person, including operators, hosting platforms,
+3 and brokers, who violate paragraph (3). A citation issued under this paragraph shall
+4 include a monetary fine as follows:
+5 (i) $500 per day, for a first violation;
+6 (ii) $1,000 per day, for a second violation; and
+7 (iii) $5,000 per day, for a third and any subsequent violation.
+8 (5) The registration shall remain effective until canceled in writing.
+9 Reapplication following cancellation shall be treated as a new registration subject
+10 to the one-time fee. The Director may revoke or cancel registration for cause as
+11 provided under the Administrative Procedures Act.
+12 (6) If the license fee is paid, the Division shall not refuse to issue a
+13 registration or revoke it based on the exercise of rights protected by the First
+14 Amendment or based on activities in interstate or foreign commerce. Section
+15 1502(j) shall not be invoked to restrain such protected activity.
+16 (7) Any fine assessed under this subsection shall be due and payable thirty
+17 days after the citation is issued, subject to appeal rights. Appeals may be made to
+18 the Director or the Director's designee.
+19 (8) Any person required to register under this subsection who fails to do so
+20 shall be subject to the citation and monetary fines described in paragraph (4).
+-10-
+HOUSE BILL 24- 694
+1 (9) For purposes of this subsection, "engaging or continuing in the business
+2 of furnishing transient accommodations" includes posting any advertisement for
+3 such accommodations.
+4 (10) Only one citation under paragraph (2) may be issued per transient
+5 accommodation in a thirty-day period. Additional citations may be issued for other
+6 accommodations. After the thirty-day period, citations may be reissued if the
+7 violation continues. Subsequent citations shall not include fines for days already
+8 penalized in prior citations for the same unit.
+9 (11) Only one citation under paragraph (3) may be issued per transient
+10 accommodation in a thirty-day period. Additional citations may be issued for other
+11 accommodations. Subsequent citations shall not include fines for days already
+12 penalized in prior citations for the same unit.
+13 (12) In lieu of a first citation under paragraph (3), the Division shall issue a
+14 written warning if the violator has no prior warning. The warning provides a 1 5-
+1 5 day cure period. If violations are not cured within that period, citations shall issue
+16 for all days in violation. Only one written warning may be issued per person.
+17 (f) Certificate of registration for transient accommodations broker,
+18 travel agency, and tour packager.
+19 (1) Each transient accommodations broker, travel agency, or tour packager,
+20 as a condition precedent to entering into an arrangement to furnish transient
+21 accommodations at noncommissioned negotiated contract rates, shall register with
+-11-
+HOUSE BILL 24- 9A
+1 the Director. The transient accommodations broker, travel agency, or tour
+2 packager shall make a one-time payment of $15 for each registration, upon receipt
+3 of which the Director shall issue a certificate of registration in a form as the Director
+4 determines, attesting that the registration has been made. The registration shall not
+5 be transferable and shall be valid only for the transient accommodations broker,
+6 travel agency, or tour packager in whose name it is issued.
+7 The registration shall be effective until canceled in writing. Any
+8 application for the reissuance of a previously canceled registration identification
+9 number shall be regarded as a new application for registration and shall be subject
+10 to the payment of the one-time registration fee. The Director may revoke or cancel
+11 any registration issued under this section for cause as provided by rule under the
+12 Administrative Procedures Act.
+13 (2) Any person who enters into an agreement to furnish transient
+14 accommodations without registering in conformity with this subsection shall be
+15 subject to the citation process and monetary fines under subsection (e).
+16 (g) Return and payments; penalties.
+17 (1) Every person subject to this chapter shall file a return and pay the tax,
+18 if any, on a monthly basis.
+19 (2) The monthly returns and payments required under paragraph (1) of this
+20 subsection shall be filed, and any tax due shall be paid, on or before the last day of
+21 the month following the close of the taxable month, as follows:
+- 12-
+HOUSE BILL 24- OA
+1 Returns for January shall be filed by February 28;
+2 Returns for February shall be filed by March 31;
+3 Returns for March shall be filed by April 30;
+4 Returns for April shall be filed by May 31;
+5 Returns for May shall be filed by June 30;
+6 Returns for June shall be filed by July 31;
+7 Returns for July shall be filed by August 31;
+8 Returns for August shall be filed by September 30;
+9 Returns for September shall be filed by October 31;
+10 Returns for October shall be filed by November 30;
+11 Returns for November shall be filed by December 31; and
+12 Returns for December shall be filed by January 31.
+13 (3) Failure to comply with the provisions of this subsection shall be
+14 punishable under the penalties prescribed by this division.
+15 (h) Hosting platform as tax collection agent; operator.
+16 (1) A hosting platform that collects fees for booking services shall register
+17 as a tax collection agent on behalf of all of its operators.
+18 (2) A tax collection agent shall be issued a separate certificate of
+19 registration under this chapter with respect to taxes due on behalf of its operators
+20 in its capacity as a tax collection agent and, if applicable, with respect to any taxes
+21 payable under this chapter for its own business activities.
+- 13 -
+HOUSE BILL 24- 69 4
+1 (3) In addition to its own responsibilities under this chapter, a tax collection
+2 agent shall report, collect, and pay over the taxes due under this chapter on behalf
+3 of all of its operators or for whom booking services are provided; provided that the
+4 tax collection agent's obligation to report, collect, and pay taxes on behalf of all of
+5 its operators shall apply solely to transient accommodations in the Commonwealth
+6 for which booking services were provided by the tax collection agent.
+7 (4) If the tax collection agent fails to pay the tax as required under
+8 subsection (c), the tax collection agent shall be liable to pay to the Commonwealth
+9 any unpaid portion of the amount of tax that was required to be paid under
+10 paragraph (4).
+11 (5) All returns and other information provided by a tax collection agent
+12 shall be confidential, and disclosure thereof shall be prohibited as provided in 4
+13 CMC §§ 18161-18163.
+14 (6) A tax collection agent shall file periodic returns in accordance with
+15 subsection (g). The December return shall be accompanied by a cover sheet, in a
+16 form prescribed by the division, that includes the following information for each
+17 operator on whose behalf the tax collection agent is required to report, collect, and
+18 pay over taxes due under this chapter:
+19 (1) Name;
+20 (2) Location of the transient accommodations;
+21 (3) Transient accommodations tax identification number;
+- 14 -
+HOUSE BILL 24- S fe's
+1 (4) The amounts of taxes paid for each transient accommodations
+2 tax identification number.
+3 (7) Before collecting any fee for booking services, a tax collection agent
+4 shall notify each of its operators that it is a tax collection agent that it has remitted
+5 or will remit transient accommodation taxes to the Division pursuant to this chapter,
+6 and that the reporting and remittance of Commonwealth business gross revenue and
+7 income taxes is the responsibility of each operator.
+8 (8) The Division may require any form or document required to be
+9 submitted under this subsection to be filed electronically.
+10 Subsection (i). Unregistered tax collection agents; penalties.
+11 (1) If an operator, transient accommodations broker, travel agency, or tour
+12 packager offers transient accommodations through a hosting platfolin that is not
+13 registered as required by subsection (h) of this chapter and the tax collection agent
+14 fails to pay the tax as required under this chapter, the tax collection agent and
+15 operator shall be jointly liable for paying to the Commonwealth any unpaid portion
+16 of the amount of tax required to be paid under this chapter.
+17 (2) The Division may issue citations to any person who offers transient
+18 accommodations through a hosting platform that is not registered as required by
+19 subsection (h) of this chapter. A citation issued pursuant to this subsection for each
+20 transient accommodation in violation of this subsection shall include a monetary
+21 fine of not less than:
+- 15 -
+HOUSE BILL 24- 39%
+1 (i) $500 per day, for a first violation for which a citation is issued;
+2 (ii) $1,000 per day, for a second violation for which a citation is
+3 issued; and
+4 (ii) $5,000 per day, for a third and any subsequent violation for
+5 which a citation is issued.
+6 (3) Only one citation under paragraph (2) may be issued to a person in a
+7 thirty-day period per transient accommodation. The same person may be issued
+8 additional citations under paragraph (2) during the thirty-day period for offering
+9 other transient accommodations the person operates through an unregistered
+10 hosting platform. Following the expiration of the thirty-day period, a citation may
+11 be issued under paragraph (2) in connection with the same transient accommodation
+12 if it continues to be in violation. Citations issued for second violations shall not
+13 include fines for days of violation for which a fine was issued in the citation for
+14 first violation for the same transient accommodation. Citations issued for third
+15 violations shall not include fines for days of violation for which fines were issued
+16 in the citations for the first and second violations for the same transient
+17 accommodation.
+18 Subsection (j) Collection by suit; injunction.
+19 The Division may collect unpaid taxes, together with all accrued penalties,
+20 and monetary fines under this chapter, by initiating proceedings with the superior
+21 court. If any person lawfully required to obtain a certificate under this chapter fails
+- 16 -
+HOUSE BILL 24- 04
+1 to apply for and secure a certificate as provided by this chapter for a period of sixty
+2 days after the first date when the person was required under this chapter to secure
+3 the certificate, the Division may proceed in the superior court to obtain an
+4 injunction restraining the further furnishing of transient accommodations until such
+5 certificate is secured.
+6 Subsection (k). Application of tax.
+7 (a) The tax imposed by this chapter shall be in addition to any other taxes
+8 imposed by any other laws of the Commonwealth, except as otherwise specifically
+9 provided in this chapter; provided that if it be held by any court of competent
+10 jurisdiction that the tax imposed by this chapter may not legally be imposed in
+11 addition to any other tax or taxes imposed by any other law or laws with respect to
+12 the same property or the use thereof, then this chapter shall be deemed not to apply
+13 to such property and the use thereof under the specific circumstances, but the other
+14 laws shall be given full effect with respect to such property and use.
+15 (b) In order to deterndine if the tax under this chapter is to be levied,
+16 assessed, and collected upon transient accommodations the following presumptions
+17 shall control.
+18 (1) If a person lets a transient accommodation for less than ninety
+19 consecutive days, it shall be presumed that the accommodation furnished is
+20 for a transient purpose.
+- 17-
+HOUSE BILL 24- SO.
+1 (2) If a person lets a transient accommodation for ninety days or
+2 more, there is no presumption one way or another as to the purpose for
+3 which the accommodation is furnished. The operator shall have the burden
+4 of proving to the Division whether an accommodation is not being furnished
+5 for a transient purpose. If the Division is satisfied that an accommodation is
+6 not furnished for a transient purpose, then the Division shall not levy any
+7 tax under this chapter.
+8 (3) An accommodation is presumed to be transient and subject to
+9 taxation under this chapter, notwithstanding a lease, license, or contract
+10 term of more than ninety (90) consecutive days, if the operator or lessor
+11 permits the accommodation to be occupied by any person or persons for
+12 fewer than ninety (90) consecutive days. The Division shall assess the tax
+13 on the basis of actual occupancy rather than the duration or form of the
+14 agreement under which the accommodation is furnished.
+15 (c) Except as otherwise provided, this chapter shall apply to a transient
+16 accommodations broker, travel agency, or tour packager who enters into an
+17 agreement to furnish transient accommodations at noncommissioned negotiated
+18 contract rates in the same manner as it applies to an operator.
+19 Subsection (1). Regulations. The Secretary of the Department of Finance
+20 may adopt rules necessary to effectuate the purposes of Title 4 section 1502."
+- 18 -
+HOUSE BILL 24- Va
+1 Section 3. Distribution of Revenue Pursuant to 4 CMC 1803. The
+2 distribution of revenue derived from taxes imposed and collected pursuant to the
+3 Hotel Occupancy Tax established by Public Law 3-11 as amended, and fatmerly
+4 codified at Title 4 section 1502, as repealed and re-enacted herein, shall continue
+5 pursuant to the statutory distribution set forth in Public Law 19-36, codified at 4
+6 CMC § 1803 unless otherwise expressly provided for by law."
+7 Section 4. Severabilitv. If any provision of this Act or the application of
+8 any such provision to any person or circumstance should be held invalid by a court
+9 of competent jurisdiction, the remainder of this Act or the application of its
+10 provisions to persons or circumstances other than those to which it is held invalid
+11 shall not be affected thereby.
+12 Section 4. Savings Clause. This Act and any repealer contained herein
+13 shall not be construed as affecting any existing right acquired under contract or
+14 acquired under statutes repealed or under any rule, regulation or order adopted
+15 under the statutes. Repealers contained in this Act shall not affect any proceeding
+16 instituted under or pursuant to prior law. The enactment of this Act shall not have
+17 the effect of terminating, or in any way modifying, any liability civil or criminal,
+18 which shall already be in existence at the date this Act becomes effective.
+19 Section 5. Effective Date. Once law, either upon approval by the Governor
+20 or upon becoming law without such approval, this Act, including the repeal of
+21 Section 1502 of Title 4, Division 1, Chapter 5 of the Commonwealth Code, shall
+- 19-
+HOUSE BILL 24-
+1 take effect sixty (60) days after regulations implementing the Act are promulgated
+2 by the Secretary of the Department of Finance.
+Prefiled:062.18.kra-;-
+Date: Introduced by:
+Rep. Ro7 A. Ada
+Co-authored by:
+Rep Julie M. A. Ogo
+Reviewed for Legal Sufficiency by:
+cs
+use Legal Counsel
+- 20 -
+[DELETED:  S F T i a a a a c u s a t l o t C t r f i R o a e i f t r t a]
+[DELETED:  o a e A c w i e A t a c I p p t f b a p s a i a s p t c a r t o b o t o R r a N a a l l e n d w i r a o b i f s T L f t a t c d o t s t o t o a m t a f o t b A t]
+[DELETED: SI R t H O a e a A 2 R o f t w i p a 3 M b a c 4 M a p w e i a a t f t a w s t a c p a m 5 R c o b o i t M 7 -]
+[DELETED:  1 A S R T h " T ( A ( D A p b a e a w t r o p s p f t ( o o]
+[DELETED:  'I a o e i a t f t a a t v p o a f t f o t a o e i a t f t a c o p o t o m u l c r c t o a o t r r a f t f o t a e i t f b a t o t a n r t g i]
+[DELETED:  o w p a ( p m t t f b s t w a o m o a t a H p u t n p b t o p t r p r t t o t t h p]
+[DELETED:  i a m t " o a r a c o q s o h a o o p i w l " b a p b a o b a o l a a T o o t r g p]
+[DELETED:  ( E t b t a a t p b ( ( w S ( o b t t t o]
+[DELETED:  m n b b f o p ( m p o t m ( r o a l t T c n e b i i t]
+[DELETED: Va D a i ( ( ( T r r e c i w R t ( I t l f i p t D s n r t i a r o r i b o t e o r p b t F A o b o a i i o f c S 1 d]
+[DELETED:  ( o s ( o u p b i t a A t t p c m b r i t p ( o c p m b p t a a S c s n i f d a p w d f C f b a t i a t]
+[DELETED:  D T t a b t a o t p o T b t r s b e u c i w A a n t T a p w i a t f b s R E]
+[DELETED:  R R R R R R R R R R R ( F p ( A a A t c a s b i a s c o r i]
+[DELETED:  I t i f I t t c a f t p t t r u s a u p o t a o t t w t b p u p A s C A s T f o p ( N L T]
+[DELETED: S ( T t B o a i ( T D m r a f o r t b s S U I p r f t u t o A]
+[DELETED:  ( $ $ i ( $ w ( O t b a o a t p o t a u h b i f v t c t f a v t s]
+[DELETED:  0 t d t c t m p i t s c t o a i ( T i p a c j b t t I o d i t u t t b l s]
+[DELETED:  S ( m w p f n t ( t a l ( t a t a o p w e i a n c]
+[DELETED:  S 3 o P t C T H p C S I a c j t r o t A o a o i p s C T s a u r u i T t w o]
+[DELETED:  t b  I  J]
+
+
+================================================================================
+
+Raw Text:
+TWENTY-FOURTH NORTHERN MARIANAS COMMONWEALTH
+LEGISLATURE
+IN THE HOUSE OF REPRESENTATIVES
+52,
+Regular Session, 2025 H. B. 24-
+A BILL FOR AN ACT
+To establish a tax on transient accommodations and to regulate the
+operation of short-term rentals in the Commonwealth; and for other
+purposes.
+BE IT ENACTED BY THE 24TH NORTHERN MARIANAS
+COMMONWEALTH LEGISLATURE:
+1 Section 1. Findings and Purpose. The proliferation of short-term rentals
+2 involving nontraditional accommodations—such as houses, apartments, and
+3 condominium units—has significantly altered the landscape of the
+4 Commonwealth's housing market. These rentals, often marketed to tourists and
+5 transient occupants, have led to increased competition for housing, rising long-term
+6 rental prices, and regulatory challenges in residentially zoned areas. Operators who
+7 fail to comply with business licensing, zoning rules, and tax laws undermine the
+8 integrity of the market and place law-abiding operators at a disadvantage.
+9 Registration of all operators engaged in furnishing transient
+10 accommodations is essential for effective regulation and tax enforcement. In a
+11 sector where listings may involve a single room or an entire resort posted online
+12 without direct oversight, the government faces serious challenges in identifying
+
+HOUSE BILL 24- $2•
+1 operators and ensuring compliance. A centralized registry will improve
+2 enforcement, promote transparency, and ensure a level playing field.
+3 Authorizing certain private entities to serve as tax collection agents will ease
+4 the burden of administration and improve tax compliance. In particular, online
+5 hosting platforms that facilitate booking and payment services are in a strong
+6 position to collect and remit taxes on behalf of their operators. Requiring
+7 registration of such platforms as tax collection agents will streamline compliance
+8 and level the playing field.
+9 Noncompliance often stems from operators structuring rental contracts to
+10 appear as long-term leases exceeding ninety days while in reality allowing
+11 occupancy by individuals for shorter durations. The Legislature finds that an
+12 accommodation is subject to tax under this Act if it is used or occupied for fewer
+13 than ninety consecutive days, regardless of the stated term of the lease or
+14 agreement. The factual use of the accommodation shall govern whether it is deemed
+15 transient for taxation purposes.
+16 Strengthening enforcement through fines, citations, registration mandates,
+17 and platform-level accountability will modernize the Commonwealth's tax
+18 framework and prevent further erosion of the tax base. This Act replaces the
+19 outdated Hotel Occupancy Tax with a Transient Accommodations Tax that reflects
+20 the realities of today's rental and tourism market. Therefore, the purpose of this
+21 Act is to:
+2
+
+HOUSE BILL 24- S IX
+1 1. Repeal the Hotel Occupancy Tax and establish a Transient
+2 Accommodations Tax;
+3 2. Require persons to register prior to engaging or continuing in the business
+4 of furnishing transient accommodations, which includes posting any
+5 advertisement for furnishing a transient accommodation;
+6 3. Make any person who fails to register prior to engaging or continuing in the
+7 business of furnishing transient accommodations, which includes posting
+8 any advertisement for furnishing a transient accommodation, subject to a
+9 citation process and monetary fines;
+10 4. Make any person who enters into an agreement to furnish transient
+11 accommodations without registering subject to a citation process and
+12 monetary fines;
+13 5. Require a hosting platform that collects fees for booking services to register
+14 as a tax collection agent on behalf of its operators for purposes of the
+15 transient accommodations tax; and
+16 6. Make any person who offers transient accommodations through a hosting
+17 platform that is not registered as a tax collection agent subject to a citation
+18 process and monetary fines.
+19 7. Ensure that the revenues collected pursuant to the tax formerly known as
+20 the Hotel Occupancy Tax, codified at Title 4 section 1502 as repealed and
+21 re-enacted herein, shall continue to be distributed pursuant to Public Law
+3
+- -
+
+HOUSE BILL 24-
+1 19-36, codified at 4 CMC § 1803, to wit, 80 percent to the Marianas Visitors
+2 Authority and 20 percent to the Northern Marianas Retirement Fund.
+3 Section 2. Repeal and Re-enactment. Title 4, Division 1, Revenue and
+4 Taxation, section 1502, "Hotel Occupancy Tax," of the Commonwealth Code is
+5 hereby repealed and re-enacted to read as follows:
+6 "§1502. Transient Accommodations Tax.
+7 (a) Short Title. This Act may be cited as the "Transient Accommodations
+8 Act of 2025."
+9 (b) Definitions. As used in this chapter:
+10 (1) "Booking service" means any reservation or payment service provided
+11 by a person or entity that facilitates a transient accommodation transaction between
+12 an operator and a prospective transient or occupant, and for which the person or
+13 entity collects or receives, directly or indirectly, through an agent or intermediary,
+14 a fee in connection with the reservation or payment services provided for the
+15 transient accommodation transaction.
+16 (2) "Division" means the Division of Revenue of Taxation of Department
+17 of Finance of the Commonwealth of the Northern Mariana Islands.
+18 (3) "Director" means the Director of the Division of Revenue of Taxation
+19 of Department of Finance of the Commonwealth of the Northern Mariana Islands.
+20 (4) "Gross rental" or "gross rental proceeds" means the gross receipts, cash
+21 or accrued, of the taxpayer received as compensation for the furnishing of transient
+4
+
+HOUSE BILL 24- ' IX
+1 accommodations or entering into arrangements to furnish transient
+2 accommodations and the value proceeding or accruing from the furnishing of
+3 transient accommodations or entering into arrangements to furnish transient
+4 accommodations, including resort fees, without any deductions on account of the
+5 cost of property or services sold, the cost of materials used, labor cost, taxes,
+6 royalties, interest, discounts, or any other expenses whatsoever.
+7 The words "gross rental" or "gross rental proceeds" shall not be construed
+8 to include the amounts of taxes imposed by chapter 2 or this chapter on operators
+9 of transient accommodations, transient accommodations brokers, travel agencies,
+10 and tour packagers and passed on, collected, and received from the consumer as
+11 part of the receipts received as compensation for the furnishing of transient
+12 accommodations or entering into arrangements to furnish transient
+13 accommodations.
+14 Where transient accommodations are furnished through arrangements made
+15 by a transient accommodations broker, travel agency, or tour packager at
+16 noncommissionable negotiated contract rates and the gross income is divided
+17 between the operator of transient accommodations on the one hand and the transient
+18 accommodations broker, travel agency, or tour packager on the other hand, the tax
+19 imposed by this chapter shall apply to each operator and transient accommodations
+20 broker, travel agency, or tour packager with respect to that person's respective
+21 portion of the proceeds and no more. For purposes of this definition, where the
+5
+
+HOUSE BILL 24- Wi
+1 operator maintains a schedule of rates for identifiable groups of individuals, upon
+2 which the accommodations are leased, let, or rented, gross rental or gross rental
+3 proceeds means the receipts collected and received based upon the scheduled rates
+4 and recorded as receipts in its books and records.
+5 (5) "Hosting platform" means a person or entity that participates in the
+6 transient accommodations business by providing, and collecting or receiving a fee
+7 for, booking services through which an operator may offer a transient
+8 accommodation. Hosting platforms usually, though not necessarily, provide
+9 booking services through an online platform that allows an operator to advertise the
+10 transient accommodations through a website provided by the hosting platform and
+11 the hosting platform conducts a transaction by which potential renters arrange, use,
+12 or pay, whether the renter pays rent directly to the operator or to the hosting
+13 platform.
+14 (6) "Lease", "let", or "rental" means the leasing or renting of living
+15 quarters or sleeping or housekeeping accommodations in hotels, apartment hotels,
+16 motels, condominiums or units, cooperative apartments, rooming houses, or other
+17 places in which lodgings are regularly furnished to transients for a consideration,
+18 without transfer of the title of such property.
+19 (7) "Local contact" means an individual residing in the Commonwealth
+20 or an entity with a place of business and at least one employee, officer, partner,
+6
+_
+
+HOUSE BILL 24- Va.
+1 member, or other person working on behalf of the company who is residing in the
+2 Commonwealth.
+3 (8) "Operator" means any person operating a transient accommodation,
+4 whether as owner or proprietor or as lessee, sublessee, mortgagee in possession,
+5 licensee, or otherwise, or engaging or continuing in any service business which
+6 involves the actual furnishing of transient accommodation.
+7 (9) "Transient accommodations" means the furnishing of a room,
+8 apartment, suite, single family dwelling, or the like to a transient for less than ninety
+9 consecutive days for each letting in a hotel, apartment hotel, motel, condominium
+10 or unit, cooperative apartment, dwelling unit, or rooming house that provides living
+11 quarters, sleeping, or housekeeping accommodations, or other place in which
+12 lodgings are regularly furnished to transients.
+13 (10) "Transient accommodations broker" means any person or entity,
+14 including but not limited to persons who operate online websites, online travel
+15 agencies, or online booking agencies, that offers, lists, advertises, or accepts
+16 reservations or collects whole or partial payment for transient accommodations.
+17 (c) Imposition of Tax and Rates.
+18 (1) There is levied and shall be assessed and collected each month a tax
+19 of fifteen percent on the gross rental or gross rental proceeds derived from
+20 furnishing transient accommodations.
+7
+-
+
+1 Ea.
+HOUSE BILL 24-
+1 (2) Every transient accommodations broker, travel agency, and tour
+2 packager who arranges transient accommodations at noncommissioned negotiated
+3 contract rates and every operator shall pay to the Commonwealth the tax imposed
+4 by subsection (a) as provided in this chapter.
+5 (d) Exemptions.
+6 (1) Accommodations furnished to foreign diplomats and consular officials
+7 who are holding cards issued or authorized by the United States Department of
+8 State granting them an exemption from state taxes.
+9 (2) Accommodations furnished to Commonwealth residents during a state
+10 of major disaster declared by the Governor.
+11 (e) Certificate of Registration.
+12 (1) Each operator, as a condition precedent to engaging or continuing in the
+13 business of furnishing transient accommodations, shall register with the Director
+14 the name and location of each place of business within the Commonwealth subject
+15 to this subsection. The operator shall make a one-time payment as follows:
+16 (i) $5 for each registration for transient accommodations consisting of one
+17 to five units; and
+18 (ii) $15 for each registration for transient accommodations consisting of six
+19 or more units;
+20 Upon receipt of payment, the Director shall issue a certificate of registration
+21 in such form as the Director determines, attesting that the registration has been
+8
+-
+
+W.
+HOUSE BILL 24-
+1 made. The registration shall not be transferable and shall be valid only for the
+2 operator in whose name it is issued and for the transaction of business at the place
+3 designated therein. Acquisition of additional transient accommodation units after
+4 payment of the one-time fee shall not result in additional fees.
+5 (2) The registration, or in lieu thereof a notice stating where the registration
+6 may be inspected and examined, shall at all times be conspicuously displayed at the
+7 place for which it is issued. The name, phone number, and electronic mail address
+8 of the local contact shall also be conspicuously displayed in the same place. Failure
+9 to meet the requirements of this subsection shall be unlawful. A citation issued
+10 under this subsection for each transient accommodation in violation shall include a
+11 monetary fine of not less than:
+12 (i) $500 per day, for a first violation;
+13 (ii) $1,000 per day, for a second violation; and
+14 (iii) $5,000 per day, for a third and any subsequent violation.
+15 (3) Any advertisement, including online advertisements, for any transient
+16 accommodation shall conspicuously include:
+17 (i) The registration identification number or a link to the registration
+18 identification number of the operator; and
+19 (ii) The local contact's name, phone number, and email address. This
+20 paragraph shall be considered satisfied if this information is provided to the
+21 transient prior to the furnishing of the accommodation.
+-9
+
+HOUSE BILL 24- V ai%
+1 (4) Failure to meet the requirements of paragraph (3) shall be unlawful. The
+2 Division may issue citations to any person, including operators, hosting platforms,
+3 and brokers, who violate paragraph (3). A citation issued under this paragraph shall
+4 include a monetary fine as follows:
+5 (i) $500 per day, for a first violation;
+6 (ii) $1,000 per day, for a second violation; and
+7 (iii) $5,000 per day, for a third and any subsequent violation.
+8 (5) The registration shall remain effective until canceled in writing.
+9 Reapplication following cancellation shall be treated as a new registration subject
+10 to the one-time fee. The Director may revoke or cancel registration for cause as
+11 provided under the Administrative Procedures Act.
+12 (6) If the license fee is paid, the Division shall not refuse to issue a
+13 registration or revoke it based on the exercise of rights protected by the First
+14 Amendment or based on activities in interstate or foreign commerce. Section
+15 1502(j) shall not be invoked to restrain such protected activity.
+16 (7) Any fine assessed under this subsection shall be due and payable thirty
+17 days after the citation is issued, subject to appeal rights. Appeals may be made to
+18 the Director or the Director's designee.
+19 (8) Any person required to register under this subsection who fails to do so
+20 shall be subject to the citation and monetary fines described in paragraph (4).
+-10-
+
+HOUSE BILL 24- 694
+1 (9) For purposes of this subsection, "engaging or continuing in the business
+2 of furnishing transient accommodations" includes posting any advertisement for
+3 such accommodations.
+4 (10) Only one citation under paragraph (2) may be issued per transient
+5 accommodation in a thirty-day period. Additional citations may be issued for other
+6 accommodations. After the thirty-day period, citations may be reissued if the
+7 violation continues. Subsequent citations shall not include fines for days already
+8 penalized in prior citations for the same unit.
+9 (11) Only one citation under paragraph (3) may be issued per transient
+10 accommodation in a thirty-day period. Additional citations may be issued for other
+11 accommodations. Subsequent citations shall not include fines for days already
+12 penalized in prior citations for the same unit.
+13 (12) In lieu of a first citation under paragraph (3), the Division shall issue a
+14 written warning if the violator has no prior warning. The warning provides a 1 5-
+1 5 day cure period. If violations are not cured within that period, citations shall issue
+16 for all days in violation. Only one written warning may be issued per person.
+17 (f) Certificate of registration for transient accommodations broker,
+18 travel agency, and tour packager.
+19 (1) Each transient accommodations broker, travel agency, or tour packager,
+20 as a condition precedent to entering into an arrangement to furnish transient
+21 accommodations at noncommissioned negotiated contract rates, shall register with
+-11-
+
+HOUSE BILL 24- 9A
+1 the Director. The transient accommodations broker, travel agency, or tour
+2 packager shall make a one-time payment of $15 for each registration, upon receipt
+3 of which the Director shall issue a certificate of registration in a form as the Director
+4 determines, attesting that the registration has been made. The registration shall not
+5 be transferable and shall be valid only for the transient accommodations broker,
+6 travel agency, or tour packager in whose name it is issued.
+7 The registration shall be effective until canceled in writing. Any
+8 application for the reissuance of a previously canceled registration identification
+9 number shall be regarded as a new application for registration and shall be subject
+10 to the payment of the one-time registration fee. The Director may revoke or cancel
+11 any registration issued under this section for cause as provided by rule under the
+12 Administrative Procedures Act.
+13 (2) Any person who enters into an agreement to furnish transient
+14 accommodations without registering in conformity with this subsection shall be
+15 subject to the citation process and monetary fines under subsection (e).
+16 (g) Return and payments; penalties.
+17 (1) Every person subject to this chapter shall file a return and pay the tax,
+18 if any, on a monthly basis.
+19 (2) The monthly returns and payments required under paragraph (1) of this
+20 subsection shall be filed, and any tax due shall be paid, on or before the last day of
+21 the month following the close of the taxable month, as follows:
+- 12-
+
+HOUSE BILL 24- OA
+1 Returns for January shall be filed by February 28;
+2 Returns for February shall be filed by March 31;
+3 Returns for March shall be filed by April 30;
+4 Returns for April shall be filed by May 31;
+5 Returns for May shall be filed by June 30;
+6 Returns for June shall be filed by July 31;
+7 Returns for July shall be filed by August 31;
+8 Returns for August shall be filed by September 30;
+9 Returns for September shall be filed by October 31;
+10 Returns for October shall be filed by November 30;
+11 Returns for November shall be filed by December 31; and
+12 Returns for December shall be filed by January 31.
+13 (3) Failure to comply with the provisions of this subsection shall be
+14 punishable under the penalties prescribed by this division.
+15 (h) Hosting platform as tax collection agent; operator.
+16 (1) A hosting platform that collects fees for booking services shall register
+17 as a tax collection agent on behalf of all of its operators.
+18 (2) A tax collection agent shall be issued a separate certificate of
+19 registration under this chapter with respect to taxes due on behalf of its operators
+20 in its capacity as a tax collection agent and, if applicable, with respect to any taxes
+21 payable under this chapter for its own business activities.
+- 13 -
+
+HOUSE BILL 24- 69 4
+1 (3) In addition to its own responsibilities under this chapter, a tax collection
+2 agent shall report, collect, and pay over the taxes due under this chapter on behalf
+3 of all of its operators or for whom booking services are provided; provided that the
+4 tax collection agent's obligation to report, collect, and pay taxes on behalf of all of
+5 its operators shall apply solely to transient accommodations in the Commonwealth
+6 for which booking services were provided by the tax collection agent.
+7 (4) If the tax collection agent fails to pay the tax as required under
+8 subsection (c), the tax collection agent shall be liable to pay to the Commonwealth
+9 any unpaid portion of the amount of tax that was required to be paid under
+10 paragraph (4).
+11 (5) All returns and other information provided by a tax collection agent
+12 shall be confidential, and disclosure thereof shall be prohibited as provided in 4
+13 CMC §§ 18161-18163.
+14 (6) A tax collection agent shall file periodic returns in accordance with
+15 subsection (g). The December return shall be accompanied by a cover sheet, in a
+16 form prescribed by the division, that includes the following information for each
+17 operator on whose behalf the tax collection agent is required to report, collect, and
+18 pay over taxes due under this chapter:
+19 (1) Name;
+20 (2) Location of the transient accommodations;
+21 (3) Transient accommodations tax identification number;
+- 14 -
+
+HOUSE BILL 24- S fe's
+1 (4) The amounts of taxes paid for each transient accommodations
+2 tax identification number.
+3 (7) Before collecting any fee for booking services, a tax collection agent
+4 shall notify each of its operators that it is a tax collection agent that it has remitted
+5 or will remit transient accommodation taxes to the Division pursuant to this chapter,
+6 and that the reporting and remittance of Commonwealth business gross revenue and
+7 income taxes is the responsibility of each operator.
+8 (8) The Division may require any form or document required to be
+9 submitted under this subsection to be filed electronically.
+10 Subsection (i). Unregistered tax collection agents; penalties.
+11 (1) If an operator, transient accommodations broker, travel agency, or tour
+12 packager offers transient accommodations through a hosting platfolin that is not
+13 registered as required by subsection (h) of this chapter and the tax collection agent
+14 fails to pay the tax as required under this chapter, the tax collection agent and
+15 operator shall be jointly liable for paying to the Commonwealth any unpaid portion
+16 of the amount of tax required to be paid under this chapter.
+17 (2) The Division may issue citations to any person who offers transient
+18 accommodations through a hosting platform that is not registered as required by
+19 subsection (h) of this chapter. A citation issued pursuant to this subsection for each
+20 transient accommodation in violation of this subsection shall include a monetary
+21 fine of not less than:
+- 15 -
+
+HOUSE BILL 24- 39%
+1 (i) $500 per day, for a first violation for which a citation is issued;
+2 (ii) $1,000 per day, for a second violation for which a citation is
+3 issued; and
+4 (ii) $5,000 per day, for a third and any subsequent violation for
+5 which a citation is issued.
+6 (3) Only one citation under paragraph (2) may be issued to a person in a
+7 thirty-day period per transient accommodation. The same person may be issued
+8 additional citations under paragraph (2) during the thirty-day period for offering
+9 other transient accommodations the person operates through an unregistered
+10 hosting platform. Following the expiration of the thirty-day period, a citation may
+11 be issued under paragraph (2) in connection with the same transient accommodation
+12 if it continues to be in violation. Citations issued for second violations shall not
+13 include fines for days of violation for which a fine was issued in the citation for
+14 first violation for the same transient accommodation. Citations issued for third
+15 violations shall not include fines for days of violation for which fines were issued
+16 in the citations for the first and second violations for the same transient
+17 accommodation.
+18 Subsection (j) Collection by suit; injunction.
+19 The Division may collect unpaid taxes, together with all accrued penalties,
+20 and monetary fines under this chapter, by initiating proceedings with the superior
+21 court. If any person lawfully required to obtain a certificate under this chapter fails
+- 16 -
+
+HOUSE BILL 24- 04
+1 to apply for and secure a certificate as provided by this chapter for a period of sixty
+2 days after the first date when the person was required under this chapter to secure
+3 the certificate, the Division may proceed in the superior court to obtain an
+4 injunction restraining the further furnishing of transient accommodations until such
+5 certificate is secured.
+6 Subsection (k). Application of tax.
+7 (a) The tax imposed by this chapter shall be in addition to any other taxes
+8 imposed by any other laws of the Commonwealth, except as otherwise specifically
+9 provided in this chapter; provided that if it be held by any court of competent
+10 jurisdiction that the tax imposed by this chapter may not legally be imposed in
+11 addition to any other tax or taxes imposed by any other law or laws with respect to
+12 the same property or the use thereof, then this chapter shall be deemed not to apply
+13 to such property and the use thereof under the specific circumstances, but the other
+14 laws shall be given full effect with respect to such property and use.
+15 (b) In order to deterndine if the tax under this chapter is to be levied,
+16 assessed, and collected upon transient accommodations the following presumptions
+17 shall control.
+18 (1) If a person lets a transient accommodation for less than ninety
+19 consecutive days, it shall be presumed that the accommodation furnished is
+20 for a transient purpose.
+- 17-
+
+HOUSE BILL 24- SO.
+1 (2) If a person lets a transient accommodation for ninety days or
+2 more, there is no presumption one way or another as to the purpose for
+3 which the accommodation is furnished. The operator shall have the burden
+4 of proving to the Division whether an accommodation is not being furnished
+5 for a transient purpose. If the Division is satisfied that an accommodation is
+6 not furnished for a transient purpose, then the Division shall not levy any
+7 tax under this chapter.
+8 (3) An accommodation is presumed to be transient and subject to
+9 taxation under this chapter, notwithstanding a lease, license, or contract
+10 term of more than ninety (90) consecutive days, if the operator or lessor
+11 permits the accommodation to be occupied by any person or persons for
+12 fewer than ninety (90) consecutive days. The Division shall assess the tax
+13 on the basis of actual occupancy rather than the duration or form of the
+14 agreement under which the accommodation is furnished.
+15 (c) Except as otherwise provided, this chapter shall apply to a transient
+16 accommodations broker, travel agency, or tour packager who enters into an
+17 agreement to furnish transient accommodations at noncommissioned negotiated
+18 contract rates in the same manner as it applies to an operator.
+19 Subsection (1). Regulations. The Secretary of the Department of Finance
+20 may adopt rules necessary to effectuate the purposes of Title 4 section 1502."
+- 18 -
+
+HOUSE BILL 24- Va
+1 Section 3. Distribution of Revenue Pursuant to 4 CMC 1803. The
+2 distribution of revenue derived from taxes imposed and collected pursuant to the
+3 Hotel Occupancy Tax established by Public Law 3-11 as amended, and fatmerly
+4 codified at Title 4 section 1502, as repealed and re-enacted herein, shall continue
+5 pursuant to the statutory distribution set forth in Public Law 19-36, codified at 4
+6 CMC § 1803 unless otherwise expressly provided for by law."
+7 Section 4. Severabilitv. If any provision of this Act or the application of
+8 any such provision to any person or circumstance should be held invalid by a court
+9 of competent jurisdiction, the remainder of this Act or the application of its
+10 provisions to persons or circumstances other than those to which it is held invalid
+11 shall not be affected thereby.
+12 Section 4. Savings Clause. This Act and any repealer contained herein
+13 shall not be construed as affecting any existing right acquired under contract or
+14 acquired under statutes repealed or under any rule, regulation or order adopted
+15 under the statutes. Repealers contained in this Act shall not affect any proceeding
+16 instituted under or pursuant to prior law. The enactment of this Act shall not have
+17 the effect of terminating, or in any way modifying, any liability civil or criminal,
+18 which shall already be in existence at the date this Act becomes effective.
+19 Section 5. Effective Date. Once law, either upon approval by the Governor
+20 or upon becoming law without such approval, this Act, including the repeal of
+21 Section 1502 of Title 4, Division 1, Chapter 5 of the Commonwealth Code, shall
+- 19-
+
+HOUSE BILL 24-
+1 take effect sixty (60) days after regulations implementing the Act are promulgated
+2 by the Secretary of the Department of Finance.
+Prefiled:062.18.kra-;-
+Date: Introduced by:
+Rep. Ro7 A. Ada
+Co-authored by:
+Rep Julie M. A. Ogo
+Reviewed for Legal Sufficiency by:
+cs
+use Legal Counsel
+- 20 -
+
+[DELETED:  S F T i a a a a c u s a t l o t C t r f i R o a e i f t r t a]
+[DELETED:  o a e A c w i e A t a c I p p t f b a p s a i a s p t c a r t o b o t o R r a N a a l l e n d w i r a o b i f s T L f t a t c d o t s t o t o a m t a f o t b A t]
+[DELETED: SI R t H O a e a A 2 R o f t w i p a 3 M b a c 4 M a p w e i a a t f t a w s t a c p a m 5 R c o b o i t M 7 -]
+[DELETED:  1 A S R T h " T ( A ( D A p b a e a w t r o p s p f t ( o o]
+[DELETED:  'I a o e i a t f t a a t v p o a f t f o t a o e i a t f t a c o p o t o m u l c r c t o a o t r r a f t f o t a e i t f b a t o t a n r t g i]
+[DELETED:  o w p a ( p m t t f b s t w a o m o a t a H p u t n p b t o p t r p r t t o t t h p]
+[DELETED:  i a m t " o a r a c o q s o h a o o p i w l " b a p b a o b a o l a a T o o t r g p]
+[DELETED:  ( E t b t a a t p b ( ( w S ( o b t t t o]
+[DELETED:  m n b b f o p ( m p o t m ( r o a l t T c n e b i i t]
+[DELETED: Va D a i ( ( ( T r r e c i w R t ( I t l f i p t D s n r t i a r o r i b o t e o r p b t F A o b o a i i o f c S 1 d]
+[DELETED:  ( o s ( o u p b i t a A t t p c m b r i t p ( o c p m b p t a a S c s n i f d a p w d f C f b a t i a t]
+[DELETED:  D T t a b t a o t p o T b t r s b e u c i w A a n t T a p w i a t f b s R E]
+[DELETED:  R R R R R R R R R R R ( F p ( A a A t c a s b i a s c o r i]
+[DELETED:  I t i f I t t c a f t p t t r u s a u p o t a o t t w t b p u p A s C A s T f o p ( N L T]
+[DELETED: S ( T t B o a i ( T D m r a f o r t b s S U I p r f t u t o A]
+[DELETED:  ( $ $ i ( $ w ( O t b a o a t p o t a u h b i f v t c t f a v t s]
+[DELETED:  0 t d t c t m p i t s c t o a i ( T i p a c j b t t I o d i t u t t b l s]
+[DELETED:  S ( m w p f n t ( t a l ( t a t a o p w e i a n c]
+[DELETED:  S 3 o P t C T H p C S I a c j t r o t A o a o i p s C T s a u r u i T t w o]
+[DELETED:  t b  I  J]

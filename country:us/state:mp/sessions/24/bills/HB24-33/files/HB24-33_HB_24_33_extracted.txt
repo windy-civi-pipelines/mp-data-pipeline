@@ -1,0 +1,942 @@
+Title: A BILL FOR AN ACT
+Official Title: A BILL FOR AN ACT
+Number of Sections: 1
+Source: versions - HB 24-33
+Media Type: application/pdf
+Strikethrough Detection: 18 sections found
+
+================================================================================
+
+Section 1:
+REFERRED
+TOr--01-44---
+-lrousE)
+(p/02_c/ /i52-(
+TWENTY-FOURTH NORTHERN MARIANAS COMMONWEALTH
+LEGISLATURE
+IN THE HOUSE OF REPRESENTATIVES
+ao-r
+J(4/K_
+02d,
+Session, 2025 H. B. 24-611
+71 -1
+To statutorily define the scope of the Commonwealth's annual
+General Revenues within the meaning of Article XV, Section 1(e)
+of the NMI Constitution.
+BE IT ENACTED BY THE 24TH NORTHERN MARIANAS
+COMMONWEALTH LEGISLATURE:
+1 Section 1. Findings and Purpose. The CNMI Constitution mandates that
+2 the Public School System (PSS) receive an annual budget of no less than 25% of
+3 the Commonwealth's General Revenues. Article XV, Section 1(e) states in relevant
+4 part, "Nile public elementary and secondary education system shall be guaranteed
+5 an annual budget of not less than twenty-five percent of the general revenues of the
+6 Commonwealth through an annual appropriation." This constitutional guarantee
+7 ensures two key principles: (1) a defined annual budget, allowing for consistent
+8 yearly planning rather than uncertain quarterly appropriations; and (2) a fixed
+9 minimum percentage allocation, ensuring PSS receives a portion of the
+10 Commonwealth's available revenue. However, the precise definition of "General
+11 Revenues" has been a subject of ongoing debate. This Act clarifies what constitutes
+12 General Revenues and, just as importantly, what does not.
+HOUSE BILL 24-
+1 Defining General Revenues as a Subset of Total Resources
+2 As a preliminary matter, General Revenues are defined as a subset of Total
+3 Resources, a broader category used in the Governor's annual budget proposals and
+4 House Concurrent Resolutions. While Total Resources include all CNMI revenues,
+5 General Revenues refer only to funds available for discretionary appropriation.
+6 In Fiscal Year 2024, Total Resources were reported as $158 million in the
+7 Governor's budget proposal and House Concurrent Resolution. However, this
+8 figure included restricted funds such as earmarked special revenues that are not
+9 freely available for appropriation.
+10 To implement Article XV effectively, General Revenues must be clearly
+11 defined. This prevents misunderstandings, legal disputes, and unintended
+12 constitutional changes. Thus, this Act defines General Revenues as equivalent to
+13 "Total Resources Available for Appropriation," the portion of Total Resources not
+14 defined as Special Resources, or earmarked, obligated, or restricted by law. Under
+15 the current law and prevailing constitutional interpretation of "General Revenues,"
+16 PSS's minimum guaranteed annual budget would be approximately $27 million or
+17 25% of $111 million.
+18 Earmarks and Transfers Out: Adjusting Total Resources
+19 To determine General Revenues each year, subtract the total earmarks and
+20 transfers out from the projected Total Resources. For Fiscal Year 2025, with Total
+- 2 -
+HOUSE BILL 24- 0
+1 Resources at $158 million and earmarks and transfers out totaling $47 million, the
+2 General Revenue base is $111 million.
+3 While the budgetary amounts vary year to year, for FY 2025, the breakdown
+4 of $47,140,263 in earmarks and transfers out includes:
+5 • Marianas Visitors Authority (MVA) - Hotel Occupancy Tax (80%) —
+6 ($4,412,374)
+7 • Debt Service Obligations:
+8 o 2007 A Refunding Bond Payment — ($3,618,500)
+9 o 2007 B Refunding Bond Payment —($3,391,750)
+10 o Settlement Fund Bond Payment (PL 20-33) — ($32,000,000)
+11 o 2020 Pension Obligation Note Payment — ($2,886,600)
+12 o MPLT 2019 Loan Payment — ($831,039)
+13 Why General Revenues Cannot Equate to Gross Revenues
+14 General Revenues are not synonymous with Gross Revenues or Total
+15 Resources. If General Revenues included all $158 million of Commonwealth
+16 revenues, it would:
+17 • Create an inflated budget base for PSS, potentially diverting funds from
+18 critical public services such as healthcare, public safety, and infrastructure.
+19 • Strain the government's ability to maintain a balanced budget that ensures
+20 adequate funding across all sectors.
+- 3 -
+HOUSE BILL 24- 0
+1 Without deducting any financial obligations, $158 million in "General
+2 Revenues" would result in a minimum PSS annual budget of approximately $39
+3 million. The difference between 25% of gross revenues and 25% of revenues net
+4 of earmarks, obligatory Settlement Fund payments, and debt service is
+5 approximately $12 million dollars—or roughly one million dollars per month each
+6 fiscal year.
+7 Legal and Fiscal Justifications for This Definition
+8 In 2020, the CNMI Supreme Court issued an opinion that clearly supports
+9 the Legislature's interpretation of Article XV that General Revenues must exclude
+10 restricted and earmarked funds. The Court held, In the Matter of a Petition for
+11 Certified Question, 2020 MP 2, that,
+12 First, general and special revenue fall under the broader category of
+13 revenue, thereby precluding general revenue from meaning all
+14 revenue. Second, special revenue includes those revenues generated
+15 for a particular purpose which is related to the revenue's source. All
+16 revenues not designated as special under this standard are general
+17 revenues in which PSS is entitled twenty-five percent. Id. at ¶ 2.
+18
+19 Consistent with the Supreme Court opinion, the CNMI Attorney General
+20 stated, "General Revenues refer only to revenues deposited into the General Fund
+21 and do not include special revenues earmarked for designated purposes." (CNMI
+22 AG Legal Opinion, March 15, 2021) The AG Opinion also stated,
+23 Limiting General Revenues to discretionary funds ensures financial
+24 integrity and preserves the government's ability to fund essential
+25 public services. Including earmarked funds in General Revenues
+26 would create a structural imbalance, forcing the redirection of funds
+27 meant for legally mandated programs.
+- 4 -
+HOUSE BILL 24-
+1 Ensuring Fiscal Responsibility and Fairness
+2 The Legislature notes the volatility of the CNMI Constitution with respect
+3 to this issue. In 1985, ten years after the original Constitution was enacted without
+4 a guarantee with respect to education financing, it was amended to include a 15
+5 percent guaranteed budgetary floor for public education. In 1995, the very next
+6 opportunity to address the CNMI Constitution, members of the Third Constitutional
+7 Convention suggested removing Section 1(e) in its entirety, reporting that the
+8 Judiciary Committee:
+9 does not believe that earmarking has produced a higher quality of
+10 education over the past 10 years. The school system should have to
+11 justify its budget to the legislature just like any other agency. There
+12 are competing interests such as the health care system . . . .
+13 Earmarking revenues introduces an inflexibility into the system that
+14 may prevent the legislature from making the best choices in the
+15 interest of all the people."
+16
+17 Committee Report No. 5 at 15, Committee on Judiciary and Other Elected Offices
+18 (July 18, 1995).
+19 This Act avoids unpredictable courses of action, be it in the courts or in the
+20 ballot box that may adversely affect PSS, by statutorily establishing clear
+21 definitions. This will ensure greater budgetary transparency, reduce the risk of
+22 legal disputes that can lead to unintended consequences, and uphold the
+23 commitment to a well-funded and sustainable Public School System.
+- 5 -
+HOUSE BILL 24-40
+1 Section 2. Enactment. A new Chapter 8, titled, "CNMI Constitution Art.
+2 XV Definitions." is added to Title 1, Division 7, "Planning, Budgeting, and
+3 Auditing," of the Commonwealth Code that provides as follows:
+4 "CNMI Constitution Art. XV Definitions.
+5 § 101. General Revenues.
+Notwithstanding any CNMI law, regulation, or rule to the contrary,
+7 for the purposes of this Title, and in any context involving the
+8 mandatory appropriation of revenues for public education, the term
+9 General Revenues refers to Commonwealth revenue available for
+10 appropriation, which includes all budgetary resources legally
+11 available for appropriation in a given fiscal year, less those revenues
+12 defined as Special Revenues in this Chapter and less debt service
+13 and mandatory payments to the NMI Settlement Fund under the
+14 Settlement Agreement.
+15 § 102. Special Revenues
+16 Notwithstanding any CNMI law, regulation, or rule to the contrary,
+17 for the purposes of this Title, and in any context involving the
+18 mandatory appropriation of revenues for public education, the term
+19 Special Revenues refers to any revenue that meets all of the
+20 following criteria:
+- 6 -
+HOUSE BILL 24- Iti)
+1 1. The revenue is derived from a constitutionally or statutorily
+2 identified source;
+3 2. It is deposited into an account separate from the General
+4 Fund; and
+5 3. It is earmarked or dedicated to a specific constitutionally or
+6 statutorily defined purpose.
+7 § 103. Annual Budget
+8 Notwithstanding any CNMI law, regulation, or rule to the contrary,
+9 for the purposes of this Chapter, and in any context involving the
+10 mandatory appropriation of revenues for public education, the term
+11 "Annual Budget" refers to the financial plan approved by the
+12 Legislature for a specific fiscal year, which includes the
+13 appropriation of no less than 25% of General Revenues to the Public
+14 School System, as required by Article XV, Section 1(e) of the CNMI
+15 Constitution and consistent with sections 101 and 102 of this
+16 Chapter."
+17 Section 3. Severability. If any provisions of this Act or the application of
+18 any such provision to any person or circumstance should be held invalid by a court
+19 of competent jurisdiction, the remainder of this Act or the application of its
+20 provisions to persons or circumstances other than those to which it is held invalid
+21 shall not be affected thereby.
+- 7 -
+HOUSE BILL 24- 4,49
+1 Section 4. Savings Clause. This Act and any repealer contained herein
+2 shall not be construed as affecting any existing right acquired under contract or
+3 acquired under statutes repealed or under any rule, regulation, or order adopted
+4 under the statutes. Repealers contained in this Act shall not affect any proceeding
+5 instituted under or pursuant to prior law. The enactment of the Act shall not have
+6 the effect of terminating, or in any way modifying, any liability, civil or criminal,
+7 which shall already be in existence on the date this Act becomes effective.
+8 Section 5. Effective Date. This Act shall take effect upon its approval by
+9 the Governor, or it becoming law without such approval.
+Preflled: /2/y2025
+Date: d ---c7 0-45 - Introduced by:
+Rep.
+Reviewed for Legal Sufficiency by:
+.... ..„2„),....-- Cizcle._r
+use Legal Counsel
+- 8 -
+HOUSE OF REPRESENTATIVES
+TWENTY-FOURTH NORTHERN MARIANAS COMMONWEALTH
+LEGISLATURE
+EDMUND S. VILLAG ONI EZ
+Honorable Jesus P. Mainas Memorial Building
+SPEAKER Capitol Hill
+Saipan, MP 96950
+cnntileg.net
+MEMORANDUM
+DATE June 24, 2025
+TO CHAIRMAN JOHN PAUL P. SABLAN, WM COMMITTEE
+FROM SPEAKER EDMUND S. VILLAGOMEZ C-Sb
+SUBJECT : Referral of Legislation
+In accordance with Rule IX, Section 8, I hereby refer the following measure for the Ways and
+Means Committee's review:
+H. B. No. 24-33: To statutorily define the scope of the Commonwealth's annual
+General Revenues within the meaning of Article XV, Section 1(e) of the NMI
+Constitution. Introduced by Rep. Roman C. Benavente of Saipan, Precinct 1 (for
+himself, Representatives Representatives Bias Jonathan "BJ" T. Attao, Angelo A.
+Camacho, Joseph A. Flores, Marissa R. Flores, Thomas J. D1C. Manglona, Julie M.
+A. Ogo, John Paul P. Sablan, Patrick H. San Nicolas, Denita Kaipat Yangetmai,
+and Ralph N. Yumul) on June 20, 2025.
+The Committee has 60 days to submit a written report on the legislation; therefore, I urge the
+Committee to review promptly the aforementioned legislation.
+cc: Senate President
+House Members
+LB Director
+House Clerk
+TELEPHONE NO.: 670.664.8971/72 FACSIMILE NO.: 670.664.8900 EMAIL: rep.evillagomez@cnmileg.net
+HOUSE OF REPRESENTATIVES
+TWENTY-FOURTH NORTHERN MARIANAS COMMONWEALTH
+LEGISLATURE
+EDMUND S. VILLAGOMEZ
+Honorable Jesus P. Mafnas Memorial Building
+SPEAKER
+Capitol Hill
+Saipan, MP 96950
+ileg.net
+C71171,
+MEMORANDUM
+DATE June 24, 2025
+TO CHAIRMAN ROMAN C. BENAVENTE, EDUCATION
+COMMITTEE
+FROM SPEAKER EDMUND S. VILLAGOMEZ
+SUBJECT : Referral ooff Legislation
+In accordance with Rule IX, Section 8, I hereby refer the following measure for the Education
+Committee's review:
+H. B. NO. 24-33: To statutorily define the scope of the Commonwealth's annual
+General Revenues within the meaning of Article XV, Section 1(e) of the NMI
+Constitution. Introduced by Rep. Roman C. Benavente of Saipan, Precinct 1 (for
+himself, Representatives Representatives Bias Jonathan "BJ" T. Attao, Angelo A.
+Camacho, Joseph A. Flores, Marissa R. Flores, Thomas J. D1C. Manglona, Julie M.
+A. Ogo, John Paul P. Sablan, Patrick H. San Nicolas, Denita Kaipat Yangetmai,
+and Ralph N. Yumul) on June 20, 2025.
+The Committee has 60 days to submit a written report on the legislation; therefore, I urge the
+Committee to review promptly the aforementioned legislation.
+CC: Senate President
+House Members
+LB Director
+House Clerk
+TELEPHONE NO.: 670.664.8971/72 FACSIMILE NO.: 670.664.8900 EMAIL:rep.evillagomez@cnmileg.n et
+/
+(HOUSE)
+TWENTY-FOURTH NORTHERN MARIANAS COMMONWEALTH
+LEGISLATURE
+IN THE HOUSE OF REPRESENdTeA2TI-VrE S
+02O1
+WYLe
+Session, 2025 H. B. 24-Si
+7 1--1/1(d
+A BILL FOR AN ACT
+To statutorily define the scope of the Commonwealth's annual
+General Revenues within the meaning of Article XV, Section 1(e)
+of the NMI Constitution.
+BE IT ENACTED BY THE 24TH NORTHERN MARIANAS
+COMMONWEALTH LEGISLATURE:
+1 Section 1. Findings and Purpose. The CNMI Constitution mandates that
+2 the Public School System (PSS) receive an annual budget of no less than 25% of
+3 the Commonwealth's General Revenues. Article XV, Section 1(e) states in relevant
+4 part, "[Ole public elementary and secondary education system shall be guaranteed
+5 an annual budget of not less than twenty-five percent of the general revenues of the
+6 Commonwealth through an annual appropriation." This constitutional guarantee
+7 ensures two key principles: (1) a defined annual budget, allowing for consistent
+8 yearly planning rather than uncertain quarterly appropriations; and (2) a fixed
+9 minimum percentage allocation, ensuring PSS receives a portion of the
+10 Commonwealth's available revenue. However, the precise definition of "General
+11 Revenues" has been a subject of ongoing debate. This Act clarifies what constitutes
+12 General Revenues and, just as importantly, what does not.
+HOUSE BILL 24- $3
+1 Defining General Revenues as a Subset of Total Resources
+2 As a preliminary matter, General Revenues are defined as a subset of Total
+3 Resources, a broader category used in the Governor's annual budget proposals and
+4 House Concurrent Resolutions. While Total Resources include all CNMI revenues,
+5 General Revenues refer only to funds available for discretionary appropriation.
+6 In Fiscal Year 2024, Total Resources were reported as $158 million in the
+7 Governor's budget proposal and House Concurrent Resolution. However, this
+8 figure included restricted funds such as earmarked special revenues that are not
+9 freely available for appropriation.
+10 To implement Article XV effectively, General Revenues must be clearly
+11 defined. This prevents misunderstandings, legal disputes, and unintended
+12 constitutional changes. Thus, this Act defines General Revenues as equivalent to
+13 "Total Resources Available for Appropriation," the portion of Total Resources not
+14 defined as Special Resources, or earmarked, obligated, or restricted by law. Under
+15 the current law and prevailing constitutional interpretation of "General Revenues,"
+16 PSS's minimum guaranteed annual budget would be approximately $27 million or
+17 25% of $111 million.
+18 Earmarks and Transfers Out: Adjusting Total Resources
+19 To determine General Revenues each year, subtract the total earmarks and
+20 transfers out from the projected Total Resources. For Fiscal Year 2025, with Total
+- 2 -
+HOUSE BILL 24- 0
+1 Resources at $158 million and earmarks and transfers out totaling $47 million, the
+2 General Revenue base is $111 million.
+3 While the budgetary amounts vary year to year, for FY 2025, the breakdown
+4 of $47,140,263 in earmarks and transfers out includes:
+5 • Marianas Visitors Authority (MVA) - Hotel Occupancy Tax (80%) —
+6 ($4,412,374)
+7 • Debt Service Obligations:
+8 o 2007 A Refunding Bond Payment —($3,618,500)
+9 o 2007 B Refunding Bond Payment —($3,391,750)
+10 o Settlement Fund Bond Payment (PL 20-33) — ($32,000,000)
+11 o 2020 Pension Obligation Note Payment — ($2,886,600)
+12 o MPLT 2019 Loan Payment —($831,039)
+13 Why General Revenues Cannot Equate to Gross Revenues
+14 General Revenues are not synonymous with Gross Revenues or Total
+15 Resources. If General Revenues included all $158 million of Commonwealth
+16 revenues, it would:
+17 • Create an inflated budget base for PSS, potentially diverting funds from
+18 critical public services such as healthcare, public safety, and infrastructure.
+19 • Strain the government's ability to maintain a balanced budget that ensures
+20 adequate funding across all sectors.
+- 3 -
+HOUSE BILL 24-
+1 Without deducting any financial obligations, $158 million in "General
+2 Revenues" would result in a minimum PSS annual budget of approximately $39
+3 million. The difference between 25% of gross revenues and 25% of revenues net
+4 of earmarks, obligatory Settlement Fund payments, and debt service is
+5 approximately $12 million dollars—or roughly one million dollars per month each
+6 fiscal year.
+7 Legal and Fiscal Justifications for This Definition
+8 In 2020, the CNMI Supreme Court issued an opinion that clearly supports
+9 the Legislature's interpretation of Article XV that General Revenues must exclude
+10 restricted and earmarked funds. The Court held, In the Matter of a Petition for
+11 Certified Question, 2020 MP 2, that,
+12 First, general and special revenue fall under the broader category of
+13 revenue, thereby precluding general revenue from meaning all
+14 revenue. Second, special revenue includes those revenues generated
+15 for a particular purpose which is related to the revenue's source. All
+16 revenues not designated as special under this standard are general
+17 revenues in which PSS is entitled twenty-five percent. Id. at If 2.
+18
+19 Consistent with the Supreme Court opinion, the CNMI Attorney General
+20 stated, "General Revenues refer only to revenues deposited into the General Fund
+21 and do not include special revenues earmarked for designated purposes." (CNMI
+22 AG Legal Opinion, March 15, 2021) The AG Opinion also stated,
+23 Limiting General Revenues to discretionary funds ensures financial
+24 integrity and preserves the government's ability to fund essential
+25 public services. Including earmarked funds in General Revenues
+26 would create a structural imbalance, forcing the redirection of funds
+27 meant for legally mandated programs.
+- 4 -
+HOUSE BILL 24-
+1 Ensuring Fiscal Responsibility and Fairness
+2 The Legislature notes the volatility of the CNMI Constitution with respect
+3 to this issue. In 1985, ten years after the original Constitution was enacted without
+4 a guarantee with respect to education financing, it was amended to include a 15
+5 percent guaranteed budgetary floor for public education. In 1995, the very next
+6 opportunity to address the CNMI Constitution, members of the Third Constitutional
+7 Convention suggested removing Section 1(e) in its entirety, reporting that the
+8 Judiciary Committee:
+9 does not believe that earmarking has produced a higher quality of
+10 education over the past 10 years. The school system should have to
+11 justify its budget to the legislature just like any other agency. There
+12 are competing interests such as the health care system . . . .
+13 Earmarking revenues introduces an inflexibility into the system that
+14 may prevent the legislature from making the best choices in the
+15 interest of all the people."
+16
+17 Committee Report No. 5 at 15, Committee on Judiciary and Other Elected Offices
+18 (July 18, 1995).
+19 This Act avoids unpredictable courses of action, be it in the courts or in the
+20 ballot box that may adversely affect PSS, by statutorily establishing clear
+21 definitions. This will ensure greater budgetary transparency, reduce the risk of
+22 legal disputes that can lead to unintended consequences, and uphold the
+23 commitment to a well-funded and sustainable Public School System.
+- 5 -
+HOUSE BILL 24- 0
+1 Section 2. Enactment. A new Chapter 8, titled, "CNMI Constitution Art.
+2 XV Definitions." is added to Title 1, Division 7, "Planning, Budgeting, and
+3 Auditing," of the Commonwealth Code that provides as follows:
+4 "CNMI Constitution Art. XV Definitions.
+5 § 101. General Revenues.
+6 Notwithstanding any CNMI law, regulation, or rule to the contrary,
+7 for the purposes of this Title, and in any context involving the
+8 mandatory appropriation of revenues for public education, the term
+9 General Revenues refers to Commonwealth revenue available for
+10 appropriation, which includes all budgetary resources legally
+11 available for appropriation in a given fiscal year, less those revenues
+12 defined as Special Revenues in this Chapter and less debt service
+13 and mandatory payments to the NMI Settlement Fund under the
+14 Settlement Agreement.
+15 § 102. Special Revenues
+16 Notwithstanding any CNMI law, regulation, or rule to the contrary,
+17 for the purposes of this Title, and in any context involving the
+18 mandatory appropriation of revenues for public education, the term
+19 Special Revenues refers to any revenue that meets all of the
+20 following criteria:
+- 6 -
+HOUSE BILL 24-1 t3
+1 1. The revenue is derived from a constitutionally or statutorily
+2 identified source;
+3 2. It is deposited into an account separate from the General
+4 Fund; and
+5 3. It is earmarked or dedicated to a specific constitutionally or
+6 statutorily defined purpose.
+7 § 103. Annual Budget
+8 Notwithstanding any CNMI law, regulation, or rule to the contrary,
+9 for the purposes of this Chapter, and in any context involving the
+10 mandatory appropriation of revenues for public education, the term
+11 "Annual Budget" refers to the financial plan approved by the
+12 Legislature for a specific fiscal year, which includes the
+13 appropriation of no less than 25% of General Revenues to the Public
+14 School System, as required by Article XV, Section 1(e) of the CNMI
+15 Constitution and consistent with sections 101 and 102 of this
+16 Chapter."
+17 Section 3. Severabilitv. If any provisions of this Act or the application of
+18 any such provision to any person or circumstance should be held invalid by a court
+19 of competent jurisdiction, the remainder of this Act or the application of its
+20 provisions to persons or circumstances other than those to which it is held invalid
+21 shall not be affected thereby.
+- 7 -
+HOUSE BILL 24- V)
+1 Section 4. Savings Clause. This Act and any repealer contained herein
+2 shall not be construed as affecting any existing right acquired under contract or
+3 acquired under statutes repealed or under any rule, regulation, or order adopted
+4 under the statutes. Repealers contained in this Act shall not affect any proceeding
+5 instituted under or pursuant to prior law. The enactment of the Act shall not have
+6 the effect of terminating, or in any way modifying, any liability, civil or criminal,
+7 which shall already be in existence on the date this Act becomes effective.
+8 Section 5. Effective Date. This Act shall take effect upon its approval by
+9 the Governor, or it becoming law without such approval.
+Prefiled: /2t(2025
+Date: /75i---c2, 0-4 - Introduced by:
+Reviewed for Legal Sufficiency by:
+.- .--3- .2 . .--)---- 4/ 2.ob-Jr
+use Legal Counsel
+- 8 -
+[DELETED: 1- s t s o t a t t p a e y r t a ( a P a o]
+[DELETED:  D H G I F 2 T R w r a $ m i t G b p a H C R H t f f T T p l d a u c " 2]
+[DELETED:  G W • M ( - O ( — • D o 2 2 S o o M W G R a n s w G R o T R I G R a $ m r C c]
+[DELETED:  W d a f o $ m i R m o o S F p a d i f L t r F r t g f m a a]
+[DELETED:  E T t I a p I o C s S 1 i r t J d a i s a h c s . . . . m i C ( b t a P s c t a t]
+[DELETED:  A D i a t 1 D 7 " a A " § f o t T i a c i t m G a i a b r l a d a p u § f t a i c t R t a t a o]
+[DELETED:  2 I f " r t t f p b t f a s f y i t S C a c w s a 1 o t C a o c j t r t A o t a o i]
+[DELETED:  S s a u i t w Sd- I]
+[DELETED:  M C J S C : R R w S]
+[DELETED:  : R A 1 u]
+[DELETED: 1 s t s o a F t t p a C e y p u a a a e P a o t H]
+[DELETED:  A H F Y 2 R w a $ m i b p a C R t f T d T p m l d a " t 2 T]
+[DELETED:  W M T ( — ( - O • D o 2 2 S 2 o M W G R a n s w G R o T R I a C r • C S]
+[DELETED:  d f m T o p d i f L I t C F r t p g r f m a r f r C s]
+[DELETED:  E T t I a p I C 1 i i t a i a t h s . . . p C b m b T t t t]
+[DELETED:  S A X i a T 1 D 7 B " § f o t T a i a c i m a w i a b r l a d a p u § f a a i R t r m o t]
+[DELETED:  i 2 I 3 I § B r t f p b t L f s f y w t S C a c w s 1 a 1 o C S a o c t r o t o t a o]
+[DELETED:  S s a u i t w t /4- I./]
+
+
+================================================================================
+
+Raw Text:
+REFERRED
+TOr--01-44---
+-lrousE)
+(p/02_c/ /i52-(
+TWENTY-FOURTH NORTHERN MARIANAS COMMONWEALTH
+LEGISLATURE
+IN THE HOUSE OF REPRESENTATIVES
+ao-r
+J(4/K_
+02d,
+Session, 2025 H. B. 24-611
+71 -1
+A BILL FOR AN ACT
+To statutorily define the scope of the Commonwealth's annual
+General Revenues within the meaning of Article XV, Section 1(e)
+of the NMI Constitution.
+BE IT ENACTED BY THE 24TH NORTHERN MARIANAS
+COMMONWEALTH LEGISLATURE:
+1 Section 1. Findings and Purpose. The CNMI Constitution mandates that
+2 the Public School System (PSS) receive an annual budget of no less than 25% of
+3 the Commonwealth's General Revenues. Article XV, Section 1(e) states in relevant
+4 part, "Nile public elementary and secondary education system shall be guaranteed
+5 an annual budget of not less than twenty-five percent of the general revenues of the
+6 Commonwealth through an annual appropriation." This constitutional guarantee
+7 ensures two key principles: (1) a defined annual budget, allowing for consistent
+8 yearly planning rather than uncertain quarterly appropriations; and (2) a fixed
+9 minimum percentage allocation, ensuring PSS receives a portion of the
+10 Commonwealth's available revenue. However, the precise definition of "General
+11 Revenues" has been a subject of ongoing debate. This Act clarifies what constitutes
+12 General Revenues and, just as importantly, what does not.
+
+HOUSE BILL 24-
+1 Defining General Revenues as a Subset of Total Resources
+2 As a preliminary matter, General Revenues are defined as a subset of Total
+3 Resources, a broader category used in the Governor's annual budget proposals and
+4 House Concurrent Resolutions. While Total Resources include all CNMI revenues,
+5 General Revenues refer only to funds available for discretionary appropriation.
+6 In Fiscal Year 2024, Total Resources were reported as $158 million in the
+7 Governor's budget proposal and House Concurrent Resolution. However, this
+8 figure included restricted funds such as earmarked special revenues that are not
+9 freely available for appropriation.
+10 To implement Article XV effectively, General Revenues must be clearly
+11 defined. This prevents misunderstandings, legal disputes, and unintended
+12 constitutional changes. Thus, this Act defines General Revenues as equivalent to
+13 "Total Resources Available for Appropriation," the portion of Total Resources not
+14 defined as Special Resources, or earmarked, obligated, or restricted by law. Under
+15 the current law and prevailing constitutional interpretation of "General Revenues,"
+16 PSS's minimum guaranteed annual budget would be approximately $27 million or
+17 25% of $111 million.
+18 Earmarks and Transfers Out: Adjusting Total Resources
+19 To determine General Revenues each year, subtract the total earmarks and
+20 transfers out from the projected Total Resources. For Fiscal Year 2025, with Total
+- 2 -
+
+HOUSE BILL 24- 0
+1 Resources at $158 million and earmarks and transfers out totaling $47 million, the
+2 General Revenue base is $111 million.
+3 While the budgetary amounts vary year to year, for FY 2025, the breakdown
+4 of $47,140,263 in earmarks and transfers out includes:
+5 • Marianas Visitors Authority (MVA) - Hotel Occupancy Tax (80%) —
+6 ($4,412,374)
+7 • Debt Service Obligations:
+8 o 2007 A Refunding Bond Payment — ($3,618,500)
+9 o 2007 B Refunding Bond Payment —($3,391,750)
+10 o Settlement Fund Bond Payment (PL 20-33) — ($32,000,000)
+11 o 2020 Pension Obligation Note Payment — ($2,886,600)
+12 o MPLT 2019 Loan Payment — ($831,039)
+13 Why General Revenues Cannot Equate to Gross Revenues
+14 General Revenues are not synonymous with Gross Revenues or Total
+15 Resources. If General Revenues included all $158 million of Commonwealth
+16 revenues, it would:
+17 • Create an inflated budget base for PSS, potentially diverting funds from
+18 critical public services such as healthcare, public safety, and infrastructure.
+19 • Strain the government's ability to maintain a balanced budget that ensures
+20 adequate funding across all sectors.
+- 3 -
+
+HOUSE BILL 24- 0
+1 Without deducting any financial obligations, $158 million in "General
+2 Revenues" would result in a minimum PSS annual budget of approximately $39
+3 million. The difference between 25% of gross revenues and 25% of revenues net
+4 of earmarks, obligatory Settlement Fund payments, and debt service is
+5 approximately $12 million dollars—or roughly one million dollars per month each
+6 fiscal year.
+7 Legal and Fiscal Justifications for This Definition
+8 In 2020, the CNMI Supreme Court issued an opinion that clearly supports
+9 the Legislature's interpretation of Article XV that General Revenues must exclude
+10 restricted and earmarked funds. The Court held, In the Matter of a Petition for
+11 Certified Question, 2020 MP 2, that,
+12 First, general and special revenue fall under the broader category of
+13 revenue, thereby precluding general revenue from meaning all
+14 revenue. Second, special revenue includes those revenues generated
+15 for a particular purpose which is related to the revenue's source. All
+16 revenues not designated as special under this standard are general
+17 revenues in which PSS is entitled twenty-five percent. Id. at ¶ 2.
+18
+19 Consistent with the Supreme Court opinion, the CNMI Attorney General
+20 stated, "General Revenues refer only to revenues deposited into the General Fund
+21 and do not include special revenues earmarked for designated purposes." (CNMI
+22 AG Legal Opinion, March 15, 2021) The AG Opinion also stated,
+23 Limiting General Revenues to discretionary funds ensures financial
+24 integrity and preserves the government's ability to fund essential
+25 public services. Including earmarked funds in General Revenues
+26 would create a structural imbalance, forcing the redirection of funds
+27 meant for legally mandated programs.
+- 4 -
+
+HOUSE BILL 24-
+1 Ensuring Fiscal Responsibility and Fairness
+2 The Legislature notes the volatility of the CNMI Constitution with respect
+3 to this issue. In 1985, ten years after the original Constitution was enacted without
+4 a guarantee with respect to education financing, it was amended to include a 15
+5 percent guaranteed budgetary floor for public education. In 1995, the very next
+6 opportunity to address the CNMI Constitution, members of the Third Constitutional
+7 Convention suggested removing Section 1(e) in its entirety, reporting that the
+8 Judiciary Committee:
+9 does not believe that earmarking has produced a higher quality of
+10 education over the past 10 years. The school system should have to
+11 justify its budget to the legislature just like any other agency. There
+12 are competing interests such as the health care system . . . .
+13 Earmarking revenues introduces an inflexibility into the system that
+14 may prevent the legislature from making the best choices in the
+15 interest of all the people."
+16
+17 Committee Report No. 5 at 15, Committee on Judiciary and Other Elected Offices
+18 (July 18, 1995).
+19 This Act avoids unpredictable courses of action, be it in the courts or in the
+20 ballot box that may adversely affect PSS, by statutorily establishing clear
+21 definitions. This will ensure greater budgetary transparency, reduce the risk of
+22 legal disputes that can lead to unintended consequences, and uphold the
+23 commitment to a well-funded and sustainable Public School System.
+- 5 -
+
+HOUSE BILL 24-40
+1 Section 2. Enactment. A new Chapter 8, titled, "CNMI Constitution Art.
+2 XV Definitions." is added to Title 1, Division 7, "Planning, Budgeting, and
+3 Auditing," of the Commonwealth Code that provides as follows:
+4 "CNMI Constitution Art. XV Definitions.
+5 § 101. General Revenues.
+Notwithstanding any CNMI law, regulation, or rule to the contrary,
+7 for the purposes of this Title, and in any context involving the
+8 mandatory appropriation of revenues for public education, the term
+9 General Revenues refers to Commonwealth revenue available for
+10 appropriation, which includes all budgetary resources legally
+11 available for appropriation in a given fiscal year, less those revenues
+12 defined as Special Revenues in this Chapter and less debt service
+13 and mandatory payments to the NMI Settlement Fund under the
+14 Settlement Agreement.
+15 § 102. Special Revenues
+16 Notwithstanding any CNMI law, regulation, or rule to the contrary,
+17 for the purposes of this Title, and in any context involving the
+18 mandatory appropriation of revenues for public education, the term
+19 Special Revenues refers to any revenue that meets all of the
+20 following criteria:
+- 6 -
+
+HOUSE BILL 24- Iti)
+1 1. The revenue is derived from a constitutionally or statutorily
+2 identified source;
+3 2. It is deposited into an account separate from the General
+4 Fund; and
+5 3. It is earmarked or dedicated to a specific constitutionally or
+6 statutorily defined purpose.
+7 § 103. Annual Budget
+8 Notwithstanding any CNMI law, regulation, or rule to the contrary,
+9 for the purposes of this Chapter, and in any context involving the
+10 mandatory appropriation of revenues for public education, the term
+11 "Annual Budget" refers to the financial plan approved by the
+12 Legislature for a specific fiscal year, which includes the
+13 appropriation of no less than 25% of General Revenues to the Public
+14 School System, as required by Article XV, Section 1(e) of the CNMI
+15 Constitution and consistent with sections 101 and 102 of this
+16 Chapter."
+17 Section 3. Severability. If any provisions of this Act or the application of
+18 any such provision to any person or circumstance should be held invalid by a court
+19 of competent jurisdiction, the remainder of this Act or the application of its
+20 provisions to persons or circumstances other than those to which it is held invalid
+21 shall not be affected thereby.
+- 7 -
+
+HOUSE BILL 24- 4,49
+1 Section 4. Savings Clause. This Act and any repealer contained herein
+2 shall not be construed as affecting any existing right acquired under contract or
+3 acquired under statutes repealed or under any rule, regulation, or order adopted
+4 under the statutes. Repealers contained in this Act shall not affect any proceeding
+5 instituted under or pursuant to prior law. The enactment of the Act shall not have
+6 the effect of terminating, or in any way modifying, any liability, civil or criminal,
+7 which shall already be in existence on the date this Act becomes effective.
+8 Section 5. Effective Date. This Act shall take effect upon its approval by
+9 the Governor, or it becoming law without such approval.
+Preflled: /2/y2025
+Date: d ---c7 0-45 - Introduced by:
+Rep.
+Reviewed for Legal Sufficiency by:
+.... ..„2„),....-- Cizcle._r
+use Legal Counsel
+- 8 -
+
+HOUSE OF REPRESENTATIVES
+TWENTY-FOURTH NORTHERN MARIANAS COMMONWEALTH
+LEGISLATURE
+EDMUND S. VILLAG ONI EZ
+Honorable Jesus P. Mainas Memorial Building
+SPEAKER Capitol Hill
+Saipan, MP 96950
+cnntileg.net
+MEMORANDUM
+DATE June 24, 2025
+TO CHAIRMAN JOHN PAUL P. SABLAN, WM COMMITTEE
+FROM SPEAKER EDMUND S. VILLAGOMEZ C-Sb
+SUBJECT : Referral of Legislation
+In accordance with Rule IX, Section 8, I hereby refer the following measure for the Ways and
+Means Committee's review:
+H. B. No. 24-33: To statutorily define the scope of the Commonwealth's annual
+General Revenues within the meaning of Article XV, Section 1(e) of the NMI
+Constitution. Introduced by Rep. Roman C. Benavente of Saipan, Precinct 1 (for
+himself, Representatives Representatives Bias Jonathan "BJ" T. Attao, Angelo A.
+Camacho, Joseph A. Flores, Marissa R. Flores, Thomas J. D1C. Manglona, Julie M.
+A. Ogo, John Paul P. Sablan, Patrick H. San Nicolas, Denita Kaipat Yangetmai,
+and Ralph N. Yumul) on June 20, 2025.
+The Committee has 60 days to submit a written report on the legislation; therefore, I urge the
+Committee to review promptly the aforementioned legislation.
+cc: Senate President
+House Members
+LB Director
+House Clerk
+TELEPHONE NO.: 670.664.8971/72 FACSIMILE NO.: 670.664.8900 EMAIL: rep.evillagomez@cnmileg.net
+
+HOUSE OF REPRESENTATIVES
+TWENTY-FOURTH NORTHERN MARIANAS COMMONWEALTH
+LEGISLATURE
+EDMUND S. VILLAGOMEZ
+Honorable Jesus P. Mafnas Memorial Building
+SPEAKER
+Capitol Hill
+Saipan, MP 96950
+ileg.net
+C71171,
+MEMORANDUM
+DATE June 24, 2025
+TO CHAIRMAN ROMAN C. BENAVENTE, EDUCATION
+COMMITTEE
+FROM SPEAKER EDMUND S. VILLAGOMEZ
+SUBJECT : Referral ooff Legislation
+In accordance with Rule IX, Section 8, I hereby refer the following measure for the Education
+Committee's review:
+H. B. NO. 24-33: To statutorily define the scope of the Commonwealth's annual
+General Revenues within the meaning of Article XV, Section 1(e) of the NMI
+Constitution. Introduced by Rep. Roman C. Benavente of Saipan, Precinct 1 (for
+himself, Representatives Representatives Bias Jonathan "BJ" T. Attao, Angelo A.
+Camacho, Joseph A. Flores, Marissa R. Flores, Thomas J. D1C. Manglona, Julie M.
+A. Ogo, John Paul P. Sablan, Patrick H. San Nicolas, Denita Kaipat Yangetmai,
+and Ralph N. Yumul) on June 20, 2025.
+The Committee has 60 days to submit a written report on the legislation; therefore, I urge the
+Committee to review promptly the aforementioned legislation.
+CC: Senate President
+House Members
+LB Director
+House Clerk
+TELEPHONE NO.: 670.664.8971/72 FACSIMILE NO.: 670.664.8900 EMAIL:rep.evillagomez@cnmileg.n et
+
+/
+(HOUSE)
+TWENTY-FOURTH NORTHERN MARIANAS COMMONWEALTH
+LEGISLATURE
+IN THE HOUSE OF REPRESENdTeA2TI-VrE S
+02O1
+WYLe
+Session, 2025 H. B. 24-Si
+7 1--1/1(d
+A BILL FOR AN ACT
+To statutorily define the scope of the Commonwealth's annual
+General Revenues within the meaning of Article XV, Section 1(e)
+of the NMI Constitution.
+BE IT ENACTED BY THE 24TH NORTHERN MARIANAS
+COMMONWEALTH LEGISLATURE:
+1 Section 1. Findings and Purpose. The CNMI Constitution mandates that
+2 the Public School System (PSS) receive an annual budget of no less than 25% of
+3 the Commonwealth's General Revenues. Article XV, Section 1(e) states in relevant
+4 part, "[Ole public elementary and secondary education system shall be guaranteed
+5 an annual budget of not less than twenty-five percent of the general revenues of the
+6 Commonwealth through an annual appropriation." This constitutional guarantee
+7 ensures two key principles: (1) a defined annual budget, allowing for consistent
+8 yearly planning rather than uncertain quarterly appropriations; and (2) a fixed
+9 minimum percentage allocation, ensuring PSS receives a portion of the
+10 Commonwealth's available revenue. However, the precise definition of "General
+11 Revenues" has been a subject of ongoing debate. This Act clarifies what constitutes
+12 General Revenues and, just as importantly, what does not.
+
+HOUSE BILL 24- $3
+1 Defining General Revenues as a Subset of Total Resources
+2 As a preliminary matter, General Revenues are defined as a subset of Total
+3 Resources, a broader category used in the Governor's annual budget proposals and
+4 House Concurrent Resolutions. While Total Resources include all CNMI revenues,
+5 General Revenues refer only to funds available for discretionary appropriation.
+6 In Fiscal Year 2024, Total Resources were reported as $158 million in the
+7 Governor's budget proposal and House Concurrent Resolution. However, this
+8 figure included restricted funds such as earmarked special revenues that are not
+9 freely available for appropriation.
+10 To implement Article XV effectively, General Revenues must be clearly
+11 defined. This prevents misunderstandings, legal disputes, and unintended
+12 constitutional changes. Thus, this Act defines General Revenues as equivalent to
+13 "Total Resources Available for Appropriation," the portion of Total Resources not
+14 defined as Special Resources, or earmarked, obligated, or restricted by law. Under
+15 the current law and prevailing constitutional interpretation of "General Revenues,"
+16 PSS's minimum guaranteed annual budget would be approximately $27 million or
+17 25% of $111 million.
+18 Earmarks and Transfers Out: Adjusting Total Resources
+19 To determine General Revenues each year, subtract the total earmarks and
+20 transfers out from the projected Total Resources. For Fiscal Year 2025, with Total
+- 2 -
+
+HOUSE BILL 24- 0
+1 Resources at $158 million and earmarks and transfers out totaling $47 million, the
+2 General Revenue base is $111 million.
+3 While the budgetary amounts vary year to year, for FY 2025, the breakdown
+4 of $47,140,263 in earmarks and transfers out includes:
+5 • Marianas Visitors Authority (MVA) - Hotel Occupancy Tax (80%) —
+6 ($4,412,374)
+7 • Debt Service Obligations:
+8 o 2007 A Refunding Bond Payment —($3,618,500)
+9 o 2007 B Refunding Bond Payment —($3,391,750)
+10 o Settlement Fund Bond Payment (PL 20-33) — ($32,000,000)
+11 o 2020 Pension Obligation Note Payment — ($2,886,600)
+12 o MPLT 2019 Loan Payment —($831,039)
+13 Why General Revenues Cannot Equate to Gross Revenues
+14 General Revenues are not synonymous with Gross Revenues or Total
+15 Resources. If General Revenues included all $158 million of Commonwealth
+16 revenues, it would:
+17 • Create an inflated budget base for PSS, potentially diverting funds from
+18 critical public services such as healthcare, public safety, and infrastructure.
+19 • Strain the government's ability to maintain a balanced budget that ensures
+20 adequate funding across all sectors.
+- 3 -
+
+HOUSE BILL 24-
+1 Without deducting any financial obligations, $158 million in "General
+2 Revenues" would result in a minimum PSS annual budget of approximately $39
+3 million. The difference between 25% of gross revenues and 25% of revenues net
+4 of earmarks, obligatory Settlement Fund payments, and debt service is
+5 approximately $12 million dollars—or roughly one million dollars per month each
+6 fiscal year.
+7 Legal and Fiscal Justifications for This Definition
+8 In 2020, the CNMI Supreme Court issued an opinion that clearly supports
+9 the Legislature's interpretation of Article XV that General Revenues must exclude
+10 restricted and earmarked funds. The Court held, In the Matter of a Petition for
+11 Certified Question, 2020 MP 2, that,
+12 First, general and special revenue fall under the broader category of
+13 revenue, thereby precluding general revenue from meaning all
+14 revenue. Second, special revenue includes those revenues generated
+15 for a particular purpose which is related to the revenue's source. All
+16 revenues not designated as special under this standard are general
+17 revenues in which PSS is entitled twenty-five percent. Id. at If 2.
+18
+19 Consistent with the Supreme Court opinion, the CNMI Attorney General
+20 stated, "General Revenues refer only to revenues deposited into the General Fund
+21 and do not include special revenues earmarked for designated purposes." (CNMI
+22 AG Legal Opinion, March 15, 2021) The AG Opinion also stated,
+23 Limiting General Revenues to discretionary funds ensures financial
+24 integrity and preserves the government's ability to fund essential
+25 public services. Including earmarked funds in General Revenues
+26 would create a structural imbalance, forcing the redirection of funds
+27 meant for legally mandated programs.
+- 4 -
+
+HOUSE BILL 24-
+1 Ensuring Fiscal Responsibility and Fairness
+2 The Legislature notes the volatility of the CNMI Constitution with respect
+3 to this issue. In 1985, ten years after the original Constitution was enacted without
+4 a guarantee with respect to education financing, it was amended to include a 15
+5 percent guaranteed budgetary floor for public education. In 1995, the very next
+6 opportunity to address the CNMI Constitution, members of the Third Constitutional
+7 Convention suggested removing Section 1(e) in its entirety, reporting that the
+8 Judiciary Committee:
+9 does not believe that earmarking has produced a higher quality of
+10 education over the past 10 years. The school system should have to
+11 justify its budget to the legislature just like any other agency. There
+12 are competing interests such as the health care system . . . .
+13 Earmarking revenues introduces an inflexibility into the system that
+14 may prevent the legislature from making the best choices in the
+15 interest of all the people."
+16
+17 Committee Report No. 5 at 15, Committee on Judiciary and Other Elected Offices
+18 (July 18, 1995).
+19 This Act avoids unpredictable courses of action, be it in the courts or in the
+20 ballot box that may adversely affect PSS, by statutorily establishing clear
+21 definitions. This will ensure greater budgetary transparency, reduce the risk of
+22 legal disputes that can lead to unintended consequences, and uphold the
+23 commitment to a well-funded and sustainable Public School System.
+- 5 -
+
+HOUSE BILL 24- 0
+1 Section 2. Enactment. A new Chapter 8, titled, "CNMI Constitution Art.
+2 XV Definitions." is added to Title 1, Division 7, "Planning, Budgeting, and
+3 Auditing," of the Commonwealth Code that provides as follows:
+4 "CNMI Constitution Art. XV Definitions.
+5 § 101. General Revenues.
+6 Notwithstanding any CNMI law, regulation, or rule to the contrary,
+7 for the purposes of this Title, and in any context involving the
+8 mandatory appropriation of revenues for public education, the term
+9 General Revenues refers to Commonwealth revenue available for
+10 appropriation, which includes all budgetary resources legally
+11 available for appropriation in a given fiscal year, less those revenues
+12 defined as Special Revenues in this Chapter and less debt service
+13 and mandatory payments to the NMI Settlement Fund under the
+14 Settlement Agreement.
+15 § 102. Special Revenues
+16 Notwithstanding any CNMI law, regulation, or rule to the contrary,
+17 for the purposes of this Title, and in any context involving the
+18 mandatory appropriation of revenues for public education, the term
+19 Special Revenues refers to any revenue that meets all of the
+20 following criteria:
+- 6 -
+
+HOUSE BILL 24-1 t3
+1 1. The revenue is derived from a constitutionally or statutorily
+2 identified source;
+3 2. It is deposited into an account separate from the General
+4 Fund; and
+5 3. It is earmarked or dedicated to a specific constitutionally or
+6 statutorily defined purpose.
+7 § 103. Annual Budget
+8 Notwithstanding any CNMI law, regulation, or rule to the contrary,
+9 for the purposes of this Chapter, and in any context involving the
+10 mandatory appropriation of revenues for public education, the term
+11 "Annual Budget" refers to the financial plan approved by the
+12 Legislature for a specific fiscal year, which includes the
+13 appropriation of no less than 25% of General Revenues to the Public
+14 School System, as required by Article XV, Section 1(e) of the CNMI
+15 Constitution and consistent with sections 101 and 102 of this
+16 Chapter."
+17 Section 3. Severabilitv. If any provisions of this Act or the application of
+18 any such provision to any person or circumstance should be held invalid by a court
+19 of competent jurisdiction, the remainder of this Act or the application of its
+20 provisions to persons or circumstances other than those to which it is held invalid
+21 shall not be affected thereby.
+- 7 -
+
+HOUSE BILL 24- V)
+1 Section 4. Savings Clause. This Act and any repealer contained herein
+2 shall not be construed as affecting any existing right acquired under contract or
+3 acquired under statutes repealed or under any rule, regulation, or order adopted
+4 under the statutes. Repealers contained in this Act shall not affect any proceeding
+5 instituted under or pursuant to prior law. The enactment of the Act shall not have
+6 the effect of terminating, or in any way modifying, any liability, civil or criminal,
+7 which shall already be in existence on the date this Act becomes effective.
+8 Section 5. Effective Date. This Act shall take effect upon its approval by
+9 the Governor, or it becoming law without such approval.
+Prefiled: /2t(2025
+Date: /75i---c2, 0-4 - Introduced by:
+Reviewed for Legal Sufficiency by:
+.- .--3- .2 . .--)---- 4/ 2.ob-Jr
+use Legal Counsel
+- 8 -
+
+[DELETED: 1- s t s o t a t t p a e y r t a ( a P a o]
+[DELETED:  D H G I F 2 T R w r a $ m i t G b p a H C R H t f f T T p l d a u c " 2]
+[DELETED:  G W • M ( - O ( — • D o 2 2 S o o M W G R a n s w G R o T R I G R a $ m r C c]
+[DELETED:  W d a f o $ m i R m o o S F p a d i f L t r F r t g f m a a]
+[DELETED:  E T t I a p I o C s S 1 i r t J d a i s a h c s . . . . m i C ( b t a P s c t a t]
+[DELETED:  A D i a t 1 D 7 " a A " § f o t T i a c i t m G a i a b r l a d a p u § f t a i c t R t a t a o]
+[DELETED:  2 I f " r t t f p b t f a s f y i t S C a c w s a 1 o t C a o c j t r t A o t a o i]
+[DELETED:  S s a u i t w Sd- I]
+[DELETED:  M C J S C : R R w S]
+[DELETED:  : R A 1 u]
+[DELETED: 1 s t s o a F t t p a C e y p u a a a e P a o t H]
+[DELETED:  A H F Y 2 R w a $ m i b p a C R t f T d T p m l d a " t 2 T]
+[DELETED:  W M T ( — ( - O • D o 2 2 S 2 o M W G R a n s w G R o T R I a C r • C S]
+[DELETED:  d f m T o p d i f L I t C F r t p g r f m a r f r C s]
+[DELETED:  E T t I a p I C 1 i i t a i a t h s . . . p C b m b T t t t]
+[DELETED:  S A X i a T 1 D 7 B " § f o t T a i a c i m a w i a b r l a d a p u § f a a i R t r m o t]
+[DELETED:  i 2 I 3 I § B r t f p b t L f s f y w t S C a c w s 1 a 1 o C S a o c t r o t o t a o]
+[DELETED:  S s a u i t w t /4- I./]

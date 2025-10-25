@@ -1,0 +1,665 @@
+Title: A BILL FOR AN ACT
+Official Title: A BILL FOR AN ACT
+Number of Sections: 2
+Source: versions - HB 24-25
+Media Type: application/pdf
+Strikethrough Detection: 13 sections found
+
+================================================================================
+
+Section 1:
+TWENTY-FOURTH NORTHERN MARIANAS COMMONWEALTH
+LEGISLATURE
+IN THE HOUSE OF REPRESENTATIVES
+Regular Session, 2025
+To establish mandatory consecutive sentencing for repeat
+felony offenders on probation or parole, and to ensure
+consistent application of sentencing laws.
+BE IT ENACTED BY THE 24Th NORTHERN MARIANAS
+COMMONWEALTH LEGISLATURE:
+1 Section 1. Findings and Purpose. The Legislature finds that public safety
+2 and trust in the criminal justice system are undermined when individuals with
+3 repeated felony convictions continue to reoffend, even after being granted
+4 opportunities for rehabilitation through probation or parole.
+5 Under the existing legal framework, a person convicted of a felony may
+6 receive a suspended execution of sentence under 6 CMC § 4105 or a suspended
+7 imposition of sentence under 6 CMC § 4113, and be placed on probation. If such
+8 individuals violate the terms of their probation, courts retain discretion to revoke or
+9 modify the suspended sentence. In cases where a new offense is committed, a
+10 portion of the suspended sentence may be reimposed, and the court retains
+11 discretion to determine whether the prior and new sentences run concurrently or
+12 consecutively. Similarly, parolees who commit new offenses during their term of
+HOUSE BILL
+1 supervision may be subject to new criminal charges, but the original sentence for
+2 which parole was granted is not automatically reimposed and may be served
+3 concurrently with the new sentence.
+4 The Legislature finds that this discretionary model is insufficient to deter
+5 habitual offenders, particularly where it allows individuals with multiple felony
+6 convictions to face fragmented or lenient sentencing outcomes. This contributes to
+7 a public perception that the criminal justice system fails to impose meaningful or
+8 escalating consequences for repeat criminal behavior. In cases where a person
+9 commits a third or subsequent felony while on probation or parole for a second or
+10 subsequent felony, the potential for rehabilitation is significantly diminished, and
+11 the need for accountability and public protection becomes more urgent.
+12 To address this concern, and to enhance public confidence in the criminal
+13 justice system, the Legislature finds it necessary to strengthen sentencing
+14 requirements for repeat felony offenders. This Act establishes a mandatory
+15 framework under which, upon a third felony conviction—when the offender was
+16 on probation or parole for a second or later felony at the time the new offense was
+17 committed—the court must reimpose the full suspended sentence from the prior
+18 conviction and order it to be served consecutively to the sentence for the new
+19 felony. This Act amends 6 CMC § 4105 to reflect this mandate and provides a
+20 definition of "felony conviction" consistent with existing sentencing law, excluding
+21 convictions for which the individual was unconditionally discharged more than ten
+- 2 -
+241- 2s-
+HOUSE BILL
+1 years prior to the commission of the new offense.
+2 Additionally, this Act amends 6 CMC § 4104 to require that courts inform
+3 defendants that a future felony committed while under probation or parole for a
+4 prior felony will result in the full reimposition of the prior sentence, to be served
+5 consecutively. It also amends 6 CMC § 4284 to ensure that the same rule applies
+6 when the individual is on parole instead of probation. Further, the Act amends 6
+7 CMC § 4113 to provide that where a defendant on probation under a suspended
+8 imposition of sentence for a second or subsequent felony is convicted of a new
+9 felony, the court must impose a sentence for the prior offense and require that it be
+10 served consecutively to the new sentence.
+11 To ensure internal consistency within the affected provisions, this Act also
+12 includes a technical amendment to 6 CMC § 4113(i) to correct a citation to a cross-
+13 referenced statute and to clarify that, in cases where probation is revoked for
+14 noncompliance with conditions such as payment of restitution or participation in
+15 counseling, the court may impose sentencing as described in subsections (f) and
+16 (g). Currently, subsection (i) references subsection (e), which is unrelated to
+17 sentencing.
+18 Last, to avoid any ambiguity regarding the scope of this Act, the Legislature
+19 clarifies that the enhanced sentencing provisions shall apply only to felony offenses
+20 committed on or after the effective date of this Act. However, prior felony
+21 convictions, regardless of when they occurred, may be used to trigger the
+- 3 -
+2 it- 2s-
+HOUSE BELL
+1 sentencing provisions of this Act, provided they meet the statutory criteria—such
+2 as falling within the ten-year lookback period and qualifying as felonies under
+3 Commonwealth law or their equivalent in another jurisdiction. This ensures the
+4 Act's application is prospective while honoring its deterrent and accountability
+5 objectives.
+6 Through these targeted amendments, this Act ensures that repeat felony
+7 offenders face clear and predictable consequences for continued criminal behavior.
+8 By eliminating judicial discretion to impose concurrent sentences in the context of
+9 third felony convictions committed while under supervised release, the Act
+10 reinforces the seriousness of committing multiple criminal offenses, promotes
+11 accountability, and supports the integrity of the sentencing, probation, and parole
+12 systems. In doing so, this Act protects public safety, deters recidivism, and restores
+13 public confidence in the fairness and consistency of the Commonwealth's criminal
+14 justice system.
+15 Section 2. Amendment. Section 4104 of Chapter 1, Division 4, Title 6 of
+16 the Commonwealth Code is hereby amended to add subsection (f) to read as
+17 follows:
+18 "(f) The sentencing court shall inform the defendant that should the
+19 defendant be convicted of a new felony offense while on probation or
+20 parole for a second or subsequent felony conviction, the entire
+21 suspended sentence from the prior conviction shall be reimposed and
+- 4 -
+244'
+HOUSE BILL
+21
+1 served consecutively pursuant to 6 CMC §§ 4105(i), 4113(h), and
+2 4284(b)."
+3 Section 3. Amendment. Sections 4105(a) and (i) of Chapter 1, Division 4,
+4 Title 6 of the Commonwealth Code are hereby amended to read as follows:
+5 "§ 4105. Alternative Sentence: Probation and Suspension of Execution
+6 of Sentence.
+7 (a) Except as restricted by a specific provision of a section of this lid;
+8 subsection (i) herein, or by 6 CMC § 4102, the court may suspend or
+9 modify all or part of a sentence and order probation or other sentencing
+10 where that action is deemed to be in the best interests ofjustice, and may
+11 reimpose all or part of the suspended sentence upon violation of the
+12 terms of the suspension. Probation may be limited to one or more
+13 counts, but in the absence of express limitation, shall extend to the entire
+14 sentence or judgment.
+15 [ • • •
+16 (i) A judgment of conviction on a new criminal charge based on conduct
+17 which occurred during the period of probation shall be conclusive proof
+18 that a violation of the probation has occurred. If the conviction results
+19 in the defendant having three or more felony convictions, and the
+20 defendant was on probation or parole for a second or later felony
+21 conviction at the time the offense was committed, the court, after
+- 5 -
+HOUSE BILL g 2 41-
+1 satisfying the procedural requirements stated in subsection (i)(3), shall
+2 order the entire suspended portion of the sentence from the prior
+3 conviction to be reimposed and served consecutively to the sentence
+4 imposed for the new offense. S ome portion of a suspended sentence
+5 revoked for a violation of law occurring during the period of probation
+6 shall be consecutive to any sentence imposed for the violation of law.
+7 The sentencing court shall clearly state for the record that the full term
+8 of the previously suspended sentence is to run consecutively and shall
+9 not be served concurrently with any other sentence. what portion of the
+10 revoked time is consecutive, and what portion is concurrent, if any, to
+11 time imposed for a subsequent violation of law. The court shall grant
+12 credit for any time the defendant has already served in custody that is
+13 specifically attributable to the suspended sentence being reimposed.
+14 (1) For the purposes of this subsection (i), "felony conviction" means a
+15 conviction in this or another jurisdiction for an offense having
+16 elements similar to those of a felony under Commonwealth law at
+17 the time the offense was committed. A prior felony conviction shall
+18 not be considered if ten or more years have passed between the
+19 defendant's unconditional discharge from all sentence-related
+20 obligations for that offense, including probation and parole, and the
+- 6 -
+
+Section 2:
+2.4- Rao
+HOUSE BILL
+1 commission of the present offense.
+2 (2) For purposes of this subsection (i), "unconditional discharge" means
+3 full release from all components of a criminal sentence, including
+4 imprisonment, probation, parole, or any other term of supervision,
+5 such that the person is no longer subject to any sentence-related
+6 condition.
+7 (3) If the court is required to reimpose a sentence pursuant to subsection
+8 (i), the court shall first provide the defendant an opportunity to be
+9 heard on the record regarding whether the statutory criteria for
+10 reimposition have been met, including but not limited to: whether
+11 the prior conviction qualifies as a felony conviction, whether the
+12 defendant was on probation or parole for a second or subsequent
+13 felony at the time of the new offense, and whether ten or more years
+14 have elapsed between the unconditional discharge from the prior
+15 conviction and the commission of the new offense. The defendant
+16 shall have the right to counsel at this proceeding. The court shall
+17 make express findings on the record as to each applicable criterion
+18 prior to ordering that the prior sentence be reimposed and served
+19 consecutively.
+20 { • • -1"
+- 7 -
+2'1..
+2t
+HOUSE BILL
+1 Section 4. Amendment. Sections 4113(a), (h), and (i) of Article 3, Chapter
+2 2, Division 4, Title 6 of the Commonwealth Code are hereby amended to read as
+3 follows:
+4 "§ 4113. Alternative Sentence: Probation and Suspension of Imposition
+5 of Sentence.
+6 (a) Except as restricted by a specific provision of a section of this Title or
+7 subsection (h) herein, upon entering a judgment of conviction of any
+8 offense under this title not punishable by life imprisonment, the court,
+9 when satisfied that the ends ofjustice and the best interests of the public
+10 as well as the probationer will be served, may suspend the imposition
+11 of sentence upon the terms and conditions which the court determines
+12 and may direct that the suspension continue for a period of time, not to
+13 exceed:
+14 (1) Three years from the date suspended imposition is granted, or the
+15 probationer is released from any period of incarceration imposed
+16 as a special condition of probation, whichever is greater, upon
+17 conviction for any misdemeanor; and
+18 (2) Ten years from the date suspended imposition is granted, or the
+19 probationer is released from any period of incarceration imposed
+20 as a special condition of probation, whichever is greater, upon
+21 conviction for any felony.
+8
+2q-2r
+HOUSE BILE
+1 The court shall place the person on probation, under the charge and
+2 supervision of the Office of Adult Probation during the suspension.
+3 [ • •
+4 (h) A judgment of conviction on a new criminal charge based on conduct
+5 which occurred during the period of probation shall be conclusive
+6 proof that a violation of the probation has occurred. If the conviction
+7 results in the defendant having three or more felony convictions, and
+8 the defendant was on probation under this section for a second or later
+9 felony conviction at the time the offense was committed, the court shall
+10 enter a conviction of record for the offense previously subject to
+11 suspended imposition and shall impose any sentence that could have
+12 been lawfully imposed at the time of conviction. Some portion of any
+13 Any sentence imposed on the conviction for which the probationer was
+14 originally granted suspended imposition shall be served consecutively
+15 to any sentence imposed for the subsequent conviction. The court shall
+16 grant credit for any time the defendant has already served in custody
+17 for the offense that was originally subject to suspended imposition. For
+18 purposes of this subsection, "felony conviction" and "unconditional
+19 discharge" shall have the same meanings as set forth in 6 CMC
+20 4105(i)(1)—(2).
+- 9 -
+2v-2r
+HOUSE BILL
+1 (1) If the court, pursuant to subsection (h) above, is required to impose
+2 any sentence that could have been lawfully imposed at the time of
+3 conviction, the court shall first provide the defendant an
+4 opportunity to be heard on the record regarding whether the
+5 statutory criteria for sentencing imposition have been met,
+6 including but not limited to: whether the prior conviction qualifies
+7 as a felony conviction, whether the defendant was on probation or
+8 parole for a second or subsequent felony at the time of the new
+9 offense, and whether ten or more years have elapsed between the
+10 unconditional discharge from the prior conviction and the
+11 commission of the new offense. The defendant shall have the right
+12 to counsel at this proceeding. The court shall make express findings
+13 on the record as to each applicable criterion prior to ordering that a
+14 sentence may be imposed and served consecutively.
+15 (2) When a probation violation is established by a judgment of
+16 conviction on a new criminal charge, no additional adjudication of
+17 the violation is required. However, before imposing sentence for
+18 the offense previously subject to suspended imposition, the court
+19 shall conduct a sentencing hearing at which the defendant shall
+20 have the right to be represented by counsel, to be heard in
+21 mitigation, to present relevant evidence, and to make a personal
+- 10 -
+ef-2c
+HOUSE BILL
+1 statement to the court. The court shall determine and pronounce
+2 sentence in open court, stating its reasons on the record.
+3 (i) If the court finds a violation of probation based on the probationer's
+4 failure to perform any special condition of probation, pay restitution,
+5 fees or fines, participate in counseling, or perform community work
+6 service, a conviction of record shall enter, and the court may impose
+7 sentence as described in §§. 4113(e)L0=fg)., and may, in addition,
+8 extend the period of probation up to the maximum period allowable by
+9 law for the crime for which the probationer was granted suspended
+10 imposition, in order to ensure compliance with the conditions
+11 originally imposed. Before finding a violation of probation based on
+12 the failure to pay restitution, fees, or fines, the Court must find by a
+13 preponderance of the evidence that the probationer has made no efforts
+14 to pay and has the ability to do so.
+,,
+15 [ • • • i•
+16 Section 5. Amendment. Section 4284 of Article 3, Chapter 2, Division 4,
+17 Title 6 of the Commonwealth Code is hereby to read as follows:
+18 "§ 4284. Condition of Parole.
+19 (a) Parole supervision fees shall be imposed as an additional condition of
+20 parole, in accordance with the provisions of this Act which shall be
+-11-
+IF r
+2
+HOUSE BILL
+1 applicable to all parolees, including those currently on parole
+2 supervision.
+3 (b) If a parolee is convicted of a new felony offense committed during the
+4 period of parole supervision, and the conviction results in the parolee
+5 having three or more felony convictions, then parole shall be revoked
+6 by operation of law for the prior conviction. The court shall order that
+7 the parolee serve the entire remaining unserved term of imprisonment
+8 from the prior conviction, which shall be served consecutively to the
+9 sentence for the new felony. The court shall grant credit for any time
+10 the defendant has already served in custody that is specifically
+11 attributable to the sentence for the prior conviction. For purposes of
+12 this subsection, "felony conviction" and "unconditional discharge"
+13 shall have the same meanings as set forth in 6 CMC 4105(i)(1)—(2)."
+14 Section 6. Severability. If any provisions of this Act or the application of
+15 any such provision to any person or circumstance should be held invalid by a court
+16 of competent jurisdiction, the remainder of this Act or the application of its
+17 provisions to persons or circumstances other than those to which it is held invalid
+18 shall not be affected thereby.
+19 Section 7. Savings Clause. This Act and any repealer contained herein
+20 shall not be construed as affecting any existing right acquired under contract or
+21 acquired under statutes repealed or under any rule, regulation, or order adopted
+- 12 -
+a qs-zr
+HOUSE BILL
+1 under the statutes. Repealers contained in this Act shall not affect any proceeding
+2 instituted under or pursuant to prior law. The enactment of the Act shall not have
+3 the effect of terminating, or in any way modifying, any liability, civil or criminal,
+4 which shall already be in existence on the date this Act becomes effective.
+5 Section 8. Effective Date. This Act shall take effect upon its approval by
+6 the Governor, or it becoming law without such approval. The provisions of this Act
+7 shall apply to any felony offense committed on or after the effective date of this
+8 Act, regardless of the date of any prior felony convictions, provided that such prior
+9 convictions satisfy the criteria set forth in this Act, including the requirement that
+10 fewer than ten years have passed between the individual's unconditional discharge
+11 from all sentence-related obligations for the prior offense and the commission of
+12 the new felony. This Act shall not apply to offenses committed before its effective
+13 date.
+Prefiled: 4///Y6 (A'S —
+Date: Introduced by:
+Revie legal sufficiency by:
+Legal Counsel
+Date: Wi57/26-
+- 13 -
+[DELETED:  o o o p a t S a t t r f c t r e a b o t r i i m w p o t s m b r t c r d c]
+[DELETED:  s p w g i a a m b s c h c a b s j t f i t s f f T e a t]
+[DELETED:  A d p c w C i s i r s a c w i r n c C s ( s ( w i u s c o o t e o t A p o w m b t t]
+[DELETED:  s a C A r o B t f c c w u s r t A r t s o c m c o p a S C C h a t s ( " T c s t t s t d f s o t e]
+[DELETED:  s c p t 6 § 4 4 4 S " S ( s o s m b l t o m c ( w t h o m a t o o p a s l a t t w c]
+[DELETED: 4 t e p o s f t c i o r T o n s ( c i t o a f a o h t n d a s]
+[DELETED:  i o t r r w t s c t f s •]
+[DELETED:  S 2 P o ( e o b a e c o w i c ( a c o i u]
+[DELETED:  • ( o t o b p t a c o f t o s t A t a s i 6]
+[DELETED:  a t c s f p t d a t b h o t r r w t c f s i h b m t a u d f p c a t o W a v e b j o r t b t h]
+[DELETED:  ( o b f f s § 4 a m i a a d i e l i i o t e c w t o p • "]
+[DELETED:  r a t p i c o s ( p h f t d h a s i c t i s t s c a " s a c t r t A o t o i p s T s]
+[DELETED:  u t w t s c f f t d 4S]
+
+
+================================================================================
+
+Raw Text:
+TWENTY-FOURTH NORTHERN MARIANAS COMMONWEALTH
+LEGISLATURE
+IN THE HOUSE OF REPRESENTATIVES
+Regular Session, 2025
+A BILL FOR AN ACT
+To establish mandatory consecutive sentencing for repeat
+felony offenders on probation or parole, and to ensure
+consistent application of sentencing laws.
+BE IT ENACTED BY THE 24Th NORTHERN MARIANAS
+COMMONWEALTH LEGISLATURE:
+1 Section 1. Findings and Purpose. The Legislature finds that public safety
+2 and trust in the criminal justice system are undermined when individuals with
+3 repeated felony convictions continue to reoffend, even after being granted
+4 opportunities for rehabilitation through probation or parole.
+5 Under the existing legal framework, a person convicted of a felony may
+6 receive a suspended execution of sentence under 6 CMC § 4105 or a suspended
+7 imposition of sentence under 6 CMC § 4113, and be placed on probation. If such
+8 individuals violate the terms of their probation, courts retain discretion to revoke or
+9 modify the suspended sentence. In cases where a new offense is committed, a
+10 portion of the suspended sentence may be reimposed, and the court retains
+11 discretion to determine whether the prior and new sentences run concurrently or
+12 consecutively. Similarly, parolees who commit new offenses during their term of
+
+HOUSE BILL
+1 supervision may be subject to new criminal charges, but the original sentence for
+2 which parole was granted is not automatically reimposed and may be served
+3 concurrently with the new sentence.
+4 The Legislature finds that this discretionary model is insufficient to deter
+5 habitual offenders, particularly where it allows individuals with multiple felony
+6 convictions to face fragmented or lenient sentencing outcomes. This contributes to
+7 a public perception that the criminal justice system fails to impose meaningful or
+8 escalating consequences for repeat criminal behavior. In cases where a person
+9 commits a third or subsequent felony while on probation or parole for a second or
+10 subsequent felony, the potential for rehabilitation is significantly diminished, and
+11 the need for accountability and public protection becomes more urgent.
+12 To address this concern, and to enhance public confidence in the criminal
+13 justice system, the Legislature finds it necessary to strengthen sentencing
+14 requirements for repeat felony offenders. This Act establishes a mandatory
+15 framework under which, upon a third felony conviction—when the offender was
+16 on probation or parole for a second or later felony at the time the new offense was
+17 committed—the court must reimpose the full suspended sentence from the prior
+18 conviction and order it to be served consecutively to the sentence for the new
+19 felony. This Act amends 6 CMC § 4105 to reflect this mandate and provides a
+20 definition of "felony conviction" consistent with existing sentencing law, excluding
+21 convictions for which the individual was unconditionally discharged more than ten
+- 2 -
+
+241- 2s-
+HOUSE BILL
+1 years prior to the commission of the new offense.
+2 Additionally, this Act amends 6 CMC § 4104 to require that courts inform
+3 defendants that a future felony committed while under probation or parole for a
+4 prior felony will result in the full reimposition of the prior sentence, to be served
+5 consecutively. It also amends 6 CMC § 4284 to ensure that the same rule applies
+6 when the individual is on parole instead of probation. Further, the Act amends 6
+7 CMC § 4113 to provide that where a defendant on probation under a suspended
+8 imposition of sentence for a second or subsequent felony is convicted of a new
+9 felony, the court must impose a sentence for the prior offense and require that it be
+10 served consecutively to the new sentence.
+11 To ensure internal consistency within the affected provisions, this Act also
+12 includes a technical amendment to 6 CMC § 4113(i) to correct a citation to a cross-
+13 referenced statute and to clarify that, in cases where probation is revoked for
+14 noncompliance with conditions such as payment of restitution or participation in
+15 counseling, the court may impose sentencing as described in subsections (f) and
+16 (g). Currently, subsection (i) references subsection (e), which is unrelated to
+17 sentencing.
+18 Last, to avoid any ambiguity regarding the scope of this Act, the Legislature
+19 clarifies that the enhanced sentencing provisions shall apply only to felony offenses
+20 committed on or after the effective date of this Act. However, prior felony
+21 convictions, regardless of when they occurred, may be used to trigger the
+- 3 -
+
+2 it- 2s-
+HOUSE BELL
+1 sentencing provisions of this Act, provided they meet the statutory criteria—such
+2 as falling within the ten-year lookback period and qualifying as felonies under
+3 Commonwealth law or their equivalent in another jurisdiction. This ensures the
+4 Act's application is prospective while honoring its deterrent and accountability
+5 objectives.
+6 Through these targeted amendments, this Act ensures that repeat felony
+7 offenders face clear and predictable consequences for continued criminal behavior.
+8 By eliminating judicial discretion to impose concurrent sentences in the context of
+9 third felony convictions committed while under supervised release, the Act
+10 reinforces the seriousness of committing multiple criminal offenses, promotes
+11 accountability, and supports the integrity of the sentencing, probation, and parole
+12 systems. In doing so, this Act protects public safety, deters recidivism, and restores
+13 public confidence in the fairness and consistency of the Commonwealth's criminal
+14 justice system.
+15 Section 2. Amendment. Section 4104 of Chapter 1, Division 4, Title 6 of
+16 the Commonwealth Code is hereby amended to add subsection (f) to read as
+17 follows:
+18 "(f) The sentencing court shall inform the defendant that should the
+19 defendant be convicted of a new felony offense while on probation or
+20 parole for a second or subsequent felony conviction, the entire
+21 suspended sentence from the prior conviction shall be reimposed and
+- 4 -
+
+244'
+HOUSE BILL
+21
+1 served consecutively pursuant to 6 CMC §§ 4105(i), 4113(h), and
+2 4284(b)."
+3 Section 3. Amendment. Sections 4105(a) and (i) of Chapter 1, Division 4,
+4 Title 6 of the Commonwealth Code are hereby amended to read as follows:
+5 "§ 4105. Alternative Sentence: Probation and Suspension of Execution
+6 of Sentence.
+7 (a) Except as restricted by a specific provision of a section of this lid;
+8 subsection (i) herein, or by 6 CMC § 4102, the court may suspend or
+9 modify all or part of a sentence and order probation or other sentencing
+10 where that action is deemed to be in the best interests ofjustice, and may
+11 reimpose all or part of the suspended sentence upon violation of the
+12 terms of the suspension. Probation may be limited to one or more
+13 counts, but in the absence of express limitation, shall extend to the entire
+14 sentence or judgment.
+15 [ • • •
+16 (i) A judgment of conviction on a new criminal charge based on conduct
+17 which occurred during the period of probation shall be conclusive proof
+18 that a violation of the probation has occurred. If the conviction results
+19 in the defendant having three or more felony convictions, and the
+20 defendant was on probation or parole for a second or later felony
+21 conviction at the time the offense was committed, the court, after
+- 5 -
+
+HOUSE BILL g 2 41-
+1 satisfying the procedural requirements stated in subsection (i)(3), shall
+2 order the entire suspended portion of the sentence from the prior
+3 conviction to be reimposed and served consecutively to the sentence
+4 imposed for the new offense. S ome portion of a suspended sentence
+5 revoked for a violation of law occurring during the period of probation
+6 shall be consecutive to any sentence imposed for the violation of law.
+7 The sentencing court shall clearly state for the record that the full term
+8 of the previously suspended sentence is to run consecutively and shall
+9 not be served concurrently with any other sentence. what portion of the
+10 revoked time is consecutive, and what portion is concurrent, if any, to
+11 time imposed for a subsequent violation of law. The court shall grant
+12 credit for any time the defendant has already served in custody that is
+13 specifically attributable to the suspended sentence being reimposed.
+14 (1) For the purposes of this subsection (i), "felony conviction" means a
+15 conviction in this or another jurisdiction for an offense having
+16 elements similar to those of a felony under Commonwealth law at
+17 the time the offense was committed. A prior felony conviction shall
+18 not be considered if ten or more years have passed between the
+19 defendant's unconditional discharge from all sentence-related
+20 obligations for that offense, including probation and parole, and the
+- 6 -
+
+2.4- Rao
+HOUSE BILL
+1 commission of the present offense.
+2 (2) For purposes of this subsection (i), "unconditional discharge" means
+3 full release from all components of a criminal sentence, including
+4 imprisonment, probation, parole, or any other term of supervision,
+5 such that the person is no longer subject to any sentence-related
+6 condition.
+7 (3) If the court is required to reimpose a sentence pursuant to subsection
+8 (i), the court shall first provide the defendant an opportunity to be
+9 heard on the record regarding whether the statutory criteria for
+10 reimposition have been met, including but not limited to: whether
+11 the prior conviction qualifies as a felony conviction, whether the
+12 defendant was on probation or parole for a second or subsequent
+13 felony at the time of the new offense, and whether ten or more years
+14 have elapsed between the unconditional discharge from the prior
+15 conviction and the commission of the new offense. The defendant
+16 shall have the right to counsel at this proceeding. The court shall
+17 make express findings on the record as to each applicable criterion
+18 prior to ordering that the prior sentence be reimposed and served
+19 consecutively.
+20 { • • -1"
+- 7 -
+
+2'1..
+2t
+HOUSE BILL
+1 Section 4. Amendment. Sections 4113(a), (h), and (i) of Article 3, Chapter
+2 2, Division 4, Title 6 of the Commonwealth Code are hereby amended to read as
+3 follows:
+4 "§ 4113. Alternative Sentence: Probation and Suspension of Imposition
+5 of Sentence.
+6 (a) Except as restricted by a specific provision of a section of this Title or
+7 subsection (h) herein, upon entering a judgment of conviction of any
+8 offense under this title not punishable by life imprisonment, the court,
+9 when satisfied that the ends ofjustice and the best interests of the public
+10 as well as the probationer will be served, may suspend the imposition
+11 of sentence upon the terms and conditions which the court determines
+12 and may direct that the suspension continue for a period of time, not to
+13 exceed:
+14 (1) Three years from the date suspended imposition is granted, or the
+15 probationer is released from any period of incarceration imposed
+16 as a special condition of probation, whichever is greater, upon
+17 conviction for any misdemeanor; and
+18 (2) Ten years from the date suspended imposition is granted, or the
+19 probationer is released from any period of incarceration imposed
+20 as a special condition of probation, whichever is greater, upon
+21 conviction for any felony.
+8
+
+2q-2r
+HOUSE BILE
+1 The court shall place the person on probation, under the charge and
+2 supervision of the Office of Adult Probation during the suspension.
+3 [ • •
+4 (h) A judgment of conviction on a new criminal charge based on conduct
+5 which occurred during the period of probation shall be conclusive
+6 proof that a violation of the probation has occurred. If the conviction
+7 results in the defendant having three or more felony convictions, and
+8 the defendant was on probation under this section for a second or later
+9 felony conviction at the time the offense was committed, the court shall
+10 enter a conviction of record for the offense previously subject to
+11 suspended imposition and shall impose any sentence that could have
+12 been lawfully imposed at the time of conviction. Some portion of any
+13 Any sentence imposed on the conviction for which the probationer was
+14 originally granted suspended imposition shall be served consecutively
+15 to any sentence imposed for the subsequent conviction. The court shall
+16 grant credit for any time the defendant has already served in custody
+17 for the offense that was originally subject to suspended imposition. For
+18 purposes of this subsection, "felony conviction" and "unconditional
+19 discharge" shall have the same meanings as set forth in 6 CMC
+20 4105(i)(1)—(2).
+- 9 -
+
+2v-2r
+HOUSE BILL
+1 (1) If the court, pursuant to subsection (h) above, is required to impose
+2 any sentence that could have been lawfully imposed at the time of
+3 conviction, the court shall first provide the defendant an
+4 opportunity to be heard on the record regarding whether the
+5 statutory criteria for sentencing imposition have been met,
+6 including but not limited to: whether the prior conviction qualifies
+7 as a felony conviction, whether the defendant was on probation or
+8 parole for a second or subsequent felony at the time of the new
+9 offense, and whether ten or more years have elapsed between the
+10 unconditional discharge from the prior conviction and the
+11 commission of the new offense. The defendant shall have the right
+12 to counsel at this proceeding. The court shall make express findings
+13 on the record as to each applicable criterion prior to ordering that a
+14 sentence may be imposed and served consecutively.
+15 (2) When a probation violation is established by a judgment of
+16 conviction on a new criminal charge, no additional adjudication of
+17 the violation is required. However, before imposing sentence for
+18 the offense previously subject to suspended imposition, the court
+19 shall conduct a sentencing hearing at which the defendant shall
+20 have the right to be represented by counsel, to be heard in
+21 mitigation, to present relevant evidence, and to make a personal
+- 10 -
+
+ef-2c
+HOUSE BILL
+1 statement to the court. The court shall determine and pronounce
+2 sentence in open court, stating its reasons on the record.
+3 (i) If the court finds a violation of probation based on the probationer's
+4 failure to perform any special condition of probation, pay restitution,
+5 fees or fines, participate in counseling, or perform community work
+6 service, a conviction of record shall enter, and the court may impose
+7 sentence as described in §§. 4113(e)L0=fg)., and may, in addition,
+8 extend the period of probation up to the maximum period allowable by
+9 law for the crime for which the probationer was granted suspended
+10 imposition, in order to ensure compliance with the conditions
+11 originally imposed. Before finding a violation of probation based on
+12 the failure to pay restitution, fees, or fines, the Court must find by a
+13 preponderance of the evidence that the probationer has made no efforts
+14 to pay and has the ability to do so.
+,,
+15 [ • • • i•
+16 Section 5. Amendment. Section 4284 of Article 3, Chapter 2, Division 4,
+17 Title 6 of the Commonwealth Code is hereby to read as follows:
+18 "§ 4284. Condition of Parole.
+19 (a) Parole supervision fees shall be imposed as an additional condition of
+20 parole, in accordance with the provisions of this Act which shall be
+-11-
+
+IF r
+2
+HOUSE BILL
+1 applicable to all parolees, including those currently on parole
+2 supervision.
+3 (b) If a parolee is convicted of a new felony offense committed during the
+4 period of parole supervision, and the conviction results in the parolee
+5 having three or more felony convictions, then parole shall be revoked
+6 by operation of law for the prior conviction. The court shall order that
+7 the parolee serve the entire remaining unserved term of imprisonment
+8 from the prior conviction, which shall be served consecutively to the
+9 sentence for the new felony. The court shall grant credit for any time
+10 the defendant has already served in custody that is specifically
+11 attributable to the sentence for the prior conviction. For purposes of
+12 this subsection, "felony conviction" and "unconditional discharge"
+13 shall have the same meanings as set forth in 6 CMC 4105(i)(1)—(2)."
+14 Section 6. Severability. If any provisions of this Act or the application of
+15 any such provision to any person or circumstance should be held invalid by a court
+16 of competent jurisdiction, the remainder of this Act or the application of its
+17 provisions to persons or circumstances other than those to which it is held invalid
+18 shall not be affected thereby.
+19 Section 7. Savings Clause. This Act and any repealer contained herein
+20 shall not be construed as affecting any existing right acquired under contract or
+21 acquired under statutes repealed or under any rule, regulation, or order adopted
+- 12 -
+
+a qs-zr
+HOUSE BILL
+1 under the statutes. Repealers contained in this Act shall not affect any proceeding
+2 instituted under or pursuant to prior law. The enactment of the Act shall not have
+3 the effect of terminating, or in any way modifying, any liability, civil or criminal,
+4 which shall already be in existence on the date this Act becomes effective.
+5 Section 8. Effective Date. This Act shall take effect upon its approval by
+6 the Governor, or it becoming law without such approval. The provisions of this Act
+7 shall apply to any felony offense committed on or after the effective date of this
+8 Act, regardless of the date of any prior felony convictions, provided that such prior
+9 convictions satisfy the criteria set forth in this Act, including the requirement that
+10 fewer than ten years have passed between the individual's unconditional discharge
+11 from all sentence-related obligations for the prior offense and the commission of
+12 the new felony. This Act shall not apply to offenses committed before its effective
+13 date.
+Prefiled: 4///Y6 (A'S —
+Date: Introduced by:
+Revie legal sufficiency by:
+Legal Counsel
+Date: Wi57/26-
+- 13 -
+
+[DELETED:  o o o p a t S a t t r f c t r e a b o t r i i m w p o t s m b r t c r d c]
+[DELETED:  s p w g i a a m b s c h c a b s j t f i t s f f T e a t]
+[DELETED:  A d p c w C i s i r s a c w i r n c C s ( s ( w i u s c o o t e o t A p o w m b t t]
+[DELETED:  s a C A r o B t f c c w u s r t A r t s o c m c o p a S C C h a t s ( " T c s t t s t d f s o t e]
+[DELETED:  s c p t 6 § 4 4 4 S " S ( s o s m b l t o m c ( w t h o m a t o o p a s l a t t w c]
+[DELETED: 4 t e p o s f t c i o r T o n s ( c i t o a f a o h t n d a s]
+[DELETED:  i o t r r w t s c t f s •]
+[DELETED:  S 2 P o ( e o b a e c o w i c ( a c o i u]
+[DELETED:  • ( o t o b p t a c o f t o s t A t a s i 6]
+[DELETED:  a t c s f p t d a t b h o t r r w t c f s i h b m t a u d f p c a t o W a v e b j o r t b t h]
+[DELETED:  ( o b f f s § 4 a m i a a d i e l i i o t e c w t o p • "]
+[DELETED:  r a t p i c o s ( p h f t d h a s i c t i s t s c a " s a c t r t A o t o i p s T s]
+[DELETED:  u t w t s c f f t d 4S]

@@ -1,0 +1,16 @@
+Title: [PDF content from https://cnmileg.net/documents/house/hse_conres/24/HCR24-1.pdf - requires PDF parsing library (pdfplumber, PyPDF2, or PyMuPDF)]
+Official Title: [PDF content from https://cnmileg.net/documents/house/hse_conres/24/HCR24-1.pdf - requires PDF parsing library (pdfplumber, PyPDF2, or PyMuPDF)]
+Number of Sections: 1
+Source: versions - HCR 24-1
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+[PDF content from https://cnmileg.net/documents/house/hse_conres/24/HCR24-1.pdf - requires PDF parsing library (pdfplumber, PyPDF2, or PyMuPDF)]
+
+
+================================================================================
+
+Raw Text:
+[PDF content from https://cnmileg.net/documents/house/hse_conres/24/HCR24-1.pdf - requires PDF parsing library (pdfplumber, PyPDF2, or PyMuPDF)]

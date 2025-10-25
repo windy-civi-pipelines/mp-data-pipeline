@@ -1,0 +1,874 @@
+Title: A BILL FOR AN ACT
+Official Title: A BILL FOR AN ACT
+Number of Sections: 1
+Source: versions - HB 24-28
+Media Type: application/pdf
+Strikethrough Detection: 17 sections found
+
+================================================================================
+
+Section 1:
+TWENTY-FOURTH NORTHERN MARIANAS COMMONWEALTH
+LEGISLATURE
+IN THE HOUSE OF REPRESENTATIVES
+,2025
+zy
+SESSION, 2025 H. B. 24-
+To establish a grand jury system in the Commonwealth for use in
+criminal investigations and prosecutions, and to provide for
+related powers and procedures.
+11
+BE IT ENACTED BY THE 24T NORTHERN MARIANAS
+COMMONWEALTH LEGISLATURE:
+1 Section 1. Findings and Purpose. The Legislature finds that the
+2 Commonwealth lacks a formal statutory mechanism for compelling testimony and
+3 the production of documents during the investigative stage of a criminal case. This
+4 limitation hampers the ability of the Office of the Attorney General (OAG) to fully
+5 investigate serious crimes, including complex financial crimes, public corruption,
+6 and organized criminal activity. Without the ability to issue subpoenas prior to
+7 charging decisions, investigations may stall or rely solely on voluntary cooperation,
+8 which can hinder effective law enforcement and public accountability.
+9 Under current Commonwealth law and practice, criminal prosecutions are
+10 initiated by the Attorney General through the filing of a criminal complaint or
+11 infoimation, followed by a preliminary examination in the Superior Court to
+12 determine probable cause. The Commonwealth does not presently employ a grand
+13 jury system, and there is no statutory authority for the OAG to compel testimony
+42
+HOUSE BILL 24-
+1 or documents in aid of a criminal investigation unless charges have already been
+2 filed. In contrast, most U.S. jurisdictions use grand juries both as investigative
+3 bodies with subpoena authority and as decision-making bodies for determining
+4 whether to return indictments.
+5 To address this gap and strengthen the Commonwealth's criminal justice
+6 system, this Act establishes a grand jury process as an optional investigative and
+7 charging mechanism. This Act also empowers the Superior Court to impanel grand
+8 juries upon the request of the Attorney General and authorizes grand juries to issue
+9 subpoenas, hear testimony, and return indictments—also known as "True Bills"-
+10 where probable cause exists. Use of the grand jury is discretionary and does not
+11 displace or limit the Attorney General's authority to proceed by criminal complaint
+12 or information under existing law.
+13 Grand jury proceedings under this Act are investigatory and non-adversarial
+14 in nature, and the accused and their legal counsel do not participate in or attend
+15 these proceedings. This structure is consistent with established practice in other
+16 jurisdictions, where grand juries serve to assess whether charges should be brought,
+17 not to determine guilt or innocence. The right to confront witnesses and present a
+18 defense is preserved in any subsequent prosecution, where full due process
+19 protections apply.
+20 Thus, this Act is intended to enhance the investigative tools available to the
+21 Office of the Attorney General, ensure proper oversight of charging decisions
+2
+HOUSE BILL 24- 2.1
+1 through citizen participation, and safeguard the rights of individuals through
+2 procedural protections and judicial review. By incorporating a grand jury process
+3 into the Commonwealth's legal framework, the Legislature aims to promote
+4 effective and transparent criminal investigations while maintaining flexibility in
+5 how prosecutions are initiated.
+6 Section 2. Enactment. Chapter 10 of Division 6, Title 6 of the
+7 Commonwealth Code is hereby enacted to read as follows:
+8 "Chapter 10. Grand Jury
+9 § 61001. Definitions.
+10 As used in this Chapter:
+11 (a) "Attorney General" means the Attorney General of the Commonwealth
+12 of the Northern Mariana Islands, or any Assistant Attorney General,
+13 investigator, or legal representative acting under the Attorney General's
+14 authority in connection with a grand jury proceeding.
+15 (b) "Foreperson" means the member of the grand jury appointed by the
+16 Superior Court to preside over the grand jury's proceedings, administer
+17 oaths, and sign indictments. The term includes the deputy foreperson in
+18 the absence or incapacity of the foreperson.
+19 (c) "Grand jury" means a body of citizens impaneled by the Commonwealth
+20 Superior Court to conduct criminal investigations and determine whether
+21 to return indictments.
+3
+HOUSE BILL 24-
+1 (d) "Grand jury investigation" means any investigation conducted under the
+2 authority of a grand jury, whether initiated by the grand jury itself or
+3 presented to it by the Attorney General.
+4 (e) "Indictment" means a formal written accusation returned by a grand
+5 jury, charging a person with one or more criminal offenses based on a
+6 finding of probable cause. An indictment may also be referred to as a
+7 "True Bill."
+8 (f) "No True Bill" means a formal determination by a grand jury that the
+9 evidence presented does not establish probable cause to indict a person
+10 for a criminal offense under investigation. A No True Bill is not an
+11 acquittal, a finding of innocence, or a final judgment, and it does not
+12 prevent the Attorney General from pursuing prosecution through other
+13 lawful means.
+14 (g) "Subpoena" means a legal order issued in the name of the
+15 Commonwealth Superior Court, directing a person to appear before the
+16 grand jury to testify or to produce specified documents, records, or other
+17 evidence.
+18 (h) "Target of the investigation" means a person as to whom the grand jury
+19 or Attorney General has substantial evidence linking them to the
+20 commission of a criminal offense and who is likely to be the subject of
+21 an indictment.
+4
+HOUSE BILL 24- 21
+1 (i) "Witness" means any person who is subpoenaed or otherwise called to
+2 appear before the grand jury to provide testimony or evidence.
+3 § 61002. Grand Jury Establishment and Composition.
+4 (a) A grand jury is hereby established as an instrumentality of the
+5 Commonwealth Superior Court for the purpose of conducting criminal
+6 investigations and considering whether to issue indictments. The
+7 Superior Court shall impanel a grand jury when requested by the
+8 Attorney General. The Attorney General's request to impanel a grand
+9 jury shall be made in writing to the Superior Court and shall include a
+10 general description of the subject matter to be investigated. The request
+11 need not identify specific individuals or allegations, but must provide
+12 sufficient detail to establish the nature and scope of the investigation. The
+13 court may file the request under seal to preserve grand jury secrecy. The
+14 decision to utilize a grand jury for purposes of indictment shall be at the
+15 discretion of the Attorney General, and nothing in this Chapter shall be
+16 construed to require the use of a grand jury as the exclusive method for
+17 initiating criminal prosecutions.
+18 (b) A grand jury shall consist of not fewer than 16 and not more than 23
+19 jurors, drawn at random from the same pool of eligible citizens used for
+20 trial juries in the Commonwealth. To the extent practicable, the grand
+21 jury should represent a fair cross-section of the community. All grand
+5
+-
+HOUSE BILL 24- It
+1 jurors must meet the qualifications for jurors under Commonwealth law.
+2 The Court may also select a reasonable number of alternate grand jurors,
+3 who will attend all sessions and replace any juror who is unable to
+4 continue.
+5 (c) A grand jury shall serve for a ternt not to exceed six (6) months, unless
+6 an extension of up to an additional six months is approved by the
+7 Presiding Judge upon a showing of continuing investigative need. The
+8 grand jury may be discharged earlier by the Court once its business is
+9 concluded or if the Attorney General and the Court find that its
+10 continuation is no longer in the public interest.
+11 § 61003. Grand Jury Proceedings and Powers.
+12 (a) Grand jurors shall be sworn to diligently inquire into crimes committed
+13 within the Commonwealth and to keep secret the proceedings of the
+14 grand jury. The court shall appoint one of the jurors as the foreperson
+15 and another as deputy foreperson. The foreperson or deputy foreperson
+16 will preside over grand jury sessions and may administer oaths to
+17 witnesses.
+18 (b) A majority of the total grand jurors, not including alternates, constitutes
+19 a quorum to conduct business. An affirmative vote of at least 12 grand
+20 jurors is required to return an indictment (a "True Bill"). If fewer than 12
+21 grand jurors concur, the result is no indictment (a "No True Bill").
+6
+HOUSE BILL 24- ZS
+1 (c) The grand jury is empowered to issue subpoenas to compel the
+2 attendance and testimony of witnesses, as well as the production of
+3 documents, records, and other physical evidence relevant to any matter
+4 within its investigation. Subpoenas shall be issued in the name of the
+5 Commonwealth Superior Court and may be initiated in one of two ways:
+6 (1) Ex parte, at the request of the Attorney General, without prior vote of
+7 the grand jury, provided the subpoena relates to a matter within the
+8 scope of the grand jury's investigation; or
+9 (2) Upon the vote of a majority of the grand jurors, based on their own
+10 deliberations or concerns.
+11 (d) All subpoenas must describe with reasonable particularity the testimony,
+12 documents, or objects sought, and must state the date, time, and location
+13 for compliance. Each subpoena shall inform the witness of their right to
+14 consult an attorney and to invoke applicable privileges. Each subpoena
+15 shall also contain a brief general description of the subject matter of the
+16 grand jury's investigation, sufficient to allow the recipient to understand
+17 the nature of the inquiry and to assert any legal objections or privileges.
+18 This description shall not disclose the identity of any target of the
+19 investigation unless necessary. All subpoenas shall bear the signature of
+20 either the grand jury foreperson or an authorized prosecutor and shall
+21 clearly indicate that they are issued in connection with a grand jury
+7
+21
+HOUSE BILL 24-
+1 investigation.
+2 (e) The Attorney General may, without prior vote of the grand jury, apply
+3 ex parte to the Superior Court for judicial approval of a subpoena. Upon
+4 approval by a judge, the clerk of court shall issue the subpoena under seal
+5 of the court. When a subpoena is issued without a prior vote of the grand
+6 jury, the Attorney General shall notify the grand jury of the subpoena's
+7 issuance at the next session of the grand jury. The grand jury shall retain
+8 the authority, by majority vote, to disapprove and revoke any subpoena
+9 issued at the Attorney General's request that was not previously voted on
+10 by the grand jury. A subpoena disapproved or revoked by the grand jury
+11 may not be enforced or further relied upon, and the Attorney General
+12 shall take reasonable steps to withdraw or suspend its effect if already
+13 served.
+14 (0 A grand jury subpoena may be served by any police officer, investigator
+15 of the OAG, or other person authorized to serve process, who is not a
+16 grand juror and is at least 18 years of age. Service may be made anywhere
+17 within the Commonwealth of the Northern Mariana Islands. The service
+18 shall be effected by delivering a copy of the subpoena to the person
+19 named, or to a proper agent or officer if the recipient is an entity, and
+20 informing them of the general nature of the inquiry. The person serving
+21 the subpoena shall tender any witness fee or other obligation required by
+8
+-
+gg
+HOUSE BILL 24-
+1 law at the time of service, unless such payment is waived or deferred
+2 pursuant to law or court rule. Proof of service shall be filed with the court
+3 by the server, noting the date, time, and manner of service.
+4 (g) Grand jury proceedings shall be conducted in secret. Only the following
+5 persons may be present in the grand jury room during sessions: grand
+6 jurors; the Attorney General or designated prosecutors and their
+7 necessary assistants; interpreters, if needed; a court reporter or recording
+8 technician as authorized by the Attorney General or the Court for the
+9 purpose of making a record of proceedings; and the testifying witness.
+10 No person under investigation may be present in the grand jury room
+11 except when called to testify as a witness. A witness who is called to
+12 testify may consult with their counsel outside the grand jury room.
+13 Prosecutors may present evidence, examine witnesses, and provide legal
+14 opinions to the grand jurors on matters of law. A verbatim record, such
+15 as a transcript or audio recording, of grand jury witness testimony and
+16 any instructions on the law shall be maintained under seal, accessible
+17 only to the prosecutors, the court, or later to the defendant, if required by
+18 law for purposes of discovery, impeachment, or as otherwise authorized
+19 by the court upon a showing of particularized need. Grand jurors and all
+20 persons present must maintain the secrecy of the proceedings. Any
+21 person who violates grand jury secrecy without authorization may be
+9
+g%
+HOUSE BILL 24-
+1 punished for contempt of court or as otherwise provided by law.
+2 (h) The grand jury is not authorized to issue public reports, statements,
+3 findings, or recommendations. Its authority is limited to conducting
+4 investigations and determining whether to return an indictment.
+5 § 61004. Witness Rights, Immunities, and Privileges.
+6 (a) Any witness appearing before the grand jury shall be examined under
+7 oath and must answer all questions and produce all evidence lawfully
+8 demanded by the grand jury, except where a valid privilege or
+9 constitutional protection applies. Witnesses are entitled to all privileges
+10 guaranteed by Commonwealth and federal law, including, but not limited
+11 to, the privilege against self-incrimination under the Fifth Amendment
+12 of the U.S. Constitution and Article I, Section 5 of the CNMI
+13 Constitution, attorney-client privilege, spousal privilege, and any other
+14 established privilege. Nothing in this Chapter shall be construed to
+15 abrogate any legal privilege or to compel a witness to incriminate
+16 themselves without proper safeguards.
+17 (b) If a witness asserts the privilege against self-incrimination, the grand
+18 jury and the Attorney General shall not compel the witness to testify,
+19 unless the Attorney General requests and obtains a court order granting
+20 immunity to that witness. Upon request of the Attorney General, the
+21 Commonwealth Superior Court may issue an order conferring immunity,
+- 10 -
+HOUSE BILL 24- Z)
+1 as provided by law, to compel the testimony of a witness who has
+2 invoked the right against self-incrimination. Such an order shall
+3 guarantee that no testimony or other information directly or indirectly
+4 derived from that testimony can be used against the witness in any
+5 criminal case, except a prosecution for perjury or false statements
+6 committed during the testimony. Once immunity is granted, the witness
+7 is required to answer the grand jury's questions. Refusal to testify after
+8 immunity is granted may be punished as contempt.
+9 (c) A witness subpoenaed to testify may consult with an attorney prior to
+10 testifying and may have an attorney available during their grand jury
+11 appearance. Although counsel for the witness may not be present inside
+12 the grand jury room during testimony, the witness may, at reasonable
+13 intervals, be excused from the grand jury room to consult with legal
+14 counsel. If the witness cannot afford counsel and is a target of the
+15 investigation, the court may appoint counsel for the witness for the
+16 limited purpose of advising on self-incrimination issues, consistent with
+17 the witness's constitutional rights.
+18 § 61005. Motions to Quash or Modify Subpoena; Challenge to Grand
+19 Jury Composition.
+20 (a) Any person or entity receiving a grand jury subpoena may, before the
+21 return date specified, file a motion in the Commonwealth Superior Court
+HOUSE BILL 24- 2.41
+1 to quash or modify the subpoena. The motion may be based on any
+2 appropriate legal grounds, including but not limited to: the subpoena
+3 does not reasonably relate to the subject matter of a legitimate grand jury
+4 investigation; the subpoena is excessively broad or unduly burdensome;
+5 the subpoena seeks privileged or otherwise protected information; or the
+6 service or issuance of the subpoena was defective. Such motion shall be
+7 filed under seal and shall be heard by the supervising judge of the grand
+8 jury or another judge designated by the court. The Attorney General may
+9 respond under seal. The court may quash or modify the subpoena if
+10 compliance would be unreasonable, oppressive, or unlawful, or may
+11 direct compliance subject to specified conditions, including those
+12 imposed by a separate protective order, such as the redaction of
+13 privileged material, limitations on disclosure, or other safeguards
+14 necessary to protect confidential or privileged information. In camera
+15 proceedings may be used to determine claims of privilege or relevance
+16 while maintaining grand jury secrecy.
+17 (b) A defendant may challenge the array of grand jurors or an individual
+18 grand juror on the ground that the selection process was not in
+19 accordance with law or that a juror was not legally qualified. Such a
+20 challenge must be raised by motion before trial. If the court finds that
+21 grand jury selection did not substantially comply with legal
+- 12-
+HOUSE BILL 24- I
+1 requirements, it may dismiss any indictment returned without prejudice.
+2 Minor irregularities that did not prejudice the defendant's rights or the
+3 integrity of the process shall not be grounds to dismiss an indictment.
+4 § 61006. Indictments and No True Bills.
+5 (a) If the grand jury finds, based on the evidence presented, that there is
+6 probable cause to believe a particular person has committed a criminal
+7 offense, it may return an indictment. An indictment is a written statement
+8 of the essential facts constituting the offense charged, signed by the
+9 foreperson of the grand jury. Each indictment shall be presented in open
+10 court by the foreperson or his designee to a judge of the Superior Court.
+11 The indictment itself shall be filed under seal and may be made public as
+12 the court directs. Upon the return of an indictment in open court, the
+13 Superior Court is authorized to proceed with arraignment and trial as in
+14 any other criminal case. After the return of an indictment and upon a
+15 request made by the Attorney General, the Superior Court shall cause a
+16 warrant of arrest or summons to be issued against the accused. An
+17 indictment returned by the grand jury shall carry the same legal effect as
+18 an information filed by the Attorney General. The Attorney General is
+19 not required to use the grand jury process to initiate prosecution and may
+20 proceed by criminal complaint or information as otherwise authorized by
+21 law.
+- 13 -
+HOUSE BILL 24- ZI
+1 (b)If the grand jury votes not to indict on a charge that was under
+2 consideration, the foreperson shall report a "No True Bill" to the court.
+3 A No True Bill shall be filed under seal. The target of the investigation
+4 does not acquire any vested right or immunity from prosecution by virtue
+5 of a No True Bill, and the Attorney General retains the discretion to later
+6 file a criminal complaint or infolination for the same offense, or it may
+7 seek a new grand jury indictment, if new evidence emerges or if the
+8 Attorney General determines that the interests of justice so require.
+9 § 61007. Contempt and Enforcement.
+10 (a) If any person neglects or refuses to comply with a grand jury subpoena
+11 without lawful excuse, the Attorney General may apply to the Superior
+12 Court for an order to show cause why the person should not be held in
+13 contempt. Upon application, or on its own initiative, the court may issue
+14 such an order and shall provide the person an opportunity to be heard. If
+15 the court finds that the failure to comply was willful and without lawful
+16 justification, it may hold the person in contempt. The court may exercise
+17 its authority to impose either civil or criminal contempt in accordance
+18 with applicable law and the nature of the violation. Remedies include
+19 ordering immediate compliance, imposing coercive fines, or committing
+20 the person to custody until compliance is achieved. Any period of
+21 confinement for civil contempt shall be solely for the purpose of
+- 14 -
+HOUSE BILL 24- IS
+1 compelling compliance, shall be subject to judicial oversight, and shall
+2 not exceed the duration of the grand jury's term.
+3 (b) If a witness appears before the grand jury but refuses to answer a
+4 question or produce evidence, and the court determines that the refusal
+5 is not justified by a valid privilege or other lawful excuse, the court may
+6 proceed as in subsection (a).
+7 (c) A person held in contempt under this Section shall have the right to
+8 appeal the contempt finding. The court shall consider any such appeal on
+9 an expedited basis, giving due regard to the liberty interest at stake.
+10 Where appropriate, the court may order immediate confinement for
+11 contempt, including, but not limited to, cases in which a person has been
+12 granted immunity under § 61004(b) and still refuses to testify. If a person
+13 willfully fails to produce subpoenaed documents or objects, the court
+14 may issue a warrant for the seizure of such materials or grant any other
+15 appropriate relief, consistent with the person's legal rights.
+16 (d) Any witness who knowingly gives materially false testimony under oath
+17 before the grand jury may be prosecuted for perjury under applicable law,
+18 in addition to any contempt sanctions the court may impose.
+19 § 61008. Supplementary Procedures and Rule-Making.
+20 (a) The Commonwealth Supreme Court may promulgate rules of court
+21 governing grand jury procedures and the issuance and enforcement of
+- 15 -
+HOUSE BILL 24- ZI
+1 grand jury subpoenas, to the extent not inconsistent with this Chapter.
+2 Such rules may include additional provisions for secrecy, the recording
+3 and transcribing of testimony, maintaining transcripts or recordings,
+4 selection and excuse of jurors, procedures for administering oaths,
+5 procedures governing the disclosure of grand jury records, and any other
+6 procedural safeguards or clarification of process. In the absence of
+7 specific provisions in this Chapter or court rules, the practice in the
+8 United States federal courts regarding grand juries may serve as a
+9 persuasive guide, insofar as it is applicable to the Commonwealth's
+10 circumstances and not in conflict with Commonwealth law or
+11 constitutional provisions.
+12 § 61009. No Limitation on Alternate Processes.
+13 (a) Nothing in this Chapter shall be construed to require an indictment by
+14 grand jury for any criminal prosecution in the Commonwealth.
+15 The Attorney General retains full authority to initiate criminal
+16 proceedings by criminal complaint or information and to proceed
+17 through preliminary examination in accordance with applicable law and
+18 court rules.
+19 (b) This Chapter establishes an alternative mechanism for initiating
+20 prosecution, particularly suited to complex, sensitive, or high-profile
+21 cases, but does not eliminate or supersede existing charging procedures.
+- 16-
+/8
+HOUSE BILL 24-
+1 Where an indictment has been returned by a grand jury, a separate
+2 preliminary examination shall not be required. The absence of a grand
+3 jury indictment shall not preclude prosecution by other lawful means."
+4 Section 3. Severability. If any provisions of this Act or the application of
+5 any such provision to any person or circumstance should be held invalid by a
+6 court of competent jurisdiction, the remainder of this Act or the application of its
+7 provisions to persons or circumstances other than those to which it is held invalid
+8 shall not be affected thereby.
+9 Section 4. Savings Clause. This Act and any repealer contained herein
+10 shall not be construed as affecting any existing right aquired under contract or
+11 acquired under statues repealed or under any rule, regulation, or order adopted
+12 under the statutes. Repealers in this Act shall not affect any proceeding instituted
+13 under or pursuant to prior law. The enactment of the Act shall not have the effect
+14 of terminating, or in any way modifying, any liability, civil or criminal, which
+15 shall already be in existence on the date this Act becomes effective.
+16 Section 5. Effective Date. This Act shall take into effect upon its approval
+17 by the Governor, or its becoming law without such approval.
+5/a/zo21
+Prefiled:
+Date: Introduced by:
+- 17-
+HOUSE BILL 24-14
+Reviewed for legal sufficiency by:
+egal Counsel
+Date: S /C i
+- 18-
+[DELETED: , H i a p a t p fT  S 1 F a P T L f t t C t l i a t c w b t G t b a i t t]
+[DELETED:  o f I c m U j b w a a b w T s j s w d o G i t j n d i p i a p w f d p p o t A p o c]
+[DELETED:  t c p a s t r o t p i C l f t L a t h S 2 E C o D 6 T 6 o t C " § A t N M a A A G i ( a t]
+[DELETED:  ( b j f " ( e o u N i a m a l o i t n o t o G s l t t]
+[DELETED:  A g j i e a a i o t i a w t i i T S C s a g j w r b t G g i (]
+[DELETED:  C C w w a a s a r w i u t c ( a e o u t a a m i a b t P g c o i t A G a t C f t i § ( C t k s g a p o g j s a m a o t]
+[DELETED:  ( T g j i e t i t c t a a t o w a w a t o p w C t s ( d ( d f t t T d s n d t i o a t o t i i t t i i c w a j]
+[DELETED:  i ( e a o i t i b m s s ( o g w s b e b o s n i]
+[DELETED:  l b p j t A G o p a t n t p N e m c w c o t g j r o b m m s o t A b]
+[DELETED:  p ( j i n f o r I a i l t c § ( a d b t g j e w a v p o g t o U C a A I S 5 o t C p N i t C b c t a a l p o t a w t i ( u t w o G]
+[DELETED:  p b l t c t t o a w w h s t r a s S a o g f t t c b u a t w i a c e a p f p o f s c i i ( h a j t f t r t w I t w a c a i t o t t m a c t w f t]
+[DELETED:  o m t m m b b o a g b n l t d t f j u s T c m q o m t s w b u o o u o m c s t s i t b a p o s a t r o m l o d o o s t w j o t t t s w n i q s n c l]
+[DELETED:  M i ( p o o t e f c t o c s b t f c t S u r w a o s t b a t a A a n]
+[DELETED:  t g j v n t i o a c t w u o f s j A § ( C w t t c c a p o f c b s f p]
+[DELETED:  c n ( I a w a b t g j b r t a a i p ( p i u h a a e b g r t l i a W t c m o i c f w a ( § T C m r o]
+[DELETED:  g t o t t o r a e o j p f a o p o c o p I t a o s s p t C o r t p i t U S f c r g j m s a a p g i a i i a t t C c a n i c w C l c § ( g j a c p i t C T G r f a t i b c o i t p T C a m f s t c o h]
+[DELETED:  W a i h b b a g j a s j a c p s S a u u o s S b ]
+
+
+================================================================================
+
+Raw Text:
+TWENTY-FOURTH NORTHERN MARIANAS COMMONWEALTH
+LEGISLATURE
+IN THE HOUSE OF REPRESENTATIVES
+,2025
+zy
+SESSION, 2025 H. B. 24-
+A BILL FOR AN ACT
+To establish a grand jury system in the Commonwealth for use in
+criminal investigations and prosecutions, and to provide for
+related powers and procedures.
+11
+BE IT ENACTED BY THE 24T NORTHERN MARIANAS
+COMMONWEALTH LEGISLATURE:
+1 Section 1. Findings and Purpose. The Legislature finds that the
+2 Commonwealth lacks a formal statutory mechanism for compelling testimony and
+3 the production of documents during the investigative stage of a criminal case. This
+4 limitation hampers the ability of the Office of the Attorney General (OAG) to fully
+5 investigate serious crimes, including complex financial crimes, public corruption,
+6 and organized criminal activity. Without the ability to issue subpoenas prior to
+7 charging decisions, investigations may stall or rely solely on voluntary cooperation,
+8 which can hinder effective law enforcement and public accountability.
+9 Under current Commonwealth law and practice, criminal prosecutions are
+10 initiated by the Attorney General through the filing of a criminal complaint or
+11 infoimation, followed by a preliminary examination in the Superior Court to
+12 determine probable cause. The Commonwealth does not presently employ a grand
+13 jury system, and there is no statutory authority for the OAG to compel testimony
+
+42
+HOUSE BILL 24-
+1 or documents in aid of a criminal investigation unless charges have already been
+2 filed. In contrast, most U.S. jurisdictions use grand juries both as investigative
+3 bodies with subpoena authority and as decision-making bodies for determining
+4 whether to return indictments.
+5 To address this gap and strengthen the Commonwealth's criminal justice
+6 system, this Act establishes a grand jury process as an optional investigative and
+7 charging mechanism. This Act also empowers the Superior Court to impanel grand
+8 juries upon the request of the Attorney General and authorizes grand juries to issue
+9 subpoenas, hear testimony, and return indictments—also known as "True Bills"-
+10 where probable cause exists. Use of the grand jury is discretionary and does not
+11 displace or limit the Attorney General's authority to proceed by criminal complaint
+12 or information under existing law.
+13 Grand jury proceedings under this Act are investigatory and non-adversarial
+14 in nature, and the accused and their legal counsel do not participate in or attend
+15 these proceedings. This structure is consistent with established practice in other
+16 jurisdictions, where grand juries serve to assess whether charges should be brought,
+17 not to determine guilt or innocence. The right to confront witnesses and present a
+18 defense is preserved in any subsequent prosecution, where full due process
+19 protections apply.
+20 Thus, this Act is intended to enhance the investigative tools available to the
+21 Office of the Attorney General, ensure proper oversight of charging decisions
+2
+
+HOUSE BILL 24- 2.1
+1 through citizen participation, and safeguard the rights of individuals through
+2 procedural protections and judicial review. By incorporating a grand jury process
+3 into the Commonwealth's legal framework, the Legislature aims to promote
+4 effective and transparent criminal investigations while maintaining flexibility in
+5 how prosecutions are initiated.
+6 Section 2. Enactment. Chapter 10 of Division 6, Title 6 of the
+7 Commonwealth Code is hereby enacted to read as follows:
+8 "Chapter 10. Grand Jury
+9 § 61001. Definitions.
+10 As used in this Chapter:
+11 (a) "Attorney General" means the Attorney General of the Commonwealth
+12 of the Northern Mariana Islands, or any Assistant Attorney General,
+13 investigator, or legal representative acting under the Attorney General's
+14 authority in connection with a grand jury proceeding.
+15 (b) "Foreperson" means the member of the grand jury appointed by the
+16 Superior Court to preside over the grand jury's proceedings, administer
+17 oaths, and sign indictments. The term includes the deputy foreperson in
+18 the absence or incapacity of the foreperson.
+19 (c) "Grand jury" means a body of citizens impaneled by the Commonwealth
+20 Superior Court to conduct criminal investigations and determine whether
+21 to return indictments.
+3
+
+HOUSE BILL 24-
+1 (d) "Grand jury investigation" means any investigation conducted under the
+2 authority of a grand jury, whether initiated by the grand jury itself or
+3 presented to it by the Attorney General.
+4 (e) "Indictment" means a formal written accusation returned by a grand
+5 jury, charging a person with one or more criminal offenses based on a
+6 finding of probable cause. An indictment may also be referred to as a
+7 "True Bill."
+8 (f) "No True Bill" means a formal determination by a grand jury that the
+9 evidence presented does not establish probable cause to indict a person
+10 for a criminal offense under investigation. A No True Bill is not an
+11 acquittal, a finding of innocence, or a final judgment, and it does not
+12 prevent the Attorney General from pursuing prosecution through other
+13 lawful means.
+14 (g) "Subpoena" means a legal order issued in the name of the
+15 Commonwealth Superior Court, directing a person to appear before the
+16 grand jury to testify or to produce specified documents, records, or other
+17 evidence.
+18 (h) "Target of the investigation" means a person as to whom the grand jury
+19 or Attorney General has substantial evidence linking them to the
+20 commission of a criminal offense and who is likely to be the subject of
+21 an indictment.
+4
+
+HOUSE BILL 24- 21
+1 (i) "Witness" means any person who is subpoenaed or otherwise called to
+2 appear before the grand jury to provide testimony or evidence.
+3 § 61002. Grand Jury Establishment and Composition.
+4 (a) A grand jury is hereby established as an instrumentality of the
+5 Commonwealth Superior Court for the purpose of conducting criminal
+6 investigations and considering whether to issue indictments. The
+7 Superior Court shall impanel a grand jury when requested by the
+8 Attorney General. The Attorney General's request to impanel a grand
+9 jury shall be made in writing to the Superior Court and shall include a
+10 general description of the subject matter to be investigated. The request
+11 need not identify specific individuals or allegations, but must provide
+12 sufficient detail to establish the nature and scope of the investigation. The
+13 court may file the request under seal to preserve grand jury secrecy. The
+14 decision to utilize a grand jury for purposes of indictment shall be at the
+15 discretion of the Attorney General, and nothing in this Chapter shall be
+16 construed to require the use of a grand jury as the exclusive method for
+17 initiating criminal prosecutions.
+18 (b) A grand jury shall consist of not fewer than 16 and not more than 23
+19 jurors, drawn at random from the same pool of eligible citizens used for
+20 trial juries in the Commonwealth. To the extent practicable, the grand
+21 jury should represent a fair cross-section of the community. All grand
+5
+-
+
+HOUSE BILL 24- It
+1 jurors must meet the qualifications for jurors under Commonwealth law.
+2 The Court may also select a reasonable number of alternate grand jurors,
+3 who will attend all sessions and replace any juror who is unable to
+4 continue.
+5 (c) A grand jury shall serve for a ternt not to exceed six (6) months, unless
+6 an extension of up to an additional six months is approved by the
+7 Presiding Judge upon a showing of continuing investigative need. The
+8 grand jury may be discharged earlier by the Court once its business is
+9 concluded or if the Attorney General and the Court find that its
+10 continuation is no longer in the public interest.
+11 § 61003. Grand Jury Proceedings and Powers.
+12 (a) Grand jurors shall be sworn to diligently inquire into crimes committed
+13 within the Commonwealth and to keep secret the proceedings of the
+14 grand jury. The court shall appoint one of the jurors as the foreperson
+15 and another as deputy foreperson. The foreperson or deputy foreperson
+16 will preside over grand jury sessions and may administer oaths to
+17 witnesses.
+18 (b) A majority of the total grand jurors, not including alternates, constitutes
+19 a quorum to conduct business. An affirmative vote of at least 12 grand
+20 jurors is required to return an indictment (a "True Bill"). If fewer than 12
+21 grand jurors concur, the result is no indictment (a "No True Bill").
+6
+
+HOUSE BILL 24- ZS
+1 (c) The grand jury is empowered to issue subpoenas to compel the
+2 attendance and testimony of witnesses, as well as the production of
+3 documents, records, and other physical evidence relevant to any matter
+4 within its investigation. Subpoenas shall be issued in the name of the
+5 Commonwealth Superior Court and may be initiated in one of two ways:
+6 (1) Ex parte, at the request of the Attorney General, without prior vote of
+7 the grand jury, provided the subpoena relates to a matter within the
+8 scope of the grand jury's investigation; or
+9 (2) Upon the vote of a majority of the grand jurors, based on their own
+10 deliberations or concerns.
+11 (d) All subpoenas must describe with reasonable particularity the testimony,
+12 documents, or objects sought, and must state the date, time, and location
+13 for compliance. Each subpoena shall inform the witness of their right to
+14 consult an attorney and to invoke applicable privileges. Each subpoena
+15 shall also contain a brief general description of the subject matter of the
+16 grand jury's investigation, sufficient to allow the recipient to understand
+17 the nature of the inquiry and to assert any legal objections or privileges.
+18 This description shall not disclose the identity of any target of the
+19 investigation unless necessary. All subpoenas shall bear the signature of
+20 either the grand jury foreperson or an authorized prosecutor and shall
+21 clearly indicate that they are issued in connection with a grand jury
+7
+
+21
+HOUSE BILL 24-
+1 investigation.
+2 (e) The Attorney General may, without prior vote of the grand jury, apply
+3 ex parte to the Superior Court for judicial approval of a subpoena. Upon
+4 approval by a judge, the clerk of court shall issue the subpoena under seal
+5 of the court. When a subpoena is issued without a prior vote of the grand
+6 jury, the Attorney General shall notify the grand jury of the subpoena's
+7 issuance at the next session of the grand jury. The grand jury shall retain
+8 the authority, by majority vote, to disapprove and revoke any subpoena
+9 issued at the Attorney General's request that was not previously voted on
+10 by the grand jury. A subpoena disapproved or revoked by the grand jury
+11 may not be enforced or further relied upon, and the Attorney General
+12 shall take reasonable steps to withdraw or suspend its effect if already
+13 served.
+14 (0 A grand jury subpoena may be served by any police officer, investigator
+15 of the OAG, or other person authorized to serve process, who is not a
+16 grand juror and is at least 18 years of age. Service may be made anywhere
+17 within the Commonwealth of the Northern Mariana Islands. The service
+18 shall be effected by delivering a copy of the subpoena to the person
+19 named, or to a proper agent or officer if the recipient is an entity, and
+20 informing them of the general nature of the inquiry. The person serving
+21 the subpoena shall tender any witness fee or other obligation required by
+8
+-
+
+gg
+HOUSE BILL 24-
+1 law at the time of service, unless such payment is waived or deferred
+2 pursuant to law or court rule. Proof of service shall be filed with the court
+3 by the server, noting the date, time, and manner of service.
+4 (g) Grand jury proceedings shall be conducted in secret. Only the following
+5 persons may be present in the grand jury room during sessions: grand
+6 jurors; the Attorney General or designated prosecutors and their
+7 necessary assistants; interpreters, if needed; a court reporter or recording
+8 technician as authorized by the Attorney General or the Court for the
+9 purpose of making a record of proceedings; and the testifying witness.
+10 No person under investigation may be present in the grand jury room
+11 except when called to testify as a witness. A witness who is called to
+12 testify may consult with their counsel outside the grand jury room.
+13 Prosecutors may present evidence, examine witnesses, and provide legal
+14 opinions to the grand jurors on matters of law. A verbatim record, such
+15 as a transcript or audio recording, of grand jury witness testimony and
+16 any instructions on the law shall be maintained under seal, accessible
+17 only to the prosecutors, the court, or later to the defendant, if required by
+18 law for purposes of discovery, impeachment, or as otherwise authorized
+19 by the court upon a showing of particularized need. Grand jurors and all
+20 persons present must maintain the secrecy of the proceedings. Any
+21 person who violates grand jury secrecy without authorization may be
+9
+
+g%
+HOUSE BILL 24-
+1 punished for contempt of court or as otherwise provided by law.
+2 (h) The grand jury is not authorized to issue public reports, statements,
+3 findings, or recommendations. Its authority is limited to conducting
+4 investigations and determining whether to return an indictment.
+5 § 61004. Witness Rights, Immunities, and Privileges.
+6 (a) Any witness appearing before the grand jury shall be examined under
+7 oath and must answer all questions and produce all evidence lawfully
+8 demanded by the grand jury, except where a valid privilege or
+9 constitutional protection applies. Witnesses are entitled to all privileges
+10 guaranteed by Commonwealth and federal law, including, but not limited
+11 to, the privilege against self-incrimination under the Fifth Amendment
+12 of the U.S. Constitution and Article I, Section 5 of the CNMI
+13 Constitution, attorney-client privilege, spousal privilege, and any other
+14 established privilege. Nothing in this Chapter shall be construed to
+15 abrogate any legal privilege or to compel a witness to incriminate
+16 themselves without proper safeguards.
+17 (b) If a witness asserts the privilege against self-incrimination, the grand
+18 jury and the Attorney General shall not compel the witness to testify,
+19 unless the Attorney General requests and obtains a court order granting
+20 immunity to that witness. Upon request of the Attorney General, the
+21 Commonwealth Superior Court may issue an order conferring immunity,
+- 10 -
+
+HOUSE BILL 24- Z)
+1 as provided by law, to compel the testimony of a witness who has
+2 invoked the right against self-incrimination. Such an order shall
+3 guarantee that no testimony or other information directly or indirectly
+4 derived from that testimony can be used against the witness in any
+5 criminal case, except a prosecution for perjury or false statements
+6 committed during the testimony. Once immunity is granted, the witness
+7 is required to answer the grand jury's questions. Refusal to testify after
+8 immunity is granted may be punished as contempt.
+9 (c) A witness subpoenaed to testify may consult with an attorney prior to
+10 testifying and may have an attorney available during their grand jury
+11 appearance. Although counsel for the witness may not be present inside
+12 the grand jury room during testimony, the witness may, at reasonable
+13 intervals, be excused from the grand jury room to consult with legal
+14 counsel. If the witness cannot afford counsel and is a target of the
+15 investigation, the court may appoint counsel for the witness for the
+16 limited purpose of advising on self-incrimination issues, consistent with
+17 the witness's constitutional rights.
+18 § 61005. Motions to Quash or Modify Subpoena; Challenge to Grand
+19 Jury Composition.
+20 (a) Any person or entity receiving a grand jury subpoena may, before the
+21 return date specified, file a motion in the Commonwealth Superior Court
+
+HOUSE BILL 24- 2.41
+1 to quash or modify the subpoena. The motion may be based on any
+2 appropriate legal grounds, including but not limited to: the subpoena
+3 does not reasonably relate to the subject matter of a legitimate grand jury
+4 investigation; the subpoena is excessively broad or unduly burdensome;
+5 the subpoena seeks privileged or otherwise protected information; or the
+6 service or issuance of the subpoena was defective. Such motion shall be
+7 filed under seal and shall be heard by the supervising judge of the grand
+8 jury or another judge designated by the court. The Attorney General may
+9 respond under seal. The court may quash or modify the subpoena if
+10 compliance would be unreasonable, oppressive, or unlawful, or may
+11 direct compliance subject to specified conditions, including those
+12 imposed by a separate protective order, such as the redaction of
+13 privileged material, limitations on disclosure, or other safeguards
+14 necessary to protect confidential or privileged information. In camera
+15 proceedings may be used to determine claims of privilege or relevance
+16 while maintaining grand jury secrecy.
+17 (b) A defendant may challenge the array of grand jurors or an individual
+18 grand juror on the ground that the selection process was not in
+19 accordance with law or that a juror was not legally qualified. Such a
+20 challenge must be raised by motion before trial. If the court finds that
+21 grand jury selection did not substantially comply with legal
+- 12-
+
+HOUSE BILL 24- I
+1 requirements, it may dismiss any indictment returned without prejudice.
+2 Minor irregularities that did not prejudice the defendant's rights or the
+3 integrity of the process shall not be grounds to dismiss an indictment.
+4 § 61006. Indictments and No True Bills.
+5 (a) If the grand jury finds, based on the evidence presented, that there is
+6 probable cause to believe a particular person has committed a criminal
+7 offense, it may return an indictment. An indictment is a written statement
+8 of the essential facts constituting the offense charged, signed by the
+9 foreperson of the grand jury. Each indictment shall be presented in open
+10 court by the foreperson or his designee to a judge of the Superior Court.
+11 The indictment itself shall be filed under seal and may be made public as
+12 the court directs. Upon the return of an indictment in open court, the
+13 Superior Court is authorized to proceed with arraignment and trial as in
+14 any other criminal case. After the return of an indictment and upon a
+15 request made by the Attorney General, the Superior Court shall cause a
+16 warrant of arrest or summons to be issued against the accused. An
+17 indictment returned by the grand jury shall carry the same legal effect as
+18 an information filed by the Attorney General. The Attorney General is
+19 not required to use the grand jury process to initiate prosecution and may
+20 proceed by criminal complaint or information as otherwise authorized by
+21 law.
+- 13 -
+
+HOUSE BILL 24- ZI
+1 (b)If the grand jury votes not to indict on a charge that was under
+2 consideration, the foreperson shall report a "No True Bill" to the court.
+3 A No True Bill shall be filed under seal. The target of the investigation
+4 does not acquire any vested right or immunity from prosecution by virtue
+5 of a No True Bill, and the Attorney General retains the discretion to later
+6 file a criminal complaint or infolination for the same offense, or it may
+7 seek a new grand jury indictment, if new evidence emerges or if the
+8 Attorney General determines that the interests of justice so require.
+9 § 61007. Contempt and Enforcement.
+10 (a) If any person neglects or refuses to comply with a grand jury subpoena
+11 without lawful excuse, the Attorney General may apply to the Superior
+12 Court for an order to show cause why the person should not be held in
+13 contempt. Upon application, or on its own initiative, the court may issue
+14 such an order and shall provide the person an opportunity to be heard. If
+15 the court finds that the failure to comply was willful and without lawful
+16 justification, it may hold the person in contempt. The court may exercise
+17 its authority to impose either civil or criminal contempt in accordance
+18 with applicable law and the nature of the violation. Remedies include
+19 ordering immediate compliance, imposing coercive fines, or committing
+20 the person to custody until compliance is achieved. Any period of
+21 confinement for civil contempt shall be solely for the purpose of
+- 14 -
+
+HOUSE BILL 24- IS
+1 compelling compliance, shall be subject to judicial oversight, and shall
+2 not exceed the duration of the grand jury's term.
+3 (b) If a witness appears before the grand jury but refuses to answer a
+4 question or produce evidence, and the court determines that the refusal
+5 is not justified by a valid privilege or other lawful excuse, the court may
+6 proceed as in subsection (a).
+7 (c) A person held in contempt under this Section shall have the right to
+8 appeal the contempt finding. The court shall consider any such appeal on
+9 an expedited basis, giving due regard to the liberty interest at stake.
+10 Where appropriate, the court may order immediate confinement for
+11 contempt, including, but not limited to, cases in which a person has been
+12 granted immunity under § 61004(b) and still refuses to testify. If a person
+13 willfully fails to produce subpoenaed documents or objects, the court
+14 may issue a warrant for the seizure of such materials or grant any other
+15 appropriate relief, consistent with the person's legal rights.
+16 (d) Any witness who knowingly gives materially false testimony under oath
+17 before the grand jury may be prosecuted for perjury under applicable law,
+18 in addition to any contempt sanctions the court may impose.
+19 § 61008. Supplementary Procedures and Rule-Making.
+20 (a) The Commonwealth Supreme Court may promulgate rules of court
+21 governing grand jury procedures and the issuance and enforcement of
+- 15 -
+
+HOUSE BILL 24- ZI
+1 grand jury subpoenas, to the extent not inconsistent with this Chapter.
+2 Such rules may include additional provisions for secrecy, the recording
+3 and transcribing of testimony, maintaining transcripts or recordings,
+4 selection and excuse of jurors, procedures for administering oaths,
+5 procedures governing the disclosure of grand jury records, and any other
+6 procedural safeguards or clarification of process. In the absence of
+7 specific provisions in this Chapter or court rules, the practice in the
+8 United States federal courts regarding grand juries may serve as a
+9 persuasive guide, insofar as it is applicable to the Commonwealth's
+10 circumstances and not in conflict with Commonwealth law or
+11 constitutional provisions.
+12 § 61009. No Limitation on Alternate Processes.
+13 (a) Nothing in this Chapter shall be construed to require an indictment by
+14 grand jury for any criminal prosecution in the Commonwealth.
+15 The Attorney General retains full authority to initiate criminal
+16 proceedings by criminal complaint or information and to proceed
+17 through preliminary examination in accordance with applicable law and
+18 court rules.
+19 (b) This Chapter establishes an alternative mechanism for initiating
+20 prosecution, particularly suited to complex, sensitive, or high-profile
+21 cases, but does not eliminate or supersede existing charging procedures.
+- 16-
+
+/8
+HOUSE BILL 24-
+1 Where an indictment has been returned by a grand jury, a separate
+2 preliminary examination shall not be required. The absence of a grand
+3 jury indictment shall not preclude prosecution by other lawful means."
+4 Section 3. Severability. If any provisions of this Act or the application of
+5 any such provision to any person or circumstance should be held invalid by a
+6 court of competent jurisdiction, the remainder of this Act or the application of its
+7 provisions to persons or circumstances other than those to which it is held invalid
+8 shall not be affected thereby.
+9 Section 4. Savings Clause. This Act and any repealer contained herein
+10 shall not be construed as affecting any existing right aquired under contract or
+11 acquired under statues repealed or under any rule, regulation, or order adopted
+12 under the statutes. Repealers in this Act shall not affect any proceeding instituted
+13 under or pursuant to prior law. The enactment of the Act shall not have the effect
+14 of terminating, or in any way modifying, any liability, civil or criminal, which
+15 shall already be in existence on the date this Act becomes effective.
+16 Section 5. Effective Date. This Act shall take into effect upon its approval
+17 by the Governor, or its becoming law without such approval.
+5/a/zo21
+Prefiled:
+Date: Introduced by:
+- 17-
+
+HOUSE BILL 24-14
+Reviewed for legal sufficiency by:
+egal Counsel
+Date: S /C i
+- 18-
+
+[DELETED: , H i a p a t p fT  S 1 F a P T L f t t C t l i a t c w b t G t b a i t t]
+[DELETED:  o f I c m U j b w a a b w T s j s w d o G i t j n d i p i a p w f d p p o t A p o c]
+[DELETED:  t c p a s t r o t p i C l f t L a t h S 2 E C o D 6 T 6 o t C " § A t N M a A A G i ( a t]
+[DELETED:  ( b j f " ( e o u N i a m a l o i t n o t o G s l t t]
+[DELETED:  A g j i e a a i o t i a w t i i T S C s a g j w r b t G g i (]
+[DELETED:  C C w w a a s a r w i u t c ( a e o u t a a m i a b t P g c o i t A G a t C f t i § ( C t k s g a p o g j s a m a o t]
+[DELETED:  ( T g j i e t i t c t a a t o w a w a t o p w C t s ( d ( d f t t T d s n d t i o a t o t i i t t i i c w a j]
+[DELETED:  i ( e a o i t i b m s s ( o g w s b e b o s n i]
+[DELETED:  l b p j t A G o p a t n t p N e m c w c o t g j r o b m m s o t A b]
+[DELETED:  p ( j i n f o r I a i l t c § ( a d b t g j e w a v p o g t o U C a A I S 5 o t C p N i t C b c t a a l p o t a w t i ( u t w o G]
+[DELETED:  p b l t c t t o a w w h s t r a s S a o g f t t c b u a t w i a c e a p f p o f s c i i ( h a j t f t r t w I t w a c a i t o t t m a c t w f t]
+[DELETED:  o m t m m b b o a g b n l t d t f j u s T c m q o m t s w b u o o u o m c s t s i t b a p o s a t r o m l o d o o s t w j o t t t s w n i q s n c l]
+[DELETED:  M i ( p o o t e f c t o c s b t f c t S u r w a o s t b a t a A a n]
+[DELETED:  t g j v n t i o a c t w u o f s j A § ( C w t t c c a p o f c b s f p]
+[DELETED:  c n ( I a w a b t g j b r t a a i p ( p i u h a a e b g r t l i a W t c m o i c f w a ( § T C m r o]
+[DELETED:  g t o t t o r a e o j p f a o p o c o p I t a o s s p t C o r t p i t U S f c r g j m s a a p g i a i i a t t C c a n i c w C l c § ( g j a c p i t C T G r f a t i b c o i t p T C a m f s t c o h]
+[DELETED:  W a i h b b a g j a s j a c p s S a u u o s S b ]

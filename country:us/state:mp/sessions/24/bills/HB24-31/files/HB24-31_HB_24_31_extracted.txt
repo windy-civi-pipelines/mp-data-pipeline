@@ -1,0 +1,327 @@
+Title: A BILL FOR AN ACT
+Official Title: A BILL FOR AN ACT
+Number of Sections: 2
+Source: versions - HB 24-31
+Media Type: application/pdf
+Strikethrough Detection: 7 sections found
+
+================================================================================
+
+Section 1:
+TWENTY-FOURTH NORTHERN MARIANAS COMMONWEALTH
+LEGISLATURE
+IN THE HOUSE OF REPRESENTATIVES
+ciWkt. // i Mr
+Th ii ç 1XRegn4aT Session, 2025 H. B. 24-
+To repeal restrictions on the use of funds in accounts
+established under 4 CMC §§ 1215 and 53036(g).
+BE IT ENACTED BY THE 24T11 NORTHERN MARIANAS
+COMMONWEALTH LEGISLATURE:
+1 Section 1. Findings and Purpose. The Legislature finds that the CNMI
+2 Cannabis Commission is currently facing significant challenges in securing funding
+3 for its core functions, including the payment of salaries and wages for
+4 Commissioners and staff. Although the Commission has access to two separate
+5 special revenue funding sources, existing statutory restrictions limit the
+6 Commission's ability to use those funds to meet its needs.
+7 Specifically, 4 CMC § 1512 creates the Cannabis Tax Account (CTA) as a
+8 special account, separate and apart from the General Fund, to receive gross revenue
+9 taxes collected from licensees regulated by the Cannabis Commission. While these
+10 funds are subject to legislative appropriation and are ostensibly intended to support
+11 cannabis-related regulatory functions, current law mandates that 25% of all
+12 appropriations from the CTA be allocated to the Public School System (PSS).
+13 The Legislature finds that this fixed percentage requirement reduces its
+41
+HOUSE BILL 24-
+1 ability to respond to the evolving financial needs of the CNMI Cannabis
+2 Commission. Specifically, the inability to appropriate a larger portion of CTA funds
+3 to the Commission constrains the Legislature's ability to address the Commission's
+4 funding challenges.
+5 The Legislature further finds that removing the 25% allocation to PSS from
+6 the CTA does not violate Article XV, Section 1(e) of the NMI Constitution, which
+7 guarantees the Public School System an annual budget of no less than twenty-five
+8 percent of the general revenues of the Commonwealth. As clarified by the CNMI
+9 Supreme Court in In the Matter of a Petition for Certified Question, 2020 MP 2,
+10 the constitutional guarantee under Article XV, Section 1(e) of the NMI
+11 Constitution, applies only to general revenues of the CNMI—not special revenues,
+12 which are revenues that have a direct connection between their source and their
+13 designated purpose. Because the CTA is funded exclusively through cannabis-
+14 related taxes and is intended to support cannabis regulation, it qualifies as a special
+15 revenue fund. Because the CTA is a special revenue fund, the constitutional
+16 requirement that PSS receive a portion of general revenues does not apply, meaning
+17 the 25% reserve requirement may lawfully be repealed.
+18 The Legislature also finds that 4 CMC § 53036(g) provides that all license
+19 and application fees collected by the Commission must be deposited into a separate
+20 account to pay for the "operation" of the Commission, subject to legislative
+21 appropriation.
+2
+HOUSE BILL 24- 'I
+1 However, because 4 CMC § 53036(g) does not define the term "operation,"
+2 it is unclear whether the fund may be used for personnel costs, such as the salaries
+3 and wages of the Commission. It is unclear because the CNMI Government's
+4 annual appropriation acts typically include a Schedule A that further divides each
+5 appropriation into three distinct categories: Personnel, Operations, and Utilities.
+6 Although § 53036(g) authorizes the use of these fees for the "operation" of the
+7 Commission, it is unclear whether the fees can only be used to supplement the
+8 "Operations" in Schedule A, which excludes personnel costs, or whether the fees
+9 can also be used to fund personnel salaries and wages. The amendment clarifies
+10 that funds collected under 4 CMC § 53036(g) are to be appropriated to and
+11 expended by the Cannabis Commission for any lawful purpose reasonably
+12 necessary to fulfill its mandate, including all expenses and costs related to the
+13 Commission's personnel, operations, and utilities.
+14 Thus, to address these limitations, this Act removes the requirement under
+15 4 CMC § 1512 that 25% of all appropriations from the CTA be allocated to PSS
+16 and amends 4 CMC § 53036(g) to clarify that license and application fees may be
+17 used for operations, personnel, utilities, and other reasonably necessary costs and
+18 expenses of the Cannabis Commission.
+3
+HOUSE BILL 24- 31
+1 Section 2. Amendment. Section 1512 of Chapter 5, Division 1, Title 4 of
+2 the Commonwealth Code is hereby amended to read as follows:
+3 "§ 1512. Disposition of Taxes.
+4 (a) The Secretary of Finance shall establish a special Cannabis Tax Account
+5 (CTA) separate from the general funds. The funds in the CTA Account
+6 shall not lapse and shall not be subject to fiscal year limitation. The taxes
+7 collected pursuant to 4 CMC § 1402(a)(21), 4 CMC § 1310, and any
+8 other gross revenue tax imposed under Title 4, Division 1, Chapter 3,
+9 generated from a licensee of the Cannabis Commission shall be
+10 deposited in the special CTA, for appropriation by the Legislature for
+11 the purpose of supporting cannabis regulation; twenty five percent of
+12 the appropriation provided under this subsection shall go to the Public
+13 School System.
+14 (b) Within 30 days after each quarter, the Secretary of Finance shall report
+15 to the presiding officers of the legislature describing the total funds in
+16 the CTA."
+17 Section 3. Amendment. Section 53036(d) and (g) of Chapter 21, Division
+18 5, Title 4 of the Commonwealth Code is hereby amended to read as follows:
+19 "§ 53036. Application for License; Rules; Fees.
+-4
+-
+HOUSE BILL 24- 51
+1 (d) The Commission shall assess annual nonrefundable license fees and
+2 annual nonrefundable fees for processing a new or renewal application
+3 for each license as set forth below:
+License Application Fee License Fee
+[ • • • ]
+
+Section 2:
+Section 128.* Transfer of $500
+Ownership,
+4 [ • • • ]
+5 (g) All license fees and application fees shall be placed in an account
+6 separate from the general fund to pay the expenses necessary for the
+7 operation en of the Commission, including, but not limited to, its
+8 salaries and wages, utilities, and any other costs or expenses reasonably
+9 necessary to fulfill the Commission's regulatory duties under this
+10 Chapter, subject to appropriation by the legislature. The Chairman of
+11 the Commission or his/her designee shall be the expenditure authority.
+12 * So in original."
+13 Section 4. Reversion of Public School System Allocation Within the
+14 Cannabis Tax Account.
+15 If, prior to the effective date of this Act, an appropriation or other legislative
+16 measure has directed the Secretary of Finance to establish a subaccount within the
+17 Cannabis Tax Account (CTA) for the purpose of segregating or reserving funds for
+18 the Public School System (PSS) pursuant to 4 CMC § 1512, such subaccount shall,
+19 upon enactment of this Act, be dissolved. Any unappropriated funds segregated,
+5
+41
+HOUSE BILL 24-
+1 reserved, or allocated to PSS within the CTA shall revert to the general balance of
+2 the CTA and shall be available for appropriation and expenditure in accordance
+3 with the provisions of this Act and applicable law. Any funds that have been
+4 appropriated to PSS shall remain available to PSS for expenditure unless otherwise
+5 modified by law. The Secretary of Finance is hereby authorized to effectuate the
+6 foregoing by taking all necessary administrative actions to dissolve the subaccount
+7 and to reclassify or reallocate any funds previously segregated under the repealed
+8 25% allocation requirement in 4 CMC § 1512.
+9 Section 5. Severability. If any provisions of this Act or the application of
+10 any such provision to any person or circumstance should be held invalid by a court
+11 of competent jurisdiction, the remainder of this Act or the application of its
+12 provisions to persons or circumstances other than those to which it is held invalid
+13 shall not be affected thereby.
+14 Section 6. Savings Clause. This Act and any repealer contained herein
+15 shall not be construed as affecting any existing right acquired under contract or
+16 acquired under statutes repealed or under any rule, regulation, or order adopted
+17 under the statutes. Repealers contained in this Act shall not affect any proceeding
+18 instituted under or pursuant to prior law. The enactment of the Act shall not have
+19 the effect of terminating, or in any way modifying, any liability, civil or criminal,
+20 which shall already be in existence on the date this Act becomes effective.
+6
+HOUSE BILL 24- 31
+1 Section 7. Effective Date. This Act shall take effect upon its approval by
+2 the Governor, or it becoming law without such approval.
+Prefiled: 0 ft
+Date: IInnttrroodduucceedd by:
+iewed fotefl Sufficiency by:
+H6Tu e Legal Counsel
+7
+[DELETED:  H S T C f i c f i t p o s a w f C s r f s e s r l t C s t f l m t o a r]
+[DELETED:  t r t e f n o t C t f T t g p S t g u A X S 1 o t N C w d p i f e t c r r f B t C i s r f t c r T a t p f " o C t l]
+[DELETED:  ' i a w t C I i b t C a a i U A C u " c t f c u 4 C § 5 a t b t a e b t C C f a l r n t i i a e c t T 4 a]
+[DELETED:  S t " ( ( n c o g f a l o C C s b d t t S ( t t 5]
+[DELETED:  5 ( f ( l n t f t C r d u t C o i S 4 o n L • • 1 o $ • • b p i a a e o t C i b n l t i A W t C m C t u]
+[DELETED:  r t w t p A a l A f h b a m f a 2 a c t r o t A t a o i p s T r s u u r u t]
+[DELETED:  t 0  I S e]
+
+
+================================================================================
+
+Raw Text:
+TWENTY-FOURTH NORTHERN MARIANAS COMMONWEALTH
+LEGISLATURE
+IN THE HOUSE OF REPRESENTATIVES
+ciWkt. // i Mr
+Th ii ç 1XRegn4aT Session, 2025 H. B. 24-
+A BILL FOR AN ACT
+To repeal restrictions on the use of funds in accounts
+established under 4 CMC §§ 1215 and 53036(g).
+BE IT ENACTED BY THE 24T11 NORTHERN MARIANAS
+COMMONWEALTH LEGISLATURE:
+1 Section 1. Findings and Purpose. The Legislature finds that the CNMI
+2 Cannabis Commission is currently facing significant challenges in securing funding
+3 for its core functions, including the payment of salaries and wages for
+4 Commissioners and staff. Although the Commission has access to two separate
+5 special revenue funding sources, existing statutory restrictions limit the
+6 Commission's ability to use those funds to meet its needs.
+7 Specifically, 4 CMC § 1512 creates the Cannabis Tax Account (CTA) as a
+8 special account, separate and apart from the General Fund, to receive gross revenue
+9 taxes collected from licensees regulated by the Cannabis Commission. While these
+10 funds are subject to legislative appropriation and are ostensibly intended to support
+11 cannabis-related regulatory functions, current law mandates that 25% of all
+12 appropriations from the CTA be allocated to the Public School System (PSS).
+13 The Legislature finds that this fixed percentage requirement reduces its
+
+41
+HOUSE BILL 24-
+1 ability to respond to the evolving financial needs of the CNMI Cannabis
+2 Commission. Specifically, the inability to appropriate a larger portion of CTA funds
+3 to the Commission constrains the Legislature's ability to address the Commission's
+4 funding challenges.
+5 The Legislature further finds that removing the 25% allocation to PSS from
+6 the CTA does not violate Article XV, Section 1(e) of the NMI Constitution, which
+7 guarantees the Public School System an annual budget of no less than twenty-five
+8 percent of the general revenues of the Commonwealth. As clarified by the CNMI
+9 Supreme Court in In the Matter of a Petition for Certified Question, 2020 MP 2,
+10 the constitutional guarantee under Article XV, Section 1(e) of the NMI
+11 Constitution, applies only to general revenues of the CNMI—not special revenues,
+12 which are revenues that have a direct connection between their source and their
+13 designated purpose. Because the CTA is funded exclusively through cannabis-
+14 related taxes and is intended to support cannabis regulation, it qualifies as a special
+15 revenue fund. Because the CTA is a special revenue fund, the constitutional
+16 requirement that PSS receive a portion of general revenues does not apply, meaning
+17 the 25% reserve requirement may lawfully be repealed.
+18 The Legislature also finds that 4 CMC § 53036(g) provides that all license
+19 and application fees collected by the Commission must be deposited into a separate
+20 account to pay for the "operation" of the Commission, subject to legislative
+21 appropriation.
+2
+
+HOUSE BILL 24- 'I
+1 However, because 4 CMC § 53036(g) does not define the term "operation,"
+2 it is unclear whether the fund may be used for personnel costs, such as the salaries
+3 and wages of the Commission. It is unclear because the CNMI Government's
+4 annual appropriation acts typically include a Schedule A that further divides each
+5 appropriation into three distinct categories: Personnel, Operations, and Utilities.
+6 Although § 53036(g) authorizes the use of these fees for the "operation" of the
+7 Commission, it is unclear whether the fees can only be used to supplement the
+8 "Operations" in Schedule A, which excludes personnel costs, or whether the fees
+9 can also be used to fund personnel salaries and wages. The amendment clarifies
+10 that funds collected under 4 CMC § 53036(g) are to be appropriated to and
+11 expended by the Cannabis Commission for any lawful purpose reasonably
+12 necessary to fulfill its mandate, including all expenses and costs related to the
+13 Commission's personnel, operations, and utilities.
+14 Thus, to address these limitations, this Act removes the requirement under
+15 4 CMC § 1512 that 25% of all appropriations from the CTA be allocated to PSS
+16 and amends 4 CMC § 53036(g) to clarify that license and application fees may be
+17 used for operations, personnel, utilities, and other reasonably necessary costs and
+18 expenses of the Cannabis Commission.
+3
+
+HOUSE BILL 24- 31
+1 Section 2. Amendment. Section 1512 of Chapter 5, Division 1, Title 4 of
+2 the Commonwealth Code is hereby amended to read as follows:
+3 "§ 1512. Disposition of Taxes.
+4 (a) The Secretary of Finance shall establish a special Cannabis Tax Account
+5 (CTA) separate from the general funds. The funds in the CTA Account
+6 shall not lapse and shall not be subject to fiscal year limitation. The taxes
+7 collected pursuant to 4 CMC § 1402(a)(21), 4 CMC § 1310, and any
+8 other gross revenue tax imposed under Title 4, Division 1, Chapter 3,
+9 generated from a licensee of the Cannabis Commission shall be
+10 deposited in the special CTA, for appropriation by the Legislature for
+11 the purpose of supporting cannabis regulation; twenty five percent of
+12 the appropriation provided under this subsection shall go to the Public
+13 School System.
+14 (b) Within 30 days after each quarter, the Secretary of Finance shall report
+15 to the presiding officers of the legislature describing the total funds in
+16 the CTA."
+17 Section 3. Amendment. Section 53036(d) and (g) of Chapter 21, Division
+18 5, Title 4 of the Commonwealth Code is hereby amended to read as follows:
+19 "§ 53036. Application for License; Rules; Fees.
+-4
+-
+
+HOUSE BILL 24- 51
+1 (d) The Commission shall assess annual nonrefundable license fees and
+2 annual nonrefundable fees for processing a new or renewal application
+3 for each license as set forth below:
+License Application Fee License Fee
+[ • • • ]
+Section 128.* Transfer of $500
+Ownership,
+4 [ • • • ]
+5 (g) All license fees and application fees shall be placed in an account
+6 separate from the general fund to pay the expenses necessary for the
+7 operation en of the Commission, including, but not limited to, its
+8 salaries and wages, utilities, and any other costs or expenses reasonably
+9 necessary to fulfill the Commission's regulatory duties under this
+10 Chapter, subject to appropriation by the legislature. The Chairman of
+11 the Commission or his/her designee shall be the expenditure authority.
+12 * So in original."
+13 Section 4. Reversion of Public School System Allocation Within the
+14 Cannabis Tax Account.
+15 If, prior to the effective date of this Act, an appropriation or other legislative
+16 measure has directed the Secretary of Finance to establish a subaccount within the
+17 Cannabis Tax Account (CTA) for the purpose of segregating or reserving funds for
+18 the Public School System (PSS) pursuant to 4 CMC § 1512, such subaccount shall,
+19 upon enactment of this Act, be dissolved. Any unappropriated funds segregated,
+5
+
+41
+HOUSE BILL 24-
+1 reserved, or allocated to PSS within the CTA shall revert to the general balance of
+2 the CTA and shall be available for appropriation and expenditure in accordance
+3 with the provisions of this Act and applicable law. Any funds that have been
+4 appropriated to PSS shall remain available to PSS for expenditure unless otherwise
+5 modified by law. The Secretary of Finance is hereby authorized to effectuate the
+6 foregoing by taking all necessary administrative actions to dissolve the subaccount
+7 and to reclassify or reallocate any funds previously segregated under the repealed
+8 25% allocation requirement in 4 CMC § 1512.
+9 Section 5. Severability. If any provisions of this Act or the application of
+10 any such provision to any person or circumstance should be held invalid by a court
+11 of competent jurisdiction, the remainder of this Act or the application of its
+12 provisions to persons or circumstances other than those to which it is held invalid
+13 shall not be affected thereby.
+14 Section 6. Savings Clause. This Act and any repealer contained herein
+15 shall not be construed as affecting any existing right acquired under contract or
+16 acquired under statutes repealed or under any rule, regulation, or order adopted
+17 under the statutes. Repealers contained in this Act shall not affect any proceeding
+18 instituted under or pursuant to prior law. The enactment of the Act shall not have
+19 the effect of terminating, or in any way modifying, any liability, civil or criminal,
+20 which shall already be in existence on the date this Act becomes effective.
+6
+
+HOUSE BILL 24- 31
+1 Section 7. Effective Date. This Act shall take effect upon its approval by
+2 the Governor, or it becoming law without such approval.
+Prefiled: 0 ft
+Date: IInnttrroodduucceedd by:
+iewed fotefl Sufficiency by:
+H6Tu e Legal Counsel
+7
+
+[DELETED:  H S T C f i c f i t p o s a w f C s r f s e s r l t C s t f l m t o a r]
+[DELETED:  t r t e f n o t C t f T t g p S t g u A X S 1 o t N C w d p i f e t c r r f B t C i s r f t c r T a t p f " o C t l]
+[DELETED:  ' i a w t C I i b t C a a i U A C u " c t f c u 4 C § 5 a t b t a e b t C C f a l r n t i i a e c t T 4 a]
+[DELETED:  S t " ( ( n c o g f a l o C C s b d t t S ( t t 5]
+[DELETED:  5 ( f ( l n t f t C r d u t C o i S 4 o n L • • 1 o $ • • b p i a a e o t C i b n l t i A W t C m C t u]
+[DELETED:  r t w t p A a l A f h b a m f a 2 a c t r o t A t a o i p s T r s u u r u t]
+[DELETED:  t 0  I S e]

@@ -1,0 +1,437 @@
+Title: A BILL FOR AN ACT
+Official Title: A BILL FOR AN ACT
+Number of Sections: 1
+Source: versions - HB 24-67
+Media Type: application/pdf
+Strikethrough Detection: 9 sections found
+
+================================================================================
+
+Section 1:
+TWENTY-FOURTH NORTHERN MARIANAS COMMONWEALTH
+LEGISLATURE
+IN THE HOUSE OF REPRESENTATIVES
+Regular Session, 2025 H. B. 24- & q
+To promote government transparency, accountability, and
+digital accessibility by requiring standardized reporting of
+financial and grant information by all CNMI government
+entities, instrumentalities, and nonprofit recipients of public
+funds, in compliance with the Constitution, the Covenant, and
+applicable laws of the Commonwealth; and for other purposes.
+BE IT ENACTED BY THE 24TH NORTHERN MARIANAS
+COMMONWEALTH LEGISLATURE:
+1 Section 1. Short Title: This Act shall be known and may be cited as the
+2 "CNMI Digital Accountability and Transparency Act of 2025 (CNMI-DATA
+3 Act).".
+4 Section 2. Finding and Purpose: The Legislature finds that transparency
+5 is a cornerstone of good governance and a fundamental constitutional principle in
+6 the Commonwealth of the Northern Mariana Islands (CNMI). Article II of the
+7 CNMI Constitution guarantees the people the right to access public information,
+8 ensuring that government operations remain open and accountable. This
+HOUSE BILL 24- (P1
+1 commitment is reinforced by the Covenant between the CNMI and the United
+2 States, which calls for sound governance and rigorous financial accountability.
+3 Furthermore, the Legislature finds that to uphold this standard, public funds
+4 must be consistently tracked and reported in a manner that is accurate,
+5 comprehensive, and accessible. Drawing on the U.S. DATA Act as a model, the
+6 CNMI recognizes the importance of standardized financial reporting and seeks to
+7 implement similar measures to provide clear and reliable information to the public.
+8 These requirements apply broadly across government and related entities. All
+9 executive departments, offices, commissions, instrumentalities, and public
+10 corporations-along with nonprofit organizations receiving CMI or federal funds-
+11 are expected to comply with these standards. Leadership and oversight are critical:
+12 the Office of Management and Budget (OMB), the Department of Finance (DOF),
+13 and the Office of the Public Auditor (OPA) are responsible for establishing,
+14 enforcing, and auditing digital financial reporting practices. Ultimately, public trust
+15 depends on accessibility. Residents of the CNMI should be able to review
+16 government spending, procurement, and grant activity through clear, timely, and
+17 searchable online reports, ensuring transparency and accountability at every level
+18 of government. Therefore, the purpose of the Act is to ensure uniform digital
+19 reporting of financial data, increase accountability, and expand public access.
+20 Section 3. Enactment. Subject to codification by the CNMI Law Revision
+21 Commission, the following is hereby enacted into law:
+-2
+HOUSE BILL 24- (11
+1 "Section 101. CNMI-DATA Act.
+2 Section 102. Definitions. For the purpose of this Act, the following terms
+3 shall have the meanings ascribed to them in this section:
+4 (a) "Covered Entity" means any CNMI executive department, office,
+5 bureau, agency, commission, instrumentality, public corporation, or nonprofit
+6 recipient of CNMI public funds.
+7 (b) "Digital Report Standards" means uniform data elements, codes, and
+8 formats established by OMB and DOF in consultation with OPA.
+9 (c) "Public Funds" includes appropriations from the General Fund, Special
+10 Funds, Federal grants administered by the CNMI, and any other funds subject to
+11 legislative appropriation or oversight.
+12 Section 103. Applicability.
+13 This ACT shall apply to the following:
+14 (1) All government secretaries and department heads appointed with the
+15 advice and consent of the CNMI Senate.
+16 (2) All CNMI agencies, offices, commissions, instrumentalities, and public
+17 corporations.
+18 (3) All nonprofit organizations receiving CNMI or federal funds
+19 administered by the CNMI government.
+3
+HOUSE BILL 24- 41
+1 Section 104. Digital Reporting Requirements.
+2 (a) Quarterly Reporting. Each covered entity shall submit a digital financial
+3 report to OMB and DOF within thirty (30) days following the close of
+4 each fiscal quarter.
+5 (b) Standardized Data Elements. Reports shall include:
+6 (1) Entity Identifier: Agency/Instrumentality/Nonprofit name and
+7 CNMI Tax ID.
+8 (2) Funding Source: General Fund, Special Fund, Federal Grant, or
+9 other.
+10 (3) Appropriation Data: Public Law number, budget activity, and
+11 amount authorized.
+12 (4) Obligations: Funds legally committed but not yet expended.
+13 (5) Expenditures: Amount disbursed, broken down by object class.
+14 (6) Vendors/Recipients: Name, address, and type.
+15 (7) Procurement Method: Competitive bid, sole-source, emergency, or
+16 exempt.
+17 (8) Performance Measures: Outcome indicators tied to program
+18 objectives.
+19 (c) Data Format. All submissions must be in machine-readable, non-
+20 proprietary formats (CSV, XML, JSON, or other approved formats) and
+21 compatible with the Department of Finance's centralized portal.
+4
+HOUSE BILL 24-
+1 (d) Timeliness: Nonprofits must submit an annual financial report within
+2 one hundred twenty (120) days of fiscal year close.
+3 (e) Certification. Reports must be certified under penalty of perjury by the
+4 responsible Secretary, Director, or Chief Executive Officer.
+5 Section 105. Oversight and Enforcement.
+6 (a) The Office of Management and Budget shall issue uniform reporting
+7 standards under 1 CMC §§ 9101 et seq. and ensure cross-agency
+8 consistency.
+9 (b) The Department of Finance shall:
+10 (1) Maintain the centralized online transparency portal;
+11 (2) Publish quarterly and annual summary reports;
+12 (3) Enforce withholding of allotments or penalties only after ten (10)
+13 calendar day grace period approved by OMB following the
+14 reporting deadline.
+15 (c) The Office of the Public Auditor shall audit reports, publish findings,
+16 and refer misreporting to the Attorney General.
+17 (d) Civil Liability. Officers or directors knowingly filing false reports are
+18 liable under 7 CMC §§ 3401-3405.
+19 (e) Withholding and Recoupment. Penalties or fund suspension apply after
+20 the grace period has elapsed.
+5
+HOUSE BILL 24- & 1
+1 Section 106. Rulemaking Authority. The Office of Management and
+2 Budget, the Department of Finance, and the Office of the Public Auditor shall
+3 jointly promulgate regulations establishing:
+4 (1) Uniform data dictionaries;
+5 (2) Electronic submission protocols;
+6 (3) Validation/error-checking procedures;
+7 (4) Corrective measures for inaccurate reports;
+8 (5) Penalties for late or false submissions;
+9 (6) Cross-references to Procurement, Budgeting and Accounting, and
+10 Nonprofit Reporting statutes.
+11 Section 107. Harmonization with Existing Laws. This Act shall read in
+12 harmony with:
+13 (1) The CNMI Constitution;
+14 (2) The Covenant with the United States;
+15 (3) The Budgeting and Accounting Act (1 CMC §§ 7201 et seq.);
+16 (4) Procurement Regulations (1 CMC §§ 7801 et seq.);
+17 (5) The Public Auditor Act (1 CMC §§ 2301-2319);
+18 (6) The Administrative Procedure Act (1 CMC §§ 9101 et seq.);
+19 (7) The Open Government Act (1 CMC §§ 9901 et seq.)
+20 (8) The Nonprofit Reporting Act (1 CMC §§ 7701-7706).
+21 Section 108. Appropriations.
+6
+HOUSE BILL 24- (11
+1 (a) Department of Finance
+2 (1) Two hundred fifty thousand dollars ($250,000.00) from the General
+3 Fund is hereby appropriated for Fiscal Year 2026 for the
+4 establishment, operation, and maintenance of the centralized CNMI
+5 Transparency and Accountability Portal, including software,
+6 hardware, staffing, and training.
+7 (2) The Department of Finance shall first use external funds awarded or
+8 appropriated by the federal government or other governmental
+9 sources for the purposes of supporting and enhancing the
+10 Transparency Portal, provided that such funds are reported in
+11 compliance with this Act and application CNMI financial laws.
+12 (b) Office of the Public Auditor (OPA).
+13 (1) One hundred thousand dollars ($100,000.00) from the General Fund
+14 is hereby appropriated for oversight, compliance auditing, and
+15 enforcement of this Act.
+16 (2) Extraordinary costs will be covered by OPA's one percent (1%)
+17 constitutional appropriation under Article III § 12, subject to
+18 legislative appropriation.
+19 (c) Expenditure Authority. Vested in the Secretary of Finance for
+20 subsection (a) and in the Public Auditor for subsection (b).
+7
+-
+Cin
+HOUSE BILL 24-
+1 (d) Non-Lapse. Funds remain available until fully expended for the
+2 purposes of this Act.
+3 Section 109. Appeals Procedure.
+4 (a) Right to Appeal. Covered entities may appeal enforcement actions
+5 within thirty (30) calendar days.
+6 (b) Filing. Appeals must be in writing, specifying the action, grounds, and
+7 supporting evidence.
+8 (c) Reviewed by OMB. OMB shall review in consultation with DOF and
+9 OPA, issuing a written decision within twenty (20) calendar days.
+10 (d) Grace Period During Appeal. The ten (10) day grace period remains in
+11 effect while the appeal is pending; no funds withheld or penalties
+12 applied.
+13 (e) Judicial Review. Aggrieved parties may seek review in Commonwealth
+14 Superior Court.
+15 (f) No waiver of Compliance. Appeals do not exempt timely reporting or
+16 correction of deficiencies."
+17 Section 4. Severability. If any provisions of this Act or the application of
+18 any such provision to any person or circumstance should be held invalid by a court
+19 of competent jurisdiction, the remainder of this Act or the application of its
+20 provisions to persons or circumstances other than those to which it is held invalid
+21 shall not be affected thereby.
+8
+HOUSE BILL 24- (g
+1 Section 5. Savings Clause. This Act and any repealer contained herein
+2 shall not be construed as affecting any existing right acquired under contract or
+3 acquired under statutes repealed or under any rule, regulation, or order adopted
+4 under the statutes. Repealers contained in this Act shall not affect any proceeding
+5 instituted under or pursuant to prior law. The enactment of the Act shall not have
+6 the effect of terminating, or in any way modifying, any liability, civil or criminal,
+7 which shall already be in existence on the date this Act becomes effective.
+8 Section 6. Effective Date. This Act shall take effect 90 days after its
+9 approval by the Governor, or it becoming law without such approval.
+Prefiled: tra ('?O7'
+Date: Introduced by:
+Rs5/Marissa R Flores
+Reviewed for Legal Sufficiency by:
+( 14714
+I-15) se Legal Counsel
+Date:
+9
+[DELETED: R p t a a b r r o a g i b C g a n r o T " D A a T A o 2 ( S i t o N M A o C t g r o a T]
+[DELETED:  c b C b a U S F m b c a r i a m t i a c C i T a b a g a r e A e d c i a c a t a t O t P A ( a r e d o a R o t s b a t r g s o g t p o t A i u d r S]
+[DELETED:  " S s " E m a C e d o a c i p c o r ( f ( F l A T ( a C o]
+[DELETED:  r I n a C ( S F S F F G o o D P L n b a a ( ( ( e ( O t t o ( A m b i]
+[DELETED:  ( S s u 1 C § 9 e s a e c c ( a c d g p b O f t r ( ( l (]
+[DELETED:  R A T O o M a 1 B F ( ( ( f t B a a N S L i ( ( (]
+[DELETED:  ( F i a F Y 2 t A P s ( b t f g o g s f p o s a e t P p t s a r i ( i h a f o c a a e c b b O c u A I § s t a E V i t o F f]
+[DELETED:  F r u f f t S t A C m a a R O w t a i p n w o p ( J S ( N c S a o j t o t A o t a o p]
+[DELETED:  S T r s a u i t w S 6 D T A s t e 9 d a i a  I1 F]
+
+
+================================================================================
+
+Raw Text:
+TWENTY-FOURTH NORTHERN MARIANAS COMMONWEALTH
+LEGISLATURE
+IN THE HOUSE OF REPRESENTATIVES
+Regular Session, 2025 H. B. 24- & q
+A BILL FOR AN ACT
+To promote government transparency, accountability, and
+digital accessibility by requiring standardized reporting of
+financial and grant information by all CNMI government
+entities, instrumentalities, and nonprofit recipients of public
+funds, in compliance with the Constitution, the Covenant, and
+applicable laws of the Commonwealth; and for other purposes.
+BE IT ENACTED BY THE 24TH NORTHERN MARIANAS
+COMMONWEALTH LEGISLATURE:
+1 Section 1. Short Title: This Act shall be known and may be cited as the
+2 "CNMI Digital Accountability and Transparency Act of 2025 (CNMI-DATA
+3 Act).".
+4 Section 2. Finding and Purpose: The Legislature finds that transparency
+5 is a cornerstone of good governance and a fundamental constitutional principle in
+6 the Commonwealth of the Northern Mariana Islands (CNMI). Article II of the
+7 CNMI Constitution guarantees the people the right to access public information,
+8 ensuring that government operations remain open and accountable. This
+
+HOUSE BILL 24- (P1
+1 commitment is reinforced by the Covenant between the CNMI and the United
+2 States, which calls for sound governance and rigorous financial accountability.
+3 Furthermore, the Legislature finds that to uphold this standard, public funds
+4 must be consistently tracked and reported in a manner that is accurate,
+5 comprehensive, and accessible. Drawing on the U.S. DATA Act as a model, the
+6 CNMI recognizes the importance of standardized financial reporting and seeks to
+7 implement similar measures to provide clear and reliable information to the public.
+8 These requirements apply broadly across government and related entities. All
+9 executive departments, offices, commissions, instrumentalities, and public
+10 corporations-along with nonprofit organizations receiving CMI or federal funds-
+11 are expected to comply with these standards. Leadership and oversight are critical:
+12 the Office of Management and Budget (OMB), the Department of Finance (DOF),
+13 and the Office of the Public Auditor (OPA) are responsible for establishing,
+14 enforcing, and auditing digital financial reporting practices. Ultimately, public trust
+15 depends on accessibility. Residents of the CNMI should be able to review
+16 government spending, procurement, and grant activity through clear, timely, and
+17 searchable online reports, ensuring transparency and accountability at every level
+18 of government. Therefore, the purpose of the Act is to ensure uniform digital
+19 reporting of financial data, increase accountability, and expand public access.
+20 Section 3. Enactment. Subject to codification by the CNMI Law Revision
+21 Commission, the following is hereby enacted into law:
+-2
+
+HOUSE BILL 24- (11
+1 "Section 101. CNMI-DATA Act.
+2 Section 102. Definitions. For the purpose of this Act, the following terms
+3 shall have the meanings ascribed to them in this section:
+4 (a) "Covered Entity" means any CNMI executive department, office,
+5 bureau, agency, commission, instrumentality, public corporation, or nonprofit
+6 recipient of CNMI public funds.
+7 (b) "Digital Report Standards" means uniform data elements, codes, and
+8 formats established by OMB and DOF in consultation with OPA.
+9 (c) "Public Funds" includes appropriations from the General Fund, Special
+10 Funds, Federal grants administered by the CNMI, and any other funds subject to
+11 legislative appropriation or oversight.
+12 Section 103. Applicability.
+13 This ACT shall apply to the following:
+14 (1) All government secretaries and department heads appointed with the
+15 advice and consent of the CNMI Senate.
+16 (2) All CNMI agencies, offices, commissions, instrumentalities, and public
+17 corporations.
+18 (3) All nonprofit organizations receiving CNMI or federal funds
+19 administered by the CNMI government.
+3
+
+HOUSE BILL 24- 41
+1 Section 104. Digital Reporting Requirements.
+2 (a) Quarterly Reporting. Each covered entity shall submit a digital financial
+3 report to OMB and DOF within thirty (30) days following the close of
+4 each fiscal quarter.
+5 (b) Standardized Data Elements. Reports shall include:
+6 (1) Entity Identifier: Agency/Instrumentality/Nonprofit name and
+7 CNMI Tax ID.
+8 (2) Funding Source: General Fund, Special Fund, Federal Grant, or
+9 other.
+10 (3) Appropriation Data: Public Law number, budget activity, and
+11 amount authorized.
+12 (4) Obligations: Funds legally committed but not yet expended.
+13 (5) Expenditures: Amount disbursed, broken down by object class.
+14 (6) Vendors/Recipients: Name, address, and type.
+15 (7) Procurement Method: Competitive bid, sole-source, emergency, or
+16 exempt.
+17 (8) Performance Measures: Outcome indicators tied to program
+18 objectives.
+19 (c) Data Format. All submissions must be in machine-readable, non-
+20 proprietary formats (CSV, XML, JSON, or other approved formats) and
+21 compatible with the Department of Finance's centralized portal.
+4
+
+HOUSE BILL 24-
+1 (d) Timeliness: Nonprofits must submit an annual financial report within
+2 one hundred twenty (120) days of fiscal year close.
+3 (e) Certification. Reports must be certified under penalty of perjury by the
+4 responsible Secretary, Director, or Chief Executive Officer.
+5 Section 105. Oversight and Enforcement.
+6 (a) The Office of Management and Budget shall issue uniform reporting
+7 standards under 1 CMC §§ 9101 et seq. and ensure cross-agency
+8 consistency.
+9 (b) The Department of Finance shall:
+10 (1) Maintain the centralized online transparency portal;
+11 (2) Publish quarterly and annual summary reports;
+12 (3) Enforce withholding of allotments or penalties only after ten (10)
+13 calendar day grace period approved by OMB following the
+14 reporting deadline.
+15 (c) The Office of the Public Auditor shall audit reports, publish findings,
+16 and refer misreporting to the Attorney General.
+17 (d) Civil Liability. Officers or directors knowingly filing false reports are
+18 liable under 7 CMC §§ 3401-3405.
+19 (e) Withholding and Recoupment. Penalties or fund suspension apply after
+20 the grace period has elapsed.
+5
+
+HOUSE BILL 24- & 1
+1 Section 106. Rulemaking Authority. The Office of Management and
+2 Budget, the Department of Finance, and the Office of the Public Auditor shall
+3 jointly promulgate regulations establishing:
+4 (1) Uniform data dictionaries;
+5 (2) Electronic submission protocols;
+6 (3) Validation/error-checking procedures;
+7 (4) Corrective measures for inaccurate reports;
+8 (5) Penalties for late or false submissions;
+9 (6) Cross-references to Procurement, Budgeting and Accounting, and
+10 Nonprofit Reporting statutes.
+11 Section 107. Harmonization with Existing Laws. This Act shall read in
+12 harmony with:
+13 (1) The CNMI Constitution;
+14 (2) The Covenant with the United States;
+15 (3) The Budgeting and Accounting Act (1 CMC §§ 7201 et seq.);
+16 (4) Procurement Regulations (1 CMC §§ 7801 et seq.);
+17 (5) The Public Auditor Act (1 CMC §§ 2301-2319);
+18 (6) The Administrative Procedure Act (1 CMC §§ 9101 et seq.);
+19 (7) The Open Government Act (1 CMC §§ 9901 et seq.)
+20 (8) The Nonprofit Reporting Act (1 CMC §§ 7701-7706).
+21 Section 108. Appropriations.
+6
+
+HOUSE BILL 24- (11
+1 (a) Department of Finance
+2 (1) Two hundred fifty thousand dollars ($250,000.00) from the General
+3 Fund is hereby appropriated for Fiscal Year 2026 for the
+4 establishment, operation, and maintenance of the centralized CNMI
+5 Transparency and Accountability Portal, including software,
+6 hardware, staffing, and training.
+7 (2) The Department of Finance shall first use external funds awarded or
+8 appropriated by the federal government or other governmental
+9 sources for the purposes of supporting and enhancing the
+10 Transparency Portal, provided that such funds are reported in
+11 compliance with this Act and application CNMI financial laws.
+12 (b) Office of the Public Auditor (OPA).
+13 (1) One hundred thousand dollars ($100,000.00) from the General Fund
+14 is hereby appropriated for oversight, compliance auditing, and
+15 enforcement of this Act.
+16 (2) Extraordinary costs will be covered by OPA's one percent (1%)
+17 constitutional appropriation under Article III § 12, subject to
+18 legislative appropriation.
+19 (c) Expenditure Authority. Vested in the Secretary of Finance for
+20 subsection (a) and in the Public Auditor for subsection (b).
+7
+-
+
+Cin
+HOUSE BILL 24-
+1 (d) Non-Lapse. Funds remain available until fully expended for the
+2 purposes of this Act.
+3 Section 109. Appeals Procedure.
+4 (a) Right to Appeal. Covered entities may appeal enforcement actions
+5 within thirty (30) calendar days.
+6 (b) Filing. Appeals must be in writing, specifying the action, grounds, and
+7 supporting evidence.
+8 (c) Reviewed by OMB. OMB shall review in consultation with DOF and
+9 OPA, issuing a written decision within twenty (20) calendar days.
+10 (d) Grace Period During Appeal. The ten (10) day grace period remains in
+11 effect while the appeal is pending; no funds withheld or penalties
+12 applied.
+13 (e) Judicial Review. Aggrieved parties may seek review in Commonwealth
+14 Superior Court.
+15 (f) No waiver of Compliance. Appeals do not exempt timely reporting or
+16 correction of deficiencies."
+17 Section 4. Severability. If any provisions of this Act or the application of
+18 any such provision to any person or circumstance should be held invalid by a court
+19 of competent jurisdiction, the remainder of this Act or the application of its
+20 provisions to persons or circumstances other than those to which it is held invalid
+21 shall not be affected thereby.
+8
+
+HOUSE BILL 24- (g
+1 Section 5. Savings Clause. This Act and any repealer contained herein
+2 shall not be construed as affecting any existing right acquired under contract or
+3 acquired under statutes repealed or under any rule, regulation, or order adopted
+4 under the statutes. Repealers contained in this Act shall not affect any proceeding
+5 instituted under or pursuant to prior law. The enactment of the Act shall not have
+6 the effect of terminating, or in any way modifying, any liability, civil or criminal,
+7 which shall already be in existence on the date this Act becomes effective.
+8 Section 6. Effective Date. This Act shall take effect 90 days after its
+9 approval by the Governor, or it becoming law without such approval.
+Prefiled: tra ('?O7'
+Date: Introduced by:
+Rs5/Marissa R Flores
+Reviewed for Legal Sufficiency by:
+( 14714
+I-15) se Legal Counsel
+Date:
+9
+
+[DELETED: R p t a a b r r o a g i b C g a n r o T " D A a T A o 2 ( S i t o N M A o C t g r o a T]
+[DELETED:  c b C b a U S F m b c a r i a m t i a c C i T a b a g a r e A e d c i a c a t a t O t P A ( a r e d o a R o t s b a t r g s o g t p o t A i u d r S]
+[DELETED:  " S s " E m a C e d o a c i p c o r ( f ( F l A T ( a C o]
+[DELETED:  r I n a C ( S F S F F G o o D P L n b a a ( ( ( e ( O t t o ( A m b i]
+[DELETED:  ( S s u 1 C § 9 e s a e c c ( a c d g p b O f t r ( ( l (]
+[DELETED:  R A T O o M a 1 B F ( ( ( f t B a a N S L i ( ( (]
+[DELETED:  ( F i a F Y 2 t A P s ( b t f g o g s f p o s a e t P p t s a r i ( i h a f o c a a e c b b O c u A I § s t a E V i t o F f]
+[DELETED:  F r u f f t S t A C m a a R O w t a i p n w o p ( J S ( N c S a o j t o t A o t a o p]
+[DELETED:  S T r s a u i t w S 6 D T A s t e 9 d a i a  I1 F]

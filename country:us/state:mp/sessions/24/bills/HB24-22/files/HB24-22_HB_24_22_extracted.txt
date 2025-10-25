@@ -1,0 +1,190 @@
+Title: A BILL FOR AN ACT
+Official Title: A BILL FOR AN ACT
+Number of Sections: 1
+Source: versions - HB 24-22
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+TWENTY-FOURTH NORTHERN MARIANAS COMMONWEALTH
+LEGISLATURE
+IN THE HOUSE OF REPRESENTATIVES
+22
+Regular Session, 2025 H. B. 24-
+To repeal and reenact the Justice Center Fund Revolving
+Account.
+BE IT ENACTED BY THE 24TH NORTHERN MARIANAS
+COMMONWEALTH LEGISLATURE:
+1 Section 1. Findings and Purpose. Legislative oversight of dedicated
+2 public funds is essential, especially when the original purpose of a fund has been
+3 fulfilled. Over thirty years have passed since the enactment of Public Law 7-25,
+4 which established the Justice Center Fund to finance the construction of judicial
+5 facilities through a USDA Rural Development Loan.
+6 Over time, the loan has been fully satisfied, and the Justice Center is now
+7 fully constructed. With the original obligation discharged, continuing to earmark
+8 court-generated fines and fees solely for this retired debt no longer reflects prudent
+9 fiscal management or the intent of enabling legislation.
+10 Accordingly, the Legislature finds it appropriate to repeal and reenact 1
+11 CMC § 3405 to redirect these funds. The new structure preserves 25% of revenues
+12 for Judiciary maintenance while transferring the remaining 75% into the General
+13 Fund to support public safety and infrastructure.
+22
+HOUSE BILL 24-
+1 Now more than ever, every dollar collected by the courts must serve a
+2 broader public purpose. Redirecting a portion of these funds to the General Fund
+3 ensures that legislative appropriation authority is respected and that resources are
+4 allocated in a way that reflects current priorities and financial realities.
+5 Section 2. Repeal and Re-enactment. Title 1, Government, Division 3,
+6 Judicial Branch, Chapter 4, Judiciary Administration, section 3405 "Justice Center
+7 Fund," is hereby repealed and reenacted to read as follows:
+8 "§ 3405. Justice Center Fund.
+9 (a) There is hereby established a revolving fund within the Department of
+10 Finance that shall be known and designated as the Justice Center Fund Revolving
+11 Account. This revolving account shall be accounted for separately from the General
+12 Fund. Commencing on the date of disbursement of the loan proceeds from USDA,
+13 all criminal and civil fines and all revenues collected by the courts of the
+14 Commonwealth pursuant to 1 CMC § 3403, and all fines or fees collected pursuant
+15 to any other law and remitted or paid to the Commonwealth Treasury pursuant to 7
+16 CMC § 3206 and 7 CMC § 3251, shall be deposited and credited to the Justice
+17 Center Fund Revolving Account.
+18 (b) The expenditure authority for the Justice Center Fund Revolving
+19 Account shall be the Chief Justice.
+20 (c) The Justice Center Fund Revolving Account's purpose shall be used as
+21 follows:
+2
+HOUSE BILL 24- a
+1 (1) Twenty-five percent of the funds collected pursuant to subsection (a)
+2 shall remain in the Justice Center Fund Revolving Account to be used to
+3 supplement the maintenance needs of the Judiciary's facilities; and
+4 (2) Seventy-five percent of the funds collected pursuant to subsection (a)
+5 shall be deposited into the General Fund and shall be used as follows:
+6 i) Five percent of the funds collected shall be allocated to the
+7 Department of Public Works. The expenditure authority of these funds shall
+8 be the Secretary of the Department of Public Works.
+9 ii) Seventy percent of the funds collected shall be allocated to the
+10 Department of Public Safety. The expenditure authority of these funds shall
+11 be the Commissioner of the Department of Public Safety."
+12 Section 3. Severability. If any provisions of this Act or the application of
+13 any such provision to any person or circumstance should be held invalid by a court
+14 of competent jurisdiction, the remainder of this Act or the application of its
+15 provisions to persons or circumstances other than those to which it is held invalid
+16 shall not be affected thereby.
+17 Section 4. Savings Clause. This Act and any repealer contained herein
+18 shall not be construed as affecting any existing right acquired under contract or
+19 acquired under statutes repealed or under any rule, regulation, or order adopted
+20 under the statutes. Repealers contained in this Act shall not affect any proceeding
+21 instituted under or pursuant to prior law. The enactment of the Act shall not have
+3
+HOUSE BILL 24- II
+1 the effect of terminating, or in any way modifying, any liability, civil or criminal,
+2 which shall already be in existence on the date this Act becomes effective.
+3 Section 5. Effective Date. This Act shall take effect upon its approval by
+4 the Governor, or it becoming law without such approval.
+Prefiled: /Pi 4/911121
+Date: Introduced by:
+Rep. arissa R. F ores
+Reviewed for legal sufficiency by:
+use LLeeggaall Counsel
+Date: 14- / 0 - zr
+4
+[DELETED: R a r t C F S 1 a P o o d p f w f f c f A a C f F]
+[DELETED:  t e d b t c b e a S T J F " ( F A F a c a c f a a r c b c o t C C ( e f t J F (]
+[DELETED:  a r i t C F A t u t s ( s p o t f c s a t t D D b S a o j t r o t A o t a o i p s S 4 T s u r]
+[DELETED:  I t S t  a]
+
+
+================================================================================
+
+Raw Text:
+TWENTY-FOURTH NORTHERN MARIANAS COMMONWEALTH
+LEGISLATURE
+IN THE HOUSE OF REPRESENTATIVES
+22
+Regular Session, 2025 H. B. 24-
+A BILL FOR AN ACT
+To repeal and reenact the Justice Center Fund Revolving
+Account.
+BE IT ENACTED BY THE 24TH NORTHERN MARIANAS
+COMMONWEALTH LEGISLATURE:
+1 Section 1. Findings and Purpose. Legislative oversight of dedicated
+2 public funds is essential, especially when the original purpose of a fund has been
+3 fulfilled. Over thirty years have passed since the enactment of Public Law 7-25,
+4 which established the Justice Center Fund to finance the construction of judicial
+5 facilities through a USDA Rural Development Loan.
+6 Over time, the loan has been fully satisfied, and the Justice Center is now
+7 fully constructed. With the original obligation discharged, continuing to earmark
+8 court-generated fines and fees solely for this retired debt no longer reflects prudent
+9 fiscal management or the intent of enabling legislation.
+10 Accordingly, the Legislature finds it appropriate to repeal and reenact 1
+11 CMC § 3405 to redirect these funds. The new structure preserves 25% of revenues
+12 for Judiciary maintenance while transferring the remaining 75% into the General
+13 Fund to support public safety and infrastructure.
+
+22
+HOUSE BILL 24-
+1 Now more than ever, every dollar collected by the courts must serve a
+2 broader public purpose. Redirecting a portion of these funds to the General Fund
+3 ensures that legislative appropriation authority is respected and that resources are
+4 allocated in a way that reflects current priorities and financial realities.
+5 Section 2. Repeal and Re-enactment. Title 1, Government, Division 3,
+6 Judicial Branch, Chapter 4, Judiciary Administration, section 3405 "Justice Center
+7 Fund," is hereby repealed and reenacted to read as follows:
+8 "§ 3405. Justice Center Fund.
+9 (a) There is hereby established a revolving fund within the Department of
+10 Finance that shall be known and designated as the Justice Center Fund Revolving
+11 Account. This revolving account shall be accounted for separately from the General
+12 Fund. Commencing on the date of disbursement of the loan proceeds from USDA,
+13 all criminal and civil fines and all revenues collected by the courts of the
+14 Commonwealth pursuant to 1 CMC § 3403, and all fines or fees collected pursuant
+15 to any other law and remitted or paid to the Commonwealth Treasury pursuant to 7
+16 CMC § 3206 and 7 CMC § 3251, shall be deposited and credited to the Justice
+17 Center Fund Revolving Account.
+18 (b) The expenditure authority for the Justice Center Fund Revolving
+19 Account shall be the Chief Justice.
+20 (c) The Justice Center Fund Revolving Account's purpose shall be used as
+21 follows:
+2
+
+HOUSE BILL 24- a
+1 (1) Twenty-five percent of the funds collected pursuant to subsection (a)
+2 shall remain in the Justice Center Fund Revolving Account to be used to
+3 supplement the maintenance needs of the Judiciary's facilities; and
+4 (2) Seventy-five percent of the funds collected pursuant to subsection (a)
+5 shall be deposited into the General Fund and shall be used as follows:
+6 i) Five percent of the funds collected shall be allocated to the
+7 Department of Public Works. The expenditure authority of these funds shall
+8 be the Secretary of the Department of Public Works.
+9 ii) Seventy percent of the funds collected shall be allocated to the
+10 Department of Public Safety. The expenditure authority of these funds shall
+11 be the Commissioner of the Department of Public Safety."
+12 Section 3. Severability. If any provisions of this Act or the application of
+13 any such provision to any person or circumstance should be held invalid by a court
+14 of competent jurisdiction, the remainder of this Act or the application of its
+15 provisions to persons or circumstances other than those to which it is held invalid
+16 shall not be affected thereby.
+17 Section 4. Savings Clause. This Act and any repealer contained herein
+18 shall not be construed as affecting any existing right acquired under contract or
+19 acquired under statutes repealed or under any rule, regulation, or order adopted
+20 under the statutes. Repealers contained in this Act shall not affect any proceeding
+21 instituted under or pursuant to prior law. The enactment of the Act shall not have
+3
+
+HOUSE BILL 24- II
+1 the effect of terminating, or in any way modifying, any liability, civil or criminal,
+2 which shall already be in existence on the date this Act becomes effective.
+3 Section 5. Effective Date. This Act shall take effect upon its approval by
+4 the Governor, or it becoming law without such approval.
+Prefiled: /Pi 4/911121
+Date: Introduced by:
+Rep. arissa R. F ores
+Reviewed for legal sufficiency by:
+use LLeeggaall Counsel
+Date: 14- / 0 - zr
+4
+
+[DELETED: R a r t C F S 1 a P o o d p f w f f c f A a C f F]
+[DELETED:  t e d b t c b e a S T J F " ( F A F a c a c f a a r c b c o t C C ( e f t J F (]
+[DELETED:  a r i t C F A t u t s ( s p o t f c s a t t D D b S a o j t r o t A o t a o i p s S 4 T s u r]
+[DELETED:  I t S t  a]

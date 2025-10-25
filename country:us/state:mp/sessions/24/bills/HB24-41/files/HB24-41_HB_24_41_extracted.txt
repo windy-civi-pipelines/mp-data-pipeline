@@ -1,0 +1,322 @@
+Title: A BILL FOR AN ACT
+Official Title: A BILL FOR AN ACT
+Number of Sections: 2
+Source: versions - HB 24-41
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+TWENTY-FOURTH NORTHERN MARIANAS COMMONWEALTH
+LEGISLATURE
+IN THE HOUSE OF REPRESENTATIVES
+Regular Session, 2025 H. B. 2 4' iti
+To establish regulations on vehicle window tinting for safety and
+security in the Commonwealth of the Northern Mariana Islands;
+and for other purposes.
+11
+BE IT ENACTED BY THE 24T NORTHERN MARIANAS
+COMMONWEALTH LEGISLATURE:
+1 Section 1. Findings and Purpose. The Legislature recognizes that, in the
+2 Commonwealth of the Northern Mariana Islands, vehicle window tinting plays a
+3 significant role in enhancing vehicle appearance while also impacting safety and
+4 security. Properly regulated tinting can provide protection from the sun's heat and
+5 ultraviolet rays, prevent interior heat damage, reduce glare from sunlight and
+6 headlights, and improve privacy. These benefits contribute to safer driving
+7 conditions and help prevent theft by obscuring valuables inside the vehicle.
+8 Currently, the CNMI has limited regulations regarding window tinting, with
+9 only two statutory provisions: (1) 1 CMC § 7406(e), which restricts tinting on
+10 government vehicles, except for unmarked law enforcement vehicles and those
+11 used by elected officials and judges; and (2) 1 CMC § 2596(a)(5), which bans
+12 adhesive or spray tinting on taxicab windows.
+
+Section 2:
+2.4- 4 1
+HOUSE BILL
+1 However, the lack of comprehensive regulation has led to widespread
+2 unregulated tinting that poses significant safety hazards. Excessively dark or
+3 improperly installed tint can greatly diminish visibility, especially at night or during
+4 bad weather, increasing the risk of accidents. Additionally, heavily tinted windows
+5 can conceal illegal activities, creating dangers for the public and law enforcement
+6 officers alike who may approach vehicles unknowingly involved in illegal conduct.
+7 Most U.S. states and territories have enacted their own regulations to
+8 promote safety and public security through controlled window tinting standards.
+9 The Department of Public Safety in the CNMI has repeatedly emphasized the
+10 urgent need for such regulations to protect all road users.
+11 Therefore, the purpose of this Act is to establish clear, effective, and
+12 enforceable regulations on vehicle window tinting in the Commonwealth of the
+13 Northern Mariana Islands, with the primary objectives of enhancing road safety,
+14 safeguarding public security, and ensuring lawful conduct on the roads.
+15 Section 2. Amendment. Title 9, Division 4, Chapter 1 of the
+16 Commonwealth Code is amended by inserting a new § 4116 to read as follows:
+17 "§ 4116. Window Tinting.
+18 (a) Tinting Material. Notwithstanding 1 CMC § 2596(a)(5) and 1 CMC §
+19 7406(e), a person may apply tinting material to the windows of a motor vehicle in
+20 compliance with this section.
+21 (1) Tinting material may be applied to the side and rear windows of
+22 a motor vehicle if:
+23 (i) The visible light transmittance (VLT) of the tinting
+24 material is 35% or more; and
+-2
+-
+29 -9 I
+HOUSE BILL
+1 (ii) The total light transmittance through the window with
+2 the tint applied is 35% or more.
+3 (2) Tinting material with lower light transmittance than permitted
+4 under subsection (a)(1) may be applied to the top six inches of a windshield
+5 only. No other part of the windshield may be tinted.
+6 (3) Tinting material with lower transmittance than allowed under
+7 subsection (a)(1) may be applied to all windows behind the driver of a
+8 multipurpose passenger vehicle, provided the vehicle has exterior rearview
+9 mirrors on each side. The tinted windows must meet federal regulations for
+10 glazing material. For this subsection, a "multipurpose passenger vehicle" is
+11 defined as a motor vehicle designed to carry up to 10 persons, built on a
+12 truck chassis or with features for occasional off-road use.
+13 (4) Tinting material with lower transmittance than permitted under
+14 subsection (a)(1) may also be applied to side and rear windows of a vehicle
+15 registered to a person or their legal guardian if accompanied by a written
+16 document signed by a licensed physician or practitioner stating that the
+17 person or someone in their household has a medical condition requiring
+18 tinting with lower transmittance. Acceptable documents include:
+19 (i) An affidavit;
+20 (ii) A prescription; or
+21 (iii) A letter on the practitioner's letterhead
+22 (5) This documentation must be kept in the vehicle and shown to a
+23 police officer upon request regarding the tint.
+24 (6) There are no light transmittance requirments for glazing on AS-
+25 3 type windows.
+26 (7) The following types of tinting material are not permitted:
+27 (i) Mirror finish products;
+28 (ii) Red, gold, yellow, amber or black tint; and
+3
+HOUSE BILL
+1 (iii) Liquid tint applied by brushing or spraying.
+2 (8) Each person installing window tinting must provide the vehicle
+3 owner with a certificate that includes:
+4 (i) The name and address of the installer;
+5 (ii) The light transmittance of the tint;
+6 (iii) The light reflectance of the tint; and
+7 (iv) A statement that the total light transmittance through
+8 each tinted window is at least 35%.
+9 (9) The certificate must be kept in the vehicle and shown to an
+10 officer when asked about the tint.
+11 (10) For purposes of this section, Visible Light Transmission (VLT)
+12 is the percentage of total visible light passing through the material, relative
+13 to the total light falling on it.
+14 (b) Illegal Window Tinting. It is unlawful to apply window tinting material
+15 that does not comply with subsection (a), or to tint windows on a vehicle where
+16 tinting is not authorized under this section.
+17 (c) Violation and Penalty. Any violation of this section is an infraction,
+18 punishable by a fine of up to $250 for the first offense and up to $500 for subsequent
+19 offenses. Violators must correct the tinting and have the vehicle re-inspected within
+20 10 days at a Certified Safety Inspection Station as defined in 9 CMC § 3107.
+21 (d) Inspection and Enforcement. The Department of Public Safety and
+22 Certified Safety Inspection Stations shall enforce and ensure compliance with this
+23 Act.
+24 (e) Exemption.
+25 (1) This section does not apply to unmarked law enforcement
+26 vehicles or official vehicles used, owned, leased, or assigned to the
+27 Governor, Lieutenant Governor, or other elected officials, as defined in 1
+28 CMC § 7406(a)(1).
+4
+-
+214-41
+HOUSE BILL
+1 (2) It also does not apply to factory-tinted vehicles or hearses used
+2 for funeral transportation."
+3 Section 3. Transition. A motor vehicle not in compliance with Section
+4 2 of this Act shall be made in compliance within one year after this Act
+5 becomes law.
+6 Section 4. Severability. If any provisions of this Act or the application of
+7 any such provision to any person or circumstance should be held invalid by a court
+8 of competent jurisdiction, the remainder of this Act or the application of its
+9 provisions to persons or circumstances other than those to which it is held invalid
+10 shall not be affected thereby.
+11 Section 5. Savings Clause. This Act and any repealer contained herein
+12 shall not be construed as affecting any existing right acquired under contract or
+13 acquired under statutes repealed or under any rule, regulation, or order adopted
+14 under the statutes. Repealers contained in this Act shall not affect any proceeding
+15 instituted under or pursuant to prior law. The enactment of the Act shall not have
+16 the effect of terminating, or in any way modifying, any liability, civil or criminal,
+17 which shall already be in existence on the date this Act becomes effective.
+18 Section 6. Effective Date. This Act shall take effect upon its approval by
+19 the Governor, or it becoming law without such approval.
+Prefiled:
+5
+- -
+HOUSE BILL
+Date: Introduced by:
+Re doseph A. Flore
+Reviewed for legal sufficiency by:
+Hoilse Legal Counsel
+Date: '
+6
+[DELETED:  2 iT  S T C s s u r p i h d r g f s a h a i T b c t s d c C o t p ( v u e]
+[DELETED: 4 H t l o c r h l t t t p s s h E d o b c o M U s a t h t o r t p T D o P S i t h r e t T t p o t A i t e c e a e N s S 2 A 9 D 4 C 1 o t C " ( 7 c T l t o t t]
+[DELETED:  ( T ( o u m b t t r d b a p o s t t A A M R]
+[DELETED:  ( ( o ( T ( T ( ( A t ( m b k i v s t a o ( i t ( t ( P A v o 1 ( E T D P a C ( T s d n a t u l e o o u o l o a t]
+[DELETED:  S T a c t r t A o t o i T h s u w -]
+[DELETED:   d]
+
+
+================================================================================
+
+Raw Text:
+TWENTY-FOURTH NORTHERN MARIANAS COMMONWEALTH
+LEGISLATURE
+IN THE HOUSE OF REPRESENTATIVES
+Regular Session, 2025 H. B. 2 4' iti
+A BILL FOR AN ACT
+To establish regulations on vehicle window tinting for safety and
+security in the Commonwealth of the Northern Mariana Islands;
+and for other purposes.
+11
+BE IT ENACTED BY THE 24T NORTHERN MARIANAS
+COMMONWEALTH LEGISLATURE:
+1 Section 1. Findings and Purpose. The Legislature recognizes that, in the
+2 Commonwealth of the Northern Mariana Islands, vehicle window tinting plays a
+3 significant role in enhancing vehicle appearance while also impacting safety and
+4 security. Properly regulated tinting can provide protection from the sun's heat and
+5 ultraviolet rays, prevent interior heat damage, reduce glare from sunlight and
+6 headlights, and improve privacy. These benefits contribute to safer driving
+7 conditions and help prevent theft by obscuring valuables inside the vehicle.
+8 Currently, the CNMI has limited regulations regarding window tinting, with
+9 only two statutory provisions: (1) 1 CMC § 7406(e), which restricts tinting on
+10 government vehicles, except for unmarked law enforcement vehicles and those
+11 used by elected officials and judges; and (2) 1 CMC § 2596(a)(5), which bans
+12 adhesive or spray tinting on taxicab windows.
+
+2.4- 4 1
+HOUSE BILL
+1 However, the lack of comprehensive regulation has led to widespread
+2 unregulated tinting that poses significant safety hazards. Excessively dark or
+3 improperly installed tint can greatly diminish visibility, especially at night or during
+4 bad weather, increasing the risk of accidents. Additionally, heavily tinted windows
+5 can conceal illegal activities, creating dangers for the public and law enforcement
+6 officers alike who may approach vehicles unknowingly involved in illegal conduct.
+7 Most U.S. states and territories have enacted their own regulations to
+8 promote safety and public security through controlled window tinting standards.
+9 The Department of Public Safety in the CNMI has repeatedly emphasized the
+10 urgent need for such regulations to protect all road users.
+11 Therefore, the purpose of this Act is to establish clear, effective, and
+12 enforceable regulations on vehicle window tinting in the Commonwealth of the
+13 Northern Mariana Islands, with the primary objectives of enhancing road safety,
+14 safeguarding public security, and ensuring lawful conduct on the roads.
+15 Section 2. Amendment. Title 9, Division 4, Chapter 1 of the
+16 Commonwealth Code is amended by inserting a new § 4116 to read as follows:
+17 "§ 4116. Window Tinting.
+18 (a) Tinting Material. Notwithstanding 1 CMC § 2596(a)(5) and 1 CMC §
+19 7406(e), a person may apply tinting material to the windows of a motor vehicle in
+20 compliance with this section.
+21 (1) Tinting material may be applied to the side and rear windows of
+22 a motor vehicle if:
+23 (i) The visible light transmittance (VLT) of the tinting
+24 material is 35% or more; and
+-2
+-
+
+29 -9 I
+HOUSE BILL
+1 (ii) The total light transmittance through the window with
+2 the tint applied is 35% or more.
+3 (2) Tinting material with lower light transmittance than permitted
+4 under subsection (a)(1) may be applied to the top six inches of a windshield
+5 only. No other part of the windshield may be tinted.
+6 (3) Tinting material with lower transmittance than allowed under
+7 subsection (a)(1) may be applied to all windows behind the driver of a
+8 multipurpose passenger vehicle, provided the vehicle has exterior rearview
+9 mirrors on each side. The tinted windows must meet federal regulations for
+10 glazing material. For this subsection, a "multipurpose passenger vehicle" is
+11 defined as a motor vehicle designed to carry up to 10 persons, built on a
+12 truck chassis or with features for occasional off-road use.
+13 (4) Tinting material with lower transmittance than permitted under
+14 subsection (a)(1) may also be applied to side and rear windows of a vehicle
+15 registered to a person or their legal guardian if accompanied by a written
+16 document signed by a licensed physician or practitioner stating that the
+17 person or someone in their household has a medical condition requiring
+18 tinting with lower transmittance. Acceptable documents include:
+19 (i) An affidavit;
+20 (ii) A prescription; or
+21 (iii) A letter on the practitioner's letterhead
+22 (5) This documentation must be kept in the vehicle and shown to a
+23 police officer upon request regarding the tint.
+24 (6) There are no light transmittance requirments for glazing on AS-
+25 3 type windows.
+26 (7) The following types of tinting material are not permitted:
+27 (i) Mirror finish products;
+28 (ii) Red, gold, yellow, amber or black tint; and
+3
+
+HOUSE BILL
+1 (iii) Liquid tint applied by brushing or spraying.
+2 (8) Each person installing window tinting must provide the vehicle
+3 owner with a certificate that includes:
+4 (i) The name and address of the installer;
+5 (ii) The light transmittance of the tint;
+6 (iii) The light reflectance of the tint; and
+7 (iv) A statement that the total light transmittance through
+8 each tinted window is at least 35%.
+9 (9) The certificate must be kept in the vehicle and shown to an
+10 officer when asked about the tint.
+11 (10) For purposes of this section, Visible Light Transmission (VLT)
+12 is the percentage of total visible light passing through the material, relative
+13 to the total light falling on it.
+14 (b) Illegal Window Tinting. It is unlawful to apply window tinting material
+15 that does not comply with subsection (a), or to tint windows on a vehicle where
+16 tinting is not authorized under this section.
+17 (c) Violation and Penalty. Any violation of this section is an infraction,
+18 punishable by a fine of up to $250 for the first offense and up to $500 for subsequent
+19 offenses. Violators must correct the tinting and have the vehicle re-inspected within
+20 10 days at a Certified Safety Inspection Station as defined in 9 CMC § 3107.
+21 (d) Inspection and Enforcement. The Department of Public Safety and
+22 Certified Safety Inspection Stations shall enforce and ensure compliance with this
+23 Act.
+24 (e) Exemption.
+25 (1) This section does not apply to unmarked law enforcement
+26 vehicles or official vehicles used, owned, leased, or assigned to the
+27 Governor, Lieutenant Governor, or other elected officials, as defined in 1
+28 CMC § 7406(a)(1).
+4
+-
+
+214-41
+HOUSE BILL
+1 (2) It also does not apply to factory-tinted vehicles or hearses used
+2 for funeral transportation."
+3 Section 3. Transition. A motor vehicle not in compliance with Section
+4 2 of this Act shall be made in compliance within one year after this Act
+5 becomes law.
+6 Section 4. Severability. If any provisions of this Act or the application of
+7 any such provision to any person or circumstance should be held invalid by a court
+8 of competent jurisdiction, the remainder of this Act or the application of its
+9 provisions to persons or circumstances other than those to which it is held invalid
+10 shall not be affected thereby.
+11 Section 5. Savings Clause. This Act and any repealer contained herein
+12 shall not be construed as affecting any existing right acquired under contract or
+13 acquired under statutes repealed or under any rule, regulation, or order adopted
+14 under the statutes. Repealers contained in this Act shall not affect any proceeding
+15 instituted under or pursuant to prior law. The enactment of the Act shall not have
+16 the effect of terminating, or in any way modifying, any liability, civil or criminal,
+17 which shall already be in existence on the date this Act becomes effective.
+18 Section 6. Effective Date. This Act shall take effect upon its approval by
+19 the Governor, or it becoming law without such approval.
+Prefiled:
+5
+- -
+
+HOUSE BILL
+Date: Introduced by:
+Re doseph A. Flore
+Reviewed for legal sufficiency by:
+Hoilse Legal Counsel
+Date: '
+6
+
+[DELETED:  2 iT  S T C s s u r p i h d r g f s a h a i T b c t s d c C o t p ( v u e]
+[DELETED: 4 H t l o c r h l t t t p s s h E d o b c o M U s a t h t o r t p T D o P S i t h r e t T t p o t A i t e c e a e N s S 2 A 9 D 4 C 1 o t C " ( 7 c T l t o t t]
+[DELETED:  ( T ( o u m b t t r d b a p o s t t A A M R]
+[DELETED:  ( ( o ( T ( T ( ( A t ( m b k i v s t a o ( i t ( t ( P A v o 1 ( E T D P a C ( T s d n a t u l e o o u o l o a t]
+[DELETED:  S T a c t r t A o t o i T h s u w -]
+[DELETED:   d]

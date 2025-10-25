@@ -1,0 +1,580 @@
+Title: A BILL FOR AN ACT
+Official Title: A BILL FOR AN ACT
+Number of Sections: 1
+Source: versions - HB 24-56
+Media Type: application/pdf
+Strikethrough Detection: 12 sections found
+
+================================================================================
+
+Section 1:
+TWENTY-FOURTH NORTHERN MARIANAS COMMONWEALTH
+LEGISLATURE
+IN THE HOUSE OF REPRESENTATIVES
+414
+Regular Session, 2025 H. B. 24-
+To establish the CNMI Air Service Development Matching
+Fund to support federal air service development grants, such as
+the Small Community Air Service Development Program, and
+to provide procedures and responsibilities related to the use of
+the Fund.
+11
+BE IT ENACTED BY THE 24T NORTHERN MARIANAS
+COMMONWEALTH LEGISLATURE:
+1 Section 1. Short Title. This Act may be cited as the "Air Service
+2 Development Matching Fund Act of 2025."
+3 Section 2. Findings and Purpose. The Legislature finds that the
+4 Commonwealth's geographic isolation and limited commercial air service create
+5 significant barriers to economic recovery, tourism development, and public access
+6 to essential services.
+7 The Legislature also finds that the U.S. Department of Transportation
+8 administers the Small Community Air Service Development Program (SCASDP)
+9 under 49 U.S.C. § 41743 to help small communities improve their air service
+10 through flexible, community-designed projects that may include route subsidies,
+11 tourism marketing, and air service feasibility studies.
+HOUSE BILL 24- 4.4
+1 In Fiscal Year 2021, the Commonwealth Ports Authority (CPA) submitted
+2 a SCASDP application that sought $1.9 million in funding. The application was not
+3 selected for award, primarily due to the absence of a clearly defined public-private
+4 partnership, the lack of a proposed non-airport local cost match, and the size of the
+5 funding request. The U.S. Department of Transportation advised CPA to
+6 collaborate more closely with local agencies and obtain letters of support from both
+7 public and private stakeholders to enhance the competitiveness of its future
+8 applications.
+9 The Legislature also recognizes that federal air service development grant
+10 awards can be used to support broader public interests. For example, improvements
+11 to air service can promote access to healthcare and education and attract tourists
+12 from key markets. Additionally, federal air service development grant funds can
+13 also typically be used to assist with community-specific studies and other locally
+14 relevant initiatives that enhance the overall quality of life and economic resilience
+15 of the Commonwealth.
+16 Thus, the purpose of this Act is to establish the CNMI Air Service
+17 Development Matching Fund, to provide a credible and organized mechanism for
+18 supporting federal air service development applications, and to ensure that the
+19 CNMI is prepared to submit competitive proposals that reflect community needs,
+20 demonstrate meaningful public-private cooperation, and align with federal
+21 priorities.
+2
+HOUSE BILL 24- STD
+1 Section 2. Enactment. Division 2 of Title 4 of the Commonwealth Code
+2 is hereby amended by adding a new Chapter 4 to read as follows:
+3 "Chapter 4. Air Service Development
+4 § 2401. Definitions.
+5 For the purposes of this Chapter, unless the context clearly requires
+6 otherwise:
+7 (a) "Air service development grant" means a federally administered grant
+8 program that provides funding to support the improvement,
+9 restoration, or expansion of commercial air service in small or
+10 underserved communities, including, but not limited to, the Small
+11 Community Air Service Development Program (SCASDP) under 49
+12 U.S.C. § 41743.
+13 (b) "Commonwealth Ports Authority" or "CPA" means the autonomous
+14 public corporation established under 2 CMC § 2121 that is responsible
+15 for the operation and development of the Commonwealth's ports.
+16 (c) "Marianas Visitors Authority" or "MVA" means the public corporation
+17 established under 4 CMC § 2102 that is tasked with promoting tourism
+18 to the Commonwealth.
+19 (d) "Non-airport local match" means the portion of a required grant
+20 matching contribution that originates from sources other than airport
+21 revenues, such as appropriations, private contributions, pledges, or
+3
+HOUSE BILL 24- SCOP
+1 other non-aeronautical funds.
+2 (e) "Public-private partnership" means a voluntary, cooperative
+3 arrangement between government and private-sector entities that
+4 includes financial contributions, in-kind support, or documented
+5 stakeholder participation in pursuit of a federal air service
+6 development grant.
+7 (0 "Revenue guarantee" means a financial incentive offered to an air carrier
+8 under federal grant terms that cover a portion of revenue shortfall in
+9 air service operations.
+10 (g) "Small Community Air Service Development Program" or "SCASDP"
+11 means the program administered by the United States Department of
+12 Transportation under 49 U.S.C. § 41743, which awards grants to small
+13 communities to support customized air service development
+14 initiatives.
+15 (h) "The Fund" means the CNMI Air Service Development Matching Fund
+16 established under § 2402 of this Chapter.
+17 (i) "Travel bank" means a fund or escrow account supported by voluntary
+18 deposits or pledges and to be used exclusively for the purchase of air
+19 travel on a specific route if the proposed service is established through
+20 a successful grant award.
+4
+HOUSE BILL 24- SG°
+1 § 2402. CNMI Air Service Development Matching Fund.
+2 (a) There is hereby established the CNMI Air Service Development
+3 Matching Fund, a special fund within the Commonwealth Treasury, to
+4 be administered by the Commonwealth Ports Authority, in
+5 coordination with the Marianas Visitors Authority and the CNMI
+6 Department of Finance.
+7 (b) The Fund shall be used exclusively to support activities authorized
+8 under, or undertaken in connection with, federally administered air
+9 service development grant programs, including but not limited to the
+10 United States Department of Transportation Small Community Air
+11 Service Development Program. Eligible uses of the Fund include:
+12 (1) Providing the non-airport local match for federal air service
+13 development grants;
+14 (2) Paying for associated grant development or technical assistance
+15 costs;
+16 (3) Funding marketing, promotion, or route guarantee expenses as
+17 authorized by federal grant terms;
+18 (4) Providing financial incentives to air carriers consistent with federal
+19 law, including revenue guarantees and travel banks;
+20 (5) Defraying the cost of facility upgrades or ground handling
+21 agreements necessary for new air service;
+5
+S6
+HOUSE BILL 24-
+1 (6) Conducting market or noise mitigation studies related to air service
+2 viability or expansion;
+3 (7) Supporting tourism-focused air service marketing or public
+4 awareness efforts; and
+5 (8) Enhancing community resilience and connectivity through all non-
+6 subsidy air service development activities authorized under any air
+7 service development grant.
+8 § 2403. Sources of Funding.
+9 (a) The Fund may consist of:
+10 (1) Legislative appropriations;
+11 (2) Donations, pledges, contributions, and grants from private
+12 businesses, nonprofit organizations, individuals, or foundations;
+13 (3) Funds allocated by the Marianas Visitors Authority for air service
+14 marketing or tourism promotion; and
+15 (4) Voluntary travel bank pledges or deposits, provided that all such
+16 pledges and deposits are used exclusively for ticket purchases on
+17 supported routes.
+18 § 2404. Designation of Lead Grant Applicant and Administrator.
+19 (a) The Commonwealth Ports Authority (CPA) is hereby designated as the
+20 official grant sponsor for the purpose of applying for, receiving, and
+21 administering federal funds awarded under any air service
+6
+-
+SG
+HOUSE BILL 24-
+1 development grant, including the U.S. Department of Transportation's
+2 Small Community Air Service Development Program and other similar
+3 programs.
+4 (b) CPA shall administer the CNMI Air Service Development Matching
+5 Fund established by this Chapter. CPA is authorized to:
+6 (1) Coordinate the submission of any air service development grant
+7 application;
+8 (2) Enter into grant agreements with the federal government;
+9 (3) Receive and disburse funds in accordance with federal and local law;
+10 and
+11 (4) Monitor and report on the use of funds consistent with grant terms
+12 and applicable regulations.
+13 (c) CPA shall consult and coordinate with the Marianas Visitors Authority,
+14 the CNMI Department of Commerce, and the Office of the Governor
+15 in identifying eligible projects and preparing any application for air
+16 service development grant funding. CPA shall convene an interagency
+17 working group to guide the identification and development of such
+18 projects.
+19 § 2405. Roles and Responsibilities of Supporting Agencies.
+20 (a) The Marianas Visitors Authority (MVA), the CNMI Department of
+21 Commerce, and the Office of the Governor shall support the
+7
+HOUSE BILL 24- 4 -00
+1 Commonwealth Ports Authority in developing, applying for, and
+2 implementing any federal air service development grant projects
+3 supported by the CNMI Air Service Development Matching Fund
+4 established by this Chapter.
+5 (b) As the CNMI's lead tourism and destination marketing agency, MVA
+6 shall:
+7 (1) Coordinate stakeholder outreach and the establishment of public-
+8 private partnerships in support of any federal air service
+9 development grant application;
+10 (2) Prepare and distribute informational materials, contribution pledge
+11 forms, and promotional summaries for community participation;
+12 (3) Collect and maintain documentation of local support and
+13 participation to be submitted as part of any federal air service
+14 development grant application; and
+15 (4) Support implementation of marketing or route awareness
+16 campaigns, where applicable.
+17 (c) As the agency responsible for economic development planning and data
+18 collection, the CNMI Department of Commerce shall:
+19 (1) Provide relevant economic, business, and demographic data in
+20 support of air service feasibility and market justification;
+21 (2) Assist in preparing economic impact narratives or statements; and
+-8
+S6
+HOUSE BILL 24-
+1 (3) Coordinate with CPA in identifying key industries and regional
+2 travel needs that the project may address.
+3 (d) As the central executive coordinating authority, the Office of the
+4 Governor shall:
+5 (1) Endorse and certify grant applications submitted under this Chapter
+6 where required;
+7 (2) Provide letters of support and intergovernmental coordination to
+8 demonstrate executive commitment to the project; and
+9 (3) Facilitate engagement with federal agencies or representatives to
+10 support the Commonwealth's applications for federal air service
+11 development grants.
+12 § 2406. Public-Private Partnership Framework.
+13 (a) For any federal air service development grant pursued with support from
+14 the CNMI Air Service Development Matching Fund, the grant
+15 application shall strive to provide at least 20% of the total local match
+16 from non-airport, non-government sources, including but not limited
+17 to:
+18 (1) Cash contributions from local businesses;
+19 (2) In-kind contributions related to marketing or travel bank
+20 arrangements; and
+21 (3) Direct sponsorships or cooperative advertising agreements.
+9
+_
+SIP
+HOUSE BILL 24-
+1 (b) Only contributors to the CNMI Air Service Development Matching
+2 Fund shall be:
+3 (1) Eligible for inclusion in government-led tourism marketing or co-
+4 branded airline promotions tied to the air service project;
+5 (2) Recognized as participating stakeholders in official media, signage,
+6 press events; and
+7 (3) Eligible for inclusion in travel packages, promotional deals, and
+8 other opportunities generated through the grant.
+9 (c) Entities that decline to contribute may be excluded from promotions or
+10 partnerships associated with the grant-supported service.
+11 § 2407. Reporting and Oversight.
+12 (a) CPA and MVA shall jointly:
+13 (1) Publicly solicit contributions to the Fund within 45 days of the
+14 enactment of this Chapter; and
+15 (2) Issue a written list of contributing stakeholders prior to each grant
+16 submission.
+17 (b) The Office of the Public Auditor shall have oversight over the Fund
+18 pursuant to existing law.
+19 § 2408. Rulemaking Authority.
+20 (a) The Commonwealth Ports Authority, in consultation with the Marianas
+21 Visitors Authority, the Department of Commerce, and the Department
+- 10 -
+HOUSE BILL 24- Sr.
+1 of Finance, is authorized to adopt rules and regulations as may be
+2 necessary to implement this Chapter, including procedures for the
+3 administration of the CNMI Air Service Development Matching Fund,
+4 standards for verifying pledges or contributions, and requirements for
+5 stakeholder participation."
+6 Section 4. Severability. If any provisions of this Act or the application of
+7 any such provision to any person or circumstance should be held invalid by a court
+8 of competent jurisdiction, the remainder of this Act or the application of its
+9 provisions to persons or circumstances other than those to which it is held invalid
+10 shall not be affected thereby.
+11 Section 5. Savings Clause. This Act and any repealer contained herein
+12 shall not be construed as affecting any existing right acquired under contract or
+13 acquired under statutes repealed or under any rule, regulation, or order adopted
+14 under the statutes. Repealers contained in this Act shall not affect any proceeding
+15 instituted under or pursuant to prior law. The enactment of the Act shall not have
+16 the effect of terminating, or in any way modifying, any liability, civil or criminal,
+17 which shall already be in existence on the date this Act becomes effective.
+18 Section 6. Effective Date. This Act shall take effect upon its approval by
+19 the Governor, or it becoming law without such approval.
+4'6
+HOUSE BILL 24-
+Prefiled: Rif /0/0)-X
+Date: Introduced by:
+Ryiewed for Legal Sufficiency by:
+Att, 21-1 9P25.
+e egal Counsel
+- 12 -
+[DELETED: R e t C S D MT  1 S T T A m b c a t " S D 2 F a P T L f t t t T a f t U o T a 4 § t s a]
+[DELETED:  4 a s p f r T U D o a C t c p a p s t e t c o i f a a f a r o T p o t i t e C A f t t t a w]
+[DELETED:  2 S i § t p o t u t c c o ( p t r o e o u c i C U ( a ( f t s t i a s i s o n l t " m m p o a g]
+[DELETED:  " p m a v c a b g a p e t f c i s o d s p i p o a f a s d " u a t s a s d ( (]
+[DELETED:  T i h e t C A S D M a b t C P A i c w t M V A a t C D ( F s b u e t a a o u i c w a a S D o T S C A P t n l m f f a s P f g d t a m o r e t o o]
+[DELETED:  ( v ( S t a s m o p a ( § ( ( D p a g f p b § a]
+[DELETED:  d S ( F C t a a s d g a ( ( a c a T V ( C o t o t s t]
+[DELETED:   C P A i d a f a a f a s d g p s b t C A S D M F ( s p i s o a f a s C a d o s a b s a p o f a s o m r a P a d i]
+[DELETED:  ( C w C i i k i a r t ( A t c e c a t O o t ( w ( P l s a i c d ( r s t C f a C A D M t g I t t]
+[DELETED:  O c C A S D M ( p ( E p p d ( p § ( s t t F w d t]
+[DELETED:  S o F i t a r r b t i t C i p f t a o s S a o j t r o t A o t a o i p s T A r s r i t w]
+[DELETED:  I e]
+
+
+================================================================================
+
+Raw Text:
+TWENTY-FOURTH NORTHERN MARIANAS COMMONWEALTH
+LEGISLATURE
+IN THE HOUSE OF REPRESENTATIVES
+414
+Regular Session, 2025 H. B. 24-
+A BILL FOR AN ACT
+To establish the CNMI Air Service Development Matching
+Fund to support federal air service development grants, such as
+the Small Community Air Service Development Program, and
+to provide procedures and responsibilities related to the use of
+the Fund.
+11
+BE IT ENACTED BY THE 24T NORTHERN MARIANAS
+COMMONWEALTH LEGISLATURE:
+1 Section 1. Short Title. This Act may be cited as the "Air Service
+2 Development Matching Fund Act of 2025."
+3 Section 2. Findings and Purpose. The Legislature finds that the
+4 Commonwealth's geographic isolation and limited commercial air service create
+5 significant barriers to economic recovery, tourism development, and public access
+6 to essential services.
+7 The Legislature also finds that the U.S. Department of Transportation
+8 administers the Small Community Air Service Development Program (SCASDP)
+9 under 49 U.S.C. § 41743 to help small communities improve their air service
+10 through flexible, community-designed projects that may include route subsidies,
+11 tourism marketing, and air service feasibility studies.
+
+HOUSE BILL 24- 4.4
+1 In Fiscal Year 2021, the Commonwealth Ports Authority (CPA) submitted
+2 a SCASDP application that sought $1.9 million in funding. The application was not
+3 selected for award, primarily due to the absence of a clearly defined public-private
+4 partnership, the lack of a proposed non-airport local cost match, and the size of the
+5 funding request. The U.S. Department of Transportation advised CPA to
+6 collaborate more closely with local agencies and obtain letters of support from both
+7 public and private stakeholders to enhance the competitiveness of its future
+8 applications.
+9 The Legislature also recognizes that federal air service development grant
+10 awards can be used to support broader public interests. For example, improvements
+11 to air service can promote access to healthcare and education and attract tourists
+12 from key markets. Additionally, federal air service development grant funds can
+13 also typically be used to assist with community-specific studies and other locally
+14 relevant initiatives that enhance the overall quality of life and economic resilience
+15 of the Commonwealth.
+16 Thus, the purpose of this Act is to establish the CNMI Air Service
+17 Development Matching Fund, to provide a credible and organized mechanism for
+18 supporting federal air service development applications, and to ensure that the
+19 CNMI is prepared to submit competitive proposals that reflect community needs,
+20 demonstrate meaningful public-private cooperation, and align with federal
+21 priorities.
+2
+
+HOUSE BILL 24- STD
+1 Section 2. Enactment. Division 2 of Title 4 of the Commonwealth Code
+2 is hereby amended by adding a new Chapter 4 to read as follows:
+3 "Chapter 4. Air Service Development
+4 § 2401. Definitions.
+5 For the purposes of this Chapter, unless the context clearly requires
+6 otherwise:
+7 (a) "Air service development grant" means a federally administered grant
+8 program that provides funding to support the improvement,
+9 restoration, or expansion of commercial air service in small or
+10 underserved communities, including, but not limited to, the Small
+11 Community Air Service Development Program (SCASDP) under 49
+12 U.S.C. § 41743.
+13 (b) "Commonwealth Ports Authority" or "CPA" means the autonomous
+14 public corporation established under 2 CMC § 2121 that is responsible
+15 for the operation and development of the Commonwealth's ports.
+16 (c) "Marianas Visitors Authority" or "MVA" means the public corporation
+17 established under 4 CMC § 2102 that is tasked with promoting tourism
+18 to the Commonwealth.
+19 (d) "Non-airport local match" means the portion of a required grant
+20 matching contribution that originates from sources other than airport
+21 revenues, such as appropriations, private contributions, pledges, or
+3
+
+HOUSE BILL 24- SCOP
+1 other non-aeronautical funds.
+2 (e) "Public-private partnership" means a voluntary, cooperative
+3 arrangement between government and private-sector entities that
+4 includes financial contributions, in-kind support, or documented
+5 stakeholder participation in pursuit of a federal air service
+6 development grant.
+7 (0 "Revenue guarantee" means a financial incentive offered to an air carrier
+8 under federal grant terms that cover a portion of revenue shortfall in
+9 air service operations.
+10 (g) "Small Community Air Service Development Program" or "SCASDP"
+11 means the program administered by the United States Department of
+12 Transportation under 49 U.S.C. § 41743, which awards grants to small
+13 communities to support customized air service development
+14 initiatives.
+15 (h) "The Fund" means the CNMI Air Service Development Matching Fund
+16 established under § 2402 of this Chapter.
+17 (i) "Travel bank" means a fund or escrow account supported by voluntary
+18 deposits or pledges and to be used exclusively for the purchase of air
+19 travel on a specific route if the proposed service is established through
+20 a successful grant award.
+4
+
+HOUSE BILL 24- SG°
+1 § 2402. CNMI Air Service Development Matching Fund.
+2 (a) There is hereby established the CNMI Air Service Development
+3 Matching Fund, a special fund within the Commonwealth Treasury, to
+4 be administered by the Commonwealth Ports Authority, in
+5 coordination with the Marianas Visitors Authority and the CNMI
+6 Department of Finance.
+7 (b) The Fund shall be used exclusively to support activities authorized
+8 under, or undertaken in connection with, federally administered air
+9 service development grant programs, including but not limited to the
+10 United States Department of Transportation Small Community Air
+11 Service Development Program. Eligible uses of the Fund include:
+12 (1) Providing the non-airport local match for federal air service
+13 development grants;
+14 (2) Paying for associated grant development or technical assistance
+15 costs;
+16 (3) Funding marketing, promotion, or route guarantee expenses as
+17 authorized by federal grant terms;
+18 (4) Providing financial incentives to air carriers consistent with federal
+19 law, including revenue guarantees and travel banks;
+20 (5) Defraying the cost of facility upgrades or ground handling
+21 agreements necessary for new air service;
+5
+
+S6
+HOUSE BILL 24-
+1 (6) Conducting market or noise mitigation studies related to air service
+2 viability or expansion;
+3 (7) Supporting tourism-focused air service marketing or public
+4 awareness efforts; and
+5 (8) Enhancing community resilience and connectivity through all non-
+6 subsidy air service development activities authorized under any air
+7 service development grant.
+8 § 2403. Sources of Funding.
+9 (a) The Fund may consist of:
+10 (1) Legislative appropriations;
+11 (2) Donations, pledges, contributions, and grants from private
+12 businesses, nonprofit organizations, individuals, or foundations;
+13 (3) Funds allocated by the Marianas Visitors Authority for air service
+14 marketing or tourism promotion; and
+15 (4) Voluntary travel bank pledges or deposits, provided that all such
+16 pledges and deposits are used exclusively for ticket purchases on
+17 supported routes.
+18 § 2404. Designation of Lead Grant Applicant and Administrator.
+19 (a) The Commonwealth Ports Authority (CPA) is hereby designated as the
+20 official grant sponsor for the purpose of applying for, receiving, and
+21 administering federal funds awarded under any air service
+6
+-
+
+SG
+HOUSE BILL 24-
+1 development grant, including the U.S. Department of Transportation's
+2 Small Community Air Service Development Program and other similar
+3 programs.
+4 (b) CPA shall administer the CNMI Air Service Development Matching
+5 Fund established by this Chapter. CPA is authorized to:
+6 (1) Coordinate the submission of any air service development grant
+7 application;
+8 (2) Enter into grant agreements with the federal government;
+9 (3) Receive and disburse funds in accordance with federal and local law;
+10 and
+11 (4) Monitor and report on the use of funds consistent with grant terms
+12 and applicable regulations.
+13 (c) CPA shall consult and coordinate with the Marianas Visitors Authority,
+14 the CNMI Department of Commerce, and the Office of the Governor
+15 in identifying eligible projects and preparing any application for air
+16 service development grant funding. CPA shall convene an interagency
+17 working group to guide the identification and development of such
+18 projects.
+19 § 2405. Roles and Responsibilities of Supporting Agencies.
+20 (a) The Marianas Visitors Authority (MVA), the CNMI Department of
+21 Commerce, and the Office of the Governor shall support the
+7
+
+HOUSE BILL 24- 4 -00
+1 Commonwealth Ports Authority in developing, applying for, and
+2 implementing any federal air service development grant projects
+3 supported by the CNMI Air Service Development Matching Fund
+4 established by this Chapter.
+5 (b) As the CNMI's lead tourism and destination marketing agency, MVA
+6 shall:
+7 (1) Coordinate stakeholder outreach and the establishment of public-
+8 private partnerships in support of any federal air service
+9 development grant application;
+10 (2) Prepare and distribute informational materials, contribution pledge
+11 forms, and promotional summaries for community participation;
+12 (3) Collect and maintain documentation of local support and
+13 participation to be submitted as part of any federal air service
+14 development grant application; and
+15 (4) Support implementation of marketing or route awareness
+16 campaigns, where applicable.
+17 (c) As the agency responsible for economic development planning and data
+18 collection, the CNMI Department of Commerce shall:
+19 (1) Provide relevant economic, business, and demographic data in
+20 support of air service feasibility and market justification;
+21 (2) Assist in preparing economic impact narratives or statements; and
+-8
+
+S6
+HOUSE BILL 24-
+1 (3) Coordinate with CPA in identifying key industries and regional
+2 travel needs that the project may address.
+3 (d) As the central executive coordinating authority, the Office of the
+4 Governor shall:
+5 (1) Endorse and certify grant applications submitted under this Chapter
+6 where required;
+7 (2) Provide letters of support and intergovernmental coordination to
+8 demonstrate executive commitment to the project; and
+9 (3) Facilitate engagement with federal agencies or representatives to
+10 support the Commonwealth's applications for federal air service
+11 development grants.
+12 § 2406. Public-Private Partnership Framework.
+13 (a) For any federal air service development grant pursued with support from
+14 the CNMI Air Service Development Matching Fund, the grant
+15 application shall strive to provide at least 20% of the total local match
+16 from non-airport, non-government sources, including but not limited
+17 to:
+18 (1) Cash contributions from local businesses;
+19 (2) In-kind contributions related to marketing or travel bank
+20 arrangements; and
+21 (3) Direct sponsorships or cooperative advertising agreements.
+9
+_
+
+SIP
+HOUSE BILL 24-
+1 (b) Only contributors to the CNMI Air Service Development Matching
+2 Fund shall be:
+3 (1) Eligible for inclusion in government-led tourism marketing or co-
+4 branded airline promotions tied to the air service project;
+5 (2) Recognized as participating stakeholders in official media, signage,
+6 press events; and
+7 (3) Eligible for inclusion in travel packages, promotional deals, and
+8 other opportunities generated through the grant.
+9 (c) Entities that decline to contribute may be excluded from promotions or
+10 partnerships associated with the grant-supported service.
+11 § 2407. Reporting and Oversight.
+12 (a) CPA and MVA shall jointly:
+13 (1) Publicly solicit contributions to the Fund within 45 days of the
+14 enactment of this Chapter; and
+15 (2) Issue a written list of contributing stakeholders prior to each grant
+16 submission.
+17 (b) The Office of the Public Auditor shall have oversight over the Fund
+18 pursuant to existing law.
+19 § 2408. Rulemaking Authority.
+20 (a) The Commonwealth Ports Authority, in consultation with the Marianas
+21 Visitors Authority, the Department of Commerce, and the Department
+- 10 -
+
+HOUSE BILL 24- Sr.
+1 of Finance, is authorized to adopt rules and regulations as may be
+2 necessary to implement this Chapter, including procedures for the
+3 administration of the CNMI Air Service Development Matching Fund,
+4 standards for verifying pledges or contributions, and requirements for
+5 stakeholder participation."
+6 Section 4. Severability. If any provisions of this Act or the application of
+7 any such provision to any person or circumstance should be held invalid by a court
+8 of competent jurisdiction, the remainder of this Act or the application of its
+9 provisions to persons or circumstances other than those to which it is held invalid
+10 shall not be affected thereby.
+11 Section 5. Savings Clause. This Act and any repealer contained herein
+12 shall not be construed as affecting any existing right acquired under contract or
+13 acquired under statutes repealed or under any rule, regulation, or order adopted
+14 under the statutes. Repealers contained in this Act shall not affect any proceeding
+15 instituted under or pursuant to prior law. The enactment of the Act shall not have
+16 the effect of terminating, or in any way modifying, any liability, civil or criminal,
+17 which shall already be in existence on the date this Act becomes effective.
+18 Section 6. Effective Date. This Act shall take effect upon its approval by
+19 the Governor, or it becoming law without such approval.
+
+4'6
+HOUSE BILL 24-
+Prefiled: Rif /0/0)-X
+Date: Introduced by:
+Ryiewed for Legal Sufficiency by:
+Att, 21-1 9P25.
+e egal Counsel
+- 12 -
+
+[DELETED: R e t C S D MT  1 S T T A m b c a t " S D 2 F a P T L f t t t T a f t U o T a 4 § t s a]
+[DELETED:  4 a s p f r T U D o a C t c p a p s t e t c o i f a a f a r o T p o t i t e C A f t t t a w]
+[DELETED:  2 S i § t p o t u t c c o ( p t r o e o u c i C U ( a ( f t s t i a s i s o n l t " m m p o a g]
+[DELETED:  " p m a v c a b g a p e t f c i s o d s p i p o a f a s d " u a t s a s d ( (]
+[DELETED:  T i h e t C A S D M a b t C P A i c w t M V A a t C D ( F s b u e t a a o u i c w a a S D o T S C A P t n l m f f a s P f g d t a m o r e t o o]
+[DELETED:  ( v ( S t a s m o p a ( § ( ( D p a g f p b § a]
+[DELETED:  d S ( F C t a a s d g a ( ( a c a T V ( C o t o t s t]
+[DELETED:   C P A i d a f a a f a s d g p s b t C A S D M F ( s p i s o a f a s C a d o s a b s a p o f a s o m r a P a d i]
+[DELETED:  ( C w C i i k i a r t ( A t c e c a t O o t ( w ( P l s a i c d ( r s t C f a C A D M t g I t t]
+[DELETED:  O c C A S D M ( p ( E p p d ( p § ( s t t F w d t]
+[DELETED:  S o F i t a r r b t i t C i p f t a o s S a o j t r o t A o t a o i p s T A r s r i t w]
+[DELETED:  I e]

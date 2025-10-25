@@ -1,0 +1,316 @@
+Title: A BILL FOR AN ACT
+Official Title: A BILL FOR AN ACT
+Number of Sections: 2
+Source: versions - HB 24-59
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+TWENTY-FOURTH NORTHERN MARIANAS COMMONWEALTH
+LEGISLATURE
+IN THE HOUSE OF REPRESENTATIVES
+Regular Session, 2025 H. B.
+To enact the "CNMI Fair Billing Practices Act" to establish clear
+and fair standards for back billing practices in the Commonwealth
+of the Northern Mariana Islands to protect consumers while
+allowing service providers to recover unpaid amounts lawfully due;
+and for other purposes.
+BE IT ENACTED BY THE 24TH NORTHERN MARIANAS
+COMMONWEALTH LEGISLATURE:
+1 Section 1. Title. This Act may be cited as the "CNMI Fair Billing Practices
+2 Act."
+3 Section 2. Findings and Purpose. T he Legislature finds that consumers in
+4 the Commonwealth are highly dependent on imported goods and essential services,
+5 leaving households and small businesses vulnerable to the unexpected burden of
+6 back billing. Without clear standards, families face sudden costs that undermine
+7 financial stability, while service providers lack a transparent framework for
+8 recovering lawful charges.
+9 The Legislature further finds that fair billing practices are recognized
+10 nationally by agencies such as the Federal Energy Regulatory Commission, the
+11 Federal Communications Commission, the Federal Trade Commission, and the
+12 Centers for Medicare & Medicaid Services under the No Surprises Act. Aligning
+HOUSE BILL X ik‘ir /
+1 Commonwealth law with these principles will protect consumers, promote fairness,
+2 and ensure accountability without conflicting with federal requirements.
+3 The purpose of this Act is to establish clear billing rules, prevent abusive or
+4 negligent back billing, and strengthen consumer confidence while preserving the
+5 right of service providers to recover amounts lawfully owed.
+6 Section 3. Enactment. Subject to codification by the CNMI Law
+7 Revision Commission, the following is hereby enacted into law:
+8 "101. "CNMI Fair Billing Practices Act."
+9 102. Definitions.
+10 (a) "Back billing" means the process of retroactively charging a customer
+11 for services or goods previously provided but not billed at the time of
+12 delivery.
+13 (b) "Service provider" means any entity providing utility,
+14 telecommunication, healthcare, or other consumer services within the
+15 Commonwealth.
+16 (c) "Customer" means any individual or business entity receiving goods or
+17 services from a service provider.
+18 (d) "Dispute" means a written objection by the customer regarding the
+19 accuracy or legitimacy of a back bill.
+2
+- -
+HOUSE BILL 24 41 3
+1 103. Applicability. This Act applies to all service providers operating
+2 within the Commonwealth, except where preempted by specific federal or local
+3 law to include but not be limited to the following:
+4 1. FERC regulations governing electricity and gas billing (18 CFR Part 35)
+5 2. FCC billing transparency and anti-cramming rules under 47 CFR §
+6 64.2400
+7 3. FDCPA protections under 15 U.S.C. §§ 1692-1692p related to the
+8 collection of disputed back bills
+9 4. No Surprises Act limitations on balance billing in healthcare (42 U.S.C. §
+10 300gg-111)
+11 5. FTC unfair or deceptive billing rules, and
+12 6. Uniform Commercial Code (UCC) Article 2 and 2A as adopted by CNMI.
+13 104. General Limitations on Back Billing.
+14 (a) A service provider may issue a back bill only for a period not
+15 exceeding four months from the date the underbilling or non-billing occurred.
+16 (b) Exceptions may apply in cases of documented fraud, tampering, or
+17 unauthorized use by the customer.
+18 105. Notice Requirements.
+19 A service provider shall provide written notice explaining the reason for
+20 the back bill, the period covered, and a detailed breakdown of charges, delivered
+21 no later than thirty (30) days before payment is due.
+3
+-
+4z.q
+HOUSE BILL
+1 106. Payment Plans.
+2 A customer must be allowed to repay back-billed amounts over a period
+3 equal to or greater than the duration of the billing period covered, unless the
+4 customer agrees to shorter terms.
+5 107. Prohibition on Averaging.
+6 A service provider shall not estimate or average charges for unbilled
+7 periods; all amounts must be based on actual documented usage.
+8 108. Exemptions for Negligence.
+9 No back billing is permitted if the delay in billing resulted from the
+10 service provider's negligence, failure to maintain accurate records, or operational
+11 errors.
+12 109. Dispute Resolution.
+13 (a) A customer may dispute a back bill within sixty (60) days of receiving
+14 notice.
+15 (b) A service provider shall respond in writing within fifteen (15) days.
+16 (c) Unresolved disputes may be referred to the CNMI Consumer
+17 Protection Office for mediation or arbitration.
+18 (d) A service provider may not discontinue services while a back-billing
+19 dispute is pending.
+-4
+
+Section 2:
+24..s1
+HOUSE BILL
+1 110. Consumer Protections.
+2 A service provider is prohibited from:
+3 (1) Charging interest, penalties, or late fees on back-billed amounts unless
+4 expressly authorized by law or the original service agreement;
+5 (2) Engaging in back billing practices that rely on averaging or
+6 estimations; and
+7 (3) Violating federal healthcare billing restrictions, including those under
+8 the No Surprises Act.
+9 111. Enforcement and Penalties.
+10 The CNMI Office of Consumer Counsel shall enforce this Act. A
+11 violation may result in:
+12 (1) A fine not exceeding $5,000 per incident;
+13 (2) Suspension or revocation of the provider's license for repeated
+14 violations; and
+15 (3) Civil liability as provided under 7 CMC § 2502."
+16 Section 4. Non-Conflict Clause. This Act is intended to complement
+17 existing federal and CNMI law. In the event of conflict, federal law shall prevail.
+18 Nothing in this Act alters or limits the statutes of limitation for legal proceedings
+19 under Title 7 of the Commonwealth Code. This Act governs administrative billing
+20 practices only.
+5
+24 -xi
+HOUSE BILL
+1 Section 5. Severabilitv. If any provisions of this Act or the application of
+2 any such provision to any person or circumstance should be held invalid by a court
+3 of competent jurisdiction, the remainder of this Act or the application of its
+4 provisions to persons or circumstances other than those to which it is held invalid
+5 shall not be affected thereby.
+6 Section 6. Savings Clause. This Act and any repealer contained herein
+7 shall not be construed as affecting any existing right acquired under contract or
+8 acquired under statutes repealed or under any rule, regulation, or order adopted
+9 under the statutes. Repealers contained in this Act shall not affect any proceeding
+10 instituted under or pursuant to prior law. The enactment of the Act shall not have
+11 the effect of terminating, or in any way modifying, any liability, civil or criminal,
+12 which shall already be in existence on the date this Act becomes effective.
+13 Section 7. Effective Date. This Act shall take effect upon its approval by
+14 the Governor, or it becoming law without such approval.
+qlzkli 6-2-r
+Prefiled:
+Date:
+Introduced by:
+p. Vincent R. Aldan
+Reviewed for legal sufficiency by:
+e-e)- ---
+Hojise Legal Counsel
+Date: 1 2- S"
+6
+[DELETED: R S A t N I t p c w h t l b f s w s p l a t f f r L f f t f b p r b C F t F T]
+[DELETED: i C a T n r S S R " " 1 D f d t e ( a -]
+[DELETED:  413 l 1 F 2 F 6 3 F 4 N 5 F 6 U 1 e ( u 1 A t n]
+[DELETED:  P A e c 1 P e p 1 E N s e 1 ( ( P s d]
+[DELETED:  1 A ( e ( e ( 1 T A v ( v 4 N C T A i i t c e N p]
+[DELETED:  S a o c j t r o t A o a o i p s a u t t-- 1 2]
+
+
+================================================================================
+
+Raw Text:
+TWENTY-FOURTH NORTHERN MARIANAS COMMONWEALTH
+LEGISLATURE
+IN THE HOUSE OF REPRESENTATIVES
+Regular Session, 2025 H. B.
+A BILL FOR AN ACT
+To enact the "CNMI Fair Billing Practices Act" to establish clear
+and fair standards for back billing practices in the Commonwealth
+of the Northern Mariana Islands to protect consumers while
+allowing service providers to recover unpaid amounts lawfully due;
+and for other purposes.
+BE IT ENACTED BY THE 24TH NORTHERN MARIANAS
+COMMONWEALTH LEGISLATURE:
+1 Section 1. Title. This Act may be cited as the "CNMI Fair Billing Practices
+2 Act."
+3 Section 2. Findings and Purpose. T he Legislature finds that consumers in
+4 the Commonwealth are highly dependent on imported goods and essential services,
+5 leaving households and small businesses vulnerable to the unexpected burden of
+6 back billing. Without clear standards, families face sudden costs that undermine
+7 financial stability, while service providers lack a transparent framework for
+8 recovering lawful charges.
+9 The Legislature further finds that fair billing practices are recognized
+10 nationally by agencies such as the Federal Energy Regulatory Commission, the
+11 Federal Communications Commission, the Federal Trade Commission, and the
+12 Centers for Medicare & Medicaid Services under the No Surprises Act. Aligning
+
+HOUSE BILL X ik‘ir /
+1 Commonwealth law with these principles will protect consumers, promote fairness,
+2 and ensure accountability without conflicting with federal requirements.
+3 The purpose of this Act is to establish clear billing rules, prevent abusive or
+4 negligent back billing, and strengthen consumer confidence while preserving the
+5 right of service providers to recover amounts lawfully owed.
+6 Section 3. Enactment. Subject to codification by the CNMI Law
+7 Revision Commission, the following is hereby enacted into law:
+8 "101. "CNMI Fair Billing Practices Act."
+9 102. Definitions.
+10 (a) "Back billing" means the process of retroactively charging a customer
+11 for services or goods previously provided but not billed at the time of
+12 delivery.
+13 (b) "Service provider" means any entity providing utility,
+14 telecommunication, healthcare, or other consumer services within the
+15 Commonwealth.
+16 (c) "Customer" means any individual or business entity receiving goods or
+17 services from a service provider.
+18 (d) "Dispute" means a written objection by the customer regarding the
+19 accuracy or legitimacy of a back bill.
+2
+- -
+
+HOUSE BILL 24 41 3
+1 103. Applicability. This Act applies to all service providers operating
+2 within the Commonwealth, except where preempted by specific federal or local
+3 law to include but not be limited to the following:
+4 1. FERC regulations governing electricity and gas billing (18 CFR Part 35)
+5 2. FCC billing transparency and anti-cramming rules under 47 CFR §
+6 64.2400
+7 3. FDCPA protections under 15 U.S.C. §§ 1692-1692p related to the
+8 collection of disputed back bills
+9 4. No Surprises Act limitations on balance billing in healthcare (42 U.S.C. §
+10 300gg-111)
+11 5. FTC unfair or deceptive billing rules, and
+12 6. Uniform Commercial Code (UCC) Article 2 and 2A as adopted by CNMI.
+13 104. General Limitations on Back Billing.
+14 (a) A service provider may issue a back bill only for a period not
+15 exceeding four months from the date the underbilling or non-billing occurred.
+16 (b) Exceptions may apply in cases of documented fraud, tampering, or
+17 unauthorized use by the customer.
+18 105. Notice Requirements.
+19 A service provider shall provide written notice explaining the reason for
+20 the back bill, the period covered, and a detailed breakdown of charges, delivered
+21 no later than thirty (30) days before payment is due.
+3
+-
+
+4z.q
+HOUSE BILL
+1 106. Payment Plans.
+2 A customer must be allowed to repay back-billed amounts over a period
+3 equal to or greater than the duration of the billing period covered, unless the
+4 customer agrees to shorter terms.
+5 107. Prohibition on Averaging.
+6 A service provider shall not estimate or average charges for unbilled
+7 periods; all amounts must be based on actual documented usage.
+8 108. Exemptions for Negligence.
+9 No back billing is permitted if the delay in billing resulted from the
+10 service provider's negligence, failure to maintain accurate records, or operational
+11 errors.
+12 109. Dispute Resolution.
+13 (a) A customer may dispute a back bill within sixty (60) days of receiving
+14 notice.
+15 (b) A service provider shall respond in writing within fifteen (15) days.
+16 (c) Unresolved disputes may be referred to the CNMI Consumer
+17 Protection Office for mediation or arbitration.
+18 (d) A service provider may not discontinue services while a back-billing
+19 dispute is pending.
+-4
+
+24..s1
+HOUSE BILL
+1 110. Consumer Protections.
+2 A service provider is prohibited from:
+3 (1) Charging interest, penalties, or late fees on back-billed amounts unless
+4 expressly authorized by law or the original service agreement;
+5 (2) Engaging in back billing practices that rely on averaging or
+6 estimations; and
+7 (3) Violating federal healthcare billing restrictions, including those under
+8 the No Surprises Act.
+9 111. Enforcement and Penalties.
+10 The CNMI Office of Consumer Counsel shall enforce this Act. A
+11 violation may result in:
+12 (1) A fine not exceeding $5,000 per incident;
+13 (2) Suspension or revocation of the provider's license for repeated
+14 violations; and
+15 (3) Civil liability as provided under 7 CMC § 2502."
+16 Section 4. Non-Conflict Clause. This Act is intended to complement
+17 existing federal and CNMI law. In the event of conflict, federal law shall prevail.
+18 Nothing in this Act alters or limits the statutes of limitation for legal proceedings
+19 under Title 7 of the Commonwealth Code. This Act governs administrative billing
+20 practices only.
+5
+
+24 -xi
+HOUSE BILL
+1 Section 5. Severabilitv. If any provisions of this Act or the application of
+2 any such provision to any person or circumstance should be held invalid by a court
+3 of competent jurisdiction, the remainder of this Act or the application of its
+4 provisions to persons or circumstances other than those to which it is held invalid
+5 shall not be affected thereby.
+6 Section 6. Savings Clause. This Act and any repealer contained herein
+7 shall not be construed as affecting any existing right acquired under contract or
+8 acquired under statutes repealed or under any rule, regulation, or order adopted
+9 under the statutes. Repealers contained in this Act shall not affect any proceeding
+10 instituted under or pursuant to prior law. The enactment of the Act shall not have
+11 the effect of terminating, or in any way modifying, any liability, civil or criminal,
+12 which shall already be in existence on the date this Act becomes effective.
+13 Section 7. Effective Date. This Act shall take effect upon its approval by
+14 the Governor, or it becoming law without such approval.
+qlzkli 6-2-r
+Prefiled:
+Date:
+Introduced by:
+p. Vincent R. Aldan
+Reviewed for legal sufficiency by:
+e-e)- ---
+Hojise Legal Counsel
+Date: 1 2- S"
+6
+
+[DELETED: R S A t N I t p c w h t l b f s w s p l a t f f r L f f t f b p r b C F t F T]
+[DELETED: i C a T n r S S R " " 1 D f d t e ( a -]
+[DELETED:  413 l 1 F 2 F 6 3 F 4 N 5 F 6 U 1 e ( u 1 A t n]
+[DELETED:  P A e c 1 P e p 1 E N s e 1 ( ( P s d]
+[DELETED:  1 A ( e ( e ( 1 T A v ( v 4 N C T A i i t c e N p]
+[DELETED:  S a o c j t r o t A o a o i p s a u t t-- 1 2]

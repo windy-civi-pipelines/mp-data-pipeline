@@ -1,0 +1,2588 @@
+Title: TWENTY-FOURTH NORTHERN MARIANAS COMMONWEALTH LEGISLATURE
+Official Title: TWENTY-FOURTH NORTHERN MARIANAS COMMONWEALTH LEGISLATURE
+Number of Sections: 1
+Source: versions - SB 24-34
+Media Type: application/pdf
+Strikethrough Detection: 38 sections found
+
+================================================================================
+
+Section 1:
+SECOND SPECIAL SESSION, 2025 S. B. NO. 24-34
+A BILL FOR AN ACT
+To restructure the electricity market in the CNMI by deregulating
+electric services; and for other purposes.
+BE IT ENACTED BY THE TWENTY-FOURTH NORTHERN MARIANAS
+COMMONWEALTH LEGISLATURE:
+1 Section 1. Findings and Purpose. The Legislature finds that 32 states and
+2 Washington DC have introduced some form of energy deregulation and retail energy
+3 choice as of 2025. Depending on the state this applies for electricity, natural gas or both
+4 utility services nearly half of US states have introduced some degree of energy
+5 deregulation and retail energy choice to homes and businesses within their borders.
+6 In a regulated electricity market, a single utility company controls the entire
+7 process of electricity generation, transmission, and distribution to customers with
+8 oversight from a public regulator. The utility company makes sure that power is
+9 generated, sent to the grid, and reaches customers. Customers in regulated markets
+10 cannot choose who generates their power and are bound to the utility in that area.
+11 Regulated markets dominate most of the Southeast, Northwest and much of the West
+12 (excluding California).
+13 In a deregulated electricity market, the electricity industry is no longer controlled
+14 by a single utility company, allowing multiple companies to compete in selling
+15 electricity to consumers. In such instances, generators (companies that generate
+16 electricity) sell electricity into a wholesale market, and retail energy suppliers purchase
+17 this electricity to sell it to customers. Transmission companies or utilities own and
+18 operate the transmission grid. The utility company exists to make sure the power is
+19 distributed and everything is working correctly to keep the lights on. Electricity
+20 deregulation gives consumers the power to choose their electric provider and plan. In
+21 regulated energy markets, the local utility company sells electricity to residents. In
+SENATE BILL NO. 24-34
+_____________________________________________________________________________
+_____________________________________________________________________________
+1 contrast, deregulated energy markets allow retail electric providers to sell energy plans
+2 to customers.
+3 The Legislature finds that the benefits of a deregulated electricity market include
+4 opening the door to new technologies, such as transactional energy and blockchain
+5 entrepreneurship, and giving consumers options they wouldn’t otherwise have. The
+6 electricity industry competition gives consumers the power to choose their energy
+7 supplier and the specific plan that best suits their needs. Deregulated markets can make
+8 it easier for customers to purchase renewable, clean energy directly from generators and
+9 push towards energy conservation.
+10 Specifically, electricity deregulation can significantly impact consumers in
+11 several ways:
+12 (1) Price options: Consumers can potentially find lower rates by comparing
+13 different suppliers.
+14 (2) Customized plans: Suppliers may offer various plans tailored to different
+15 usage patterns or preferences.
+16 (3) Green energy access: Increased availability of renewable energy options for
+17 environmentally conscious consumers.
+18 (4) Customer service: Competition may lead to improved customer service as
+19 suppliers vie for customers.
+20 (5) Education requirement: Consumers need to educate themselves about the
+21 market to make informed decisions.
+22 The Legislature further finds that electricity deregulation in the United States
+23 varies by state, with some states embracing full deregulation and others maintaining a
+24 regulated market. States like Texas, Pennsylvania, and New York have fully deregulated
+25 electricity markets, giving consumers a wide array of choices. Meanwhile, states like
+26 California have partially deregulated markets, where only certain aspects of energy
+27 supply are open to competition.
+28 The Legislature finds that deregulated markets have opened up generation for
+29 competition from independent power producers in 24 states, such as California, Texas
+Page 2
+SENATE BILL NO. 24-34
+_____________________________________________________________________________
+_____________________________________________________________________________
+1 and most states in the Northeast. 18 of these states and Washington D.C. have also
+2 introduced retail choice, which allows residential and/or industrial consumers to choose
+3 their own electricity provider. Accordingly, the purpose of this legislation is to
+4 deregulate the electric market in the CNMI to drive down prices by authorizing multiple
+5 companies to sell electricity to customers and generating competition to provide a
+6 broader range of electricity products such as renewable energy options.
+7 Section 2. Amendment. Subject to codification by the CNMI Law Revision
+8 Commission, the following provisions are hereby enacted to read:
+9 “Chapter 15. Retail Electric Competition and Consumer Protection.
+10 § 101. Definitions.
+11 § 102. Policy findings.
+12 § 103. Implementation of customer choice.
+13 § 104. Competitive billing.
+14 § 105. Role, duties, and powers of the Commission.
+15 § 106. Licensing requirements.
+16 § 107. Duties of the electric company.
+17 § 108. Disconnection of service in extreme temperature prohibited.
+18 § 109. Consumer protections.
+19 § 110. Investigation of violations, penalties for violations.
+20 § 111. Standard offer service.
+21 § 112. Transition costs, transition benefits.
+22 § 113. Recovery for public purpose programs.
+23 § 114. Market power remediation.
+24 § 115. Provision of electricity supply by the electric company.
+25 § 116. New generating facilities in the CNMI.
+26 § 117. Renewable energy sources.
+27 § 118. Net metering.
+28 § 119. Community renewable energy facilities.
+29 § 120. Sale of generation assets.
+Page 3
+SENATE BILL NO. 24-34
+_____________________________________________________________________________
+_____________________________________________________________________________
+1 § 121. Consumer disclosure requirements.
+2 § 122. Recovery of CREF implementation costs.
+3 § 101. Definitions. For the purposes of this chapter, the term:
+4 (a) “Affiliate” means a person who directly or indirectly, or through one or more
+5 intermediaries, controls, is controlled by, or is under common control with, or has
+6 directly or indirectly, any economic interest in another person.
+7 (b) “Aggregator” means a person who acts on behalf of customers to purchase
+8 electricity.
+9 (c) “Aggregation program” means any system developed by an aggregator for
+10 organizing customers into a single purchasing unit.
+11 (d) “Anticompetitive condition” means a condition which would allow a party to:
+12 (1) Exercise vertical or horizontal market power;
+13 (2) Use the ownership or control of a regulated facility to favor an
+14 unregulated affiliate or subsidiary or to discriminate against a non-affiliated
+15 entity;
+16 (3) Erect a barrier to entry; or
+17 (4) Compete unfairly or deny effective competition to consumers.
+18 (e) “Anticompetitive conduct” means an activity which would:
+19 (1) Violate any applicable antitrust law;
+20 (2) Constitute favorable treatment of an affiliate;
+21 (3) Discriminate against an unrelated entity;
+22 (4) Constitute a barrier to entry; or
+23 (5) Confer an unfair competitive advantage upon an entity.
+24 (f) “Bid premium” means a payment by an electricity supplier to the Commission
+25 for the right to provide standard offer service in the Commonwealth of the Northern
+26 Mariana Islands.
+27 (g) “Broker” means a person who acts as an agent or intermediary in the sale and
+28 purchase of electricity but who does not take title to electricity.
+Page 4
+SENATE BILL NO. 24-34
+_____________________________________________________________________________
+_____________________________________________________________________________
+1 (h) “Commonwealth” or “CNMI” means the Commonwealth of the Northern
+2 Mariana Islands.
+3 (i) “Competitive billing” means the right of a customer to receive a single bill
+4 from the electric company, a single bill from the electricity supplier, or separate bills
+5 from the electric company and the electricity supplier.
+6 (j) “Commission” means the Public Utilities Commission of the Commonwealth
+7 of the Northern Mariana Islands.
+8 (k) “Community net metering” means a billing arrangement under which the
+9 monetary value of electric energy generated by a community renewable energy facility
+10 and delivered to the electric company’s local distribution facilities is used to offset
+11 electric energy charges accrued during a subscriber’s applicable billing period.
+12 (l) “Community renewable energy facility” or “CREF” means an energy facility
+13 using renewable resources defined as tier one renewable sources that is located within
+14 the CNMI and where the monetary value of electricity generated by the facility is
+15 credited to the subscribers of the facility.
+16 (m) “Competitive Transition Charge” means a rate, charge, credit, or other
+17 appropriate mechanism authorized to be imposed for the recovery of transition costs as
+18 determined by the Commission under § 112.
+19 (n) “Consolidator” means any owner of or property manager for multi-family
+20 residential, commercial office, industrial, and retail facilities who combines more than
+21 one property for the primary purpose of contracting with an aggregator or electric energy
+22 service provider for electric energy services for those properties, and who:
+23 (1) Does not take title to electric energy;
+24 (2) Does not sell electric energy to buildings not owned or managed by
+25 such owner or property manager;
+26 (3) Does not offer aggregation of electric energy services to other,
+27 unrelated end-users; and
+28 (4) Arranges for the purchase of electric energy services only from duly
+29 licensed electric energy service providers or aggregators.
+Page 5
+SENATE BILL NO. 24-34
+_____________________________________________________________________________
+_____________________________________________________________________________
+1 (o) “Consumer” or “customer” each means a purchaser of electricity for end use
+2 in the CNMI. The term excludes an occupant of a building where the owner, lessee, or
+3 manager manages the internal distribution system serving the building and supplies
+4 electricity solely to occupants of the building for use by the occupants.
+5 (p) “CREF credit rate"” means a credit rate applied to subscribers of community
+6 renewable energy facilities, which shall be equal to:
+7 (1) For residential customer subscribers, the full retail distribution rate,
+8 which includes generation, transmission, and distribution charges, for the
+9 standard offer service General Service Low Voltage Non-Demand Customer
+10 class or its successor, as determined by the Commission, based upon § 118; and
+11 (2) For commercial customer subscribers, the standard offer service rate
+12 for the General Service Low Voltage Non-Demand Customer class or its
+13 successor, as determined by the Commission, based upon § 118.
+14 (q) “CUC” means the Commonwealth Utilities Corporation.
+15 (r) “Customer-based aggregation program” means a program in which customers
+16 pool their loads to shop more effectively for electricity supply, electricity supply
+17 services, or any service declared to be a potentially competitive service.
+18 (s) “Customer choice” or “choice of electricity suppliers” each means the right of
+19 electricity suppliers and consumers to use and interconnect with the electric distribution
+20 system on a nondiscriminatory basis in order to distribute electricity from any electric
+21 supplier to any customer. Under this right, consumers shall have the opportunity to
+22 purchase electricity supply from their choice of licensed electricity suppliers.
+23 (t) “Customer-generator” means a residential or commercial customer that owns
+24 and operates an electric generating facility that:
+25 (1) Has a capacity of not more than 1000 kilowatts;
+26 (2) Uses renewable resources, cogeneration, fuel cells, or microturbines;
+27 (3) Is located on the customer’s premises;
+28 (4) Is interconnected with the electric company’s transmission and
+29 distribution facilities; and
+Page 6
+SENATE BILL NO. 24-34
+_____________________________________________________________________________
+_____________________________________________________________________________
+1 (5) Is intended primarily to offset all or part of the customer’s own
+2 electricity requirements.
+3 (u) “Effective competition” means, with respect to the markets for electricity
+4 supply, billing, and those services declared by the Commission to be potentially
+5 competitive services a market structure under which an individual seller is not able to
+6 influence significantly the price of the service as a result of the number of sellers of the
+7 service, the size of each seller’s share of the market, the ability of the sellers to enter or
+8 exit the market, and the price and availability of comparable substitutes for the service.
+9 (v) “Electric company” when used in this chapter includes every corporation,
+10 company, association, joint-stock company or association, partnership, or person and
+11 doing business in the CNMI, their lessees, trustees, or receivers, appointed by any court
+12 whatsoever, physically transmitting or distributing electricity in the CNMI to retail
+13 electric customers. The term excludes any building owner, lessee, or manager who,
+14 respectively, owns, leases, or manages, the internal distribution system serving the
+15 building and who supplies electricity and other related electricity services solely to
+16 occupants of the building for use by the occupants. The term also excludes a person or
+17 entity that does not sell or distribute electricity and that owns or operates equipment
+18 used exclusively for the charging of electric vehicles.
+19 (w) “Electricity supplier” means a person, including an aggregator, broker, or
+20 marketer, who generates electricity; sells electricity; or purchases, brokers, arranges or,
+21 markets electricity for sale to customers. The term excludes the following:
+22 (1) Building owners, lessees, or managers who manage the internal
+23 distribution system serving such building and who supply electricity solely to
+24 occupants of the building for use by the occupants;
+25 (2) (i) Any person who purchases electricity for its own use or for the
+26 use of its subsidiaries or affiliates; or
+27 (ii) Any apartment building or office building manager who
+28 aggregates electric service requirements for his or her building or
+29 buildings, and who does not:
+Page 7
+SENATE BILL NO. 24-34
+_____________________________________________________________________________
+_____________________________________________________________________________
+1 (A) Take title to electricity;
+2 (B) Market electric services to the individually-metered
+3 tenants of his or her building; or
+4 (C) Engage in the resale of electric services to others;
+5 (3) Property owners who supply small amounts of power, at cost, as an
+6 accommodation to lessors or licensees of the property; and
+7 (4) A consolidator.
+8 (x) “Executive Director” means the Executive Director of the Commonwealth
+9 Utilities Corporation or his or her designee.
+10 (y) “Gender identity or expression” means a gender-related identity, appearance,
+11 expression, or behavior of an individual, regardless of the individual’s assigned sex at
+12 birth.
+13 (z) “Individual billing meter” means an individual meter or a set of meters when
+14 meters are combined for billing purposes.
+15 (aa) “Initial implementation date” means the first day on which customers in the
+16 CNMI shall have the ability to choose an electricity supplier. Unless accelerated or
+17 delayed by the Commission under § 103(c), the initial implementation date shall be
+18 January 1, 2027.
+19 (bb) “Marketer” means a person who purchases and takes title to electricity as an
+20 intermediary for sale to customers.
+21 (cc) “Market participant” means any electricity supplier (including an affiliate of
+22 the electric company) or any person providing billing services or services declared by
+23 the Commission to be potentially competitive services.
+24 (dd) “Net energy metering” means measuring the difference between the
+25 electricity supplied to an eligible customer-generator from the electric grid and the
+26 electricity generated and fed back to the electric grid by the eligible customer-generator.
+27 (ee) “Pilot program” means a transitional program approved by the Commission
+28 prior to the initial implementation date under which customer choice is implemented for
+29 a percentage of each customer class.
+Page 8
+SENATE BILL NO. 24-34
+_____________________________________________________________________________
+_____________________________________________________________________________
+1 (ff) “Potentially competitive service” means a component of electric service
+2 (other than electricity supply and billing) determined by the Commission to be suitable
+3 for purchase by customers from alternative sellers under § 105(e).
+4 (gg) “Public purpose program” means a program implemented with the intention
+5 of furthering a public purpose.
+6 (1) “Public purpose program” includes:
+7 (i) A universal service program;
+8 (ii) A program encouraging renewable energy resources;
+9 (iii) A demand-side management or other energy efficiency or
+10 conservation program; and
+11 (iv) A consumer education program.
+12 (hh) “Renewable energy credit” means a credit representing one megawatt-hour
+13 of energy produced by a tier one or tier two renewable source located within the CNMI;
+14 (ii) “Schedule” means a list of the dates on which each customer class, or a
+15 designated percentage of each customer class, is eligible for customer choice and
+16 competitive billing.
+17 (jj) “SOS administrator” means the provider of standard offer service mandated
+18 by § 111.
+19 (kk) “Standard offer service” or “SOS” means that electric service mandated by
+20 § 111.
+21 (ll) “Subscriber” means a retail customer of the electric company who owns a
+22 subscription and who has identified an individual billing meter within the CNMI to
+23 which the subscription shall be attributed.
+24 (mm) “Subscriber organization” means any for-profit or nonprofit entity
+25 permitted by CNMI law, or government entity, that owns or operates one or more
+26 community renewable energy facilities for the benefit of the subscribers.
+27 (nn) “Subscription” means a percentage interest in a community renewable
+28 energy facility’s electrical production.
+29 (oo) “Tier one renewable source” means one or more of the following types of
+Page 9
+SENATE BILL NO. 24-34
+_____________________________________________________________________________
+_____________________________________________________________________________
+1 energy sources:
+2 (1) Solar energy;
+3 (2) Wind;
+4 (3) Qualifying biomass used at a generation unit that achieves a total
+5 system efficiency of at least 65% on an annual basis, can demonstrate that they
+6 achieved a total system efficiency of at least 65% on an annual basis through
+7 actual operational data after one year, and that started commercial operation after
+8 January 1, 2007.
+9 (4) Methane from the anaerobic decomposition of organic materials in a
+10 landfill or wastewater treatment plant;
+11 (5) Geothermal;
+12 (6) Ocean, including energy from waves, tides, currents, and thermal
+13 differences;
+14 (7) Fuel cells producing electricity from a tier one renewable source
+15 under subparagraph (3) or (8) of this paragraph; and
+16 (8) Raw or treated wastewater used as a heat source or sink for a heating
+17 or cooling system.
+18 (pp) “Tier two renewable source” means one or more of the following types of
+19 energy sources:
+20 (1) Hydroelectric power other than pumped storage generation;
+21 (2) Waste-to-energy; or
+22 (3) Qualifying biomass used at a generation unit that
+23 (i) Started commercial operation on or before December 31, 2006;
+24 or
+25 (ii) Achieves a total system efficiency of less than 65%; or
+26 (iii) Uses black liquor.
+27 (qq) “Transition costs” means costs, liabilities, and investments (including
+28 regulatory assets) allocable to the CNMI to the extent the costs, liabilities, and
+29 investments:
+Page 10
+SENATE BILL NO. 24-34
+_____________________________________________________________________________
+_____________________________________________________________________________
+1 (1) Traditionally have been or would be recoverable under the existing
+2 regulatory structure (with retail rates for the provision of electric service), but
+3 will not be recoverable in the restructured electricity supply market; or
+4 (2) Arise as a result of electric industry restructuring and are related to
+5 the creation of customer choice.
+6 (rr) “Wholesale electricity supplier” means the electric company, which,
+7 pursuant to § 111, obtains bids from, and contracts for electric service with, third parties
+8 and provides standard offer service to retail customers.
+9 § 102. Policy findings.
+10 The Legislature adopts the following policy findings in support of community
+11 renewable energy:
+12 (a) Communities benefit from the deployment of tier one renewable energy in the
+13 CNMI, and the Legislature hereby encourages the CUC to establish programs that
+14 support development of such projects;
+15 (b) It is in the public interest that the CUC encourages broad participation in
+16 CNMI-based tier one renewable electric generation by CNMI residents, not-for-profit
+17 entities, and for-profit entities through outreach efforts and programs in the CNMI;
+18 (c) It is in the public interest that the CUC enables the development and
+19 deployment of community renewable energy facilities for the following purposes:
+20 (1) To allow renters and low-to moderate-income retail electric customers
+21 to own interests in tier one renewable energy generating facilities;
+22 (2) To allow interests in tier one renewable energy generation facilities to
+23 be portable and transferrable;
+24 (3) To facilitate market entry for all potential subscribers, while
+25 prioritizing those persons most sensitive to market barriers; and
+26 (4) To encourage developers to promote participation by renters and low-
+27 to moderate-income retail electric customers; and
+28 (d) It is in the public interest for developers to encourage participation by renters
+29 and low- to moderate-income retail electric customers.
+Page 11
+SENATE BILL NO. 24-34
+_____________________________________________________________________________
+_____________________________________________________________________________
+1 § 103. Implementation of customer choice.
+2 (a) On and after the initial implementation date, the supply and sale of electricity
+3 shall not be regulated except as expressly set forth in this chapter.
+4 (b) (1) Unless accelerated or delayed pursuant to subsection (c) of this
+5 section, customer choice shall begin on the initial implementation date. Customer
+6 choice must be available for all consumers, regardless of customer class, no later
+7 than 2 years after the initial implementation date.
+8 (2) Prior to the initial implementation date, the Commission shall
+9 determine a schedule for the phase-in of customer choice. The Commission may,
+10 in its discretion, forego a phase-in and make customer choice available for all
+11 consumers on the initial implementation date.
+12 (c) The Commission may delay the initial implementation date based on
+13 considerations of reliability, safety, or market power, but under no circumstances shall
+14 the initial implementation date be delayed beyond January 1, 2028.
+15 (d) (1) Prior to the initial implementation date, the Commission may
+16 establish a pilot program.
+17 (2) (i) A minimum of 10% of each customer class shall be eligible to
+18 participate in any pilot program established by the Commission.
+19 (ii) Notwithstanding any other provision of this chapter, any pilot
+20 program established by the Commission may include all commercial
+21 customers.
+22 (iii) Notwithstanding any other provision of this chapter, any pilot
+23 program established by the Commission may include competitive billing.
+24 (e) The CNMI and its agencies and instrumentalities shall have the right to
+25 petition the Commission prior to the initial implementation date for permission to enter
+26 into an electricity supply contract with any electricity supplier. Purchases of electric
+27 power under the supply contract may commence at any time, and under terms and
+28 conditions, as may be designated by the Commission.
+29 (f) Notwithstanding any other provision of this chapter, customer choice,
+Page 12
+SENATE BILL NO. 24-34
+_____________________________________________________________________________
+_____________________________________________________________________________
+1 including any pilot program under subsection (d) of this section and any supply contract
+2 under subsection (e) of this section, may not commence until legislation is enacted to
+3 conform CNMI taxes to the restructuring of the electric industry.
+4 § 104. Competitive billing.
+5 (a) Competitive billing shall begin on the initial implementation date and shall be
+6 implemented according to a schedule to be determined by the Commission. The
+7 Commission shall have the discretion to implement competitive billing for all customers
+8 on a single date.
+9 (b) This section shall not preclude the Commission from including competitive
+10 billing as a part of any pilot program established by the Commission.
+11 § 105. Role, duties, and powers of the Commission.
+12 (a) The Commission’s assessment, approval, and oversight of restructuring plans,
+13 pilot programs, and the transition process, and regulation of the restructured electric
+14 industry, shall ensure orderliness and electric system reliability and shall take into
+15 consideration the interests of customers, electricity suppliers, and the electric company.
+16 (b) Unless otherwise specified, the Commission shall adopt regulations or issue
+17 the orders required under this chapter before the initial implementation date. This
+18 requirement shall not affect the validity of amendments to those regulations or orders
+19 adopted after the initial implementation date.
+20 (c) (1) The Commission shall adopt regulations or issue orders to:
+21 (i) Implement competitive billing pursuant to § 104;
+22 (ii) Govern the licensing of electricity suppliers and other market
+23 participants under § 106;
+24 (iii) (A) Require access by customers and electricity suppliers
+25 to the electric company’s distribution system on a non-
+26 discriminatory basis in accordance with § 107; and
+27 (B) Prevent the electric company from operating its
+28 distribution system in any manner that favors the electricity
+29 supply of the electric company’s affiliates in violation of § 107;
+Page 13
+SENATE BILL NO. 24-34
+_____________________________________________________________________________
+_____________________________________________________________________________
+1 (iv) Implement the consumer protections in § 109;
+2 (v) Establish procedural rules for complaints, investigations, and
+3 dispositional hearings under § 110;
+4 (vi) Govern proceedings under § 114; and
+5 (vii) Govern the construction of new electric generating facilities
+6 under § 116.
+7 (2) (i) (A) Under criteria established by Commission regulation
+8 or order, the Commission shall determine for each electricity
+9 supplier licensed under § 106 whether it is feasible for that
+10 electricity supplier to disclose every 6 months emissions on a
+11 pound per megawatt-hour basis and the fuel mix of the electricity
+12 sold by that supplier in the CNMI. For fuel mix, the categories
+13 include electricity generated from coal, natural gas, nuclear
+14 energy, oil, hydroelectric, solar, biomass, wind, and other sources.
+15 For emissions, the categories include carbon dioxide, nitrogen
+16 oxide, sulfur dioxide, and any other pollutants specified by the
+17 Commission.
+18 (B) The Commission shall make a determination of
+19 feasibility under sub-subparagraph (i) of this subparagraph within
+20 6 months after the date on which an electricity supplier receives a
+21 license under § 106.
+22 (ii) If the Commission determines under subparagraph (i)(A) of
+23 this paragraph that it is feasible for an electricity supplier to disclose the
+24 emissions and fuel mix of the electricity sold by that supplier in the
+25 CNMI, the Commission, by regulation or order, shall require the
+26 electricity supplier to disclose every 6 months the emissions and fuel mix
+27 of the electricity sold by the supplier in the CNMI in the categories
+28 provided in subparagraph (i)(A) of this paragraph.
+29 (iii) If the Commission determines under subparagraph (A)(i) of
+Page 14
+SENATE BILL NO. 24-34
+_____________________________________________________________________________
+_____________________________________________________________________________
+1 this paragraph that it is not feasible for an electricity supplier to disclose
+2 the emissions and fuel mix of the electricity sold by the supplier in the
+3 CNMI, the Commission, by regulation or order, shall require the
+4 electricity supplier to disclose to its customers every 6 months a regional
+5 emissions and fuel mix average in the categories provided in
+6 subparagraph (A)(i) of this paragraph.
+7 (3) The Commission shall, by regulation or order, require the unbundling
+8 of electric company rates, charges, and services into standardized categories
+9 determined by the Commission.
+10 (4) The Commission shall, by regulation or order, require that customers’
+11 bills indicate, as an individual line item, charges for electricity supply.
+12 (5) The Commission shall issue regulations or orders to:
+13 (i) Establish reasonable restrictions on telemarketing;
+14 (ii) Establish reasonable procedures for contracting between
+15 residential and small commercial customers and electricity suppliers; and
+16 (iii) Establish reasonable requirements and limitations relating to
+17 deposits, billing, contract cancellations, and disconnections.
+18 (6) (i) The Commission shall order the electric company, in
+19 conjunction with the Commission, the CNMI Office of the Public
+20 Auditor, and the CNMI Division of Energy, to implement a consumer
+21 education program informing consumers of changes in the electric
+22 industry.
+23 (ii) As part of the consumer education program under this
+24 paragraph, the Commission shall develop and maintain information
+25 regarding rates charged and services provided by licensed electricity
+26 suppliers to small commercial and residential customers. The information
+27 required in this subparagraph shall be:
+28 (A) Readily understandable and formatted to provide a
+29 comparison of rates and services offered by electricity suppliers;
+Page 15
+SENATE BILL NO. 24-34
+_____________________________________________________________________________
+_____________________________________________________________________________
+1 and
+2 (B) Made available to the public through the ordinary
+3 means of publication of the Commission, including posting on the
+4 Internet.
+5 (iii) Any dispute regarding the consumer education program
+6 mandated by this paragraph shall be resolved by the Commission.
+7 (7) The Commission may adopt any other regulations, or issue any other
+8 orders, consistent with the policies enunciated in this chapter and necessary to
+9 ensure the development of a competitive market for electricity supply, billing,
+10 and any component of electric service declared to be a potentially competitive
+11 service.
+12 (d) (1) Notwithstanding any other provision of law, the Commission may
+13 regulate the regulated services of the electric company through alternative forms
+14 of regulation.
+15 (2) The Commission may adopt an alternative form of regulation if the
+16 Commission finds that the alternative form of regulation:
+17 (i) Protects consumers;
+18 (ii) Ensures the quality, availability, and reliability of regulated
+19 electric services; and
+20 (iii) Is in the interest of the public, including shareholders of the
+21 electric company.
+22 (3) Alternative forms of regulation may include:
+23 (i) Price regulation, including price freezes or caps;
+24 (ii) Revenue regulation;
+25 (iii) Ranges of authorized return;
+26 (iv) Rate of return;
+27 (v) Categories of services; and
+28 (vi) Price-indexing.
+29 (e) (1) The Commission may declare that a component of electric service,
+Page 16
+SENATE BILL NO. 24-34
+_____________________________________________________________________________
+_____________________________________________________________________________
+1 other than electricity supply and billing, is a potentially competitive service if:
+2 (i) Provision of the service by alternative sellers will not harm any
+3 class of customers;
+4 (ii) Provision of the service will decrease the cost of providing the
+5 service to customers in the CNMI or increase the quality or innovation of
+6 the electric service to customers in the CNMI;
+7 (iii) Effective competition in the market for that service is likely
+8 to develop; and
+9 (iv) Provision of the service by alternative sellers will not
+10 otherwise jeopardize the safety and reliability of electric service in the
+11 CNMI.
+12 (2) Any order declaring a component of electric service to be a
+13 potentially competitive service shall provide for the recovery by the electric
+14 company of all verifiable costs that would have been recoverable under the
+15 traditional regulatory structure but which will not be recoverable as a result of
+16 the order under subsection (c)(1) of this section.
+17 (f) (1) Nothing contained in this section shall prohibit the Commission from
+18 implementing or modifying a pilot program under § 103(d).
+19 (2) Nothing contained in this section shall prohibit the Commission from
+20 allowing the adoption of a supply contract under § 103(e).
+21 § 106. Licensing requirements.
+22 (a) All electricity suppliers must obtain a license issued by the Commission in
+23 order to do business in the CNMI.
+24 (b) An application for an electricity supplier license shall:
+25 (1) Be made to the Commission in writing on a form adopted by the
+26 Commission;
+27 (2) Be verified by oath or affirmation;
+28 (3) Be accompanied by an application fee determined by the
+29 Commission; and
+Page 17
+SENATE BILL NO. 24-34
+_____________________________________________________________________________
+_____________________________________________________________________________
+1 (4) Contain the following:
+2 (i) Proof of technical and managerial competence;
+3 (ii) Proof of compliance with all applicable requirements of the
+4 Federal Energy Regulatory Commission and any independent system
+5 operator or regional or system transmission operator to be used by the
+6 applicant;
+7 (iii) Proof of compliance with all applicable federal and CNMI
+8 environmental laws;
+9 (iv) Proof of financial integrity;
+10 (v) Proof that the applicant has registered with the Department of
+11 Finance to do business in the CNMI;
+12 (vi) An agreement or promise to be subject to all applicable taxes;
+13 (vii) An agreement or promise to comply with all of the
+14 requirements of this chapter and all orders and regulations of the
+15 Commission issued under this chapter; and
+16 (viii) Any other information required by the Commission.
+17 (c) The Commission shall:
+18 (1) Require an applicant to post a bond or other similar instrument if, in
+19 the Commission’s judgment, the bond or similar instrument is necessary to
+20 insure an applicant’s financial integrity;
+21 (2) Establish the duration of a license issued under this section,
+22 procedures and requirements for license renewal, and provisions regarding the
+23 surrender and lapse of a license; and
+24 (3) Establish any other requirements for an applicant that the Commission
+25 determines to be in the public interest.
+26 (d) A license may not be transferred without the prior approval of the
+27 Commission.
+28 (e) All monies collected by the Commission under this section shall be used
+29 exclusively for the daily operations of the Commission.
+Page 18
+SENATE BILL NO. 24-34
+_____________________________________________________________________________
+_____________________________________________________________________________
+1 (f) Notwithstanding any other provision of this chapter, a consolidator may be
+2 required by the Commission to file a statement of intent to serve as a consolidator and to
+3 provide to the Commission such other information as reasonably may be related to the
+4 requirements of the Commission for monitoring the activities of consolidators.
+5 § 107. Duties of the electric company.
+6 (a) (1) The electric company shall provide distribution services to all
+7 customers and electricity suppliers on rates, terms of access, and conditions that
+8 are comparable to the electric company’s own use of its distribution system. The
+9 electric company shall not operate its distribution system in a manner that favors
+10 the electricity supply of the electric company’s affiliates.
+11 (2) To the extent this provision is not preempted by federal law or
+12 regulation, the electric company shall provide transmission services to all
+13 customers and electricity suppliers on rates, terms, and conditions that are
+14 comparable to the electric company’s own use of its transmission system.
+15 (b) The electric company shall maintain the reliability of its distribution system
+16 in accordance with applicable orders, tariffs, and regulations of the Commission.
+17 § 108. Disconnection of service in extreme temperature prohibited.
+18 (a) For the purposes of this section, the term “forecast of extreme temperature”
+19 means a National Weather Service forecast for the CNMI of 95 degrees Fahrenheit or
+20 above during any time of a day or of 32 degrees Fahrenheit or below during any time of
+21 a day.
+22 (b) An electric company shall not disconnect residential electric service during
+23 the day preceding and the day of a forecast of extreme temperature or if the forecast of
+24 extreme temperature precedes a holiday or weekend day, on any day during the holiday
+25 or weekend.
+26 § 109. Consumer protections.
+27 (a) (1) Unless a customer consents in writing, a market participant or the
+28 electric company may not disclose information that:
+29 (i) Is about the customer; and
+Page 19
+SENATE BILL NO. 24-34
+_____________________________________________________________________________
+_____________________________________________________________________________
+1 (ii) Was supplied to the market participant or electric company by
+2 the customer.
+3 (2) This restriction shall not apply to:
+4 (i) Lawful disclosures for bill collection or credit rating reporting
+5 purposes; or
+6 (ii) Lawful disclosures to a building owner about the energy
+7 consumption of a non-residential tenant of the building.
+8 (3) Aggregated consumption data may be provided under the following
+9 circumstances:
+10 (i) When at least 5 customer accounts are being aggregated;
+11 (ii) When no single customer account represents more than 80%
+12 of the total aggregated energy consumption; and
+13 (iii) When no individual customer-identifying information is
+14 included, unless:
+15 (A) The customer-identifying information is supplied by
+16 the person requesting the consumption data; and
+17 (B) The person requesting the consumption data owns the
+18 building for which the consumption data is requested.
+19 (b) (1) Unless a customer consents in writing, a market participant or the
+20 electric company may not use information of the type specified in subsection
+21 (a)(1) of this section for any purpose other than the purpose for which the
+22 information was originally acquired.
+23 (2) This restriction shall not apply to lawful disclosures for bill collection
+24 or credit rating reporting purposes.
+25 (c) Unless the customer consents, a market participant may not change a
+26 customer’s electricity supplier.
+27 (d) Unless the customer consents, a market participant may not add services or
+28 new charges to a customer’s existing retail electric service options.
+29 (e) (1) A market participant may not engage in marketing, advertising, or
+Page 20
+SENATE BILL NO. 24-34
+_____________________________________________________________________________
+_____________________________________________________________________________
+1 trade practices that are unfair, false, misleading, or deceptive.
+2 (2) A market participant must provide adequate and accurate information
+3 to each customer about the market participant’s available services and charges.
+4 (f) A market participant may not discriminate against any customer based wholly
+5 or partly on the race, color, creed, national origin, sex, sexual orientation, or gender
+6 identity or expression of the customer, or for any arbitrary, capricious, or unfairly
+7 discriminatory reason.
+8 (g) A market participant may not refuse to provide service to a customer except
+9 by the application of standards that are reasonably related to the market participant’s
+10 economic and business purposes.
+11 (h) A market participant shall post on the Internet information that is readily
+12 understandable about its services and rates for small commercial and residential electric
+13 customers.
+14 § 110. Investigation of violations, penalties for violations.
+15 (a) For a violation of any provision of this chapter or a violation of any
+16 regulation or order issued under this chapter, after notice and a hearing, the Commission
+17 may:
+18 (1) Suspend or revoke a license of a market participant;
+19 (2) Impose a civil penalty on a market participant or the electric
+20 company;
+21 (3) Order a refund or credit to a customer;
+22 (4) Cancel a contract or part of a contract between a customer and a
+23 market participant; or
+24 (5) Issue a cease and desist order to a market participant or the electric
+25 company.
+26 (b) (1) A civil penalty imposed by the Commission under this section shall
+27 not exceed $10,000 per violation.
+28 (2) The Commission shall determine the amount of the civil penalty after
+29 considering:
+Page 21
+SENATE BILL NO. 24-34
+_____________________________________________________________________________
+_____________________________________________________________________________
+1 (i) The number of previous violations on the part of the market
+2 participant or the electric company;
+3 (ii) The gravity and duration of the current violation; and
+4 (iii) The good faith of the market participant or the electric
+5 company in attempting to achieve compliance after notification of the
+6 violation.
+7 (c) The Commission may temporarily suspend a license, issue a temporary cease
+8 and desist order, or take any other appropriate temporary remedial action, pending a
+9 final determination after notice and hearing, if the Commission determines that there is
+10 reasonable cause to believe that customers or the reliability of electric supply in the
+11 CNMI will be harmed by the actions of a market participant or the electric company.
+12 (d) A proceeding under this section may be initiated by the Commission, the
+13 CNMI Office of the Public Auditor, the CNMI Office of the Attorney General, or any
+14 aggrieved party.
+15 (e) In connection with a proceeding under this section, a market participant or the
+16 electric company shall provide to the Commission access to any accounts, books,
+17 papers, and documents which the Commission considers necessary to resolve the matter.
+18 § 111. Standard offer service.
+19 (a) Standard offer service is electricity supply made available on and after the
+20 initial implementation date to:
+21 (1) Customers not yet allowed to choose an electricity supplier under the
+22 phase-in of customer choice under § 103;
+23 (2) Customers who contract for electricity with an electricity supplier, but
+24 who fail to receive delivery of electricity under such contracts;
+25 (3) Customers who cannot arrange to purchase electricity from an
+26 electricity supplier; and
+27 (4) Customers who do not choose an electricity supplier.
+28 (b) (1) Standard offer service shall be provided by the electric company from
+29 the initial implementation date through February 7, 2030.
+Page 22
+SENATE BILL NO. 24-34
+_____________________________________________________________________________
+_____________________________________________________________________________
+1 (2) (i) The rate cap specified in subparagraph (ii) of this paragraph
+2 shall apply beginning on the initial implementation date and shall end on
+3 February 7, 2030.
+4 (ii) (A) Subject to the time limitation in subparagraph (i) of
+5 this paragraph, and except for the charges specified in sub-
+6 subparagraph (ii) of this subparagraph, the total rate charged to a
+7 customer receiving standard offer service shall not exceed the
+8 total of the rates authorized by the Commission and charged to the
+9 customer on December 31, 2024.
+10 (B) The rate cap specified in sub-subparagraph (i) of this
+11 subparagraph shall not apply to charges imposed for the recovery
+12 of costs under § 113.
+13 (3) (i) During the period in which the rate cap specified in paragraph
+14 (2)(ii) of this subsection is in effect, the Commission shall have the
+15 authority to set, in a manner that is just, reasonable, and non-
+16 discriminatory, the rate charged to a customer receiving standard offer
+17 service.
+18 (ii) The Commission shall ensure that any rate cut promulgated
+19 under paragraph (2) of this subsection does not hinder the development of
+20 a competitive market for electricity supply.
+21 (4) During the period in which the rate cap specified in paragraph (2)(ii)
+22 of this subsection is in effect, the Commission may allow the recovery of any
+23 extraordinary costs based on the circumstances of the electric company if the
+24 Commission determines that the action is necessary and in the public interest.
+25 (c) Before January 2, 2027, the Commission shall adopt regulations or issue
+26 orders establishing terms and conditions for standard offer service and for the selection
+27 of an electricity supplier or suppliers (retail, wholesale, or both) to provide standard
+28 offer service after February 7, 2028. The terms and conditions applicable to the selection
+29 of an electricity supplier or suppliers shall include:
+Page 23
+SENATE BILL NO. 24-34
+_____________________________________________________________________________
+_____________________________________________________________________________
+1 (1) Protection against a standard offer service provider’s failure to
+2 provide service;
+3 (2) An appropriate rate design, subject to the restrictions in subsection (d)
+4 of this section;
+5 (3) The appropriate length of a standard offer service contract awarded
+6 under subsection (d) of this section; and
+7 (4) A contingency plan in the event of insufficient or inadequate bids;
+8 provided, that a contingency plan may award the standard offer service to the
+9 electric company or an affiliate of the electric company if it is in the public
+10 interest.
+11 (d) (1) After the regulations or orders mandated by subsection (c) of this
+12 section are issued, the Commission shall conduct competitive bid procedures for
+13 the selection of a retail electricity supplier or suppliers to provide standard offer
+14 service for the CNMI after February 7, 2028; authorize the electric company, as
+15 a wholesale electricity supplier, to conduct competitive bid procedures to obtain
+16 third-party contracts to provide standard offer service for the CNMI after
+17 February 7, 2028; or both. If competitive bid procedures for the selection of a
+18 retail electricity supplier or suppliers to provide standard offer service are
+19 conducted by the Commission, the competitive selection of retail electricity
+20 supplier or suppliers to provide standard offer service shall occur before July 2,
+21 2027. In conducting retail bid procedures or facilitating the wholesale bid
+22 process under this subsection, the Commission:
+23 (A) Shall ensure that the price for standard offer service will not
+24 hinder the development of a competitive electricity supply market in the
+25 CNMI; and
+26 (B) May, in its discretion, solicit the payment, by the retail
+27 electricity supplier or suppliers chosen to provide standard offer service,
+28 of a bid premium.
+29 (2) The Commission may collect a bid premium.
+Page 24
+SENATE BILL NO. 24-34
+_____________________________________________________________________________
+_____________________________________________________________________________
+1 (e) The Commission shall determine the threshold financial viability of
+2 wholesale bidders.
+3 § 112. Transition costs, transition benefits.
+4 (a) The electric company shall be provided an opportunity to recover all of its
+5 prudently incurred and verifiable net transition costs, subject to full mitigation,
+6 following the Commission’s determination under subsection (b) of this section. In
+7 connection with the foregoing:
+8 (1) A competitive transition charge, or other appropriate non-bypassable
+9 mechanism as determined by the Commission, may be included as part of the
+10 charge paid by every customer accessing the transmission or distribution system
+11 of the electric company.
+12 (2) The competitive transition charge may be included on bills to
+13 customers for a period of limited duration to be determined by the Commission.
+14 (3) The Commission may establish recovery periods of different lengths
+15 for different categories of transition costs.
+16 (b) (1) The Commission shall determine the transition costs and the amount
+17 of the costs that the electric company may recover.
+18 (2) In determining the electric company’s transition costs, the
+19 Commission shall:
+20 (i) Conduct public hearings; and
+21 (ii) Consider evidence appropriate to an accurate determination of
+22 the electric company’s transition costs. Such evidence may include:
+23 (A) Book value and fair market value;
+24 (B) Auctions and sales of comparable assets;
+25 (C) Appraisals;
+26 (D) The revenue the company would receive under rate-
+27 of-return regulation;
+28 (E) The revenue the company would receive in a
+29 restructured electricity supply market; and
+Page 25
+SENATE BILL NO. 24-34
+_____________________________________________________________________________
+_____________________________________________________________________________
+1 (F) Computer simulations provided to the Commission.
+2 (3) If the Commission determines that the electric company will incur
+3 transition costs, the Commission shall determine the extent of the permitted
+4 recovery based on the following factors:
+5 (i) The prudence of the original investment and of the continued
+6 management of the investment;
+7 (ii) Whether the investment was mandated by law, regulation, or
+8 order;
+9 (iii) Whether the amount at issue has been fully verified and
+10 minimized;
+11 (iv) Whether the investment continues to be used and useful;
+12 (v) Whether the loss is one of which investors can be said to have
+13 reasonably borne the risk;
+14 (vi) Whether investors have already been compensated for the
+15 risk;
+16 (vii) The financial integrity of the electric company;
+17 (viii) Whether the investment was made to satisfy the need to
+18 ensure the availability of reliable electric service;
+19 (ix) For costs incurred or to be incurred as a result of electric
+20 industry restructuring or the establishment of customer choice, whether
+21 the costs are reasonable; and
+22 (x) The impact of a recovery of transition costs on the
+23 development of effective competition in the market for electricity supply
+24 or billing, or the market for any component of electric service declared by
+25 the Commission to be a potentially competitive service.
+26 (c) The Commission shall establish procedures for an annual review of actual
+27 market conditions to determine if the authorized competitive transition charge is
+28 overcompensating or undercompensating the electric company for the transition costs
+29 established under subsection (b)(3) of this section. If an annual review demonstrates that
+Page 26
+SENATE BILL NO. 24-34
+_____________________________________________________________________________
+_____________________________________________________________________________
+1 the authorized competitive transition charge is overcompensating or undercompensating
+2 the electric company for the transition costs established under subsection (b)(3) of this
+3 section, the Commission shall adjust the competitive transition charge accordingly.
+4 § 113. Recovery for public purpose programs.
+5 (a) (1) The electric company may make an application to the Commission to
+6 recover all costs that have been or will be incurred by the electric company under
+7 public purpose programs established by law or ordered by the Commission,
+8 including the consumer education program established under § 105. To the
+9 extent the costs are determined by the Commission to be just and reasonable, the
+10 Commission shall allow the electric company to recover the costs.
+11 (2) In determining whether an electric company should be permitted to
+12 recover costs described in paragraph (1) of this subsection, the Commission shall
+13 ensure that such costs:
+14 (i) Have not been or will not be recovered through rates charged
+15 by the electric company;
+16 (ii) Have not been or will not be recovered through the sale of any
+17 or all of the electric company’s generation assets; or
+18 (iii) Have not or will not be recovered through a competitive
+19 transition charge imposed under § 112.
+20 (b) All costs recoverable under this section may be recovered through a
+21 surcharge or other appropriate cost recovery mechanism to be determined by the
+22 Commission.
+23 § 114. Market power remediation.
+24 (a) The Commission and the CNMI Office of the Public Auditor shall monitor
+25 the CNMI retail markets for electricity supply and services declared by the Commission
+26 to be potentially competitive services to ensure that the markets are not being adversely
+27 affected by anticompetitive conduct and anticompetitive conditions.
+28 (b) (1) If, as a result of the monitoring efforts required by subsection (a) of
+29 this section or as a result of a complaint filed by an interested party, the
+Page 27
+SENATE BILL NO. 24-34
+_____________________________________________________________________________
+_____________________________________________________________________________
+1 Commission determines that the CNMI retail markets for electricity supply or
+2 services declared by the Commission to be potentially competitive services are
+3 being adversely affected by anticompetitive conduct or anticompetitive
+4 conditions that result from transmission constraints or load pockets, the
+5 Commission may take remedial action, including the imposition of price caps or
+6 other price restrictions, to remedy the impact of the anticompetitive conduct or
+7 anticompetitive conditions.
+8 (2) (i) If, as a result of the monitoring efforts required by subsection
+9 (a) of this subsection, the Commission or the CNMI Office of the Public
+10 Auditor obtains evidence that the retail markets for electricity supply or
+11 services declared by the Commission to be potentially competitive
+12 services are being affected by anticompetitive conduct or anticompetitive
+13 conditions other than the anticompetitive conduct or anticompetitive
+14 conditions described in paragraph (1) of this subsection, the Commission
+15 or the CNMI Office of the Public Auditor shall transmit the evidence to
+16 the CNMI Office of the Attorney General, the Department of Justice, the
+17 Federal Trade Commission, and any other appropriate federal agency.
+18 (ii) Within 6 months of the transmittal of evidence by the
+19 Commission or the CNMI Office of the Public Auditor under
+20 subparagraph (i) of this paragraph, the CNMI Office of the Attorney
+21 General shall issue a report to the CNMI Legislature explaining the
+22 course of its investigation, the actions that it has taken or plans to take,
+23 and the reasons for those actions. The failure of the CNMI Office of the
+24 Attorney General to bring an action within 6 months of the receipt of the
+25 transmittal shall not be deemed to eliminate the CNMI Office of the
+26 Attorney General’s otherwise existing authority to act. Any report
+27 submitted under this subsection shall not include any information which
+28 may compromise any investigation.
+29 (c) Nothing in this section shall affect the authority of the CNMI Office of the
+Page 28
+SENATE BILL NO. 24-34
+_____________________________________________________________________________
+_____________________________________________________________________________
+1 Attorney General to investigate or take action against anticompetitive conduct or
+2 anticompetitive conditions on its own initiative.
+3 (d) (1) The Commission is authorized to participate in any meetings
+4 convened or organizations formed for the purpose of monitoring and preventing
+5 the acquisition or exercise of market power in the regional transmission system
+6 serving the CNMI.
+7 (2) The Commission is authorized to enter into an agreement with CNMI
+8 regulatory agencies, independent system operators, and other parties for the
+9 purpose of monitoring and preventing the acquisition or exercise of market
+10 power in the regional transmission system serving the CNMI.
+11 § 115. Provision of electricity supply by the electric company.
+12 (a) Other than its provision of standard offer service, the electric company shall
+13 not engage in the business of an electricity supplier in the CNMI except through an
+14 affiliate.
+15 (b) An affiliate of the electric company must obtain a license under § 106 to
+16 engage in the business of an electricity supplier in the CNMI.
+17 (c) The Commission shall develop a code of conduct between the electric
+18 company and its affiliate which establishes functional, operational, structural, and legal
+19 separation between the electric company and the affiliate, and which prevents the
+20 electric company from subsidizing the activities of the affiliate. The code of conduct
+21 required by this subsection shall include the following protections:
+22 (1) A prohibition on the release of proprietary customer information from
+23 the electric company to the affiliate;
+24 (2) A prohibition on the use by the affiliate of office space owned and
+25 used by the electric company;
+26 (3) A prohibition on the sharing of employees by the electric company
+27 and the affiliate;
+28 (4) A requirement that the electric company and the affiliate maintain
+29 separate books and records; and
+Page 29
+SENATE BILL NO. 24-34
+_____________________________________________________________________________
+_____________________________________________________________________________
+1 (5) A requirement that the electric company and the affiliate allocate and
+2 account for all shared corporate services.
+3 § 116. New generating facilities in the CNMI.
+4 No person shall construct an electric generating facility for the purpose of the
+5 retail or wholesale sale of electricity unless the Commission first determines, after notice
+6 and a hearing, that the construction of the electric generating facility is in the public
+7 interest.
+8 § 117. Renewable energy sources.
+9 (a) For the purposes of this section, “renewable energy source” means one of the
+10 following sources of energy:
+11 (1) Solar;
+12 (2) Wind;
+13 (3) Tidal;
+14 (4) Geothermal;
+15 (5) Biomass;
+16 (6) Hydroelectric facilities; and
+17 (7) Digester gas.
+18 (b) Every 6 months after the initial implementation date, each licensed electricity
+19 supplier doing business in the CNMI shall report to the Commission on the fuel mix of
+20 the electricity sold by the electricity supplier, including categories of electricity from
+21 coal, natural gas, nuclear, oil, hydroelectric, solar, biomass, wind, and other resources,
+22 and on the percentage of electricity sold by the electricity supplier which comes from
+23 renewable energy sources.
+24 (c) (1) Beginning on the initial implementation date, the Commission shall
+25 track the fuel mix of the electricity sold in the CNMI and the amount of
+26 electricity from renewable sources sold in the CNMI.
+27 (2) Before July 1, 2028, and every 2 years after that date, the Commission shall
+28 provide a report to the CNMI Legislature on the overall fuel mix of the electricity sold in
+29 the CNMI, the amount of electricity sold in the CNMI which comes from renewable
+Page 30
+SENATE BILL NO. 24-34
+_____________________________________________________________________________
+_____________________________________________________________________________
+1 energy sources, and on the feasibility of requiring each licensed electricity supplier
+2 doing business in the CNMI to provide a minimum percentage of electricity sold from
+3 renewable energy sources.
+4 § 118. Net metering.
+5 (a) Notwithstanding any law to the contrary, the Commission may establish a
+6 program which affords eligible customer-generators the opportunity to participate in net
+7 energy metering.
+8 (b) Any net energy metering program established by the Commission shall be
+9 subject to the following:
+10 (1) The program may include, as the Commission determines will
+11 facilitate the provision of net energy metering, requirements for:
+12 (A) Retail sellers;
+13 (B) Owners or operators of distribution or transmission facilities;
+14 (C) Providers of default service; or
+15 (D) Eligible customer-generators.
+16 (2) The Commission shall ensure that the metering equipment installed
+17 for net metering shall be capable of measuring the flow of electricity in 2
+18 directions, and shall allocate fairly the cost of such equipment and any necessary
+19 interconnection. An eligible customer-generator’s net metering system for
+20 renewable resources, cogeneration, fuel cells, and microturbines shall meet all
+21 applicable safety and performance standards. The Commission may adopt by
+22 regulation additional control and testing requirements for customer-generators
+23 that the Commission determines are necessary to protect public safety and
+24 system reliability.
+25 (3) If the electricity supplied by an electricity supplier exceeds the
+26 electricity generated by the customer-generator and fed back into the electric grid
+27 during the billing period, the customer-generator shall be billed for the net
+28 electricity supplied by the electricity supplier in accordance with net metering
+29 rules established by the Commission.
+Page 31
+SENATE BILL NO. 24-34
+_____________________________________________________________________________
+_____________________________________________________________________________
+1 (4) If electricity generated by the customer-generator and fed back into
+2 the electric grid exceeds the electricity supplied by the electricity supplier, the
+3 customer generator may receive compensation based on the net metering rules
+4 established by the Commission.
+5 (5) The Commission shall establish additional rules as necessary for the
+6 electric company to implement the following provisions:
+7 (i) A community renewable energy facility shall meet all
+8 applicable safety and performance standards. The Commission may adopt
+9 by rulemaking additional control and testing requirements for community
+10 renewable energy facilities that the Commission considers necessary to
+11 protect public safety and system reliability.
+12 (ii) The owners of, subscribers to, and any subscriber organization
+13 controlling a community renewable energy facility shall not be
+14 considered public utilities or electricity suppliers solely as a result of their
+15 interest or participation in the community renewable energy facility.
+16 (iii) Prices paid for subscriptions and contractual matters in a
+17 community renewable energy facility shall not be subject to the
+18 jurisdiction of the Commission.
+19 (iv) The subscriber organization or the third-party owner shall
+20 own the renewable energy credits associated with the electricity
+21 generated by the community renewable energy facility, unless the credits
+22 were explicitly contracted for through a separate transaction independent
+23 of any net metering or interconnection agreement or contract.
+24 (v) The owner or operator of each community renewable energy
+25 facility shall follow all procedures for interconnection specified in CNMI
+26 law.
+27 (vi) All electricity exported to the grid by the community
+28 renewable energy facility shall become the property of the SOS
+29 administrator, pursuant to § 119(h), but shall not be counted toward the
+Page 32
+SENATE BILL NO. 24-34
+_____________________________________________________________________________
+_____________________________________________________________________________
+1 electric company’s total retail sales for purposes. The SOS administrator
+2 shall use subscribed energy to offset purchases from wholesale suppliers
+3 for standard offer service.
+4 (vii) The monetary value of subscribed energy produced by a
+5 community renewable energy facility shall be determined as established
+6 in this section, as implemented by the Commission.
+7 (viii) The amount of electricity generated each month available
+8 for allocation as subscribed or unsubscribed energy shall be determined
+9 by a revenue quality production meter installed and paid for by the owner
+10 of the community renewable energy facility. It shall be the electric
+11 company’s responsibility to read the production meter.
+12 (ix) The determination of the monetary value of credits allocated
+13 to each subscriber to a particular community renewable energy facility
+14 shall be based on each subscriber’s percentage interest of the total
+15 production of the community renewable energy facility.
+16 (x) Each billing month, the value of the credits allocated to each
+17 subscriber shall be calculated by multiplying the quantity of kilowatt
+18 hours allocated to each subscriber by the subscriber’s CREF credit rate.
+19 (xi) If the value of the credits generated by the community
+20 renewable energy facility allocated to the subscriber exceeds the amount
+21 owed by the subscriber as shown on the subscriber’s bill at the end of the
+22 billing period, the remaining value of the credit shall carry over from
+23 month to month until the value of any remaining credits are used.
+24 (xii) If the value of the credit generated by the community
+25 renewable energy facility allocated to the subscriber is less than the
+26 amount owed by the subscriber as shown on the subscriber’s bill at the
+27 end of the applicable billing period, the subscriber shall be billed for the
+28 difference between the amount shown on the bill and the value of the
+29 available credits.
+Page 33
+SENATE BILL NO. 24-34
+_____________________________________________________________________________
+_____________________________________________________________________________
+1 (xiii) If the subscriber is served by an energy supplier other than
+2 the SOS administrator, the subscriber shall be billed by the energy
+3 supplier for the full kilowatt-hours consumed by the subscriber during the
+4 billing period, and will receive the value of the credits generated by the
+5 CREF from the SOS administrator at the subscriber’s CREF credit rate.
+6 § 119. Community renewable energy facilities.
+7 (a) A community renewable energy facility may produce no greater than 5
+8 megawatts of electricity and must have at least 2 subscribers.
+9 (b) A subscriber to an eligible community renewable energy facility may offset
+10 no more than 120% of the subscriber’s electricity consumption over the previous 12
+11 months.
+12 (c) Each subscription shall represent a percentage of the community renewable
+13 energy facility’s generating capacity; provided, that the subscription is intended
+14 primarily to offset part or all of the subscriber’s own electrical requirements.
+15 (d) All individual billing meters for subscriptions to community renewable
+16 energy facilities shall be within the CNMI.
+17 (e) A community renewable energy facility may be built, owned, or operated by
+18 a third party under contract with a subscriber organization.
+19 (f) A community renewable energy facility may add capacity and subscribers to
+20 its facility if the added capacity and subscribers do not reduce the electrical production
+21 benefit to existing subscribers.
+22 (g) A community renewable energy facility may update its subscribers no more
+23 frequently than once per month. Each month the owner of a CREF or its designated
+24 agent shall provide the following information about its subscribers to the electric
+25 company as required to facilitate net metering for subscribers:
+26 (1) Name, address, and account number of each subscriber; and
+27 (2) The percentage interest of each subscriber in the capacity of the
+28 CREF;
+29 (h) The electric company may require that a CREF and its subscribers have their
+Page 34
+SENATE BILL NO. 24-34
+_____________________________________________________________________________
+_____________________________________________________________________________
+1 meters read on the same billing cycle.
+2 (i) Subscribers shall be eligible to receive electricity credits so long as the CREF
+3 continues to generate and provide power to the distribution grid, regardless of the
+4 bankruptcy or contractual default of any subscriber or of the subscriber organization.
+5 (j) A community renewable energy facility shall not add subscribers without
+6 adhering to the consumer protection provisions contained in § 109.
+7 (k) A community renewable energy facility may not sell subscriptions totaling
+8 more than 100% of its energy generation.
+9 § 120. Sale of generation assets.
+10 (a) In overseeing a sale by the electric company of any or all of its generation
+11 assets, the Commission shall ensure that the sale:
+12 (1) Will not affect the reliability of the electricity supply in the CNMI in
+13 a deregulated electricity supply market; and
+14 (2) Will minimize market power problems in a deregulated electricity
+15 supply market.
+16 (b) (1) The electric company shall not sell any of its generation assets to an
+17 affiliate of the electric company.
+18 (2) (i) By the initial implementation date, the electric company shall
+19 transfer at book value any unauctioned generation assets to an affiliate of
+20 the electric company.
+21 (ii) Relations between the affiliate identified in subparagraph (i)
+22 of this paragraph and the electric company shall be governed by a code of
+23 conduct to be issued by the Commission, which establishes functional,
+24 operational, structural, and legal separation between the electric company
+25 and the affiliate and prevents the electric company from subsidizing the
+26 activities of the affiliate. The code of conduct required by this subsection
+27 shall include the following protections:
+28 (A) A prohibition on the release of proprietary customer
+29 information from the electric company to the affiliate;
+Page 35
+SENATE BILL NO. 24-34
+_____________________________________________________________________________
+_____________________________________________________________________________
+1 (B) A prohibition on the use by the affiliate of office space
+2 owned or used by the electric company;
+3 (C) A prohibition on the sharing of employees by the
+4 electric company and the affiliate;
+5 (D) A requirement that the electric company and the
+6 affiliate maintain separate books and records; and
+7 (E) A requirement that the electric company and the
+8 affiliate allocate and account for all shared expenses.
+9 § 121. Consumer disclosure requirements.
+10 (a) An entity selling or reselling an interest in a community renewable energy
+11 facility shall provide a disclosure to the potential subscriber that includes the following,
+12 prior to the sale or resale of that subscription:
+13 (1) A good faith estimate of the annual kilowatt hours to be delivered by
+14 the community renewable energy facility based on the size of the subscriber’s
+15 interest;
+16 (2) A plain language explanation of the terms under which the bill credits
+17 will be calculated;
+18 (3) A plain language explanation of the contract provisions regulating the
+19 disposition or transfer of the subscription; and
+20 (4) A plain language explanation of the costs and benefits to the potential
+21 subscriber based on the subscriber’s current usage and applicable tariff, for the
+22 term of the proposed contract.
+23 (b) The CNMI Governor or his or her designee may require that any entity
+24 engaged in the sale or resale of a subscription in a community renewable energy facility
+25 provide additional disclosure to the buyer or lessee, the Governor, or both.
+26 (c) All contracts for the sale or resale of a subscription in a community
+27 renewable energy facility for use in a residential dwelling may be reviewed by the
+28 Governor or his or her designee upon request.
+29 (d) The Governor may issue rules to carry out the disclosure requirements
+Page 36
+SENATE BILL NO. 24-34
+_____________________________________________________________________________
+_____________________________________________________________________________
+1 contained in this section.
+2 § 122. Recovery of CREF implementation costs.
+3 The electric company may seek recovery of any costs associated with the
+4 implementation of this chapter in a base rate case. In a base rate case filing that includes
+5 recovery of such costs, the electric company shall include in its filing with the
+6 Commission any benefits and costs to the electric company. Any recovery of the net
+7 costs by the electric company approved by the Commission shall occur solely through a
+8 rate assessment of the subscribers.”
+9 Section 3. Amendment. 4 CMC § 8121(d) is hereby amended to read as
+10 follows:
+11 “(d) If a service has been wholly or partially turned over to the private sector,
+12 CUC shall be reduced accordingly and the Public Utilities Commission CUC shall
+13 monitor the performance, rates, and contractual compliance of the private sector
+14 enterprise.”
+15 Section 4. Amendment. 4 CMC § 8122(a) is hereby amended to read as follows:
+16 “(a) CUC shall supervise the construction, maintenance operations, and
+17 regulation of electric, water, and sewage services; provided that whenever feasible CUC
+18 shall contract with the private sector to assume its duties with respect to one or more of
+19 its divisions; provided further that in the event that electrical power generation is
+20 deregulated or restructured, the Public Utilities Commission shall supervise the
+21 construction, maintenance operations, and regulation of electrical power generation.”
+22 Section 5. Severability. If any provision of this Act or the application of any
+23 such provision to any person or circumstance should be held invalid by a court of
+24 competent jurisdiction, the remainder of this Act or the application of its provisions to
+25 persons or circumstances other than those to which it is held invalid shall not be affected
+26 thereby.
+27 Section 6. Savings Clause. This Act and any repealer contained herein shall not
+28 be construed as affecting any existing right acquired under contract or acquired under
+29 statutes repealed or under any rule, regulation, or order adopted under the statutes.
+Page 37
+SENATE BILL NO. 24-34
+_____________________________________________________________________________
+_____________________________________________________________________________
+1 Repealers contained in this Act shall not affect any proceeding instituted under or
+2 pursuant to prior law. The enactment of the Act shall not have the effect of terminating,
+3 or in any way modifying, any liability, civil or criminal, which shall already be in
+4 existence on the date this Act becomes effective.
+5 Section 7. Effective Date. This Act shall take effect upon its approval by the
+6 Governor or becoming law without such approval.
+Date: 04/24/25 Introduced By: /s/
+Sen. Corina L. Magofna
+Reviewed for Legal Sufficiency by:
+/s/ Antonette R. Villagomez
+Senate Legal Counsel
+Page 38
+[DELETED: N.BLFRANA   1 F a P  T L f t 3 s a W c u s n h o U s h i s d o e d I a r e m a s u c c t e p o e g t a d t c w o f a p r T u c m s t p i g s t t g a r c C i r m c c w g t p a a b t t u i t a R ( I b a s u c a m c t c i s e t c I s i g ( t g e t e t s i t c T c o u o a o t t g T u c e t m s t p i d a e i w c t k t l o E d r e m t l u c s e t r I]
+[DELETED:    c t T o t d t n t s a t e a b e a g c o t w o h T e i c g c t p t c t e s i p S e d c s i c i s ()P o C c p f l r b c d ()C p S m o v p t t d u ()G e ()C s C m l t i c s a s ()E r C n t e t a t m  T L f f t e d i t U S v r e C h p d m w o c a o e s T h c]
+[DELETED:    a m s i t N 1 o t s a W D h a i t o e p A t p o t l i t d c t s e t c a g c t p a b 2 A  S t c b t C L R C  § § § § § § § § § § § § § § § § § § § §]
+[DELETED:    § §.   ( i c i c b o i u c c w o h d ( e ( o ( ( ( U t o o c o a r f t f a u a o s o t d a a n e ( ( ( ( ( ( ( ( ( f M ( p]
+[DELETED:    ( “ o “ m t C o t N M ( f f ( o ( “ n m m a b a u w t m a d t t e c l d f i u t o e ( u t C a w t m v o e g b t f i c ( “ T C m a r c c o o a d ( “ m a o o o p m f m r o s ( ( s ( D n o a o e e s t o u ( l]
+[DELETED:    ( i m m t i d s s t b a s e ( r ( w i g t a d c f t s o s G S L V N C c ( f t G S L V N C c o i s ( ( p t l t s m e f e s e s s ( e s s t a c U t r c s h t o t p ( a ( ( ( ( I i w t e c t a d]
+[DELETED:    ( I i p t o a o p o t c o e ( “ c m w r t t m f e s b a t s d b t C t b p c i s e ( “ c w u i t c i e c c a j c o a p o p a d w p t o d e i t C t r e c T t e a b o l o m w r o l o m t i d s s t b a w s e a o r e s s t o e u ( m m ( B o l o m w m t i d o ( ( u ( A a b o o b m w a e s r f h o h b o b]
+[DELETED:    ( ( M e s t t i t ( ( a ( ( U ( e b ( m ( C s h t a t c a e s U a o d b t C u § 1 t i i d s b J ( i ( t t ( “ e m m m t d b t e s t a e c f t e g a t e ( p a]
+[DELETED:    ( “ c s m a c o e s ( f ( o ( ( ( ( A d m o o e e o c ( ( o ( “ m a l o t d o w e c c o a d p o e c c i e f c c a c ( b ( § ( s a w h i a i b m w t C t w ( “ o m a f o n e p b C l o g e t o o o o o m c ( “ m a p i i a c r e (]
+[DELETED:    e ( ( ( Q b u a a g u t a a t s a a J ( l ( ( O i e f w t c a t d ( F c p e f a t o r s u ( o  ( e ( ( ( ( o ( ( ( “ c m c l a i ( r a a t t C t t e t c l a i]
+[DELETED:    ( r w ( t ( “ e s m t e c w p a T r ( C a t L h e t C t e p t s ( I e C e ( I i i t p i t t C e t d a d ( t ( b ( T f m e f a p s w p ( t ( a]
+[DELETED:    ( s ( ( U a o d p t s ( o t s c t ( P t t i i d t C s d i c ( T C m d t i i d b o c t ( ( P t t i i d t C m e ( ( p ( p e b t C m i a c c ( p ( T C a i a a i s h t r t p i a e s c w a e s P o e p u t s c m c a a t a u t a c ( N a o p o t c c c]
+[DELETED:    i u c ( i a t a s t b d b t C T C o ( b ( p p a t t p a r o t r e i s e o a e s r a s t i c ( t o r u t c b t i i d T r a ( ( ( ( p ( ( t t e c d s o a n d ( P t e c f o i d s i a m t f t e s]
+[DELETED:    ( ( d ( ( u ( ( ( o o t C s d f e e s l u § 1 w i i f f t e s t d e 6 m e o a p s i e g f c n g n e F e t c i c d n o s d a a o p s b t C ( T C s m a d o f 6 l ( t e a f m o t e s b t s i t C t C b r o o s r t e o t e s b t s i t C i t c p (]
+[DELETED:    t t C t C b r o o s r t e e a f m a i t c p i s ( o e c r c a s i s c d ( b ( ( ( E r p f c b r ( d ( ( T C s o t e c i c w t C t C O o t P A a t C D o E t i a c e p i c o c i t e i ( A p o t c e p u t p t C s d a m i r r c a s p b l e s r ( R u a f t p a c]
+[DELETED:    a ( M a t t p t t o m I ( A d r t c e p m ( o e a s ( ( N a o p o l t C m r o ( C ( ( E t q a a r o r e ( e ( ( ( ( ( ( ( ( (]
+[DELETED:    o ( c ( s t ( t ( P o t s b a s w n o C ( A o d a c o e s t b a p c s s p f t r b t e c o a v c t w h b r u t t t ( ( i ( a ( o ( ( B m t t C i w o a f a b t C ( ( B a b a a f d b t C]
+[DELETED:    ( ( ( F E R C a a i s o a ( P o c w a a f a C e ( ( F ( ( A a o p t c w a o t r o t c a a o a r o t C ( ( ( t C j t b o s i i n t i ( E t d o a l i u t s p s ( d ( A l m n b t w t p a o t C ( A m c b t C u t s s b u e]
+[DELETED:    ( r p r ( ( T e c s p d s t a c a e t ( T t e t p i n p b f l o r t e c s p t s t a c a e s o r t a c t a c ( i ( m a a ( t e o ( ( U a c c i w a m p o t e (]
+[DELETED:    ( t ( ( p ( L d t a b o a t e c ( c ( ( o ( W n i c i i i ( T c i i s b t ( b ( ( U a c c i w a m p o t e c m n u i o t t s i s ( o t s f a p o t t p f w t i ( o ( U t c c a m p m n c a c ( n ( ( A m p m n e i m a o]
+[DELETED:    t ( t ( o p o t r c c n o s s o o g i o e o t c o f a a c o u d ( b e ( A m p s p o t I i t i r u c ( F a v o a p o t c o a v o a r m ( ( I a c p o a m p o t e c ( ( C a c o p o a c b a c a a m ( c ( ( n ( c]
+[DELETED:    ( p ( ( T g f o t m p o t e c i a t a c a n o t v ( a d o o t a o a t r a p a f r c t b t c o t r o e s i t C ( A p u t s m b i b t C t C a ( e c s p t t C a t a a b p ( i ( p ( w ( C w c a t p e f a e ( ( ( t]
+[DELETED:    ( ( s F ( ( t p a e f t c s i s s c r s o s s n e t t c ( s o ( ( ( o t s i i e t C s h t a t s i a m t i j r a n d c s ( u a ( o e c b o t c o t e c i t C ( B J 2 2 t C s a r o i o o a e s o s ( w o b t p s o o]
+[DELETED:    ( P a a s o s p f t p ( o ( u ( p e c o a a o t e c i i i i t p i ( ( A t r o o m b s ( o t s t s a t c t p s o s f t C a F r e s o s t p s o s a c b t C t c s o r e s 2 I c r b p o f t w b p ( h C ( M i i d s t p b t r e o (]
+[DELETED:    ( T C s d t t f v o w ( p i a v n t c s t f m f t C d u s ( o t s I c ( m c o ( T c t c m b i o b t c ( f ( ( o ( I d t e c t c t C ( ( t ( ( ( ( o ( T r t c w r i a r]
+[DELETED:    ( ( I t C d t t e c w i t c t C s d t e o t p r ( m ( o ( W t a a i h b f v a m ( ( r ( W i h a b c f t r ( ( W t i w m t s t n t e ( F c i o t b i a a r o e i t ( T i o a r o t c o t d o t ( m c t d i t a c t c i o e]
+[DELETED:    t t s ( ( r p p p e b l o o b t C i t c e p e u § 1 T t e C ( r e ( b ( o ( H n o w n b r t a c t ( A c r u t s m b r t a s o o a c r m t b d b t C ( t t a ( ( t s o a a r o a c f b a i p t]
+[DELETED:    C s b a a b a c o a c t r f t c o l p t C o a ( ( ( A s d b t C t b p c s c o t t a c o a c o t F ( W 6 m o t t o e b t C o t C O o t P A u s ( o t p t C O o t A G s i a r t t C L e t c a A t s n b d t e t C O o t A G o e a t a A r s m (]
+[DELETED:    A G t i o t a a a c o a ( ( T C i a t p i a m c t s ( r a i s o a o p f t p o m a p t a o e o m p ( n e i t b o a e s i t C e t a a ( e 1 e ( T C s d a c o c b t e c s b t e c a t a a w p t e r ( t ( u ( a ( A r t t e c a t a m s]
+[DELETED:    ( a N r a i ( f ( ( ( ( ( ( ( ( s t c a r ( ( t t f m o t e s i t C a t a o e ( p t]
+[DELETED:    e s a o t f o r e l e s d r ( p e ( s ( T p m i a t C d w f ( ( ( ( ( f n m s b c o m t f o e i 2 d i A e c n m s f r a s a p s T C m a b r a c a t r f c t t C d a n t p p s a s ( I t e s b a e s e t e d t b p t c s b b f t n e r]
+[DELETED:    ( t c e ( e ( A c r e f s m a a b r p ( c a c r e f s n b c i ( P p f s a c m i a c r e f s n b s t t j ( T s o o t t o s o t r e c a w t e g w o ( f l ( A e e t t g b t c r e f s b t p o t S a]
+[DELETED:    e s f ( T m v o s e p b a c i ( T a o e g e m a f b o t c r e f I s b t e c ( t s b b o e s p i o t t p ( s s b c b m t q o k h ( I t v o t c g b t c r o b p t r v o t c s c o f m ( I t v o t c g b t c r e f a t t s i l t t a e d a a]
+[DELETED:    ( t S a t s s b b b t e s b C ( A c r e f m p n g t 5 m ( n m t 1 o t s e c o t p 1 m ( e f g c p t t s i i p ( A i b m f s t c r e ( a ( i b ( f a s p t f i a i s t t e c ( ( T p i o e s i t c o t C (]
+[DELETED:    m ( c t g a p p t t d g r o t b ( A c r e f s n a s w a ( m ( a ( a ( W m m p p i a d e s ( ( a ( ( t t ( o c o a a s ( i]
+[DELETED:    ( o ( A p o t s o e b t e ( A r t t e c a t a ( A r t t e c a t a ( f p ( t i ( w ( d ( s t ( T C G o h o h d m r t a e e p ( A c f t s o r o a s i a c r e f f u i a r d m b r b t G ( T G m i r t c o t d r]
+[DELETED:    c T e c m s r o a c a w t i r o s c t e c s i i i f w t C c r 3 A  4 C § 8 i h a t r a f “ C s b r a a t P U C C s m t p r a c c o t p s e   “ C s s t c m o a r s i d p f t i t e t e p g i d o r t P U C s s t c I s p t a p o c s b h i b a c o c p t T b s r o u a r r o o a u t s]
+[DELETED:    R c i t A s n a a p i u o p o i a w m a l c o c w s a b i e T G  I /    ]
+
+
+================================================================================
+
+Raw Text:
+TWENTY-FOURTH NORTHERN MARIANAS COMMONWEALTH LEGISLATURE
+SECOND SPECIAL SESSION, 2025 S. B. NO. 24-34
+A BILL FOR AN ACT
+To restructure the electricity market in the CNMI by deregulating
+electric services; and for other purposes.
+BE IT ENACTED BY THE TWENTY-FOURTH NORTHERN MARIANAS
+COMMONWEALTH LEGISLATURE:
+1 Section 1. Findings and Purpose. The Legislature finds that 32 states and
+2 Washington DC have introduced some form of energy deregulation and retail energy
+3 choice as of 2025. Depending on the state this applies for electricity, natural gas or both
+4 utility services nearly half of US states have introduced some degree of energy
+5 deregulation and retail energy choice to homes and businesses within their borders.
+6 In a regulated electricity market, a single utility company controls the entire
+7 process of electricity generation, transmission, and distribution to customers with
+8 oversight from a public regulator. The utility company makes sure that power is
+9 generated, sent to the grid, and reaches customers. Customers in regulated markets
+10 cannot choose who generates their power and are bound to the utility in that area.
+11 Regulated markets dominate most of the Southeast, Northwest and much of the West
+12 (excluding California).
+13 In a deregulated electricity market, the electricity industry is no longer controlled
+14 by a single utility company, allowing multiple companies to compete in selling
+15 electricity to consumers. In such instances, generators (companies that generate
+16 electricity) sell electricity into a wholesale market, and retail energy suppliers purchase
+17 this electricity to sell it to customers. Transmission companies or utilities own and
+18 operate the transmission grid. The utility company exists to make sure the power is
+19 distributed and everything is working correctly to keep the lights on. Electricity
+20 deregulation gives consumers the power to choose their electric provider and plan. In
+21 regulated energy markets, the local utility company sells electricity to residents. In
+
+SENATE BILL NO. 24-34
+_____________________________________________________________________________
+_____________________________________________________________________________
+1 contrast, deregulated energy markets allow retail electric providers to sell energy plans
+2 to customers.
+3 The Legislature finds that the benefits of a deregulated electricity market include
+4 opening the door to new technologies, such as transactional energy and blockchain
+5 entrepreneurship, and giving consumers options they wouldn’t otherwise have. The
+6 electricity industry competition gives consumers the power to choose their energy
+7 supplier and the specific plan that best suits their needs. Deregulated markets can make
+8 it easier for customers to purchase renewable, clean energy directly from generators and
+9 push towards energy conservation.
+10 Specifically, electricity deregulation can significantly impact consumers in
+11 several ways:
+12 (1) Price options: Consumers can potentially find lower rates by comparing
+13 different suppliers.
+14 (2) Customized plans: Suppliers may offer various plans tailored to different
+15 usage patterns or preferences.
+16 (3) Green energy access: Increased availability of renewable energy options for
+17 environmentally conscious consumers.
+18 (4) Customer service: Competition may lead to improved customer service as
+19 suppliers vie for customers.
+20 (5) Education requirement: Consumers need to educate themselves about the
+21 market to make informed decisions.
+22 The Legislature further finds that electricity deregulation in the United States
+23 varies by state, with some states embracing full deregulation and others maintaining a
+24 regulated market. States like Texas, Pennsylvania, and New York have fully deregulated
+25 electricity markets, giving consumers a wide array of choices. Meanwhile, states like
+26 California have partially deregulated markets, where only certain aspects of energy
+27 supply are open to competition.
+28 The Legislature finds that deregulated markets have opened up generation for
+29 competition from independent power producers in 24 states, such as California, Texas
+Page 2
+
+SENATE BILL NO. 24-34
+_____________________________________________________________________________
+_____________________________________________________________________________
+1 and most states in the Northeast. 18 of these states and Washington D.C. have also
+2 introduced retail choice, which allows residential and/or industrial consumers to choose
+3 their own electricity provider. Accordingly, the purpose of this legislation is to
+4 deregulate the electric market in the CNMI to drive down prices by authorizing multiple
+5 companies to sell electricity to customers and generating competition to provide a
+6 broader range of electricity products such as renewable energy options.
+7 Section 2. Amendment. Subject to codification by the CNMI Law Revision
+8 Commission, the following provisions are hereby enacted to read:
+9 “Chapter 15. Retail Electric Competition and Consumer Protection.
+10 § 101. Definitions.
+11 § 102. Policy findings.
+12 § 103. Implementation of customer choice.
+13 § 104. Competitive billing.
+14 § 105. Role, duties, and powers of the Commission.
+15 § 106. Licensing requirements.
+16 § 107. Duties of the electric company.
+17 § 108. Disconnection of service in extreme temperature prohibited.
+18 § 109. Consumer protections.
+19 § 110. Investigation of violations, penalties for violations.
+20 § 111. Standard offer service.
+21 § 112. Transition costs, transition benefits.
+22 § 113. Recovery for public purpose programs.
+23 § 114. Market power remediation.
+24 § 115. Provision of electricity supply by the electric company.
+25 § 116. New generating facilities in the CNMI.
+26 § 117. Renewable energy sources.
+27 § 118. Net metering.
+28 § 119. Community renewable energy facilities.
+29 § 120. Sale of generation assets.
+Page 3
+
+SENATE BILL NO. 24-34
+_____________________________________________________________________________
+_____________________________________________________________________________
+1 § 121. Consumer disclosure requirements.
+2 § 122. Recovery of CREF implementation costs.
+3 § 101. Definitions. For the purposes of this chapter, the term:
+4 (a) “Affiliate” means a person who directly or indirectly, or through one or more
+5 intermediaries, controls, is controlled by, or is under common control with, or has
+6 directly or indirectly, any economic interest in another person.
+7 (b) “Aggregator” means a person who acts on behalf of customers to purchase
+8 electricity.
+9 (c) “Aggregation program” means any system developed by an aggregator for
+10 organizing customers into a single purchasing unit.
+11 (d) “Anticompetitive condition” means a condition which would allow a party to:
+12 (1) Exercise vertical or horizontal market power;
+13 (2) Use the ownership or control of a regulated facility to favor an
+14 unregulated affiliate or subsidiary or to discriminate against a non-affiliated
+15 entity;
+16 (3) Erect a barrier to entry; or
+17 (4) Compete unfairly or deny effective competition to consumers.
+18 (e) “Anticompetitive conduct” means an activity which would:
+19 (1) Violate any applicable antitrust law;
+20 (2) Constitute favorable treatment of an affiliate;
+21 (3) Discriminate against an unrelated entity;
+22 (4) Constitute a barrier to entry; or
+23 (5) Confer an unfair competitive advantage upon an entity.
+24 (f) “Bid premium” means a payment by an electricity supplier to the Commission
+25 for the right to provide standard offer service in the Commonwealth of the Northern
+26 Mariana Islands.
+27 (g) “Broker” means a person who acts as an agent or intermediary in the sale and
+28 purchase of electricity but who does not take title to electricity.
+Page 4
+
+SENATE BILL NO. 24-34
+_____________________________________________________________________________
+_____________________________________________________________________________
+1 (h) “Commonwealth” or “CNMI” means the Commonwealth of the Northern
+2 Mariana Islands.
+3 (i) “Competitive billing” means the right of a customer to receive a single bill
+4 from the electric company, a single bill from the electricity supplier, or separate bills
+5 from the electric company and the electricity supplier.
+6 (j) “Commission” means the Public Utilities Commission of the Commonwealth
+7 of the Northern Mariana Islands.
+8 (k) “Community net metering” means a billing arrangement under which the
+9 monetary value of electric energy generated by a community renewable energy facility
+10 and delivered to the electric company’s local distribution facilities is used to offset
+11 electric energy charges accrued during a subscriber’s applicable billing period.
+12 (l) “Community renewable energy facility” or “CREF” means an energy facility
+13 using renewable resources defined as tier one renewable sources that is located within
+14 the CNMI and where the monetary value of electricity generated by the facility is
+15 credited to the subscribers of the facility.
+16 (m) “Competitive Transition Charge” means a rate, charge, credit, or other
+17 appropriate mechanism authorized to be imposed for the recovery of transition costs as
+18 determined by the Commission under § 112.
+19 (n) “Consolidator” means any owner of or property manager for multi-family
+20 residential, commercial office, industrial, and retail facilities who combines more than
+21 one property for the primary purpose of contracting with an aggregator or electric energy
+22 service provider for electric energy services for those properties, and who:
+23 (1) Does not take title to electric energy;
+24 (2) Does not sell electric energy to buildings not owned or managed by
+25 such owner or property manager;
+26 (3) Does not offer aggregation of electric energy services to other,
+27 unrelated end-users; and
+28 (4) Arranges for the purchase of electric energy services only from duly
+29 licensed electric energy service providers or aggregators.
+Page 5
+
+SENATE BILL NO. 24-34
+_____________________________________________________________________________
+_____________________________________________________________________________
+1 (o) “Consumer” or “customer” each means a purchaser of electricity for end use
+2 in the CNMI. The term excludes an occupant of a building where the owner, lessee, or
+3 manager manages the internal distribution system serving the building and supplies
+4 electricity solely to occupants of the building for use by the occupants.
+5 (p) “CREF credit rate"” means a credit rate applied to subscribers of community
+6 renewable energy facilities, which shall be equal to:
+7 (1) For residential customer subscribers, the full retail distribution rate,
+8 which includes generation, transmission, and distribution charges, for the
+9 standard offer service General Service Low Voltage Non-Demand Customer
+10 class or its successor, as determined by the Commission, based upon § 118; and
+11 (2) For commercial customer subscribers, the standard offer service rate
+12 for the General Service Low Voltage Non-Demand Customer class or its
+13 successor, as determined by the Commission, based upon § 118.
+14 (q) “CUC” means the Commonwealth Utilities Corporation.
+15 (r) “Customer-based aggregation program” means a program in which customers
+16 pool their loads to shop more effectively for electricity supply, electricity supply
+17 services, or any service declared to be a potentially competitive service.
+18 (s) “Customer choice” or “choice of electricity suppliers” each means the right of
+19 electricity suppliers and consumers to use and interconnect with the electric distribution
+20 system on a nondiscriminatory basis in order to distribute electricity from any electric
+21 supplier to any customer. Under this right, consumers shall have the opportunity to
+22 purchase electricity supply from their choice of licensed electricity suppliers.
+23 (t) “Customer-generator” means a residential or commercial customer that owns
+24 and operates an electric generating facility that:
+25 (1) Has a capacity of not more than 1000 kilowatts;
+26 (2) Uses renewable resources, cogeneration, fuel cells, or microturbines;
+27 (3) Is located on the customer’s premises;
+28 (4) Is interconnected with the electric company’s transmission and
+29 distribution facilities; and
+Page 6
+
+SENATE BILL NO. 24-34
+_____________________________________________________________________________
+_____________________________________________________________________________
+1 (5) Is intended primarily to offset all or part of the customer’s own
+2 electricity requirements.
+3 (u) “Effective competition” means, with respect to the markets for electricity
+4 supply, billing, and those services declared by the Commission to be potentially
+5 competitive services a market structure under which an individual seller is not able to
+6 influence significantly the price of the service as a result of the number of sellers of the
+7 service, the size of each seller’s share of the market, the ability of the sellers to enter or
+8 exit the market, and the price and availability of comparable substitutes for the service.
+9 (v) “Electric company” when used in this chapter includes every corporation,
+10 company, association, joint-stock company or association, partnership, or person and
+11 doing business in the CNMI, their lessees, trustees, or receivers, appointed by any court
+12 whatsoever, physically transmitting or distributing electricity in the CNMI to retail
+13 electric customers. The term excludes any building owner, lessee, or manager who,
+14 respectively, owns, leases, or manages, the internal distribution system serving the
+15 building and who supplies electricity and other related electricity services solely to
+16 occupants of the building for use by the occupants. The term also excludes a person or
+17 entity that does not sell or distribute electricity and that owns or operates equipment
+18 used exclusively for the charging of electric vehicles.
+19 (w) “Electricity supplier” means a person, including an aggregator, broker, or
+20 marketer, who generates electricity; sells electricity; or purchases, brokers, arranges or,
+21 markets electricity for sale to customers. The term excludes the following:
+22 (1) Building owners, lessees, or managers who manage the internal
+23 distribution system serving such building and who supply electricity solely to
+24 occupants of the building for use by the occupants;
+25 (2) (i) Any person who purchases electricity for its own use or for the
+26 use of its subsidiaries or affiliates; or
+27 (ii) Any apartment building or office building manager who
+28 aggregates electric service requirements for his or her building or
+29 buildings, and who does not:
+Page 7
+
+SENATE BILL NO. 24-34
+_____________________________________________________________________________
+_____________________________________________________________________________
+1 (A) Take title to electricity;
+2 (B) Market electric services to the individually-metered
+3 tenants of his or her building; or
+4 (C) Engage in the resale of electric services to others;
+5 (3) Property owners who supply small amounts of power, at cost, as an
+6 accommodation to lessors or licensees of the property; and
+7 (4) A consolidator.
+8 (x) “Executive Director” means the Executive Director of the Commonwealth
+9 Utilities Corporation or his or her designee.
+10 (y) “Gender identity or expression” means a gender-related identity, appearance,
+11 expression, or behavior of an individual, regardless of the individual’s assigned sex at
+12 birth.
+13 (z) “Individual billing meter” means an individual meter or a set of meters when
+14 meters are combined for billing purposes.
+15 (aa) “Initial implementation date” means the first day on which customers in the
+16 CNMI shall have the ability to choose an electricity supplier. Unless accelerated or
+17 delayed by the Commission under § 103(c), the initial implementation date shall be
+18 January 1, 2027.
+19 (bb) “Marketer” means a person who purchases and takes title to electricity as an
+20 intermediary for sale to customers.
+21 (cc) “Market participant” means any electricity supplier (including an affiliate of
+22 the electric company) or any person providing billing services or services declared by
+23 the Commission to be potentially competitive services.
+24 (dd) “Net energy metering” means measuring the difference between the
+25 electricity supplied to an eligible customer-generator from the electric grid and the
+26 electricity generated and fed back to the electric grid by the eligible customer-generator.
+27 (ee) “Pilot program” means a transitional program approved by the Commission
+28 prior to the initial implementation date under which customer choice is implemented for
+29 a percentage of each customer class.
+Page 8
+
+SENATE BILL NO. 24-34
+_____________________________________________________________________________
+_____________________________________________________________________________
+1 (ff) “Potentially competitive service” means a component of electric service
+2 (other than electricity supply and billing) determined by the Commission to be suitable
+3 for purchase by customers from alternative sellers under § 105(e).
+4 (gg) “Public purpose program” means a program implemented with the intention
+5 of furthering a public purpose.
+6 (1) “Public purpose program” includes:
+7 (i) A universal service program;
+8 (ii) A program encouraging renewable energy resources;
+9 (iii) A demand-side management or other energy efficiency or
+10 conservation program; and
+11 (iv) A consumer education program.
+12 (hh) “Renewable energy credit” means a credit representing one megawatt-hour
+13 of energy produced by a tier one or tier two renewable source located within the CNMI;
+14 (ii) “Schedule” means a list of the dates on which each customer class, or a
+15 designated percentage of each customer class, is eligible for customer choice and
+16 competitive billing.
+17 (jj) “SOS administrator” means the provider of standard offer service mandated
+18 by § 111.
+19 (kk) “Standard offer service” or “SOS” means that electric service mandated by
+20 § 111.
+21 (ll) “Subscriber” means a retail customer of the electric company who owns a
+22 subscription and who has identified an individual billing meter within the CNMI to
+23 which the subscription shall be attributed.
+24 (mm) “Subscriber organization” means any for-profit or nonprofit entity
+25 permitted by CNMI law, or government entity, that owns or operates one or more
+26 community renewable energy facilities for the benefit of the subscribers.
+27 (nn) “Subscription” means a percentage interest in a community renewable
+28 energy facility’s electrical production.
+29 (oo) “Tier one renewable source” means one or more of the following types of
+Page 9
+
+SENATE BILL NO. 24-34
+_____________________________________________________________________________
+_____________________________________________________________________________
+1 energy sources:
+2 (1) Solar energy;
+3 (2) Wind;
+4 (3) Qualifying biomass used at a generation unit that achieves a total
+5 system efficiency of at least 65% on an annual basis, can demonstrate that they
+6 achieved a total system efficiency of at least 65% on an annual basis through
+7 actual operational data after one year, and that started commercial operation after
+8 January 1, 2007.
+9 (4) Methane from the anaerobic decomposition of organic materials in a
+10 landfill or wastewater treatment plant;
+11 (5) Geothermal;
+12 (6) Ocean, including energy from waves, tides, currents, and thermal
+13 differences;
+14 (7) Fuel cells producing electricity from a tier one renewable source
+15 under subparagraph (3) or (8) of this paragraph; and
+16 (8) Raw or treated wastewater used as a heat source or sink for a heating
+17 or cooling system.
+18 (pp) “Tier two renewable source” means one or more of the following types of
+19 energy sources:
+20 (1) Hydroelectric power other than pumped storage generation;
+21 (2) Waste-to-energy; or
+22 (3) Qualifying biomass used at a generation unit that
+23 (i) Started commercial operation on or before December 31, 2006;
+24 or
+25 (ii) Achieves a total system efficiency of less than 65%; or
+26 (iii) Uses black liquor.
+27 (qq) “Transition costs” means costs, liabilities, and investments (including
+28 regulatory assets) allocable to the CNMI to the extent the costs, liabilities, and
+29 investments:
+Page 10
+
+SENATE BILL NO. 24-34
+_____________________________________________________________________________
+_____________________________________________________________________________
+1 (1) Traditionally have been or would be recoverable under the existing
+2 regulatory structure (with retail rates for the provision of electric service), but
+3 will not be recoverable in the restructured electricity supply market; or
+4 (2) Arise as a result of electric industry restructuring and are related to
+5 the creation of customer choice.
+6 (rr) “Wholesale electricity supplier” means the electric company, which,
+7 pursuant to § 111, obtains bids from, and contracts for electric service with, third parties
+8 and provides standard offer service to retail customers.
+9 § 102. Policy findings.
+10 The Legislature adopts the following policy findings in support of community
+11 renewable energy:
+12 (a) Communities benefit from the deployment of tier one renewable energy in the
+13 CNMI, and the Legislature hereby encourages the CUC to establish programs that
+14 support development of such projects;
+15 (b) It is in the public interest that the CUC encourages broad participation in
+16 CNMI-based tier one renewable electric generation by CNMI residents, not-for-profit
+17 entities, and for-profit entities through outreach efforts and programs in the CNMI;
+18 (c) It is in the public interest that the CUC enables the development and
+19 deployment of community renewable energy facilities for the following purposes:
+20 (1) To allow renters and low-to moderate-income retail electric customers
+21 to own interests in tier one renewable energy generating facilities;
+22 (2) To allow interests in tier one renewable energy generation facilities to
+23 be portable and transferrable;
+24 (3) To facilitate market entry for all potential subscribers, while
+25 prioritizing those persons most sensitive to market barriers; and
+26 (4) To encourage developers to promote participation by renters and low-
+27 to moderate-income retail electric customers; and
+28 (d) It is in the public interest for developers to encourage participation by renters
+29 and low- to moderate-income retail electric customers.
+Page 11
+
+SENATE BILL NO. 24-34
+_____________________________________________________________________________
+_____________________________________________________________________________
+1 § 103. Implementation of customer choice.
+2 (a) On and after the initial implementation date, the supply and sale of electricity
+3 shall not be regulated except as expressly set forth in this chapter.
+4 (b) (1) Unless accelerated or delayed pursuant to subsection (c) of this
+5 section, customer choice shall begin on the initial implementation date. Customer
+6 choice must be available for all consumers, regardless of customer class, no later
+7 than 2 years after the initial implementation date.
+8 (2) Prior to the initial implementation date, the Commission shall
+9 determine a schedule for the phase-in of customer choice. The Commission may,
+10 in its discretion, forego a phase-in and make customer choice available for all
+11 consumers on the initial implementation date.
+12 (c) The Commission may delay the initial implementation date based on
+13 considerations of reliability, safety, or market power, but under no circumstances shall
+14 the initial implementation date be delayed beyond January 1, 2028.
+15 (d) (1) Prior to the initial implementation date, the Commission may
+16 establish a pilot program.
+17 (2) (i) A minimum of 10% of each customer class shall be eligible to
+18 participate in any pilot program established by the Commission.
+19 (ii) Notwithstanding any other provision of this chapter, any pilot
+20 program established by the Commission may include all commercial
+21 customers.
+22 (iii) Notwithstanding any other provision of this chapter, any pilot
+23 program established by the Commission may include competitive billing.
+24 (e) The CNMI and its agencies and instrumentalities shall have the right to
+25 petition the Commission prior to the initial implementation date for permission to enter
+26 into an electricity supply contract with any electricity supplier. Purchases of electric
+27 power under the supply contract may commence at any time, and under terms and
+28 conditions, as may be designated by the Commission.
+29 (f) Notwithstanding any other provision of this chapter, customer choice,
+Page 12
+
+SENATE BILL NO. 24-34
+_____________________________________________________________________________
+_____________________________________________________________________________
+1 including any pilot program under subsection (d) of this section and any supply contract
+2 under subsection (e) of this section, may not commence until legislation is enacted to
+3 conform CNMI taxes to the restructuring of the electric industry.
+4 § 104. Competitive billing.
+5 (a) Competitive billing shall begin on the initial implementation date and shall be
+6 implemented according to a schedule to be determined by the Commission. The
+7 Commission shall have the discretion to implement competitive billing for all customers
+8 on a single date.
+9 (b) This section shall not preclude the Commission from including competitive
+10 billing as a part of any pilot program established by the Commission.
+11 § 105. Role, duties, and powers of the Commission.
+12 (a) The Commission’s assessment, approval, and oversight of restructuring plans,
+13 pilot programs, and the transition process, and regulation of the restructured electric
+14 industry, shall ensure orderliness and electric system reliability and shall take into
+15 consideration the interests of customers, electricity suppliers, and the electric company.
+16 (b) Unless otherwise specified, the Commission shall adopt regulations or issue
+17 the orders required under this chapter before the initial implementation date. This
+18 requirement shall not affect the validity of amendments to those regulations or orders
+19 adopted after the initial implementation date.
+20 (c) (1) The Commission shall adopt regulations or issue orders to:
+21 (i) Implement competitive billing pursuant to § 104;
+22 (ii) Govern the licensing of electricity suppliers and other market
+23 participants under § 106;
+24 (iii) (A) Require access by customers and electricity suppliers
+25 to the electric company’s distribution system on a non-
+26 discriminatory basis in accordance with § 107; and
+27 (B) Prevent the electric company from operating its
+28 distribution system in any manner that favors the electricity
+29 supply of the electric company’s affiliates in violation of § 107;
+Page 13
+
+SENATE BILL NO. 24-34
+_____________________________________________________________________________
+_____________________________________________________________________________
+1 (iv) Implement the consumer protections in § 109;
+2 (v) Establish procedural rules for complaints, investigations, and
+3 dispositional hearings under § 110;
+4 (vi) Govern proceedings under § 114; and
+5 (vii) Govern the construction of new electric generating facilities
+6 under § 116.
+7 (2) (i) (A) Under criteria established by Commission regulation
+8 or order, the Commission shall determine for each electricity
+9 supplier licensed under § 106 whether it is feasible for that
+10 electricity supplier to disclose every 6 months emissions on a
+11 pound per megawatt-hour basis and the fuel mix of the electricity
+12 sold by that supplier in the CNMI. For fuel mix, the categories
+13 include electricity generated from coal, natural gas, nuclear
+14 energy, oil, hydroelectric, solar, biomass, wind, and other sources.
+15 For emissions, the categories include carbon dioxide, nitrogen
+16 oxide, sulfur dioxide, and any other pollutants specified by the
+17 Commission.
+18 (B) The Commission shall make a determination of
+19 feasibility under sub-subparagraph (i) of this subparagraph within
+20 6 months after the date on which an electricity supplier receives a
+21 license under § 106.
+22 (ii) If the Commission determines under subparagraph (i)(A) of
+23 this paragraph that it is feasible for an electricity supplier to disclose the
+24 emissions and fuel mix of the electricity sold by that supplier in the
+25 CNMI, the Commission, by regulation or order, shall require the
+26 electricity supplier to disclose every 6 months the emissions and fuel mix
+27 of the electricity sold by the supplier in the CNMI in the categories
+28 provided in subparagraph (i)(A) of this paragraph.
+29 (iii) If the Commission determines under subparagraph (A)(i) of
+Page 14
+
+SENATE BILL NO. 24-34
+_____________________________________________________________________________
+_____________________________________________________________________________
+1 this paragraph that it is not feasible for an electricity supplier to disclose
+2 the emissions and fuel mix of the electricity sold by the supplier in the
+3 CNMI, the Commission, by regulation or order, shall require the
+4 electricity supplier to disclose to its customers every 6 months a regional
+5 emissions and fuel mix average in the categories provided in
+6 subparagraph (A)(i) of this paragraph.
+7 (3) The Commission shall, by regulation or order, require the unbundling
+8 of electric company rates, charges, and services into standardized categories
+9 determined by the Commission.
+10 (4) The Commission shall, by regulation or order, require that customers’
+11 bills indicate, as an individual line item, charges for electricity supply.
+12 (5) The Commission shall issue regulations or orders to:
+13 (i) Establish reasonable restrictions on telemarketing;
+14 (ii) Establish reasonable procedures for contracting between
+15 residential and small commercial customers and electricity suppliers; and
+16 (iii) Establish reasonable requirements and limitations relating to
+17 deposits, billing, contract cancellations, and disconnections.
+18 (6) (i) The Commission shall order the electric company, in
+19 conjunction with the Commission, the CNMI Office of the Public
+20 Auditor, and the CNMI Division of Energy, to implement a consumer
+21 education program informing consumers of changes in the electric
+22 industry.
+23 (ii) As part of the consumer education program under this
+24 paragraph, the Commission shall develop and maintain information
+25 regarding rates charged and services provided by licensed electricity
+26 suppliers to small commercial and residential customers. The information
+27 required in this subparagraph shall be:
+28 (A) Readily understandable and formatted to provide a
+29 comparison of rates and services offered by electricity suppliers;
+Page 15
+
+SENATE BILL NO. 24-34
+_____________________________________________________________________________
+_____________________________________________________________________________
+1 and
+2 (B) Made available to the public through the ordinary
+3 means of publication of the Commission, including posting on the
+4 Internet.
+5 (iii) Any dispute regarding the consumer education program
+6 mandated by this paragraph shall be resolved by the Commission.
+7 (7) The Commission may adopt any other regulations, or issue any other
+8 orders, consistent with the policies enunciated in this chapter and necessary to
+9 ensure the development of a competitive market for electricity supply, billing,
+10 and any component of electric service declared to be a potentially competitive
+11 service.
+12 (d) (1) Notwithstanding any other provision of law, the Commission may
+13 regulate the regulated services of the electric company through alternative forms
+14 of regulation.
+15 (2) The Commission may adopt an alternative form of regulation if the
+16 Commission finds that the alternative form of regulation:
+17 (i) Protects consumers;
+18 (ii) Ensures the quality, availability, and reliability of regulated
+19 electric services; and
+20 (iii) Is in the interest of the public, including shareholders of the
+21 electric company.
+22 (3) Alternative forms of regulation may include:
+23 (i) Price regulation, including price freezes or caps;
+24 (ii) Revenue regulation;
+25 (iii) Ranges of authorized return;
+26 (iv) Rate of return;
+27 (v) Categories of services; and
+28 (vi) Price-indexing.
+29 (e) (1) The Commission may declare that a component of electric service,
+Page 16
+
+SENATE BILL NO. 24-34
+_____________________________________________________________________________
+_____________________________________________________________________________
+1 other than electricity supply and billing, is a potentially competitive service if:
+2 (i) Provision of the service by alternative sellers will not harm any
+3 class of customers;
+4 (ii) Provision of the service will decrease the cost of providing the
+5 service to customers in the CNMI or increase the quality or innovation of
+6 the electric service to customers in the CNMI;
+7 (iii) Effective competition in the market for that service is likely
+8 to develop; and
+9 (iv) Provision of the service by alternative sellers will not
+10 otherwise jeopardize the safety and reliability of electric service in the
+11 CNMI.
+12 (2) Any order declaring a component of electric service to be a
+13 potentially competitive service shall provide for the recovery by the electric
+14 company of all verifiable costs that would have been recoverable under the
+15 traditional regulatory structure but which will not be recoverable as a result of
+16 the order under subsection (c)(1) of this section.
+17 (f) (1) Nothing contained in this section shall prohibit the Commission from
+18 implementing or modifying a pilot program under § 103(d).
+19 (2) Nothing contained in this section shall prohibit the Commission from
+20 allowing the adoption of a supply contract under § 103(e).
+21 § 106. Licensing requirements.
+22 (a) All electricity suppliers must obtain a license issued by the Commission in
+23 order to do business in the CNMI.
+24 (b) An application for an electricity supplier license shall:
+25 (1) Be made to the Commission in writing on a form adopted by the
+26 Commission;
+27 (2) Be verified by oath or affirmation;
+28 (3) Be accompanied by an application fee determined by the
+29 Commission; and
+Page 17
+
+SENATE BILL NO. 24-34
+_____________________________________________________________________________
+_____________________________________________________________________________
+1 (4) Contain the following:
+2 (i) Proof of technical and managerial competence;
+3 (ii) Proof of compliance with all applicable requirements of the
+4 Federal Energy Regulatory Commission and any independent system
+5 operator or regional or system transmission operator to be used by the
+6 applicant;
+7 (iii) Proof of compliance with all applicable federal and CNMI
+8 environmental laws;
+9 (iv) Proof of financial integrity;
+10 (v) Proof that the applicant has registered with the Department of
+11 Finance to do business in the CNMI;
+12 (vi) An agreement or promise to be subject to all applicable taxes;
+13 (vii) An agreement or promise to comply with all of the
+14 requirements of this chapter and all orders and regulations of the
+15 Commission issued under this chapter; and
+16 (viii) Any other information required by the Commission.
+17 (c) The Commission shall:
+18 (1) Require an applicant to post a bond or other similar instrument if, in
+19 the Commission’s judgment, the bond or similar instrument is necessary to
+20 insure an applicant’s financial integrity;
+21 (2) Establish the duration of a license issued under this section,
+22 procedures and requirements for license renewal, and provisions regarding the
+23 surrender and lapse of a license; and
+24 (3) Establish any other requirements for an applicant that the Commission
+25 determines to be in the public interest.
+26 (d) A license may not be transferred without the prior approval of the
+27 Commission.
+28 (e) All monies collected by the Commission under this section shall be used
+29 exclusively for the daily operations of the Commission.
+Page 18
+
+SENATE BILL NO. 24-34
+_____________________________________________________________________________
+_____________________________________________________________________________
+1 (f) Notwithstanding any other provision of this chapter, a consolidator may be
+2 required by the Commission to file a statement of intent to serve as a consolidator and to
+3 provide to the Commission such other information as reasonably may be related to the
+4 requirements of the Commission for monitoring the activities of consolidators.
+5 § 107. Duties of the electric company.
+6 (a) (1) The electric company shall provide distribution services to all
+7 customers and electricity suppliers on rates, terms of access, and conditions that
+8 are comparable to the electric company’s own use of its distribution system. The
+9 electric company shall not operate its distribution system in a manner that favors
+10 the electricity supply of the electric company’s affiliates.
+11 (2) To the extent this provision is not preempted by federal law or
+12 regulation, the electric company shall provide transmission services to all
+13 customers and electricity suppliers on rates, terms, and conditions that are
+14 comparable to the electric company’s own use of its transmission system.
+15 (b) The electric company shall maintain the reliability of its distribution system
+16 in accordance with applicable orders, tariffs, and regulations of the Commission.
+17 § 108. Disconnection of service in extreme temperature prohibited.
+18 (a) For the purposes of this section, the term “forecast of extreme temperature”
+19 means a National Weather Service forecast for the CNMI of 95 degrees Fahrenheit or
+20 above during any time of a day or of 32 degrees Fahrenheit or below during any time of
+21 a day.
+22 (b) An electric company shall not disconnect residential electric service during
+23 the day preceding and the day of a forecast of extreme temperature or if the forecast of
+24 extreme temperature precedes a holiday or weekend day, on any day during the holiday
+25 or weekend.
+26 § 109. Consumer protections.
+27 (a) (1) Unless a customer consents in writing, a market participant or the
+28 electric company may not disclose information that:
+29 (i) Is about the customer; and
+Page 19
+
+SENATE BILL NO. 24-34
+_____________________________________________________________________________
+_____________________________________________________________________________
+1 (ii) Was supplied to the market participant or electric company by
+2 the customer.
+3 (2) This restriction shall not apply to:
+4 (i) Lawful disclosures for bill collection or credit rating reporting
+5 purposes; or
+6 (ii) Lawful disclosures to a building owner about the energy
+7 consumption of a non-residential tenant of the building.
+8 (3) Aggregated consumption data may be provided under the following
+9 circumstances:
+10 (i) When at least 5 customer accounts are being aggregated;
+11 (ii) When no single customer account represents more than 80%
+12 of the total aggregated energy consumption; and
+13 (iii) When no individual customer-identifying information is
+14 included, unless:
+15 (A) The customer-identifying information is supplied by
+16 the person requesting the consumption data; and
+17 (B) The person requesting the consumption data owns the
+18 building for which the consumption data is requested.
+19 (b) (1) Unless a customer consents in writing, a market participant or the
+20 electric company may not use information of the type specified in subsection
+21 (a)(1) of this section for any purpose other than the purpose for which the
+22 information was originally acquired.
+23 (2) This restriction shall not apply to lawful disclosures for bill collection
+24 or credit rating reporting purposes.
+25 (c) Unless the customer consents, a market participant may not change a
+26 customer’s electricity supplier.
+27 (d) Unless the customer consents, a market participant may not add services or
+28 new charges to a customer’s existing retail electric service options.
+29 (e) (1) A market participant may not engage in marketing, advertising, or
+Page 20
+
+SENATE BILL NO. 24-34
+_____________________________________________________________________________
+_____________________________________________________________________________
+1 trade practices that are unfair, false, misleading, or deceptive.
+2 (2) A market participant must provide adequate and accurate information
+3 to each customer about the market participant’s available services and charges.
+4 (f) A market participant may not discriminate against any customer based wholly
+5 or partly on the race, color, creed, national origin, sex, sexual orientation, or gender
+6 identity or expression of the customer, or for any arbitrary, capricious, or unfairly
+7 discriminatory reason.
+8 (g) A market participant may not refuse to provide service to a customer except
+9 by the application of standards that are reasonably related to the market participant’s
+10 economic and business purposes.
+11 (h) A market participant shall post on the Internet information that is readily
+12 understandable about its services and rates for small commercial and residential electric
+13 customers.
+14 § 110. Investigation of violations, penalties for violations.
+15 (a) For a violation of any provision of this chapter or a violation of any
+16 regulation or order issued under this chapter, after notice and a hearing, the Commission
+17 may:
+18 (1) Suspend or revoke a license of a market participant;
+19 (2) Impose a civil penalty on a market participant or the electric
+20 company;
+21 (3) Order a refund or credit to a customer;
+22 (4) Cancel a contract or part of a contract between a customer and a
+23 market participant; or
+24 (5) Issue a cease and desist order to a market participant or the electric
+25 company.
+26 (b) (1) A civil penalty imposed by the Commission under this section shall
+27 not exceed $10,000 per violation.
+28 (2) The Commission shall determine the amount of the civil penalty after
+29 considering:
+Page 21
+
+SENATE BILL NO. 24-34
+_____________________________________________________________________________
+_____________________________________________________________________________
+1 (i) The number of previous violations on the part of the market
+2 participant or the electric company;
+3 (ii) The gravity and duration of the current violation; and
+4 (iii) The good faith of the market participant or the electric
+5 company in attempting to achieve compliance after notification of the
+6 violation.
+7 (c) The Commission may temporarily suspend a license, issue a temporary cease
+8 and desist order, or take any other appropriate temporary remedial action, pending a
+9 final determination after notice and hearing, if the Commission determines that there is
+10 reasonable cause to believe that customers or the reliability of electric supply in the
+11 CNMI will be harmed by the actions of a market participant or the electric company.
+12 (d) A proceeding under this section may be initiated by the Commission, the
+13 CNMI Office of the Public Auditor, the CNMI Office of the Attorney General, or any
+14 aggrieved party.
+15 (e) In connection with a proceeding under this section, a market participant or the
+16 electric company shall provide to the Commission access to any accounts, books,
+17 papers, and documents which the Commission considers necessary to resolve the matter.
+18 § 111. Standard offer service.
+19 (a) Standard offer service is electricity supply made available on and after the
+20 initial implementation date to:
+21 (1) Customers not yet allowed to choose an electricity supplier under the
+22 phase-in of customer choice under § 103;
+23 (2) Customers who contract for electricity with an electricity supplier, but
+24 who fail to receive delivery of electricity under such contracts;
+25 (3) Customers who cannot arrange to purchase electricity from an
+26 electricity supplier; and
+27 (4) Customers who do not choose an electricity supplier.
+28 (b) (1) Standard offer service shall be provided by the electric company from
+29 the initial implementation date through February 7, 2030.
+Page 22
+
+SENATE BILL NO. 24-34
+_____________________________________________________________________________
+_____________________________________________________________________________
+1 (2) (i) The rate cap specified in subparagraph (ii) of this paragraph
+2 shall apply beginning on the initial implementation date and shall end on
+3 February 7, 2030.
+4 (ii) (A) Subject to the time limitation in subparagraph (i) of
+5 this paragraph, and except for the charges specified in sub-
+6 subparagraph (ii) of this subparagraph, the total rate charged to a
+7 customer receiving standard offer service shall not exceed the
+8 total of the rates authorized by the Commission and charged to the
+9 customer on December 31, 2024.
+10 (B) The rate cap specified in sub-subparagraph (i) of this
+11 subparagraph shall not apply to charges imposed for the recovery
+12 of costs under § 113.
+13 (3) (i) During the period in which the rate cap specified in paragraph
+14 (2)(ii) of this subsection is in effect, the Commission shall have the
+15 authority to set, in a manner that is just, reasonable, and non-
+16 discriminatory, the rate charged to a customer receiving standard offer
+17 service.
+18 (ii) The Commission shall ensure that any rate cut promulgated
+19 under paragraph (2) of this subsection does not hinder the development of
+20 a competitive market for electricity supply.
+21 (4) During the period in which the rate cap specified in paragraph (2)(ii)
+22 of this subsection is in effect, the Commission may allow the recovery of any
+23 extraordinary costs based on the circumstances of the electric company if the
+24 Commission determines that the action is necessary and in the public interest.
+25 (c) Before January 2, 2027, the Commission shall adopt regulations or issue
+26 orders establishing terms and conditions for standard offer service and for the selection
+27 of an electricity supplier or suppliers (retail, wholesale, or both) to provide standard
+28 offer service after February 7, 2028. The terms and conditions applicable to the selection
+29 of an electricity supplier or suppliers shall include:
+Page 23
+
+SENATE BILL NO. 24-34
+_____________________________________________________________________________
+_____________________________________________________________________________
+1 (1) Protection against a standard offer service provider’s failure to
+2 provide service;
+3 (2) An appropriate rate design, subject to the restrictions in subsection (d)
+4 of this section;
+5 (3) The appropriate length of a standard offer service contract awarded
+6 under subsection (d) of this section; and
+7 (4) A contingency plan in the event of insufficient or inadequate bids;
+8 provided, that a contingency plan may award the standard offer service to the
+9 electric company or an affiliate of the electric company if it is in the public
+10 interest.
+11 (d) (1) After the regulations or orders mandated by subsection (c) of this
+12 section are issued, the Commission shall conduct competitive bid procedures for
+13 the selection of a retail electricity supplier or suppliers to provide standard offer
+14 service for the CNMI after February 7, 2028; authorize the electric company, as
+15 a wholesale electricity supplier, to conduct competitive bid procedures to obtain
+16 third-party contracts to provide standard offer service for the CNMI after
+17 February 7, 2028; or both. If competitive bid procedures for the selection of a
+18 retail electricity supplier or suppliers to provide standard offer service are
+19 conducted by the Commission, the competitive selection of retail electricity
+20 supplier or suppliers to provide standard offer service shall occur before July 2,
+21 2027. In conducting retail bid procedures or facilitating the wholesale bid
+22 process under this subsection, the Commission:
+23 (A) Shall ensure that the price for standard offer service will not
+24 hinder the development of a competitive electricity supply market in the
+25 CNMI; and
+26 (B) May, in its discretion, solicit the payment, by the retail
+27 electricity supplier or suppliers chosen to provide standard offer service,
+28 of a bid premium.
+29 (2) The Commission may collect a bid premium.
+Page 24
+
+SENATE BILL NO. 24-34
+_____________________________________________________________________________
+_____________________________________________________________________________
+1 (e) The Commission shall determine the threshold financial viability of
+2 wholesale bidders.
+3 § 112. Transition costs, transition benefits.
+4 (a) The electric company shall be provided an opportunity to recover all of its
+5 prudently incurred and verifiable net transition costs, subject to full mitigation,
+6 following the Commission’s determination under subsection (b) of this section. In
+7 connection with the foregoing:
+8 (1) A competitive transition charge, or other appropriate non-bypassable
+9 mechanism as determined by the Commission, may be included as part of the
+10 charge paid by every customer accessing the transmission or distribution system
+11 of the electric company.
+12 (2) The competitive transition charge may be included on bills to
+13 customers for a period of limited duration to be determined by the Commission.
+14 (3) The Commission may establish recovery periods of different lengths
+15 for different categories of transition costs.
+16 (b) (1) The Commission shall determine the transition costs and the amount
+17 of the costs that the electric company may recover.
+18 (2) In determining the electric company’s transition costs, the
+19 Commission shall:
+20 (i) Conduct public hearings; and
+21 (ii) Consider evidence appropriate to an accurate determination of
+22 the electric company’s transition costs. Such evidence may include:
+23 (A) Book value and fair market value;
+24 (B) Auctions and sales of comparable assets;
+25 (C) Appraisals;
+26 (D) The revenue the company would receive under rate-
+27 of-return regulation;
+28 (E) The revenue the company would receive in a
+29 restructured electricity supply market; and
+Page 25
+
+SENATE BILL NO. 24-34
+_____________________________________________________________________________
+_____________________________________________________________________________
+1 (F) Computer simulations provided to the Commission.
+2 (3) If the Commission determines that the electric company will incur
+3 transition costs, the Commission shall determine the extent of the permitted
+4 recovery based on the following factors:
+5 (i) The prudence of the original investment and of the continued
+6 management of the investment;
+7 (ii) Whether the investment was mandated by law, regulation, or
+8 order;
+9 (iii) Whether the amount at issue has been fully verified and
+10 minimized;
+11 (iv) Whether the investment continues to be used and useful;
+12 (v) Whether the loss is one of which investors can be said to have
+13 reasonably borne the risk;
+14 (vi) Whether investors have already been compensated for the
+15 risk;
+16 (vii) The financial integrity of the electric company;
+17 (viii) Whether the investment was made to satisfy the need to
+18 ensure the availability of reliable electric service;
+19 (ix) For costs incurred or to be incurred as a result of electric
+20 industry restructuring or the establishment of customer choice, whether
+21 the costs are reasonable; and
+22 (x) The impact of a recovery of transition costs on the
+23 development of effective competition in the market for electricity supply
+24 or billing, or the market for any component of electric service declared by
+25 the Commission to be a potentially competitive service.
+26 (c) The Commission shall establish procedures for an annual review of actual
+27 market conditions to determine if the authorized competitive transition charge is
+28 overcompensating or undercompensating the electric company for the transition costs
+29 established under subsection (b)(3) of this section. If an annual review demonstrates that
+Page 26
+
+SENATE BILL NO. 24-34
+_____________________________________________________________________________
+_____________________________________________________________________________
+1 the authorized competitive transition charge is overcompensating or undercompensating
+2 the electric company for the transition costs established under subsection (b)(3) of this
+3 section, the Commission shall adjust the competitive transition charge accordingly.
+4 § 113. Recovery for public purpose programs.
+5 (a) (1) The electric company may make an application to the Commission to
+6 recover all costs that have been or will be incurred by the electric company under
+7 public purpose programs established by law or ordered by the Commission,
+8 including the consumer education program established under § 105. To the
+9 extent the costs are determined by the Commission to be just and reasonable, the
+10 Commission shall allow the electric company to recover the costs.
+11 (2) In determining whether an electric company should be permitted to
+12 recover costs described in paragraph (1) of this subsection, the Commission shall
+13 ensure that such costs:
+14 (i) Have not been or will not be recovered through rates charged
+15 by the electric company;
+16 (ii) Have not been or will not be recovered through the sale of any
+17 or all of the electric company’s generation assets; or
+18 (iii) Have not or will not be recovered through a competitive
+19 transition charge imposed under § 112.
+20 (b) All costs recoverable under this section may be recovered through a
+21 surcharge or other appropriate cost recovery mechanism to be determined by the
+22 Commission.
+23 § 114. Market power remediation.
+24 (a) The Commission and the CNMI Office of the Public Auditor shall monitor
+25 the CNMI retail markets for electricity supply and services declared by the Commission
+26 to be potentially competitive services to ensure that the markets are not being adversely
+27 affected by anticompetitive conduct and anticompetitive conditions.
+28 (b) (1) If, as a result of the monitoring efforts required by subsection (a) of
+29 this section or as a result of a complaint filed by an interested party, the
+Page 27
+
+SENATE BILL NO. 24-34
+_____________________________________________________________________________
+_____________________________________________________________________________
+1 Commission determines that the CNMI retail markets for electricity supply or
+2 services declared by the Commission to be potentially competitive services are
+3 being adversely affected by anticompetitive conduct or anticompetitive
+4 conditions that result from transmission constraints or load pockets, the
+5 Commission may take remedial action, including the imposition of price caps or
+6 other price restrictions, to remedy the impact of the anticompetitive conduct or
+7 anticompetitive conditions.
+8 (2) (i) If, as a result of the monitoring efforts required by subsection
+9 (a) of this subsection, the Commission or the CNMI Office of the Public
+10 Auditor obtains evidence that the retail markets for electricity supply or
+11 services declared by the Commission to be potentially competitive
+12 services are being affected by anticompetitive conduct or anticompetitive
+13 conditions other than the anticompetitive conduct or anticompetitive
+14 conditions described in paragraph (1) of this subsection, the Commission
+15 or the CNMI Office of the Public Auditor shall transmit the evidence to
+16 the CNMI Office of the Attorney General, the Department of Justice, the
+17 Federal Trade Commission, and any other appropriate federal agency.
+18 (ii) Within 6 months of the transmittal of evidence by the
+19 Commission or the CNMI Office of the Public Auditor under
+20 subparagraph (i) of this paragraph, the CNMI Office of the Attorney
+21 General shall issue a report to the CNMI Legislature explaining the
+22 course of its investigation, the actions that it has taken or plans to take,
+23 and the reasons for those actions. The failure of the CNMI Office of the
+24 Attorney General to bring an action within 6 months of the receipt of the
+25 transmittal shall not be deemed to eliminate the CNMI Office of the
+26 Attorney General’s otherwise existing authority to act. Any report
+27 submitted under this subsection shall not include any information which
+28 may compromise any investigation.
+29 (c) Nothing in this section shall affect the authority of the CNMI Office of the
+Page 28
+
+SENATE BILL NO. 24-34
+_____________________________________________________________________________
+_____________________________________________________________________________
+1 Attorney General to investigate or take action against anticompetitive conduct or
+2 anticompetitive conditions on its own initiative.
+3 (d) (1) The Commission is authorized to participate in any meetings
+4 convened or organizations formed for the purpose of monitoring and preventing
+5 the acquisition or exercise of market power in the regional transmission system
+6 serving the CNMI.
+7 (2) The Commission is authorized to enter into an agreement with CNMI
+8 regulatory agencies, independent system operators, and other parties for the
+9 purpose of monitoring and preventing the acquisition or exercise of market
+10 power in the regional transmission system serving the CNMI.
+11 § 115. Provision of electricity supply by the electric company.
+12 (a) Other than its provision of standard offer service, the electric company shall
+13 not engage in the business of an electricity supplier in the CNMI except through an
+14 affiliate.
+15 (b) An affiliate of the electric company must obtain a license under § 106 to
+16 engage in the business of an electricity supplier in the CNMI.
+17 (c) The Commission shall develop a code of conduct between the electric
+18 company and its affiliate which establishes functional, operational, structural, and legal
+19 separation between the electric company and the affiliate, and which prevents the
+20 electric company from subsidizing the activities of the affiliate. The code of conduct
+21 required by this subsection shall include the following protections:
+22 (1) A prohibition on the release of proprietary customer information from
+23 the electric company to the affiliate;
+24 (2) A prohibition on the use by the affiliate of office space owned and
+25 used by the electric company;
+26 (3) A prohibition on the sharing of employees by the electric company
+27 and the affiliate;
+28 (4) A requirement that the electric company and the affiliate maintain
+29 separate books and records; and
+Page 29
+
+SENATE BILL NO. 24-34
+_____________________________________________________________________________
+_____________________________________________________________________________
+1 (5) A requirement that the electric company and the affiliate allocate and
+2 account for all shared corporate services.
+3 § 116. New generating facilities in the CNMI.
+4 No person shall construct an electric generating facility for the purpose of the
+5 retail or wholesale sale of electricity unless the Commission first determines, after notice
+6 and a hearing, that the construction of the electric generating facility is in the public
+7 interest.
+8 § 117. Renewable energy sources.
+9 (a) For the purposes of this section, “renewable energy source” means one of the
+10 following sources of energy:
+11 (1) Solar;
+12 (2) Wind;
+13 (3) Tidal;
+14 (4) Geothermal;
+15 (5) Biomass;
+16 (6) Hydroelectric facilities; and
+17 (7) Digester gas.
+18 (b) Every 6 months after the initial implementation date, each licensed electricity
+19 supplier doing business in the CNMI shall report to the Commission on the fuel mix of
+20 the electricity sold by the electricity supplier, including categories of electricity from
+21 coal, natural gas, nuclear, oil, hydroelectric, solar, biomass, wind, and other resources,
+22 and on the percentage of electricity sold by the electricity supplier which comes from
+23 renewable energy sources.
+24 (c) (1) Beginning on the initial implementation date, the Commission shall
+25 track the fuel mix of the electricity sold in the CNMI and the amount of
+26 electricity from renewable sources sold in the CNMI.
+27 (2) Before July 1, 2028, and every 2 years after that date, the Commission shall
+28 provide a report to the CNMI Legislature on the overall fuel mix of the electricity sold in
+29 the CNMI, the amount of electricity sold in the CNMI which comes from renewable
+Page 30
+
+SENATE BILL NO. 24-34
+_____________________________________________________________________________
+_____________________________________________________________________________
+1 energy sources, and on the feasibility of requiring each licensed electricity supplier
+2 doing business in the CNMI to provide a minimum percentage of electricity sold from
+3 renewable energy sources.
+4 § 118. Net metering.
+5 (a) Notwithstanding any law to the contrary, the Commission may establish a
+6 program which affords eligible customer-generators the opportunity to participate in net
+7 energy metering.
+8 (b) Any net energy metering program established by the Commission shall be
+9 subject to the following:
+10 (1) The program may include, as the Commission determines will
+11 facilitate the provision of net energy metering, requirements for:
+12 (A) Retail sellers;
+13 (B) Owners or operators of distribution or transmission facilities;
+14 (C) Providers of default service; or
+15 (D) Eligible customer-generators.
+16 (2) The Commission shall ensure that the metering equipment installed
+17 for net metering shall be capable of measuring the flow of electricity in 2
+18 directions, and shall allocate fairly the cost of such equipment and any necessary
+19 interconnection. An eligible customer-generator’s net metering system for
+20 renewable resources, cogeneration, fuel cells, and microturbines shall meet all
+21 applicable safety and performance standards. The Commission may adopt by
+22 regulation additional control and testing requirements for customer-generators
+23 that the Commission determines are necessary to protect public safety and
+24 system reliability.
+25 (3) If the electricity supplied by an electricity supplier exceeds the
+26 electricity generated by the customer-generator and fed back into the electric grid
+27 during the billing period, the customer-generator shall be billed for the net
+28 electricity supplied by the electricity supplier in accordance with net metering
+29 rules established by the Commission.
+Page 31
+
+SENATE BILL NO. 24-34
+_____________________________________________________________________________
+_____________________________________________________________________________
+1 (4) If electricity generated by the customer-generator and fed back into
+2 the electric grid exceeds the electricity supplied by the electricity supplier, the
+3 customer generator may receive compensation based on the net metering rules
+4 established by the Commission.
+5 (5) The Commission shall establish additional rules as necessary for the
+6 electric company to implement the following provisions:
+7 (i) A community renewable energy facility shall meet all
+8 applicable safety and performance standards. The Commission may adopt
+9 by rulemaking additional control and testing requirements for community
+10 renewable energy facilities that the Commission considers necessary to
+11 protect public safety and system reliability.
+12 (ii) The owners of, subscribers to, and any subscriber organization
+13 controlling a community renewable energy facility shall not be
+14 considered public utilities or electricity suppliers solely as a result of their
+15 interest or participation in the community renewable energy facility.
+16 (iii) Prices paid for subscriptions and contractual matters in a
+17 community renewable energy facility shall not be subject to the
+18 jurisdiction of the Commission.
+19 (iv) The subscriber organization or the third-party owner shall
+20 own the renewable energy credits associated with the electricity
+21 generated by the community renewable energy facility, unless the credits
+22 were explicitly contracted for through a separate transaction independent
+23 of any net metering or interconnection agreement or contract.
+24 (v) The owner or operator of each community renewable energy
+25 facility shall follow all procedures for interconnection specified in CNMI
+26 law.
+27 (vi) All electricity exported to the grid by the community
+28 renewable energy facility shall become the property of the SOS
+29 administrator, pursuant to § 119(h), but shall not be counted toward the
+Page 32
+
+SENATE BILL NO. 24-34
+_____________________________________________________________________________
+_____________________________________________________________________________
+1 electric company’s total retail sales for purposes. The SOS administrator
+2 shall use subscribed energy to offset purchases from wholesale suppliers
+3 for standard offer service.
+4 (vii) The monetary value of subscribed energy produced by a
+5 community renewable energy facility shall be determined as established
+6 in this section, as implemented by the Commission.
+7 (viii) The amount of electricity generated each month available
+8 for allocation as subscribed or unsubscribed energy shall be determined
+9 by a revenue quality production meter installed and paid for by the owner
+10 of the community renewable energy facility. It shall be the electric
+11 company’s responsibility to read the production meter.
+12 (ix) The determination of the monetary value of credits allocated
+13 to each subscriber to a particular community renewable energy facility
+14 shall be based on each subscriber’s percentage interest of the total
+15 production of the community renewable energy facility.
+16 (x) Each billing month, the value of the credits allocated to each
+17 subscriber shall be calculated by multiplying the quantity of kilowatt
+18 hours allocated to each subscriber by the subscriber’s CREF credit rate.
+19 (xi) If the value of the credits generated by the community
+20 renewable energy facility allocated to the subscriber exceeds the amount
+21 owed by the subscriber as shown on the subscriber’s bill at the end of the
+22 billing period, the remaining value of the credit shall carry over from
+23 month to month until the value of any remaining credits are used.
+24 (xii) If the value of the credit generated by the community
+25 renewable energy facility allocated to the subscriber is less than the
+26 amount owed by the subscriber as shown on the subscriber’s bill at the
+27 end of the applicable billing period, the subscriber shall be billed for the
+28 difference between the amount shown on the bill and the value of the
+29 available credits.
+Page 33
+
+SENATE BILL NO. 24-34
+_____________________________________________________________________________
+_____________________________________________________________________________
+1 (xiii) If the subscriber is served by an energy supplier other than
+2 the SOS administrator, the subscriber shall be billed by the energy
+3 supplier for the full kilowatt-hours consumed by the subscriber during the
+4 billing period, and will receive the value of the credits generated by the
+5 CREF from the SOS administrator at the subscriber’s CREF credit rate.
+6 § 119. Community renewable energy facilities.
+7 (a) A community renewable energy facility may produce no greater than 5
+8 megawatts of electricity and must have at least 2 subscribers.
+9 (b) A subscriber to an eligible community renewable energy facility may offset
+10 no more than 120% of the subscriber’s electricity consumption over the previous 12
+11 months.
+12 (c) Each subscription shall represent a percentage of the community renewable
+13 energy facility’s generating capacity; provided, that the subscription is intended
+14 primarily to offset part or all of the subscriber’s own electrical requirements.
+15 (d) All individual billing meters for subscriptions to community renewable
+16 energy facilities shall be within the CNMI.
+17 (e) A community renewable energy facility may be built, owned, or operated by
+18 a third party under contract with a subscriber organization.
+19 (f) A community renewable energy facility may add capacity and subscribers to
+20 its facility if the added capacity and subscribers do not reduce the electrical production
+21 benefit to existing subscribers.
+22 (g) A community renewable energy facility may update its subscribers no more
+23 frequently than once per month. Each month the owner of a CREF or its designated
+24 agent shall provide the following information about its subscribers to the electric
+25 company as required to facilitate net metering for subscribers:
+26 (1) Name, address, and account number of each subscriber; and
+27 (2) The percentage interest of each subscriber in the capacity of the
+28 CREF;
+29 (h) The electric company may require that a CREF and its subscribers have their
+Page 34
+
+SENATE BILL NO. 24-34
+_____________________________________________________________________________
+_____________________________________________________________________________
+1 meters read on the same billing cycle.
+2 (i) Subscribers shall be eligible to receive electricity credits so long as the CREF
+3 continues to generate and provide power to the distribution grid, regardless of the
+4 bankruptcy or contractual default of any subscriber or of the subscriber organization.
+5 (j) A community renewable energy facility shall not add subscribers without
+6 adhering to the consumer protection provisions contained in § 109.
+7 (k) A community renewable energy facility may not sell subscriptions totaling
+8 more than 100% of its energy generation.
+9 § 120. Sale of generation assets.
+10 (a) In overseeing a sale by the electric company of any or all of its generation
+11 assets, the Commission shall ensure that the sale:
+12 (1) Will not affect the reliability of the electricity supply in the CNMI in
+13 a deregulated electricity supply market; and
+14 (2) Will minimize market power problems in a deregulated electricity
+15 supply market.
+16 (b) (1) The electric company shall not sell any of its generation assets to an
+17 affiliate of the electric company.
+18 (2) (i) By the initial implementation date, the electric company shall
+19 transfer at book value any unauctioned generation assets to an affiliate of
+20 the electric company.
+21 (ii) Relations between the affiliate identified in subparagraph (i)
+22 of this paragraph and the electric company shall be governed by a code of
+23 conduct to be issued by the Commission, which establishes functional,
+24 operational, structural, and legal separation between the electric company
+25 and the affiliate and prevents the electric company from subsidizing the
+26 activities of the affiliate. The code of conduct required by this subsection
+27 shall include the following protections:
+28 (A) A prohibition on the release of proprietary customer
+29 information from the electric company to the affiliate;
+Page 35
+
+SENATE BILL NO. 24-34
+_____________________________________________________________________________
+_____________________________________________________________________________
+1 (B) A prohibition on the use by the affiliate of office space
+2 owned or used by the electric company;
+3 (C) A prohibition on the sharing of employees by the
+4 electric company and the affiliate;
+5 (D) A requirement that the electric company and the
+6 affiliate maintain separate books and records; and
+7 (E) A requirement that the electric company and the
+8 affiliate allocate and account for all shared expenses.
+9 § 121. Consumer disclosure requirements.
+10 (a) An entity selling or reselling an interest in a community renewable energy
+11 facility shall provide a disclosure to the potential subscriber that includes the following,
+12 prior to the sale or resale of that subscription:
+13 (1) A good faith estimate of the annual kilowatt hours to be delivered by
+14 the community renewable energy facility based on the size of the subscriber’s
+15 interest;
+16 (2) A plain language explanation of the terms under which the bill credits
+17 will be calculated;
+18 (3) A plain language explanation of the contract provisions regulating the
+19 disposition or transfer of the subscription; and
+20 (4) A plain language explanation of the costs and benefits to the potential
+21 subscriber based on the subscriber’s current usage and applicable tariff, for the
+22 term of the proposed contract.
+23 (b) The CNMI Governor or his or her designee may require that any entity
+24 engaged in the sale or resale of a subscription in a community renewable energy facility
+25 provide additional disclosure to the buyer or lessee, the Governor, or both.
+26 (c) All contracts for the sale or resale of a subscription in a community
+27 renewable energy facility for use in a residential dwelling may be reviewed by the
+28 Governor or his or her designee upon request.
+29 (d) The Governor may issue rules to carry out the disclosure requirements
+Page 36
+
+SENATE BILL NO. 24-34
+_____________________________________________________________________________
+_____________________________________________________________________________
+1 contained in this section.
+2 § 122. Recovery of CREF implementation costs.
+3 The electric company may seek recovery of any costs associated with the
+4 implementation of this chapter in a base rate case. In a base rate case filing that includes
+5 recovery of such costs, the electric company shall include in its filing with the
+6 Commission any benefits and costs to the electric company. Any recovery of the net
+7 costs by the electric company approved by the Commission shall occur solely through a
+8 rate assessment of the subscribers.”
+9 Section 3. Amendment. 4 CMC § 8121(d) is hereby amended to read as
+10 follows:
+11 “(d) If a service has been wholly or partially turned over to the private sector,
+12 CUC shall be reduced accordingly and the Public Utilities Commission CUC shall
+13 monitor the performance, rates, and contractual compliance of the private sector
+14 enterprise.”
+15 Section 4. Amendment. 4 CMC § 8122(a) is hereby amended to read as follows:
+16 “(a) CUC shall supervise the construction, maintenance operations, and
+17 regulation of electric, water, and sewage services; provided that whenever feasible CUC
+18 shall contract with the private sector to assume its duties with respect to one or more of
+19 its divisions; provided further that in the event that electrical power generation is
+20 deregulated or restructured, the Public Utilities Commission shall supervise the
+21 construction, maintenance operations, and regulation of electrical power generation.”
+22 Section 5. Severability. If any provision of this Act or the application of any
+23 such provision to any person or circumstance should be held invalid by a court of
+24 competent jurisdiction, the remainder of this Act or the application of its provisions to
+25 persons or circumstances other than those to which it is held invalid shall not be affected
+26 thereby.
+27 Section 6. Savings Clause. This Act and any repealer contained herein shall not
+28 be construed as affecting any existing right acquired under contract or acquired under
+29 statutes repealed or under any rule, regulation, or order adopted under the statutes.
+Page 37
+
+SENATE BILL NO. 24-34
+_____________________________________________________________________________
+_____________________________________________________________________________
+1 Repealers contained in this Act shall not affect any proceeding instituted under or
+2 pursuant to prior law. The enactment of the Act shall not have the effect of terminating,
+3 or in any way modifying, any liability, civil or criminal, which shall already be in
+4 existence on the date this Act becomes effective.
+5 Section 7. Effective Date. This Act shall take effect upon its approval by the
+6 Governor or becoming law without such approval.
+Date: 04/24/25 Introduced By: /s/
+Sen. Corina L. Magofna
+Reviewed for Legal Sufficiency by:
+/s/ Antonette R. Villagomez
+Senate Legal Counsel
+Page 38
+
+[DELETED: N.BLFRANA   1 F a P  T L f t 3 s a W c u s n h o U s h i s d o e d I a r e m a s u c c t e p o e g t a d t c w o f a p r T u c m s t p i g s t t g a r c C i r m c c w g t p a a b t t u i t a R ( I b a s u c a m c t c i s e t c I s i g ( t g e t e t s i t c T c o u o a o t t g T u c e t m s t p i d a e i w c t k t l o E d r e m t l u c s e t r I]
+[DELETED:    c t T o t d t n t s a t e a b e a g c o t w o h T e i c g c t p t c t e s i p S e d c s i c i s ()P o C c p f l r b c d ()C p S m o v p t t d u ()G e ()C s C m l t i c s a s ()E r C n t e t a t m  T L f f t e d i t U S v r e C h p d m w o c a o e s T h c]
+[DELETED:    a m s i t N 1 o t s a W D h a i t o e p A t p o t l i t d c t s e t c a g c t p a b 2 A  S t c b t C L R C  § § § § § § § § § § § § § § § § § § § §]
+[DELETED:    § §.   ( i c i c b o i u c c w o h d ( e ( o ( ( ( U t o o c o a r f t f a u a o s o t d a a n e ( ( ( ( ( ( ( ( ( f M ( p]
+[DELETED:    ( “ o “ m t C o t N M ( f f ( o ( “ n m m a b a u w t m a d t t e c l d f i u t o e ( u t C a w t m v o e g b t f i c ( “ T C m a r c c o o a d ( “ m a o o o p m f m r o s ( ( s ( D n o a o e e s t o u ( l]
+[DELETED:    ( i m m t i d s s t b a s e ( r ( w i g t a d c f t s o s G S L V N C c ( f t G S L V N C c o i s ( ( p t l t s m e f e s e s s ( e s s t a c U t r c s h t o t p ( a ( ( ( ( I i w t e c t a d]
+[DELETED:    ( I i p t o a o p o t c o e ( “ c m w r t t m f e s b a t s d b t C t b p c i s e ( “ c w u i t c i e c c a j c o a p o p a d w p t o d e i t C t r e c T t e a b o l o m w r o l o m t i d s s t b a w s e a o r e s s t o e u ( m m ( B o l o m w m t i d o ( ( u ( A a b o o b m w a e s r f h o h b o b]
+[DELETED:    ( ( M e s t t i t ( ( a ( ( U ( e b ( m ( C s h t a t c a e s U a o d b t C u § 1 t i i d s b J ( i ( t t ( “ e m m m t d b t e s t a e c f t e g a t e ( p a]
+[DELETED:    ( “ c s m a c o e s ( f ( o ( ( ( ( A d m o o e e o c ( ( o ( “ m a l o t d o w e c c o a d p o e c c i e f c c a c ( b ( § ( s a w h i a i b m w t C t w ( “ o m a f o n e p b C l o g e t o o o o o m c ( “ m a p i i a c r e (]
+[DELETED:    e ( ( ( Q b u a a g u t a a t s a a J ( l ( ( O i e f w t c a t d ( F c p e f a t o r s u ( o  ( e ( ( ( ( o ( ( ( “ c m c l a i ( r a a t t C t t e t c l a i]
+[DELETED:    ( r w ( t ( “ e s m t e c w p a T r ( C a t L h e t C t e p t s ( I e C e ( I i i t p i t t C e t d a d ( t ( b ( T f m e f a p s w p ( t ( a]
+[DELETED:    ( s ( ( U a o d p t s ( o t s c t ( P t t i i d t C s d i c ( T C m d t i i d b o c t ( ( P t t i i d t C m e ( ( p ( p e b t C m i a c c ( p ( T C a i a a i s h t r t p i a e s c w a e s P o e p u t s c m c a a t a u t a c ( N a o p o t c c c]
+[DELETED:    i u c ( i a t a s t b d b t C T C o ( b ( p p a t t p a r o t r e i s e o a e s r a s t i c ( t o r u t c b t i i d T r a ( ( ( ( p ( ( t t e c d s o a n d ( P t e c f o i d s i a m t f t e s]
+[DELETED:    ( ( d ( ( u ( ( ( o o t C s d f e e s l u § 1 w i i f f t e s t d e 6 m e o a p s i e g f c n g n e F e t c i c d n o s d a a o p s b t C ( T C s m a d o f 6 l ( t e a f m o t e s b t s i t C t C b r o o s r t e o t e s b t s i t C i t c p (]
+[DELETED:    t t C t C b r o o s r t e e a f m a i t c p i s ( o e c r c a s i s c d ( b ( ( ( E r p f c b r ( d ( ( T C s o t e c i c w t C t C O o t P A a t C D o E t i a c e p i c o c i t e i ( A p o t c e p u t p t C s d a m i r r c a s p b l e s r ( R u a f t p a c]
+[DELETED:    a ( M a t t p t t o m I ( A d r t c e p m ( o e a s ( ( N a o p o l t C m r o ( C ( ( E t q a a r o r e ( e ( ( ( ( ( ( ( ( (]
+[DELETED:    o ( c ( s t ( t ( P o t s b a s w n o C ( A o d a c o e s t b a p c s s p f t r b t e c o a v c t w h b r u t t t ( ( i ( a ( o ( ( B m t t C i w o a f a b t C ( ( B a b a a f d b t C]
+[DELETED:    ( ( ( F E R C a a i s o a ( P o c w a a f a C e ( ( F ( ( A a o p t c w a o t r o t c a a o a r o t C ( ( ( t C j t b o s i i n t i ( E t d o a l i u t s p s ( d ( A l m n b t w t p a o t C ( A m c b t C u t s s b u e]
+[DELETED:    ( r p r ( ( T e c s p d s t a c a e t ( T t e t p i n p b f l o r t e c s p t s t a c a e s o r t a c t a c ( i ( m a a ( t e o ( ( U a c c i w a m p o t e (]
+[DELETED:    ( t ( ( p ( L d t a b o a t e c ( c ( ( o ( W n i c i i i ( T c i i s b t ( b ( ( U a c c i w a m p o t e c m n u i o t t s i s ( o t s f a p o t t p f w t i ( o ( U t c c a m p m n c a c ( n ( ( A m p m n e i m a o]
+[DELETED:    t ( t ( o p o t r c c n o s s o o g i o e o t c o f a a c o u d ( b e ( A m p s p o t I i t i r u c ( F a v o a p o t c o a v o a r m ( ( I a c p o a m p o t e c ( ( C a c o p o a c b a c a a m ( c ( ( n ( c]
+[DELETED:    ( p ( ( T g f o t m p o t e c i a t a c a n o t v ( a d o o t a o a t r a p a f r c t b t c o t r o e s i t C ( A p u t s m b i b t C t C a ( e c s p t t C a t a a b p ( i ( p ( w ( C w c a t p e f a e ( ( ( t]
+[DELETED:    ( ( s F ( ( t p a e f t c s i s s c r s o s s n e t t c ( s o ( ( ( o t s i i e t C s h t a t s i a m t i j r a n d c s ( u a ( o e c b o t c o t e c i t C ( B J 2 2 t C s a r o i o o a e s o s ( w o b t p s o o]
+[DELETED:    ( P a a s o s p f t p ( o ( u ( p e c o a a o t e c i i i i t p i ( ( A t r o o m b s ( o t s t s a t c t p s o s f t C a F r e s o s t p s o s a c b t C t c s o r e s 2 I c r b p o f t w b p ( h C ( M i i d s t p b t r e o (]
+[DELETED:    ( T C s d t t f v o w ( p i a v n t c s t f m f t C d u s ( o t s I c ( m c o ( T c t c m b i o b t c ( f ( ( o ( I d t e c t c t C ( ( t ( ( ( ( o ( T r t c w r i a r]
+[DELETED:    ( ( I t C d t t e c w i t c t C s d t e o t p r ( m ( o ( W t a a i h b f v a m ( ( r ( W i h a b c f t r ( ( W t i w m t s t n t e ( F c i o t b i a a r o e i t ( T i o a r o t c o t d o t ( m c t d i t a c t c i o e]
+[DELETED:    t t s ( ( r p p p e b l o o b t C i t c e p e u § 1 T t e C ( r e ( b ( o ( H n o w n b r t a c t ( A c r u t s m b r t a s o o a c r m t b d b t C ( t t a ( ( t s o a a r o a c f b a i p t]
+[DELETED:    C s b a a b a c o a c t r f t c o l p t C o a ( ( ( A s d b t C t b p c s c o t t a c o a c o t F ( W 6 m o t t o e b t C o t C O o t P A u s ( o t p t C O o t A G s i a r t t C L e t c a A t s n b d t e t C O o t A G o e a t a A r s m (]
+[DELETED:    A G t i o t a a a c o a ( ( T C i a t p i a m c t s ( r a i s o a o p f t p o m a p t a o e o m p ( n e i t b o a e s i t C e t a a ( e 1 e ( T C s d a c o c b t e c s b t e c a t a a w p t e r ( t ( u ( a ( A r t t e c a t a m s]
+[DELETED:    ( a N r a i ( f ( ( ( ( ( ( ( ( s t c a r ( ( t t f m o t e s i t C a t a o e ( p t]
+[DELETED:    e s a o t f o r e l e s d r ( p e ( s ( T p m i a t C d w f ( ( ( ( ( f n m s b c o m t f o e i 2 d i A e c n m s f r a s a p s T C m a b r a c a t r f c t t C d a n t p p s a s ( I t e s b a e s e t e d t b p t c s b b f t n e r]
+[DELETED:    ( t c e ( e ( A c r e f s m a a b r p ( c a c r e f s n b c i ( P p f s a c m i a c r e f s n b s t t j ( T s o o t t o s o t r e c a w t e g w o ( f l ( A e e t t g b t c r e f s b t p o t S a]
+[DELETED:    e s f ( T m v o s e p b a c i ( T a o e g e m a f b o t c r e f I s b t e c ( t s b b o e s p i o t t p ( s s b c b m t q o k h ( I t v o t c g b t c r o b p t r v o t c s c o f m ( I t v o t c g b t c r e f a t t s i l t t a e d a a]
+[DELETED:    ( t S a t s s b b b t e s b C ( A c r e f m p n g t 5 m ( n m t 1 o t s e c o t p 1 m ( e f g c p t t s i i p ( A i b m f s t c r e ( a ( i b ( f a s p t f i a i s t t e c ( ( T p i o e s i t c o t C (]
+[DELETED:    m ( c t g a p p t t d g r o t b ( A c r e f s n a s w a ( m ( a ( a ( W m m p p i a d e s ( ( a ( ( t t ( o c o a a s ( i]
+[DELETED:    ( o ( A p o t s o e b t e ( A r t t e c a t a ( A r t t e c a t a ( f p ( t i ( w ( d ( s t ( T C G o h o h d m r t a e e p ( A c f t s o r o a s i a c r e f f u i a r d m b r b t G ( T G m i r t c o t d r]
+[DELETED:    c T e c m s r o a c a w t i r o s c t e c s i i i f w t C c r 3 A  4 C § 8 i h a t r a f “ C s b r a a t P U C C s m t p r a c c o t p s e   “ C s s t c m o a r s i d p f t i t e t e p g i d o r t P U C s s t c I s p t a p o c s b h i b a c o c p t T b s r o u a r r o o a u t s]
+[DELETED:    R c i t A s n a a p i u o p o i a w m a l c o c w s a b i e T G  I /    ]

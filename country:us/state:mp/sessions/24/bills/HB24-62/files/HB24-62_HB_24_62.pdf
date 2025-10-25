@@ -1,0 +1,524 @@
+TWENTY-FOURTH NORTHERN MARIANAS COMMONWEALTH
+LEGISLATURE
+IN THE HOUSE OF REPRESENTATIVES
+OR
+Regular Session, 2025 H. B. 24-
+A BILL FOR AN ACT
+To enact a Uniform Electronic Transactions Act to enable a more
+robust digital economy in the Commonwealth.
+BE IT ENACTED BY THE 24TH NORTHERN MARIANAS
+COMMONWEALTH LEGISLATURE:
+1 Section 1. Findings and Purpose. Strengthening our legal framework is
+2 essential if the Commonwealth is to keep pace with how people live, work, and do
+3 business today. The Uniform Law Commission approved the Uniform Electronic
+4 Transactions Act (UETA) in 1999, and Congress followed in 2000 with the federal
+5 Electronic Signatures in Global and National Commerce Act (ESIGN; 15 U.S.C. §
+6 7001 et seq.). Yet without a CNMI statute of our own, residents, agencies, and
+7 businesses remain uncertain about whether electronic records and signatures will
+8 hold up. That uncertainty carries costs, slows service, and keeps us tethered to
+9 outdated paper systems.
+10 In nearly every U.S. jurisdiction-49 states, the District of Columbia,
+11 Puerto Rico, and the Virgin Islands—electronic records and signatures are treated
+12 as equal to paper. Only New York has charted a different course, adopting its own
+13 electronic signature statute. The principle is simple: what matters is the intent and
+
+ara,
+HOUSE BILL 24-
+1 reliability of the transaction, not the medium in which it is captured. Giving
+2 electronic signatures and records the same legal effect as their paper counterparts
+3 lowers costs, widens access, and treats residents fairly no matter where they live.
+4 Gaps in our law put Commonwealth residents and agencies at a
+5 disadvantage. Without uniform rules, some offices insist on paper, others improvise
+6 with their own electronic policies, and the result is inconsistency, duplication, and
+7 confusion. Businesses and consumers pay the price in delays and added expenses,
+8 and agencies cannot fully modernize. Unless the law is brought into line with
+9 established national standards, the Commonwealth will continue to face barriers to
+10 efficient service and economic growth.
+11 Navigating the modern economy requires rules that bring order and
+12 predictability to digital dealings. By adopting the Uniform Electronic Transactions
+13 Act, the Commonwealth places electronic signatures and records on firm legal
+14 ground and joins the vast majority of U.S. jurisdictions that have already acted.
+15 This measure gives agencies clear authority to implement secure and practical
+16 systems while allowing businesses and citizens the choice to continue with paper if
+17 they wish. With its enactment, the Commonwealth promotes efficiency, trust, and
+18 growth in both public service and private commerce.
+19 Section 2. Amendment. Title 4. Economic Resources, Division 5.
+20 Business Regulation, of the Commonwealth Code is hereby amended by adding a
+21 new Chapter 23, titled, "Uniform Electronic Transactions Act" to be codified as
+22 sections 55001 to 55018, to read as follows:
+2
+-
+
+HOUSE BILL 24- 62,
+1 "Chapter 23. Uniform Electronic Transactions Act.
+2 §55001. Short Title.
+3 This Act may be cited as the Uniform Electronic Transactions Act.
+4 §55002. Definitions.
+5 In this Act:
+6 (a) "Agreement" means the bargain of the parties in fact, as found in their
+7 language or inferred from other circumstances and from rules, regulations, and
+8 procedures given the effect of agreements under laws otherwise applicable to a
+9 particular transaction.
+10 (b) "Automated transaction" means a transaction conducted or performed,
+11 in whole or in part, by electronic means or electronic records, in which the acts or
+12 records of one or both parties are not reviewed by an individual in the ordinary
+13 course in forming a contract, performing under an existing contract, or fulfilling an
+14 obligation required by the transaction.
+15 (c) "Commonwealth" means the Commonwealth of the Northern Mariana
+16 Islands.
+17 (d) "Computer program" means a set of statements or instructions to be used
+18 directly or indirectly in an information processing system in order to bring about a
+19 certain result.
+20 (e) "Contract" means the total legal obligation resulting from the parties'
+21 agreement as affected by this Act and other applicable law.
+3
+
+GP
+HOUSE BILL 24- t
+1 (0 "Electronic" means relating to technology having electrical, digital,
+2 magnetic, wireless, optical, electromagnetic, or similar capabilities.
+3 (g) "Electronic agent" means a computer program or an electronic or other
+4 automated means used independently to initiate an action or respond to electronic
+5 records or performances in whole or in part, without review or action by an
+6 individual.
+7 (h) "Electronic record" means a record created, generated, sent,
+8 communicated, received, or stored by electronic means.
+9 (i) "Electronic signature" means an electronic sound, symbol, or process
+10 attached to or logically associated with a record and executed or adopted by a
+11 person with the intent to sign the record.
+12 (j) "Governmental agency" means an executive, legislative, or judicial
+13 agency, department, board, commission, authority, institution, or instrumentality of
+14 the Commonwealth, of the federal government, or of a State or of a county,
+15 municipality, or other political subdivision of a State.
+16 (k) "Information" means data, text, images, sounds, codes, computer
+17 programs, software, databases, or the like.
+18 (1) "Infoimation processing system" means an electronic system for
+19 creating, generating, sending, receiving, storing, displaying, or processing
+20 information.
+-4
+-
+
+HOUSE BILL 24- 0 Z.
+1 (m) "Person" means an individual, corporation, business trust, estate, trust,
+2 partnership, limited liability company, association, joint venture, governmental
+3 agency, public corporation, or any other legal or commercial entity.
+4 (n) "Record" means information that is inscribed on a tangible medium or
+5 that is stored in an electronic or other medium and is retrievable in perceivable
+6 form.
+7 (o) "Security procedure" means a procedure employed for the purpose of
+8 verifying that an electronic signature, record, or performance is that of a specific
+9 person or for detecting changes or errors in the information in an electronic record.
+10 The term includes a procedure that requires the use of algorithms or other codes,
+11 identifying words or numbers, encryption, or callback or other acknowledgment
+12 procedures.
+13 (p) "State" means a State of the United States, the District of Columbia,
+14 Puerto Rico, the United States Virgin Islands, or any territory or insular possession
+15 subject to the jurisdiction of the United States. The term includes an Indian tribe or
+16 band, or Alaskan native village, which is recognized by federal law or formally
+17 acknowledged by a State.
+18 (q) "Transaction" means an action or set of actions occurring between two
+19 or more persons relating to the conduct of business, commercial, or governmental
+20 affairs.
+21 §55003. Scope.
+5
+
+HOUSE BILL 24- 44
+1 (a) Except as otherwise provided in subsection (b), this Act applies to
+2 electronic records and electronic signatures relating to a transaction.
+3 (b) This Act does not apply to a transaction to the extent it is governed by a
+4 law governing the creation and execution of wills, codicils, or testamentary trusts.
+5 (c) This Act applies to an electronic record or electronic signature otherwise
+6 excluded from the application of this Act under subsection (b) to the extent it is
+7 governed by a law other than those specified in subsection (b).
+8 (d) A transaction subject to this Act is also subject to other applicable
+9 substantive law.
+10 (e) This Act shall not apply to transactions involving land, land titles, or
+11 leases subject to Article XII of the CNMI Constitution, unless specifically
+12 authorized by statute.
+13 (f) This Act does not alter requirements for execution of living trusts,
+14 durable powers of attorney, or health care directives under CNMI law.
+15 §55004. Prospective Application.
+16 This Act applies to any electronic record or electronic signature created,
+17 generated, sent, communicated, received, or stored on or after the effective date of
+18 this Act.
+19 §55005. Use of Electronic Records and Electronic Signatures;
+20 Variation by Agreement.
+6
+-
+
+az
+HOUSE BILL 24-
+1 (a) This Act does not require a record or signature to be created, generated,
+2 sent, communicated, received, stored, or otherwise processed or used by electronic
+3 means or in electronic form.
+4 (b) This Act applies only to transactions between parties each of which has
+5 agreed to conduct transactions by electronic means. Whether the parties agree to
+6 conduct a transaction by electronic means is determined from the context and
+7 surrounding circumstances, including the parties' conduct.
+8 (c) A party that agrees to conduct a transaction by electronic means may
+9 refuse to conduct other transactions by electronic means. The right granted by this
+10 subsection may not be waived by agreement.
+11 (d) Except as otherwise provided in this Act, the effect of any of its
+12 provisions may be varied by agreement. The presence in certain provisions of this
+13 Act of the words "unless otherwise agreed", or words of similar import, does not
+14 imply that the effect of other provisions may not be varied by agreement.
+15 (e) Whether an electronic record or electronic signature has legal
+16 consequences is determined by this Act and other applicable law.
+17 §55006. Construction and Application.
+18 This Act must be construed and applied:
+19 (1) to facilitate electronic transactions consistent with other applicable law;
+20 (2) to be consistent with reasonable practices concerning electronic
+21 transactions and with the continued expansion of those practices; and
+7
+
+A.
+(7
+HOUSE BILL 24-
+1 (3) to effectuate its general purpose to make uniform the law with respect
+2 to the subject of this Act among States enacting it.
+3 §55007. Legal Recognition of Electronic Records, Electronic
+4 Signatures, and Electronic Contracts.
+5 (a) A record or signature may not be denied legal effect or enforceability
+6 solely because it is in electronic form.
+7 (b) A contract may not be denied legal effect or enforceability solely
+8 because an electronic record was used in its formation.
+9 (c) If a law requires a record to be in writing, an electronic record satisfies
+10 the law.
+11 (d) If a law requires a signature, an electronic signature satisfies the law.
+12 §55008. Provision of Information in Writing; Presentation of Records.
+13 (a) If parties have agreed to conduct a transaction by electronic means and
+14 a law requires a person to provide, send, or deliver information in writing to another
+15 person, the requirement is satisfied if the information is provided, sent, or delivered,
+16 as the case may be, in an electronic record capable of retention by the recipient at
+17 the time of receipt. An electronic record is not capable of retention by the recipient
+18 if the sender or its information processing system inhibits the ability of the recipient
+19 to print or store the electronic record.
+20 (b) If a law other than this Act requires a record (i) to be posted or displayed
+21 in a certain manner, (ii) to be sent, communicated, or transmitted by a specified
+8
+-
+
+GZ
+HOUSE BILL 24-
+1 method, or (iii) to contain information that is formatted in a certain manner, the
+2 following rules apply:
+3 (1) The record must be posted or displayed in the manner specified
+4 in the other law.
+5 (2) Except as otherwise provided in subsection (d)(2), the record
+6 must be sent, communicated, or transmitted by the method specified in the
+7 other law.
+8 (3) The record must contain the information formatted in the manner
+9 specified in the other law.
+10 (c) If a sender inhibits the ability of a recipient to store or print an electronic
+11 record, the electronic record is not enforceable against the recipient.
+12 (d) The requirements of this section may not be varied by agreement, but:
+13 (1) to the extent a law other than this Act requires information to be
+14 provided, sent, or delivered in writing but permits that requirement to be
+15 varied by agreement, the requirement under subsection (a) that the
+16 information be in the form of an electronic record capable of retention may
+17 also be varied by agreement; and
+18 (2) a requirement under a law other than this Act to send,
+19 communicate, or transmit a record by United States mail, may be varied by
+20 agreement to the extent permitted by the other law.
+21 §55009. Attribution and Effect of Electronic Record and Electronic
+22 Signature.
+9
+
+OZ
+HOUSE BILL 24-
+1 (a) An electronic record or electronic signature is attributable to a person if
+2 it was the act of the person. The act of the person may be shown in any manner,
+3 including a showing of the efficacy of any security procedure applied to determine
+4 the person to which the electronic record or electronic signature was attributable.
+5 (b) The effect of an electronic record or electronic signature attributed to a
+6 person under subsection (a) is determined from the context and surrounding
+7 circumstances at the time of its creation, execution, or adoption, including the
+8 parties' agreement, if any, and otherwise as provided by law.
+9 §55010. Effect of Change or Error.
+10 If a change or error in an electronic record occurs in a transmission between
+11 parties to a transaction, the following rules apply:
+12 (a) If the parties have agreed to use a security procedure to detect changes
+13 or errors and one party has conformed to the procedure, but the other party has not,
+14 and the nonconforming party would have detected the change or error had that party
+15 also conformed, the conforming party may avoid the effect of the changed or
+16 erroneous electronic record.
+17 (b) In an automated transaction involving an individual, the individual may
+18 avoid the effect of an electronic record that resulted from an error made by the
+19 individual in dealing with the electronic agent of another person if the electronic
+20 agent did not provide an opportunity for the prevention or correction of the error
+21 and, at the time the individual learns of the error, the individual:
+- 10-
+
+4z
+HOUSE BILL 24-
+1 (1) promptly notifies the other person of the error and that the
+2 individual did not intend to be bound by the electronic record received by
+3 the other person;
+4 (2) takes reasonable steps, including steps that conform to the other
+5 person's reasonable instructions, to return to the other person or, if
+6 instructed by the other person, to destroy the consideration received, if any,
+7 as a result of the erroneous electronic record; and
+8 (3) has not used or received any benefit or value from the
+9 consideration, if any, received from the other person.
+10 (c) If neither subsection (a) nor subsection (b) applies, the change or error
+11 has the effect provided by other law, including the law of mistake, and the parties'
+12 contract, if any.
+13 (d) Subsections (b) and (c) may not be varied by agreement.
+14 §55011. Notarization and Acknowledgment.
+15 If a law requires a signature or record to be notarized, acknowledged,
+16 verified, or made under oath, the requirement is satisfied if the electronic signature
+17 of the person authorized to perform those acts, together with all other information
+18 required to be included by other applicable law, is attached to or logically
+19 associated with the signature or record.
+20 §55012. Retention of Electronic Records; Originals.
+21 (a) If a law requires that a record be retained, the requirement is satisfied by
+22 retaining an electronic record of the information in the record which:
+
+04.
+HOUSE BILL 24-
+1 (1) accurately reflects the information set forth in the record after it
+2 was first generated in its final form as an electronic record or otherwise; and
+3 (2) remains accessible for later reference.
+4 (b) A requirement to retain a record in accordance with subsection (a) does
+5 not apply to any information the sole purpose of which is to enable the record to be
+6 sent, communicated, or received.
+7 (c) A person may satisfy subsection (a) by using the services of another
+8 person if the requirements of that subsection are satisfied.
+9 (d) If a law requires a record to be presented or retained in its original form,
+10 or provides consequences if the record is not presented or retained in its original
+11 form, that law is satisfied by an electronic record retained in accordance with
+12 subsection (a).
+13 (e) If a law requires retention of a check, that requirement is satisfied by
+14 retention of an electronic record of the information on the front and back of the
+15 check in accordance with subsection (a).
+16 (f) A record retained as an electronic record in accordance with subsection
+17 (a) satisfies a law requiring a person to retain a record for evidentiary, audit, or like
+18 purposes, unless a law enacted after the effective date of this Act specifically
+19 prohibits the use of an electronic record for the specified purpose.
+20 (g) This section does not preclude a governmental agency of this
+21 Commonwealth from specifying additional requirements for the retention of a
+22 record subject to the agency's jurisdiction.
+- 12 -
+
+HOUSE BILL 24- 692.
+1 §55013. Admissibility in Evidence.
+2 In a proceeding, evidence of a record or signature may not be excluded
+3 solely because it is in electronic form. Such admissibility shall remain subject to
+4 the CNMI Rules of Evidence regarding authentication.
+5 §55014. Automated Transaction.
+6 In an automated transaction, the following rules apply:
+7 (a) A contract may be formed by the interaction of electronic agents of the
+8 parties, even if no individual was aware of or reviewed the electronic agents'
+9 actions or the resulting terms and agreements.
+10 (b) A contract may be formed by the interaction of an electronic agent and
+11 an individual, acting on the individual's own behalf or for another person, including
+12 by an interaction in which the individual performs actions that the individual is free
+13 to refuse to perform and which the individual knows or has reason to know will
+14 cause the electronic agent to complete the transaction or performance.
+15 (c) The terms of the contract are determined by the substantive law
+16 applicable to it.
+17 §55015. Time and Place of Sending and Receipt.
+18 (a) Unless otherwise agreed between the sender and the recipient, an
+19 electronic record is sent when it:
+20 (1) is addressed properly or otherwise directed properly to an
+21 information processing system that the recipient has designated or uses for
+- 13 -
+
+44
+HOUSE BILL 24-
+1 the purpose of receiving electronic records or information of the type sent
+2 and from which the recipient is able to retrieve the electronic record;
+3 (2) is in a form capable of being processed by that system; and
+4 (3) enters an information processing system outside the control of
+5 the sender or of a person that sent the electronic record on behalf of the
+6 sender or enters a region of the information processing system designated
+7 or used by the recipient which is under the control of the recipient.
+8 (b) Unless otherwise agreed between a sender and the recipient, an
+9 electronic record is received when:
+10 (1) it enters an information processing system that the recipient has
+11 designated or uses for the purpose of receiving electronic records or
+12 information of the type sent and from which the recipient is able to retrieve
+13 the electronic record; and
+14 (2) it is in a form capable of being processed by that system.
+15 (c) Subsection (b) applies even if the place the infoi nation processing
+16 system is located is different from the place the electronic record is deemed to be
+17 received under subsection (d).
+18 (d) Unless otherwise expressly provided in the electronic record or agreed
+19 between the sender and the recipient, an electronic record is deemed to be sent from
+20 the sender's place of business and to be received at the recipient's place of business.
+21 For purposes of this subsection, the following rules apply:
+- 14 -
+
+QZ,
+HOUSE BILL 24-
+1 (1) If the sender or recipient has more than one place of business,
+2 the place of business of that person is the place having the closest
+3 relationship to the underlying transaction.
+4 (2) If the sender or the recipient does not have a place of business,
+5 the place of business is the sender's or recipient's residence, as the case may
+6 be.
+7 (e) An electronic record is received under subsection (b) even if no
+8 individual is aware of its receipt.
+9 (f) Receipt of an electronic acknowledgment from an information
+10 processing system described in subsection (b) establishes that a record was received
+11 but, by itself, does not establish that the content sent corresponds to the content
+12 received.
+13 (g) If a person is aware that an electronic record purportedly sent under
+14 subsection (a), or purportedly received under subsection (b), was not actually sent
+15 or received, the legal effect of the sending or receipt is determined by other
+16 applicable law. Except to the extent permitted by the other law, the requirements of
+17 this subsection may not be varied by agreement.
+18 §55016. Transferable Record.
+19 (a) In this section, "transferable record" means an electronic record that:
+20 (1) would be a note under 5 CMC § 3104 or a document of title
+21 under 5 CMC § 1201 if the electronic record were in writing; and
+- 15 -
+
+az
+HOUSE BILL 24-
+1 (2) the issuer of the electronic record expressly has agreed is a
+2 transferable record.
+3 (b) A person has control of a transferable record if a system employed for
+4 evidencing the transfer of interests in the transferable record reliably establishes
+5 that person as the person to which the transferable record was issued or transferred.
+6 (c) A system satisfies subsection (b), and a person is deemed to have control
+7 of a transferable record, if the transferable record is created, stored, and assigned in
+8 such a manner that:
+9 (1) a single authoritative copy of the transferable record exists which
+10 is unique, identifiable, and, except as otherwise provided in subsection (c)
+11 (4), (5), and (6), unalterable;
+12 (2) the authoritative copy identifies the person asserting control as:
+13 (A) the person to which the transferable record was issued;
+14 Or
+15 (B) if the authoritative copy indicates that the transferable
+16 record has been transferred, the person to which the transferable
+17 record was most recently transferred.
+18 (3) the authoritative copy is communicated to and maintained by the
+19 person asserting control or its designated custodian;
+20 (4) copies or revisions that add or change an identified assignee of
+21 the authoritative copy can be made only with the consent of the person
+22 asserting control;
+- 16 -
+
+OX.
+HOUSE BILL 24-
+1 (5) each copy of the authoritative copy and any copy of a copy is
+2 readily identifiable as a copy that is not the authoritative copy; and
+3 (6) any revision of the authoritative copy is readily identifiable as
+4 authorized or unauthorized.
+5 (d) Except as otherwise agreed, a person having control of a transferable
+6 record is the holder, as defined in 5 CMC § 1201 (20), of the transferable record
+7 and has the same rights and defenses as a holder of an equivalent record or writing
+8 under the Uniform Commercial Code, including, if the applicable statutory
+9 requirements under the Uniform Commercial Code are satisfied, the rights and
+10 defenses of a holder in due course, a holder to which a negotiable document of title
+11 has been duly negotiated, or a purchaser, respectively. Delivery, possession, and
+12 indorsement are not required to obtain or exercise any of the rights under this
+13 subsection.
+14 (e) Except as otherwise agreed, an obligor under a transferable record has
+15 the same rights and defenses as an equivalent obligor under equivalent records or
+16 writings under the Uniform Commercial Code.
+17 (f) If requested by a person against which enforcement is sought, the person
+18 seeking to enforce the transferable record shall provide reasonable proof that the
+19 person is in control of the transferable record. Proof may include access to the
+20 authoritative copy of the transferable record and related business records sufficient
+21 to review the terms of the transferable record and to establish the identity of the
+22 person having control of the transferable record.
+-17-
+
+02.
+HOUSE BILL 24-
+1 §55017. Creation and Retention of Electronic Records and Conversion
+2 of Written Records by Governmental Agencies.
+3 All departments, agencies, and instrumentalities of the Commonwealth,
+4 including public corporations, shall determine whether, and the extent to which,
+5 they will create and retain electronic records and convert written records to
+6 electronic records.
+7 §55018. Acceptance and Distribution of Electronic Records by
+8 Governmental Agencies.
+9 (a) Except as otherwise provided in §55012(f), a department, agency, or
+10 instrumentality of the Commonwealth, including a public corporation, shall
+11 determine whether, and the extent to which, it will send and accept electronic
+12 records and electronic signatures to and from other persons and otherwise create,
+13 generate, communicate, store, process, use, and rely upon electronic records and
+14 electronic signatures.
+15 (b) To the extent that a department, agency, or instrumentality of the
+16 Commonwealth, including a public corporation, uses electronic records and
+17 electronic signatures under subsection (a), it, giving due consideration to security,
+18 may specify:
+19 (1) the manner and format in which the electronic records must be
+20 created, generated, sent, communicated, received, and stored and the
+21 systems established for those purposes;
+- 18 -
+
+az
+HOUSE BILL 24-
+1 (2) if electronic records must be signed by electronic means, the type
+2 of electronic signature required, the manner and format in which the
+3 electronic signature must be affixed to the electronic record, and the identity
+4 of, or criteria that must be met by, any third party used by a person filing a
+5 document to facilitate the process;
+6 (3) control processes and procedures as appropriate to ensure
+7 adequate preservation, disposition, integrity, security, confidentiality, and
+8 auditability of electronic records, including minimum encryption,
+9 authentication, and audit trail requirements for electronic records of
+10 financial, land, or health-related significance; and
+11 (4) any other required attributes for electronic records which are
+12 specified for corresponding nonelectronic records or reasonably necessary
+13 under the circumstances.
+14 (c) Except as otherwise provided in §55012(f), this Act does not require a
+15 department, agency, or instrumentality of the Commonwealth, including a public
+16 corporation, to use or permit the use of electronic records or electronic signatures.
+17 (d) The Secretary of Commerce, in consultation with the Office of the
+18 Attorney General, shall:
+19 1) promulgate unifoini standards and security procedures for all
+20 Commonwealth agencies to ensure consistency in the acceptance and use of
+21 electronic records and signatures; and
+- 19 -
+
+Z.
+HOUSE BILL 24- C
+1 2) promulgate implementing standards and security procedures
+2 within 120 days of enactment to ensure this Act can be implemented upon
+3 its effective date."
+4 Section 3. Severability. If any provisions of this Act or the application of
+5 any such provision to any person or circumstance should be held invalid by a court
+6 of competent jurisdiction, the remainder of this Act or the application of its
+7 provisions to persons or circumstances other than those to which it is held invalid
+8 shall not be affected thereby.
+9 Section 4. Savings Clause. This Act and any repealer contained herein
+10 shall not be construed as affecting any existing right acquired under contract or
+11 acquired under statutes repealed or under any rule, regulation, or order adopted
+12 under the statutes. Repealers contained in this Act shall not affect any proceeding
+13 instituted under or pursuant to prior law. The enactment of the Act shall not have
+14 the effect of terminating, or in any way modifying, any liability, civil or criminal,
+15 which shall already be in existence on the date this Act becomes effective.
+16 Section 5. Effective Date. This Act shall take effect 180 days after its
+17 approval by the Governor, or its becoming law without such approval.
+Prefiled:
+Date: IInnttrroodduucceedd by:
+Reviewed for Legal Sufficiency by:
+2 €277...54s -
+se Legal Counsel
+- 20 -
+
+[DELETED: R S e b T 7 b h u e U t D o a]
+[DELETED:  r o t t n m i w i i c G e l i o l C r a a a a a a c f m l b l e e t m e r t b o a p s o f g m g a t a p g S T 4 D]
+[DELETED:  T I l i r c d]
+[DELETED:  r t h e a r o i w o i p r o a b a i ( " m a r c g s c ( a l p " a m a e l o j t C t f g o a S o o a c m d t s c s a e f r o]
+[DELETED:  Z p l a j g a t f v p T P s o]
+[DELETED:  E a o p i s ( A a t e ( l ( e g ( A t s A i a t o s ( l s t A X o t C C u s a T A d n a r f e o l t d T t U o R E]
+[DELETED:  s m a c a b e m i d f t a s ( r s E a o p i t A t e o a o i p A i W a e r o e s h l T t b w r c]
+[DELETED:  t § R o E E s A c m n b d l e o e s t p a i]
+[DELETED:  m f d ( c o ( s ( r ( o d v b a t r u s ( t t a r u a l o t A t s o a]
+[DELETED:  i i t p u s i d f t c a s c a t i p § p o t p m a t o t o i a]
+[DELETED:  p n t o p o t e a t t t i t r t t o p o i r r n u o r a b o v f t h c ( h c a r a o r t b n a v o t b i b a l i t o l]
+[DELETED:  n p ( o f l i s b a r r i a s c u a a t d A s p s d p a o t f t o a]
+[DELETED:  s t ( p i n i w a r t a a a b t c T t o c a d b t l U o b t a t a a o o p a]
+[DELETED:  o U o a b a s a t r a e o u f t p r e r o t i p s F]
+[DELETED:  m t p o b o t p i t p h t c r r t i r u A e r ( e i n i ( R a e a i p r a o t l e o t s o r i b o a t]
+[DELETED:  t i o t r e h a i a o ( i h (]
+[DELETED:  c ( ( r a u t C C i i t s h i u s o t w s p t]
+[DELETED:  R o A t w a r e a c w t e A D o R G ( o t i a p s d t r g ( T t e t a o i o t C i a p c u e a e m g s r a s a t]
+[DELETED:  e s r m a f i w t e d a p a a t e c p a o e r i m e a a a t r f e r o f r s T S o i w o p s p a]
+[DELETED:   p i s a s p i a o j t r o t A o t a o i p S s a u i t w T 1 ]

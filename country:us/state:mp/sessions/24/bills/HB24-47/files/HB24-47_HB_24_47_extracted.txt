@@ -1,0 +1,1905 @@
+Title: A BILL FOR AN ACT
+Official Title: A BILL FOR AN ACT
+Number of Sections: 1
+Source: versions - HB 24-47
+Media Type: application/pdf
+Strikethrough Detection: 39 sections found
+
+================================================================================
+
+Section 1:
+TWENTY-FOURTH NORTHERN MARIANAS COMMONWEALTH
+LEGISLATURE
+IN THE HOUSE OF REPRESENTATIVES
+eyq
+Regular Session, 2025 H. B. 24-
+To realign the authority and duties of the CNMI Department of
+Labor; and for other purposes.
+11
+BE IT ENACTED BY THE 24T NORTHERN MARIANAS
+COMMONWEALTH LEGISLATURE:
+1 Section 1. Short Title: This Act may be referred to as the "Commonwealth
+2 Labor Conformity Act of 2025".
+3 Section 2. Findings and Purpose: The Legislature finds that the CNMI
+4 Department of Labor ("Department") has undergone multiple reorganizations,
+5 resulting in unclear statutory authority and regulatory inconsistencies. The
+6 Department was originally established in 1978 as the Department of Commerce and
+7 Labor under Public Law 1-8. Subsequently, Executive Order 94-3 restructured it as
+8 the Department of Labor and Immigration. However, following the passage of the
+9 Consolidated Natural Resources Act (CNRA) of 2008, immigration functions were
+10 transferred to the federal government, and the Department was renamed the
+11 Department of Labor under Executive Order 2003-1. These successive changes
+12 have left gaps in the Department's statutory framework, causing uncertainty
+13 regarding its duties and jurisdiction.
+In
+HOUSE BILL 24-
+1 In recognition of this issue, Public Law 15-108 and Public Law 17-01 were
+2 enacted to repeal outdated provisions and realign the Department's authority.
+3 Public Law 17-01, in particular, amended Public Law 15-108 to remove references
+4 to immigration functions and clarify that the CNMI' s labor laws must align with
+5 federal jurisdiction over immigration. However, despite these efforts, regulatory
+6 language and enforcement mechanisms remain inconsistent. Here we are, 15 years
+7 later, and regulatory issues related to immigration language still persist. This has
+8 led to confusion in the enforcement of labor regulations and the role of the
+9 Department in overseeing employment matters within the Commonwealth.
+10 The Legislature reaffirms that all employers and workers in the
+11 Commonwealth must comply with both federal and CNMI law. The purpose of this
+12 Act is to further refine and clarify the statutory authority of the Department,
+13 ensuring that its duties are properly aligned with labor and employment
+14 enforcement while eliminating outdated references to immigration functions that
+15 are no longer within its jurisdiction. By repealing and replacing Public Laws 15-
+16 108 and 17-01, this measure will provide clear guidance on the Department's
+17 authority, strengthen enforcement mechanisms, and ensure that CNMI labor
+18 regulations are current, effective, and consistent with applicable laws.
+19 Section 3. Repeal and Reenactment. Title 1, Division 2, Part 1, Chapter
+20 15 of the Commonwealth Code is hereby repealed and reenacted to read as follows:
+21 "Chapter 1. Department of Labor.
+2
+HOUSE BILL 24- At 17
+1 Article 1. General
+2 § 101. There is established a Department of Labor within the Executive
+3 Branch of the Commonwealth Government to be headed by a Secretary of Labor.
+4 § 102. Definitions. As used in this Chapter, the term:
+5 (a) "Adjudicate" means to make a formal judgment on a disputed matter;
+6 (b) "Administrative Hearing Office" means the hearing office of the
+7 Department of Labor; and for purposes of 1 CMC §§ 9109 and 9110 as those
+8 provisions may apply to this chapter;
+9 (c) "Agency cases" are cases that deal with compliance with
+10 Commonwealth labor and employment statutes and regulations;
+11 (d) "Commonwealth" means the Commonwealth of the Northern Mariana
+12 Islands;
+13 (e) "Department" means the Department of Labor;
+14 (f) "Labor and Employment Disputes" means issues of fact or law arising
+15 under Commonwealth labor and employment statutes and regulations; and
+16 (g) "Secretary" means the Secretary of Labor.
+17 § 103. Appointment.
+18 The Secretary of Labor shall be appointed by the Governor with the advice
+19 and consent of the Senate. No person may be appointed as Secretary of Labor who
+20 does not possess professional qualifications including at least a bachelor's degree
+21 in an appropriate academic discipline.
+3
+HOUSE BILL 24- IA 17
+1 § 104. Duties, Responsibilities and Divisions.
+2 (a) The Department of Labor shall be responsible for the following:
+3 (1) To foster, promote, and develop the welfare of the Commonwealth
+4 workforce;
+5 (2) To improve working conditions in the Commonwealth;
+6 (3) To advance opportunities for profitable employment in the
+7 Commonwealth;
+8 (4) To enhance the employability and skills sets of individuals through
+9 various services, including job training, career counseling, and access to
+10 employment opportunities;
+11 (5) To create, organize, and administer labor and employment related
+12 outreach in the Commonwealth;
+13 (6) To develop, organize, collaborate, or participate in workforce
+14 development programs in the Commonwealth;
+15 (7) To foster and promote public private partnerships with employers,
+16 education and training entities to develop training programs that align with
+17 current and emerging industries;
+18 (8) To cooperate and share information with other agencies, federal
+19 offices, liaisons, or partners on employment-related matters;
+4
+-
+if fl
+HOUSE BILL 24-
+1 (9) To promulgate rules and regulations, consistent with the law,
+2 regarding those matters over which the Department has jurisdiction and
+3 authority;
+4 (10) To collect, maintain, and report information related to the CNMI
+5 workforce;
+6 (11) To investigate, enforce, and regulate employer requirements,
+7 workplace activities, and working conditions in accordance with
+8 Commonwealth law;
+9 (12) To adjudicate alleged violations of Commonwealth labor laws and
+10 regulations;
+11 (13) To settle labor or regulatory disputes through mediation or other
+12 means of alternative dispute resolution; and
+13 (14) To impose fines, penalties, or sanctions for violations of labor laws
+14 regulation.
+15 (b) The Department of Labor shall establish and manage the Department of
+16 Labor Revolving Fund and authorize the collection of fees, including enforcement
+17 penalties and fees levied through the Administrative Hearing Office for services to
+18 other agencies.
+19 (c) The Department of Labor shall be organized as follows: Division of
+20 Administrative Hearings, Division of Administrative Services, Division of
+21 Employment Services, and Division of Enforcement and Compliance.
+- 5
+-
+lq
+HOUSE BILL 24-
+1 (d) The Department of Labor shall be the designated state agency
+2 responsible for administering federally funded labor and employment-related
+3 programs made available to the CNMI.
+4 § 105. Department of Labor: Staff.
+5 The Department of Labor may employ staff as required to assist it in
+6 performing its duties, subject to budgetary appropriation and applicable law.
+7 § 106. Conflicts of Interest.
+8 No employee or official of the Department of Labor, or his or her immediate
+9 relative, shall own or have an equity interest in an employment agency or other
+10 business engaged in recruiting or processing employment-related documents. No
+11 employee of the Department of Labor shall accept a gratuity or other benefit from
+12 an employer or employee whose activities are regulated by the Department of Labor
+13 unless otherwise permitted by law or regulation. Any person who violates this
+14 section shall be guilty of a felony, and may be punished by a fine of five thousand
+15 dollars. In addition to any fine, any person who violates this section may be
+16 punished by imprisonment for not more than five years. A person convicted under
+17 this section shall be terminated from his or her government employment and shall
+18 not be re-employed by the Commonwealth government, in any capacity, for a
+19 period of ten years from the date of conviction.
+20 Article 2. Division of Administrative Services.
+21 § 201. Division of Administrative Services.
+6
+HOUSE BILL 24- # 7
+1 The Division of Administrative Services shall be headed by the Secretary
+2 of Labor.
+3 § 202. Duties and Responsibilities.
+4 The Division of Administrative Services shall be responsible for providing
+5 administrative services within the Department, such as human resource
+6 management, payroll, procurement, budget and accounting, and policy-making, as
+7 assigned by the Secretary of Labor.
+8 Article 3. Division of Enforcement.
+9 § 301. Division of Enforcement.
+10 The Division of Enforcement shall be headed by the Director of
+11 Enforcement who shall be appointed by the Secretary and serve under the
+12 Secretary's supervision. The Director shall be responsible for administering all
+13 enforcement functions authorized under this Act and any regulations adopted under
+14 it.
+15 § 302. Duties and Responsibilities.
+16 The Division of Enforcement shall be responsible for investigating tips and
+17 referrals, monitoring compliance issues, and initiating agency cases for alleged
+18 violations of Commonwealth labor laws and regulations, as authorized by Article
+19 1, Section 104 of this Act.
+20 Article 4. Division of Administrative Hearings.
+21 § 401. Division of Administrative Hearings.
+7
+HOUSE BILL 24-
+1 The Division of Administrative Hearings shall be headed by the Chief
+2 Administrative Officer.
+3 § 402. Duties and Responsibilities.
+4 The Division of Administrative Hearings shall be responsible for
+5 adjudicating appeals of agency cases and labor and employment disputes within its
+6 jurisdiction.
+7 Article 5. Administrative Hearing Procedures.
+8 § 501. Jurisdiction.
+9 The Division of Administrative Hearings has original jurisdiction to
+10 conduct adjudicative proceedings with respect to all issues of fact or law arising
+11 under Commonwealth labor and employment statutes and regulations and may
+12 assign a hearing officer to provide services for any CNMI government agency that
+13 has complied with 1 CMC § 9115. Such services may include administrative
+14 adjudication, mediation, or any other administrative hearing support.
+15 § 502. Powers and Responsibilities.
+16 (a) The Administrative Hearing Officer may take any action and may
+17 prescribe all necessary rules and regulations to govern the conduct of proceedings
+18 to ensure a fair and impartial hearing, preserve and enforce order during any
+19 proceeding, and to avoid delay in the disposition of the proceedings.
+20 (b) In accordance with applicable law, an Administrative Hearing Officer
+21 shall have the power to:
+8
+- -
+HOUSE BILL 24- 1 r)
+1 1. Issue subpoenas to compel the attendance of witnesses and the production
+2 of evidence;
+3 2. Administer oaths and affiii rations;
+4 3. Examine witnesses;
+5 4. Determine the admissibility, credibility, and weight of evidence;
+6 5. Rule on procedural motions and requests;
+7 6. Conduct mediations;
+8 7. Hold conferences to clarify, simplify, or settle issues in dispute;
+9 8. Regulate the course of the administrative adjudication in accordance with
+10 applicable law;
+11 9. Review and approve settlement agreements for cases properly before it;
+12 10. Seal records or close hearings from the public;
+13 11. Issue decisions and make findings of fact and conclusions of law; and
+14 12. Impose fines, penalties, fees and sanctions.
+15 (c) The Administrative Hearing Officer may affirm, reverse, modify, or
+16 remand a decision or order of the Department with respect to an administrative
+17 adjudication if it finds that such order or decision is:
+18 1. Outside the range of discretion delegated to the Department by law;
+19 2. Inconsistent with an agency regulation, rule, official position, or prior
+20 practice, unless the agency explains the inconsistency by stating facts and
+21 reasons which demonstrate a rational basis for inconsistency;
+9
+- _
+HOUSE BILL 24- g ri
+1 3. In violation of an applicable statutory provision or regulation; or
+2 4. Unsupported by substantial evidence in the agency record. Substantial
+3 evidence exists when the agency record, viewed as a whole, would permit
+4 a reasonable person to make the finding made by the agency.
+5 (d) The Administrative Hearing Officer is limited to resolving actual
+6 disputes and shall not issue advisory opinions.
+7 § 503. Practice and Procedures.
+8 Notwithstanding any provision of law to the contrary, hearings shall be
+9 conducted in accordance with the Administrative Procedures Act and with rules
+10 and regulations promulgated under this Act. Where the Administrative Procedures
+11 Act and applicable rules and regulations are silent, the Model Rules of
+12 Administrative Procedures may serve as persuasive authority, as the Administrative
+13 Hearing Officer deems appropriate under the circumstances.
+14 § 504. Statute of Limitations.
+15 No labor complaint or regulatory action may be filed more than two (2)
+16 years after the date of the last-occurring event that is the subject of the complaint,
+17 except in cases where the actionable conduct was not discoverable upon the last-
+18 occurring event.
+19 Article 6. Federally Funded Programs.
+20 § 601. Designated State Agency.
+- 10 -
+lq
+HOUSE BILL 24-
+1 The Department of Labor shall be the designated State Agency to administer
+2 federally funded labor and employment-related programs or initiatives made
+3 available in the Commonwealth.
+4 § 602. Workforce Investment Programs.
+5 The Department may operate and maintain programs and federal grants
+6 authorized under the Workforce Innovation and Opportunity Act, as amended. In
+7 doing so, the Department of Labor shall operate such programs in accordance with
+8 applicable laws and guidance, established program requirements, and approved
+9 agreements or state plans.
+10 § 603. Occupational Safety and Health Administration On-Site
+11 Consultation Program.
+12 The Department may operate and maintain the Occupational Safety and
+13 Health Administration On-Site Consultation Program. In doing so, the Department
+14 of Labor shall operate said program in accordance with applicable laws and
+15 guidance, established program requirements, and approved cooperative
+16 agreements.
+17 § 604. Federal Unemployment Assistance Programs.
+18 The Department may administer federal unemployment benefit programs,
+19 including but not limited to the Disaster Unemployment Assistance program. In
+20 doing so, the Department of Labor shall operate said program in accordance with
+HOUSE BILL 24- 11
+1 applicable laws and guidance, established program requirements, and approved
+2 cooperative agreements and state plans."
+3 Section 4. Repeal. Title 3, Division 4, Part 2, Chapter 1 of the
+4 Commonwealth Code is hereby repealed.
+5 Section 5. Amendment. Title 3, Division 4, Part 2, Chapter 2, Article 1,
+6 § 4511 of the Commonwealth Code is hereby amended to read as follows:
+7 "§ 4511. Definitions.
+8 As used in this chapter, the following terms shall, unless the context clearly
+9 indicates otherwise, have the following meanings:
+10 (a) "Administrative Hearing Office" means the hearing office of the
+11 Department of Labor; and for purposes of 1 CMC §§ 9109 and 9110 as those
+12 provisions may apply to this chapter;
+13 (b) "Administrative Order" means a legally binding directive issued by a
+14 hearing officer mandating compliance with certain laws, regulations, or penalties;
+15 (c)(b) "Citizen" means a person who is a citizen or national of the United
+16 States;
+17 (d)(e) "CNMI permanent long-telin resident" means a person with long-
+18 term resident status or a person granted parole and work authorization by the United
+19 States Citizenship and Immigration Services whe-was-gfaated4he-status-ef-C- 11
+20 permanent resident by the CNMI government prior to April 23, 1981k
+21 (e) "Commonwealth" means the Commonwealth of the Northern Mariana
+- 12 -
+41,1
+HOUSE BILL 24-
+1 Islands.
+2 (f)(4) "Department" means the Department of Labor.
+3 (e-) "Domestic helper" means a person who assists an employer with the
+4 domestic duties of a household, including but not limited to cooking, cleaning, and
+5 care for children, elders, and handicapped persons in the home; and does not include
+6 farmers.
+7 (g)(f) "Employer" means a person, corporation, partnership, public agency,
+8 or other legal entity that which acts in the interest of an employer in relation to a
+9 worker has a current business license issued—b-y—the—GemmenwealthT-is—deing
+10 business in the Commonwealth, and has one or more approved employment
+11 contracts with foreign national workers, or is acting directly or indirectly in the
+12 interest of a person, corporation, partnership or other legal entity in relation to an
+13 employee; or a person employing a farmer or domestic helper; and does not include
+14 the government of the United States.
+15 (h)"Exemptions" mean the specific conditions under which certain
+16 employers or projects may be exempt from workforce participation requirements.
+17 (i) "Expenditure Authority" means the designated official responsible for
+18 authorizing the disbursement of funds, typically the Secretary of the Department of
+19 Labor.
+20 al(g) "FAS citizen" means a citizen of the Freely Associated States, which
+21 are the Federated States of Micronesia, the Republic of the Marshall Islands, and
+- 13 -
+HOUSE BILL 24- 141
+1 the Republic of Palau, who is legally residing in the Commonwealth.
+2 (k) "Foreign national worker" means a person who is not a U.S. Eligible
+3 worker in the Commonwealth; this includes holders of such non-immigrant visa
+4 categories as CW-1 , H-1B, H-2A, and H-2B.
+5 (1) "Good Faith Efforts" means reasonable and documented attempts by an
+6 employer to hire a U.S. Eligible Worker before employing foreign national
+7 workers. Good faith efforts, may include, but are not limit to the following: Copies
+8 of job vacancy postings; Records of interviews or rejection letters; Job fair
+9 participation; Recruitment advertisements; or any methods that the Secretary shall
+10 adopt via regulations.
+11 (m)(h) "Hearing officer" means a hearing officer appointed by the Secretary
+12 who serves in the Administrative Hearing Office and who conducts mediations,
+13 hearings, and other proceedings as necessary; and for purposes of 1 CMC §§ 9109
+14 and §§ 9110 as those provisions may apply to this chapter.
+15 (i) "Indigenous" means a person generally recognized in the community as
+16 Mariunas who is also a citizen or permanent resident
+17 of the Commonwealth and speaks the Carolinian or Chamorro language to a degree
+18 of fluency such that the person may accomplish the basic daily tasks of life without
+19 resorting to a language other than the Carolinian or Chamorro language.
+20 (n)(j) "Job classification" means the job classifications described by
+21 regulation promulgated by Employment Services.
+- 14-
+47
+HOUSE BILL 24-
+1 (o) "Job Preference" means the requirement that U.S. Eligible Workers be
+2 given priority for employment opportunities within the Commonwealth.
+3 (p) "Jurisdiction" means the authority of the Administrative Hearing Office
+4 to resolve employment-related disputes and enforce labor laws.
+5 (q) "Mediation" means an informal, non-public, confidential meeting
+6 attended by the parties to a labor dispute or potential labor dispute together with a
+7 mediator at the Administrative Hearing Office in order to seek a voluntary
+8 resolution of the dispute satisfactory to all parties and reflected in a written
+9 agreement.
+10 (r)(k) "Permanent resident" means a person who is legally residing in the
+11 Commonwealth without restrictions as to employment in the Commonwealth,
+12 including but not limited to eligible immediate relatives of citizens and citizens of
+13 the Freely Associated States of the Federated States of Micronesia, the Republic of
+14 the Marshall Islands, and the Republic of Palau.
+15 (s) "Reductions in Force" means employer actions involving workforce
+16 reductions due to economic necessity, with priority given to retaining U.S. Eligible
+17 Workers over foreign national workers.
+18 (t) "Repatriation" means the exit from the Commonwealth and travel to the
+19 point of hire for a worker by voluntary action; and in the case of the death of a
+20 worker while in the Commonwealth, the embalming and shipment of the body to
+21 the point of hire.
+- 15 -
+HOUSE BILL 24- 4 17
+1 (u) (4) "Secretary" means the Secretary of Labor.
+2 (v) "U.S. Eligible Worker" means a citizen or non-citizen authorized to
+3 work in the United States. This includes U.S. Citizens, U.S. permanent residents,
+4 CNMI long-term residents and FAS Citizens.
+5 (w)(-m-) "U.S. permanent resident" means a person who has been granted
+6 permanent resident status by the United States.
+7 (x) "Worker" means a person who is employed in the Commonwealth of
+8 the Northern Mariana Islands."
+9 Section 6. Amendment. Title 3, Division 4, Part 2, Chapter 2, Article 2,
+10 § 4521 of the Commonwealth Code is hereby amended to read as follows:
+11 "§ 4521. Job Preference.
+12 Citizens and CNMI permanent residents and U.S. permanent residents US
+13 Eligible Workers shall be given preference for employment in the Commonwealth.
+14 Capability in the official languages of the Commonwealth is an important skill with
+15 respect to working effectively within the Commonwealth."
+16 Section 7. Repeal. Title 3, Division 4, Part 2, Chapter 2, Article 2, § 4523
+17 of the Commonwealth Code is hereby repealed.
+18 Section 8. Amendments. Title 3, Division 4, Part 2, Chapter 2, Article 2,
+19 § 4525 of the Commonwealth Code is hereby amended to read as follows:
+20 "§ 4525. U.S. Eligible Worker Workforce Participation By-Gitlz-ens-md
+21 QNMI-Per-manen4-Residents-and U.S. Permanent dents.
+- 16 -
+HOUSE BILL 24- 4/1
+1 In the full time workforce of any employer, the percentage of citizens, U.S.
+2 Eligible Workers permanent residents, and CNMI permanent residents and their
+3 immediate relatives employed shall equal or exceed the (30) thirty percentage as
+4 measured by the quarterly Census of Employment, of citizens, U.S. permanent
+5 residents, and CNMI permanent residents—anel—their—immediete—re-latives in the
+6 available private sector workforce unless aUainment of this goal is not feasible
+7 within the current calendar year after all reasonable efforts have been made by the
+8 employer. This requirement shall sunset one (1) year after the phaseout of the CW-
+9 1 CNMI-Only transitional worker visa category."
+10 Section 9. Amendments. Title 3, Division 4, Part 2, Chapter 2, Article 2,
+11 § 4526 of the Commonwealth Code is hereby amended to read as follows:
+12 "§ 4526. Exemptions.
+13 (a) The provisions of 3 CMC § 4525 shall not apply to employers of fewer
+14 than five employees, provided however, that the Secretary may, by regulation,
+15 require each business to have at least one employee who is a U.S Eligible Worker
+16 citizen or CNMI permanent resident and U.S. permanent resident, or remove the
+17 exemption available to employers against whom two or more judgments are entered
+18 in Department proceedings in any two year period.
+19 (b) The Secretary, or an authorized designee, may grant an exemption from
+20 this chapter for a particular construction project of limited duration.
+- 17-
+11
+HOUSE BILL 24-
+1 (c) The Department shall have the authority to establish additional
+2 regulations implementing this provision."
+3 Section 10. Amendments. Title 3, Division 4, Part 2, Chapter 2, Article
+4 2, § 4528 (a) of the Commonwealth Code is hereby amended to read as follows:
+5 "§ 4528. Adjudication of Claims.
+6 (a) A citizen or CNMI permanent resident or U.S. permanent resident U.S
+7 Eligible Worker who is qualified for a job may make a claim for damages if an
+8 employer has not met the requirements of 3 CMC § 4525, the employer rejects an
+9 application for the job without just cause, and the employer employs a person who
+10 is not a citizen or CNMI permanent resident or U.S. permanent resident U.S
+11 Eligible Worker for the job."
+12 Section 11. Amendment. Title 3, Division 4, Part 2, Chapter 2, Article 2,
+13 § 4529 (a) of the Commonwealth Code is hereby amended to read as follows:
+14 "§ 4529. Statistical Data.
+15 (a) The Secretary shall maintain statistical data with respect to the number
+16 of citizens and CNMI permanent residents and U.S. permanent residents workers
+17 employed in each of the relevant NAICS categories. The Secretary shall describe
+18 any special definitions used in these regards to account for all employment of
+19 citizens and CNMI permanent residents and U.S. permanent residents workers in
+20 the Commonwealth within the enumerated categories.
+21 (b) The Department shall have the authority to establish additional
+- 18 -
+417
+HOUSE BILL 24-
+1 regulations for this provision."
+2 Section 12. Repeal. Title 3, Division 4, Part 2, Chapter 2, Article 3 of the
+3 Commonwealth Code is hereby repealed in its entirety.
+4 Section 13. Repeal and Reenactment. Title 3, Division 4, Part 2, Chapter
+5 4 is hereby repealed and reenacted to read as follows:
+6 "Chapter 4. Employment.
+7 Article 1. Standards for Employment.
+8 § 101. Standard Conditions of Employment.
+9 (a) All employers in the Commonwealth shall provide a safe working
+10 environment, including an adequate supply of drinking water and sufficient and
+11 sanitary toilet facilities at the worksite, or reasonable access thereto.
+12 (b) Wage rates. No worker employed in the Commonwealth shall be paid
+13 less than the minimum wage provided by law.
+14 (c) Hours of work. The hours of work shall be specified to a worker a
+15 reasonable time in advance of the start of employment. Overtime work may be
+16 offered by the employer but not required. Any period of time during which the
+17 worker is required to be present at any location within the Commonwealth
+18 designated by his or her employer shall be considered working hours for purposes
+19 of determining wages and overtime pay.
+- 19 -
+HOUSE BILL 24- i t 91
+1 (d) Payment of wages. Payment of wages shall be in full compliance with
+2 Commonwealth law and applicable federal law. Nothing in this Section requires
+3 an employer to pay wages for which the employee did not work.
+4 (e) Deductions from wages. Each expense of the employer to be deducted
+5 from the wages of a worker shall be specified reasonably in advance and shall be
+6 itemized on the wage documentation provided to the worker by the employer.
+7 Allowable deductions shall be defined in regulations, and no other deductions may
+8 be made from the wages of a worker.
+9 (f) Documents. No employer may withhold from worker any passport,
+10 identification card, or other document related to the status of the worker.
+11 (g) The Department shall have the authority to establish regulations to
+12 enforce this provision, ensuring compliance with occupational safety and health
+13 standards.
+14 § 102. Reduction in Force.
+15 Economic hardship may force a business to reduce its workforce or close.
+16 Employers have the right to make these decisions. However, under Commonwealth
+17 law, U.S. Eligible Workers must be given job preference.
+18 Before laying off any U.S. Eligible Workers, employers must first lay off
+19 foreign national workers in the same job classification or any classification with
+20 equal or lesser minimum— requirements as defined by the Department through
+21 regulations.
+- 20 -
+HOUSE BILL 24- 11
+1 Employees have rights, and employers have responsibilities beyond what is
+2 stated here. These rules do not replace any other legal or contractual obligations.
+3 Employers must also follow the federal Worker Adjustment and Retraining
+4 Notification (WARN) Act. Businesses shall give 60 days' notice to the Department
+5 before a mass layoff or closure. Businesses shall give employees 30 days' notice
+6 before a mass layoff or closure.
+7 § 103. Avoidance and Early Resolution of Potential Labor Disputes.
+8 Mediation of labor disputes. The Administrative Hearing Office shall, as it
+9 finds necessary and useful, conduct early intervention in potential and actual labor
+10 disputes in order to seek a mediated resolution.
+11 (1) Upon the filing of a labor complaint, the Administrative Hearing Office
+12 may set the matter for prompt mediation and notify the parties to appear.
+13 (2) In the event that a matter is set for mediation, the parties shall attend the
+14 mediation and make a good faith attempt to settle the dispute before proceeding
+15 with the claim. If the Department is the complainant, it may waive the mediation
+16 requirement.
+17 (3) Failure of a complainant to appear at the mediation without providing
+18 the Administrative Hearing Office with advance written notice at least five days
+19 prior to the scheduled appearance may result in the dismissal of a complaint without
+20 prejudice.
+- 21 -
+4(7
+HOUSE BILL 24-
+1 (4) At a mediation session, a hearing officer may issue a notice of hearing
+2 with respect to the complaint, dismiss a complaint as untimely under Section
+3 4962(b), and take other administrative actions to assist in the prompt resolution of
+4 the complaint.
+5 § 104. Inspection of Worksite.
+6 (a) Administrative inspections of worksites. In order to enforce the labor
+7 laws of the Commonwealth, the Secretary or a designee may inspect any worksite
+8 where workers are employed.
+9 (1) No warrant is required for inspection of a worksite, and the Department
+10 need not present any evidence of a violation of labor laws or regulations as
+11 a basis for such an inspection.
+12 (2) No notice of the date and time of the inspection need be given to the
+13 employer in advance of the actual inspection.
+14 (3) The Department shall furnish, at a reasonable cost, to every employer
+15 whose worksite is subject to inspection a list of revised statutes and
+16 regulations describing the employer's obligations and defining the
+17 inspector's authority.
+18 (b) Frequency of inspections. The rules governing the frequency of
+19 administrative inspections shall be prescribed by regulation and published in an
+20 administrative schedule.
+21 (c) Scope of inspections. The inspector may inspect:
+- 22 -
+HOUSE BILL 24- 49
+1 (1) All public areas of the worksite and premises to which the general public
+2 might reasonably be expected to have access to during normal business hours;
+3 (2) All areas of the worksite and premises in which workers are observed,
+4 or might reasonably be expected to have access to during the normal operation of
+5 the employer's business;
+6 (3) The employer's payroll records, approved worker contracts, or any other
+7 documents or business records the employer is required to collect, maintain or
+8 produce for inspection pursuant to this chapter, regulations, and the Minimum
+9 Wage and Hour Act;
+10 (4) All equipment, machines, tools, or devices any worker might reasonably
+11 be expected to use, operate or maintain, in the normal course of the employer's
+12 business;
+13 (5) All safety devices, safeguards (such as machine guarding, electrical
+14 protection, scaffolding, safe walking-working surfaces, means of egress in case of
+15 emergencies or fire, ventilation, noise exposure protection, personal protective
+16 equipment for eyes, face, head and feet, fire protection and sanitation), drinking
+17 water supply and toilet facilities;
+18 (6) All waste disposal equipment, trash and refuse containers; and
+19 (7) Employer-provided housing and common areas, including, but not
+20 limited to: fire protection devices or improvements; sanitation equipment;
+21 ventilation, whether natural or mechanical; drinking water supply; toilet facilities;
+- 23 -
+HOUSE BILL 24- I/
+1 cooking facilities, equipment and appliances; food and food storage equipment and
+2 facilities; lighting; windows and screens; bedding; laundry facilities, equipment and
+3 supplies.
+4 (d) Authority of inspectors.
+5 (1) If a violation of any labor law or regulation is found, the inspector may
+6 issue a citation, notice of violation, or other process intended to correct the violation
+7 or enjoin the employer from certain practices or commence an enforcement action
+8 against the employer.
+9 (2) The inspector shall not detain or arrest any person, but may refer any
+10 person to another enforcement agency for further action consistent with the laws of
+11 the Commonwealth or of the United States.
+12 (e) Personnel for inspections. For purposes of carrying out responsibilities
+13 pursuant to this section, the Secretary may, by agreement with other agencies of the
+14 Commonwealth government, utilize with or without reimbursement, the services,
+15 personnel, or facilities of the other agencies.
+16 (f) Inspections of Worksites Pursuant to Warrant.
+17 (1) In those instances where the Secretary or a designee intends to inspect
+18 any location or worksite in furtherance of obtaining evidence related to a specific
+19 criminal investigation, a search warrant from the Commonwealth Superior Court,
+20 requiring a showing of probable cause, shall be required.
+- 24 -
+HOUSE BILL 24- l el
+1 (2) In the event that an employer refuses consent for an inspection or if the
+2 Department's inspection will exceed the scope or frequency of the inspections
+3 authorized under subsections (a) through (e) of this section, the Secretary or a
+4 designee may seek an administrative warrant from the Department's Administrative
+5 Hearing Office.
+6 (3) An administrative warrant shall be granted if the Department
+7 demonstrates to the satisfaction of a hearing officer that one of the following
+8 standards has been met:
+9 (i) The worksite has been chosen for an inspection on the basis of a
+10 general administrative plan derived from neutral criteria for the
+11 enforcement of Commonwealth labor laws and regulations;
+12 (ii) The Department has presented evidence establishing reasonable
+13 suspicion of a recent, ongoing or imminent violation of this chapter,
+14 regulations, the Minimum Wage and Hour Act, or any other
+15 Commonwealth law protecting the health and safety of employees,
+16 at the worksite for which the administrative warrant is sought; or
+17 (iii) The Department has presented evidence that the employer has
+18 been cited for a violation of Commonwealth labor laws or
+19 regulations within the past twelve months at the worksite in
+20 question, and the past violation is one that is easily repeated, easily
+- 25 -
+4')
+HOUSE BILL 24-
+1 concealed, and poses a risk to the health and safety of one or more
+2 employees.
+3 § 105. Investigations.
+4 The Department or a designee shall conduct investigations as the
+5 Department may deem appropriate and necessary to enforce the provisions of this
+6 chapter and regulations, and to ensure lawful working conditions, employer
+7 supplied benefits, and the health and safety of workers in the Commonwealth.
+8 Article 2. Adjudication of Employment disputes.
+9 § 201. Complaints and Actions in Labor Matters.
+10 (a) Individual complaints. Any worker who is aggrieved by the failure or
+11 refusal of his or her employer to comply with Commonwealth labor or wage laws,
+12 may make a complaint to the Department.
+13 (b) Department actions. The Department may commence an action against
+14 an employer for an alleged violation of the labor or wage laws of the
+15 Commonwealth.
+16 (c) Court actions. The Attorney General, at the request of the Secretary, may
+17 institute an action in any court of competent jurisdiction for a temporary restraining
+18 order, injunction, or other appropriate remedy to enforce any provision of this
+19 chapter.
+20 § 202. Jurisdiction of the Administrative Hearing Office.
+- 26 -
+HOUSE BILL 24-
+1 (a) Jurisdiction. The Administrative Hearing Office shall have original
+2 jurisdiction to resolve all actions involving alleged violations of the labor and wage
+3 laws of the Commonwealth, including but not limited to any violation of this
+4 chapter and regulations promulgated thereunder. The Commonwealth Superior
+5 Court shall have concurrent jurisdiction to resolve all labor and wage violations that
+6 are criminal in nature. The Administrative Hearing office may assist other
+7 government agencies that require administrative hearing services for a fee
+8 established by regulation.
+9 (b) Limitation on stays of proceedings. The Administrative Hearing Office
+10 shall not stay any proceeding to allow the parties to proceed with their claims in a
+11 different forum except upon order of a court of competent jurisdiction.
+12 § 203. Reserved.
+13 § 204. Powers of Hearing Officer.
+14 A hearing officer shall have general power to issue subpoenas, summon
+15 witnesses, require production of books, papers, documents and records, administer
+16 oaths, and such other powers as may be necessary to implement this chapter
+17 effectively. A hearing officer may refer a matter to the Department for investigation
+18 if the hearing officer deems investigation warranted and justified under the
+19 circumstances.
+20 § 205. Service of Process.
+- 27 -
+HOUSE BILL 24- 41
+1 Service of process for any notice of any kind required for any proceeding
+2 conducted by the Administrative Hearing Office may be by personal service, by
+3 first class mail, postage prepaid, to the worker at the address supplied with the
+4 complaint or the last known or verified address or any written update provided to
+5 the Department, and to the employer at the address supplied by the complainant or
+6 any written update provided to the Department, or by publication in any English-
+7 language newspaper of general circulation in the Commonwealth, if personal
+8 service or service by mail has been unsuccessful.
+9 § 206. Conduct of Hearings.
+10 A hearing shall be commenced as soon as practicable after filing of a
+11 complaint and any mediation that may be held in the matter. Adequate notice and
+12 opportunity to present relevant evidence shall be given to all parties.
+13 Notwithstanding any other provision of law, a hearing may be closed at the
+14 discretion of the Administrative Hearing Office upon a showing that it is in the best
+15 interests of a party. A decision to close or not to close a hearing shall be reviewable
+16 by the Secretary.
+17 § 207. Orders and Relief.
+18 (a) The hearing officer may, after notice and an opportunity to be heard is
+19 provided to the parties, dismiss sua sponte a complaint that the hearing officer finds
+20 to be without merit. Dismissal shall be reviewable pursuant to the Administrative
+21 Procedure Act (1 CMC § 9101 et seq.).
+-28-
+41
+HOUSE BILL 24-
+1 (b) The hearing officer shall, upon concluding a hearing, issue any
+2 necessary findings, decisions, and orders as soon as practicable.
+3 (c) Issuance of findings, decisions, and orders shall be pursuant to 1 CMC
+4 § 9110, but shall not be judicially reviewable until final.
+5 (d) The hearing officer is authorized to:
+6 (1) Award unpaid wages or overtime compensation, amounts
+7 unlawfully deducted from wages or unlawfully required by an employer to
+8 be paid by a worker, damages for unlawful termination of a contract, or
+9 damages, when appropriate, for conduct of the employer that is in violation
+10 of Commonwealth or federal law;
+11 (2) Assess liquidated damages in twice the amount of unpaid wages or
+12 overtime compensation in any case in which a worker prevails on unpaid
+13 wages or overtime compensation claims unless the hearing officer finds
+14 extenuating circumstances; and assess liquidated damages in an amount to
+15 be determined at the hearing in cases in which the employer's conduct in
+16 failing to pay wages or overtime is found to have been willful or retaliatory;
+17 (3) Levy a fine not to exceed two-thousand dollars for each violation of
+18 any provision of this chapter;
+19 (4) Issue declaratory or injunctive relief as appropriate;
+- 29 -
+HOUSE BILL 24- 11
+1 (5) Award attorney fees when appropriate in addition to any other
+2 enumerated remedy; provided however that attorney fees shall not be
+3 recoverable against the Commonwealth; and
+4 (6) Impose such other sanction, order or relief as may reasonably give
+5 effect to Division 4, Title 3.
+6 (e) The hearing officer may assess costs for repatriation of a worker to the
+7 point of hire.
+8 (f) The hearing officer may find an action to be frivolous if it is unfounded
+9 in fact or law or initiated primarily to obtain an undue pecuniary benefit or for
+10 distraction or delay.
+11 § 208. Appeal to the Secretary.
+12 (a) Within thirty days of issuance, any person or party affected by findings,
+13 decisions, or orders made pursuant to this chapter may appeal to the Secretary by
+14 filing a written notice of appeal, in a form prescribed by regulations, stating the
+15 grounds for the appeal. If no appeal is made to the Secretary within thirty days, the
+16 findings, decisions, or orders shall be unreviewable administratively or judicially.
+17 (b) Upon appeal, the Secretary may, in the Secretary's discretion, restrict
+18 review to the existing records, supplement the record with new evidence, hear oral
+19 argument, or hear the matter de novo pursuant to 1 CMC §§ 9109 and 9110. The
+20 Secretary shall have the same powers as a hearing officer in addition to other
+- 30 -
+HOUSE BILL 24- gq
+1 powers pursuant to this chapter. The Secretary shall affirm or reverse a decision
+2 based on a preponderance of the evidence in the administrative record.
+3 (c) Upon completion of review, the Secretary shall confirm or modify the
+4 finding, decision, or order in writing as soon as practicable. Any modification shall
+5 include supplemental findings. The Secretary's decision shall constitute final action
+6 for purposes of judicial review. Failure by the Secretary to confirm or modify a
+7 finding, decision, or order within thirty days shall constitute confirmation of each
+8 of the findings, decisions, or orders of the hearing officer as the final action of the
+9 Secretary for purposes of judicial review.
+10 § 209. Judicial Review.
+11 (a) Judicial review of a final action of the Secretary is authorized after
+12 exhaustion of all administrative remedies and shall be initiated within ninety days
+13 of final action.
+14 (b) Except as may be contrary to the provisions of this chapter, judicial
+15 review shall be pursuant to 1 CMC § 9112. Appeal from a final action by the
+16 Secretary shall be directly to the Commonwealth Superior Court.
+17 (c) Notwithstanding any other provision of law:
+18 (1) Notice of all actions and proceedings pursuant to this section shall be
+19 served upon the Attorney General;
+20 (2) Judicial review shall be confined to the record; and
+21 (3) Actions involving judicial review of final action by the Secretary shall
+-31 -
+HOUSE BILL 24- ifq
+1 be limited to the appeal; other causes of action may not be alleged in the
+2 action for judicial review.
+3 Article 3. Other Provisions.
+4 § 301. Regulations and Legislative Oversight.
+5 The Secretary shall promulgate regulations to implement the intent of this
+6 Act no later than 180 days after its effective date, pursuant to the Administrative
+7 Procedure Act (1 CMC § 9101 et seq.), including the delegation of any duties as
+8 imposed herein. In the event that more time is needed for the promulgation of
+9 regulations, the Legislature may grant an extension, for good cause shown, via joint
+10 resolution.
+11 § 302. Limitations.
+12 Time Limit for Filing Labor Complaints. Labor complaints must be filed
+13 within two years of the last event related to the complaint. If the issue was not
+14 immediately discoverable, the complaint must be filed within two years of when a
+15 reasonable person could have discovered it.
+16 § 303. Prohibitions.
+17 (a)(1) No person who enters the Commonwealth as a nonimmigrant resident
+18 alien may obtain a financial interest in, operate, or engage in any business, or
+19 become an employer without first qualifying to operate a business under applicable
+20 provisions of Commonwealth law.
+- 32 -
+dr?
+HOUSE BILL 24-
+1 (2) No person who has at any time entered the Commonwealth for
+2 employment may maintain a financial interest in, operate, or engage in any
+3 business, or employ others without first qualifying to operate a business under
+4 applicable provisions of Commonwealth law. Chapter 9 of Division 5 of Title 4,
+5 or other application provisions of Commonwealth law.
+6 (b) An employer shall not make a materially false statement or give
+7 materially misleading information, orally or in writing, to the Department or any
+8 employee or officer of the Executive Branch with respect to any requirement of this
+9 chapter.
+10 (c) An employer shall not pay a worker at a rate of pay lower than the
+11 minimum wage as provided by Commonwealth law or applicable federal law.
+12 (d) An employer shall not make any deduction from the wages of a worker
+13 in violation of Commonwealth law.
+14 (e) An employer shall not employ a person who is not a U.S. Eligible worker
+15 and who has entered the Commonwealth without authorization to work; provided
+16 however, the Attorney General may authorize a witness or victim of human
+17 trafficking or a material witness or victim in another civil or criminal proceeding to
+18 work in the Commonwealth without regard to this provision.
+19 (f) An employer shall not post a job vacancy announcement with the
+20 Department without the intent or present capability to provide a viable wage-paying
+21 job for the worker.
+- 33 -
+HOUSE BILL 24- 1 11
+1 (g) This section shall not stay or bar any civil or criminal action in any court.
+2 (h) Unauthorized Employment. An employer may not hire a foreign
+3 national worker without first posting the job vacancy on the official CNMI
+4 Department of Labor website and making a good faith effort to recruit a U.S.
+5 Eligible worker, as is required to comply with the CNMI job preference laws. This
+6 ensures that local U.S. eligible workers are given priority for employment
+7 opportunities before positions are offered to foreign national workers.
+8 (i) No employer shall employ, permit, or allow any person under the age of
+9 18 to engage in work that is hazardous, detrimental to their health or well-being, or
+10 interferes with their education. Employment of minors shall be strictly regulated in
+11 accordance with CNMI and federal labor laws, and no person under the age of 14
+12 shall be employed in any occupation, except as specifically permitted by law.
+13 § 304. Sanctions and Penalties.
+14 After hearing pursuant to the Administrative Procedure Act, 1 CMC § 9191
+15 et seq.:
+16 (a) Violation of any subsection of 3 CMC § 4931 by an employer shall be
+17 grounds for sanctioning an employer.
+18 (b) An employer who knowingly requires or permits a foreign national
+19 worker to pay initial visa application or renewal fees shall be subject to penalties
+20 and shall be reported to the Office of Foreign Labor Certification (OFLC).
+- 34 -
+HOUSE BILL 24- 7
+1 (c) Violation of 3 CMC § 4937 by failing to provide notice of a reduction
+2 in force shall be grounds for imposition of a fine in the employer of up to two-
+3 thousand dollars for each worker terminated in the reduction in force.
+4 (d) Violation of any subsection of 3 CMC § 4963 by an employer shall be
+5 a fine of up to two-thousand dollars for each unlawful action.
+6 (e) Failure to comply with the payment terms of an administrative order, in
+7 addition to any penalties or damages imposed in the order, shall be subject to
+8 additional monetary sanctions of up to twenty-five dollars per day until the
+9 obligation is satisfied. Such additional penalties shall be assessed as a sanction
+10 either by the Administrative Hearing Office, or by the Commonwealth Superior
+11 Court pursuant to a civil action filed by the Attorney General.
+12 (f) Any fine pursuant to this section shall be imposed by a hearing officer
+13 in an administrative order or by a court in an action filed by the Attorney General.
+14 (g) This section shall not stay or bar any civil or criminal action or remedy
+15 in any court of competent jurisdiction.
+16 (h) The Secretary or their designee shall submit a quarterly report of non-
+17 compliant businesses to the Department of Finance, Division of Revenue and
+18 Taxation. Failure to comply with the payment terms of an administrative order may
+19 result in the suspension of the business license until the full payment is made.
+20 § 305. Required Records.
+-35-
+HOUSE BILL 24- II
+1 An employer of any worker shall keep, and present immediately upon
+2 demand by the Secretary or a designee, the following information:
+3 (a) Personnel records for each worker including the name, current residence
+4 address, age, domicile, citizenship, and point of hire;
+5 (b) Payroll records for each worker including the job classification; wage
+6 rate or salary, number of hours worked each week, gross compensation, itemized
+7 deductions, and net payments;
+8 (c) Documentation for each worker including tax payment records; and
+9 (d) Business license and any other information or documentation required
+10 by regulations.
+11 §306. Fees.
+12 (a) The Secretary shall establish fees for the administrative actions to be
+13 taken by the Department under this part.
+14 (b) Fees imposed under subsection (a) for providing data not otherwise
+15 published by the Department shall reflect, to the extent practicable, the full
+16 allocated cost of collecting, storing, and delivering the data in usable form.
+17 (c) All fees collected pursuant to subsection (a) of this section shall be
+18 deposited into a fund to be known as the CNMI Department of Labor Fund. Funds
+19 provided for in this subsection shall not be subject to reprogramming, and shall be
+20 available without fiscal year limitation. The Secretary shall be the expenditure
+- 36 -
+HOUSE BILL 24- Vi
+1 authority for this account. The Secretary of Finance shall collect the funds and
+2 direct proceeds into three separate accounts as set forth below:
+3 (1) Department of Labor Account. All Administrative processing fees
+4 assigned by the Department shall be deposited into this account. This account shall
+5 be used for operations.
+6 (2) Administrative Hearing Account. All fees collected for providing
+7 administrative hearing services to other CNMI government entities shall be
+8 deposited into this account. This account shall be used for operations and personnel
+9 in the Administrative Hearing Office.
+10 (3) Enforcement Account. All penalties levied in enforcement actions of
+11 the Department of Labor shall be deposited into this account. This account shall be
+12 used for operations and personnel of the Department of Labor.
+13 § 307. Required Reports.
+14 (a) The Secretary shall prepare and submit to the Governor and the presiding
+15 officers of the Legislature the following written reports:
+16 (1) Within one-hundred-twenty days of the end of the government fiscal
+17 year, the Secretary shall prepare an annual report including data regarding the
+18 number of workers employed in the Commonwealth during the year, the citizenship
+19 of the workers, the job classifications filled by the workers; and other information
+20 as appropriate.
+-37-
+17
+HOUSE BILL 24-
+1 (2) Pursuant to 3 CMC § 4526(c), the Secretary shall report any exemptions
+2 granted within thirty days after the close of each calendar quarter.
+3 (b) Pursuant to 3 CMC § 306(d), no later than ninety days after the end of
+4 the fiscal year, the Secretary of Finance shall prepare and submit to the Governor
+5 and the presiding officers of the Legislature a report on the status of the CNMI
+6 Department of Labor.
+7 § 308. Electronic Filing and Access.
+8 (a) The Secretary shall establish by regulation a plan for switching from
+9 hard copy filing of documents to electronic filing of documents in order to reduce
+10 paper waste and cost.
+11 (b) The Secretary shall establish by regulation a plan for electronic filing
+12 processes, data collection, and storage."
+13 Section 14. Repeal. Title 3, Division 4, Part 3 is hereby repealed in its
+14 entirety.
+15 Section 15. Severability. If any provisions of this Act or the application of
+16 any such provision to any person or circumstance should be held invalid by a court
+17 of competent jurisdiction, the remainder of this Act or the application of its
+18 provisions to persons or circumstances other than those to which it is held invalid
+19 shall not be affected thereby.
+20 Section 16. Savings Clause. This Act and any repealer contained herein
+21 shall not be construed as affecting any existing right acquired under contract or
+- 38 -
+HOUSE BILL 24-
+1 acquired under statutes repealed or under any rule, regulation, or order adopted
+2 under the statutes. Repealers contained in this Act shall not affect any proceeding
+3 instituted under or pursuant to prior law. The enactment of the Act shall not have
+4 the effect of terminating, or in any way modifying, any liability, civil or criminal,
+5 which shall already be in existence on the date this Act becomes effective.
+6 Section 17. Effective Date. This Act shall take effect upon its approval by
+7 the Governor, or it becoming law without such approval.
+02
+Prefiled: 17
+Date: Introduced by:
+Reviewed for legal sufficiency by:
+JLç- 61-272.)-
+use Legal Counse
+Date:
+- 39 -
+[DELETED: R T  T L S T o L ( u m r r i u s a r i T t C t t f a t w r t u h l i t s c]
+[DELETED:  I e t o p a r t D a P t l l t c i t o l r a t r o L t a a w i t A i t r a c s a o D e t d a p w l e 1 1 t w p g t s a t l T 1]
+[DELETED:  A 1 B A ( " O m t h o t C § p ( " a c t d c w " u § N d]
+[DELETED:  ( T a f e i t o o p i c T o]
+[DELETED:  T r a c w t l t h a T e a e a w i a w ( L p o b D o D5]
+[DELETED:  T D o L s b t d s a r f a f f l a p S T D o L m e s a r t a i i § N r b e a u b l p w v s d I a t a f a p w v t s m b p t n b b t g i c a p A]
+[DELETED:  # 7 T § T a s w t D s a h r m a A § T D o E s b b t D o E w s b b t S a s u t S T b e i § T r i a c v 1 A]
+[DELETED:  D o A H s b h b t C A D o A H s b r f a A § T D o A H h o j t c u C l a e r m a h c w 1 C § 9 S s i a a ( T A H O m t a a a m p t e a a i h p a o d a p s -]
+[DELETED:  1 o 2 3 4 5 6 7 8 a 9 1 n ( a o r a 1 p _]
+[DELETED: r v e v a ( T A H O i l t a d § N a p b c a A a a r a r a s t M R o A H N y e o]
+[DELETED:  f l a e p o i m o p a d l g a 6 O S a A O S a H o L s s p i w a l e r a d]
+[DELETED:  l g p r a c S 4 T 3 D 4 P 2 C o t S T § " A ( " H m t h o o t L p o § t p a S p t S-1 p (]
+[DELETED:  I " ( h m c o w h a c b l b i t a h o o m a e c w w i i e t ( m t s c u w c e a a]
+[DELETED:  t w ( e t h a U W b e f n w m o j v R o i o l J f p o r j b]
+[DELETED:  ( t " m i n m a m a t A O i o t s a r o t d t a p a r i a a ( C r a t e i t C i t t ( F a w r W p w t]
+[DELETED:  41 ( a W n w T ( p ( t S § E C s w r T o § "]
+[DELETED:  4 E a p i mo U r a C p i t a w o e T 1 S § " ( t p h t m b r c i]
+[DELETED:  T D s h t a t e a r S T 2 " E e a i n a o p r o U r U E S § o T a s u i r a f c T h t t a]
+[DELETED:  T 4 " A § ( A i t C s p a s w l b b o w i r t p a a l w t d]
+[DELETED: it N a f i o w p t t b t A b N m w w a p i s l f o l t]
+[DELETED:  E s E m a f t f W A a R N B b B b § A M f d m ( m w r t p p]
+[DELETED:  w r t t c a a u u S 4 t § I ( l w ( a e w i s i a l o r s a r d e o a d t ( o i T r t f o]
+[DELETED:  4 m ( o t ( b r i p f p r a t W b A s s ( g o f n p p w a b n t f o]
+[DELETED:  c f I i o a ( p t p ( ( a]
+[DELETED:  le e i w e t s f o t i u s t o a H ( A a w s g i t D d t t s o a h t o o t f ( g a p d f n c t t W a H A o a o c f a v o l l o w t p m a t w i]
+[DELETED:  c § t D o a d s c i a D c a r a t e l w c e s A ( r a e f a v o l o w l t C i t c]
+[DELETED:  ( J T H O h o t i b n l t v o a r t T C C a c i T A H o m a g a r a h f a f e ( s d § w o a s o p a b n t i t c e i t o d i w a j t]
+[DELETED:  S f c t a n o g c i t C i p A h s b a a p a f o a c o t r e b g t a a p o l h m b a t]
+[DELETED:  ( T h s u a h i n § ( ( A u w o c a u b d o w a (]
+[DELETED:  ( A a f w i a t a o h t a f s n r p r o e ( p ( i b d ( d f g f r s o]
+[DELETED:  p T b f i f o S b b A t]
+[DELETED:  i b A O § T A P i I r r § T L w i r § m o b o b p]
+[DELETED:  ( N p w h a t e t f m m a f i i o o i a o o C o ( A e s m a m f s o g m e c ( m i a h t G m a a w o v o h t w A e s p a j v a w t D j]
+[DELETED: 1 ( U E A m n h a f w w f t j v o t C D L w f r E e t l U e w a g f e o 1 i a s § e g ( A e w k o p w a]
+[DELETED:   V i t b a ( a p i b a m s o u t t d p d u t o p b e i ( i ( T b t t o F o R a T r §]
+[DELETED:  A e o a w s k a i u d ( a ( r d ( ( b § t ( u s p p b t s r t t e p f a ( A p b d a f y b t]
+[DELETED:  a f o d ( D o A A A p f a b A H A f f p h s t o g e s i t T o t s p i n o]
+[DELETED:  g ( 3 t a D § ( h p ( p S T e S a o c j t r o t A o t a o i p s s]
+[DELETED:  a u u i t w S t]
+
+
+================================================================================
+
+Raw Text:
+TWENTY-FOURTH NORTHERN MARIANAS COMMONWEALTH
+LEGISLATURE
+IN THE HOUSE OF REPRESENTATIVES
+eyq
+Regular Session, 2025 H. B. 24-
+A BILL FOR AN ACT
+To realign the authority and duties of the CNMI Department of
+Labor; and for other purposes.
+11
+BE IT ENACTED BY THE 24T NORTHERN MARIANAS
+COMMONWEALTH LEGISLATURE:
+1 Section 1. Short Title: This Act may be referred to as the "Commonwealth
+2 Labor Conformity Act of 2025".
+3 Section 2. Findings and Purpose: The Legislature finds that the CNMI
+4 Department of Labor ("Department") has undergone multiple reorganizations,
+5 resulting in unclear statutory authority and regulatory inconsistencies. The
+6 Department was originally established in 1978 as the Department of Commerce and
+7 Labor under Public Law 1-8. Subsequently, Executive Order 94-3 restructured it as
+8 the Department of Labor and Immigration. However, following the passage of the
+9 Consolidated Natural Resources Act (CNRA) of 2008, immigration functions were
+10 transferred to the federal government, and the Department was renamed the
+11 Department of Labor under Executive Order 2003-1. These successive changes
+12 have left gaps in the Department's statutory framework, causing uncertainty
+13 regarding its duties and jurisdiction.
+
+In
+HOUSE BILL 24-
+1 In recognition of this issue, Public Law 15-108 and Public Law 17-01 were
+2 enacted to repeal outdated provisions and realign the Department's authority.
+3 Public Law 17-01, in particular, amended Public Law 15-108 to remove references
+4 to immigration functions and clarify that the CNMI' s labor laws must align with
+5 federal jurisdiction over immigration. However, despite these efforts, regulatory
+6 language and enforcement mechanisms remain inconsistent. Here we are, 15 years
+7 later, and regulatory issues related to immigration language still persist. This has
+8 led to confusion in the enforcement of labor regulations and the role of the
+9 Department in overseeing employment matters within the Commonwealth.
+10 The Legislature reaffirms that all employers and workers in the
+11 Commonwealth must comply with both federal and CNMI law. The purpose of this
+12 Act is to further refine and clarify the statutory authority of the Department,
+13 ensuring that its duties are properly aligned with labor and employment
+14 enforcement while eliminating outdated references to immigration functions that
+15 are no longer within its jurisdiction. By repealing and replacing Public Laws 15-
+16 108 and 17-01, this measure will provide clear guidance on the Department's
+17 authority, strengthen enforcement mechanisms, and ensure that CNMI labor
+18 regulations are current, effective, and consistent with applicable laws.
+19 Section 3. Repeal and Reenactment. Title 1, Division 2, Part 1, Chapter
+20 15 of the Commonwealth Code is hereby repealed and reenacted to read as follows:
+21 "Chapter 1. Department of Labor.
+2
+
+HOUSE BILL 24- At 17
+1 Article 1. General
+2 § 101. There is established a Department of Labor within the Executive
+3 Branch of the Commonwealth Government to be headed by a Secretary of Labor.
+4 § 102. Definitions. As used in this Chapter, the term:
+5 (a) "Adjudicate" means to make a formal judgment on a disputed matter;
+6 (b) "Administrative Hearing Office" means the hearing office of the
+7 Department of Labor; and for purposes of 1 CMC §§ 9109 and 9110 as those
+8 provisions may apply to this chapter;
+9 (c) "Agency cases" are cases that deal with compliance with
+10 Commonwealth labor and employment statutes and regulations;
+11 (d) "Commonwealth" means the Commonwealth of the Northern Mariana
+12 Islands;
+13 (e) "Department" means the Department of Labor;
+14 (f) "Labor and Employment Disputes" means issues of fact or law arising
+15 under Commonwealth labor and employment statutes and regulations; and
+16 (g) "Secretary" means the Secretary of Labor.
+17 § 103. Appointment.
+18 The Secretary of Labor shall be appointed by the Governor with the advice
+19 and consent of the Senate. No person may be appointed as Secretary of Labor who
+20 does not possess professional qualifications including at least a bachelor's degree
+21 in an appropriate academic discipline.
+3
+
+HOUSE BILL 24- IA 17
+1 § 104. Duties, Responsibilities and Divisions.
+2 (a) The Department of Labor shall be responsible for the following:
+3 (1) To foster, promote, and develop the welfare of the Commonwealth
+4 workforce;
+5 (2) To improve working conditions in the Commonwealth;
+6 (3) To advance opportunities for profitable employment in the
+7 Commonwealth;
+8 (4) To enhance the employability and skills sets of individuals through
+9 various services, including job training, career counseling, and access to
+10 employment opportunities;
+11 (5) To create, organize, and administer labor and employment related
+12 outreach in the Commonwealth;
+13 (6) To develop, organize, collaborate, or participate in workforce
+14 development programs in the Commonwealth;
+15 (7) To foster and promote public private partnerships with employers,
+16 education and training entities to develop training programs that align with
+17 current and emerging industries;
+18 (8) To cooperate and share information with other agencies, federal
+19 offices, liaisons, or partners on employment-related matters;
+4
+-
+
+if fl
+HOUSE BILL 24-
+1 (9) To promulgate rules and regulations, consistent with the law,
+2 regarding those matters over which the Department has jurisdiction and
+3 authority;
+4 (10) To collect, maintain, and report information related to the CNMI
+5 workforce;
+6 (11) To investigate, enforce, and regulate employer requirements,
+7 workplace activities, and working conditions in accordance with
+8 Commonwealth law;
+9 (12) To adjudicate alleged violations of Commonwealth labor laws and
+10 regulations;
+11 (13) To settle labor or regulatory disputes through mediation or other
+12 means of alternative dispute resolution; and
+13 (14) To impose fines, penalties, or sanctions for violations of labor laws
+14 regulation.
+15 (b) The Department of Labor shall establish and manage the Department of
+16 Labor Revolving Fund and authorize the collection of fees, including enforcement
+17 penalties and fees levied through the Administrative Hearing Office for services to
+18 other agencies.
+19 (c) The Department of Labor shall be organized as follows: Division of
+20 Administrative Hearings, Division of Administrative Services, Division of
+21 Employment Services, and Division of Enforcement and Compliance.
+- 5
+-
+
+lq
+HOUSE BILL 24-
+1 (d) The Department of Labor shall be the designated state agency
+2 responsible for administering federally funded labor and employment-related
+3 programs made available to the CNMI.
+4 § 105. Department of Labor: Staff.
+5 The Department of Labor may employ staff as required to assist it in
+6 performing its duties, subject to budgetary appropriation and applicable law.
+7 § 106. Conflicts of Interest.
+8 No employee or official of the Department of Labor, or his or her immediate
+9 relative, shall own or have an equity interest in an employment agency or other
+10 business engaged in recruiting or processing employment-related documents. No
+11 employee of the Department of Labor shall accept a gratuity or other benefit from
+12 an employer or employee whose activities are regulated by the Department of Labor
+13 unless otherwise permitted by law or regulation. Any person who violates this
+14 section shall be guilty of a felony, and may be punished by a fine of five thousand
+15 dollars. In addition to any fine, any person who violates this section may be
+16 punished by imprisonment for not more than five years. A person convicted under
+17 this section shall be terminated from his or her government employment and shall
+18 not be re-employed by the Commonwealth government, in any capacity, for a
+19 period of ten years from the date of conviction.
+20 Article 2. Division of Administrative Services.
+21 § 201. Division of Administrative Services.
+6
+
+HOUSE BILL 24- # 7
+1 The Division of Administrative Services shall be headed by the Secretary
+2 of Labor.
+3 § 202. Duties and Responsibilities.
+4 The Division of Administrative Services shall be responsible for providing
+5 administrative services within the Department, such as human resource
+6 management, payroll, procurement, budget and accounting, and policy-making, as
+7 assigned by the Secretary of Labor.
+8 Article 3. Division of Enforcement.
+9 § 301. Division of Enforcement.
+10 The Division of Enforcement shall be headed by the Director of
+11 Enforcement who shall be appointed by the Secretary and serve under the
+12 Secretary's supervision. The Director shall be responsible for administering all
+13 enforcement functions authorized under this Act and any regulations adopted under
+14 it.
+15 § 302. Duties and Responsibilities.
+16 The Division of Enforcement shall be responsible for investigating tips and
+17 referrals, monitoring compliance issues, and initiating agency cases for alleged
+18 violations of Commonwealth labor laws and regulations, as authorized by Article
+19 1, Section 104 of this Act.
+20 Article 4. Division of Administrative Hearings.
+21 § 401. Division of Administrative Hearings.
+7
+
+HOUSE BILL 24-
+1 The Division of Administrative Hearings shall be headed by the Chief
+2 Administrative Officer.
+3 § 402. Duties and Responsibilities.
+4 The Division of Administrative Hearings shall be responsible for
+5 adjudicating appeals of agency cases and labor and employment disputes within its
+6 jurisdiction.
+7 Article 5. Administrative Hearing Procedures.
+8 § 501. Jurisdiction.
+9 The Division of Administrative Hearings has original jurisdiction to
+10 conduct adjudicative proceedings with respect to all issues of fact or law arising
+11 under Commonwealth labor and employment statutes and regulations and may
+12 assign a hearing officer to provide services for any CNMI government agency that
+13 has complied with 1 CMC § 9115. Such services may include administrative
+14 adjudication, mediation, or any other administrative hearing support.
+15 § 502. Powers and Responsibilities.
+16 (a) The Administrative Hearing Officer may take any action and may
+17 prescribe all necessary rules and regulations to govern the conduct of proceedings
+18 to ensure a fair and impartial hearing, preserve and enforce order during any
+19 proceeding, and to avoid delay in the disposition of the proceedings.
+20 (b) In accordance with applicable law, an Administrative Hearing Officer
+21 shall have the power to:
+8
+- -
+
+HOUSE BILL 24- 1 r)
+1 1. Issue subpoenas to compel the attendance of witnesses and the production
+2 of evidence;
+3 2. Administer oaths and affiii rations;
+4 3. Examine witnesses;
+5 4. Determine the admissibility, credibility, and weight of evidence;
+6 5. Rule on procedural motions and requests;
+7 6. Conduct mediations;
+8 7. Hold conferences to clarify, simplify, or settle issues in dispute;
+9 8. Regulate the course of the administrative adjudication in accordance with
+10 applicable law;
+11 9. Review and approve settlement agreements for cases properly before it;
+12 10. Seal records or close hearings from the public;
+13 11. Issue decisions and make findings of fact and conclusions of law; and
+14 12. Impose fines, penalties, fees and sanctions.
+15 (c) The Administrative Hearing Officer may affirm, reverse, modify, or
+16 remand a decision or order of the Department with respect to an administrative
+17 adjudication if it finds that such order or decision is:
+18 1. Outside the range of discretion delegated to the Department by law;
+19 2. Inconsistent with an agency regulation, rule, official position, or prior
+20 practice, unless the agency explains the inconsistency by stating facts and
+21 reasons which demonstrate a rational basis for inconsistency;
+9
+- _
+
+HOUSE BILL 24- g ri
+1 3. In violation of an applicable statutory provision or regulation; or
+2 4. Unsupported by substantial evidence in the agency record. Substantial
+3 evidence exists when the agency record, viewed as a whole, would permit
+4 a reasonable person to make the finding made by the agency.
+5 (d) The Administrative Hearing Officer is limited to resolving actual
+6 disputes and shall not issue advisory opinions.
+7 § 503. Practice and Procedures.
+8 Notwithstanding any provision of law to the contrary, hearings shall be
+9 conducted in accordance with the Administrative Procedures Act and with rules
+10 and regulations promulgated under this Act. Where the Administrative Procedures
+11 Act and applicable rules and regulations are silent, the Model Rules of
+12 Administrative Procedures may serve as persuasive authority, as the Administrative
+13 Hearing Officer deems appropriate under the circumstances.
+14 § 504. Statute of Limitations.
+15 No labor complaint or regulatory action may be filed more than two (2)
+16 years after the date of the last-occurring event that is the subject of the complaint,
+17 except in cases where the actionable conduct was not discoverable upon the last-
+18 occurring event.
+19 Article 6. Federally Funded Programs.
+20 § 601. Designated State Agency.
+- 10 -
+
+lq
+HOUSE BILL 24-
+1 The Department of Labor shall be the designated State Agency to administer
+2 federally funded labor and employment-related programs or initiatives made
+3 available in the Commonwealth.
+4 § 602. Workforce Investment Programs.
+5 The Department may operate and maintain programs and federal grants
+6 authorized under the Workforce Innovation and Opportunity Act, as amended. In
+7 doing so, the Department of Labor shall operate such programs in accordance with
+8 applicable laws and guidance, established program requirements, and approved
+9 agreements or state plans.
+10 § 603. Occupational Safety and Health Administration On-Site
+11 Consultation Program.
+12 The Department may operate and maintain the Occupational Safety and
+13 Health Administration On-Site Consultation Program. In doing so, the Department
+14 of Labor shall operate said program in accordance with applicable laws and
+15 guidance, established program requirements, and approved cooperative
+16 agreements.
+17 § 604. Federal Unemployment Assistance Programs.
+18 The Department may administer federal unemployment benefit programs,
+19 including but not limited to the Disaster Unemployment Assistance program. In
+20 doing so, the Department of Labor shall operate said program in accordance with
+
+HOUSE BILL 24- 11
+1 applicable laws and guidance, established program requirements, and approved
+2 cooperative agreements and state plans."
+3 Section 4. Repeal. Title 3, Division 4, Part 2, Chapter 1 of the
+4 Commonwealth Code is hereby repealed.
+5 Section 5. Amendment. Title 3, Division 4, Part 2, Chapter 2, Article 1,
+6 § 4511 of the Commonwealth Code is hereby amended to read as follows:
+7 "§ 4511. Definitions.
+8 As used in this chapter, the following terms shall, unless the context clearly
+9 indicates otherwise, have the following meanings:
+10 (a) "Administrative Hearing Office" means the hearing office of the
+11 Department of Labor; and for purposes of 1 CMC §§ 9109 and 9110 as those
+12 provisions may apply to this chapter;
+13 (b) "Administrative Order" means a legally binding directive issued by a
+14 hearing officer mandating compliance with certain laws, regulations, or penalties;
+15 (c)(b) "Citizen" means a person who is a citizen or national of the United
+16 States;
+17 (d)(e) "CNMI permanent long-telin resident" means a person with long-
+18 term resident status or a person granted parole and work authorization by the United
+19 States Citizenship and Immigration Services whe-was-gfaated4he-status-ef-C- 11
+20 permanent resident by the CNMI government prior to April 23, 1981k
+21 (e) "Commonwealth" means the Commonwealth of the Northern Mariana
+- 12 -
+
+41,1
+HOUSE BILL 24-
+1 Islands.
+2 (f)(4) "Department" means the Department of Labor.
+3 (e-) "Domestic helper" means a person who assists an employer with the
+4 domestic duties of a household, including but not limited to cooking, cleaning, and
+5 care for children, elders, and handicapped persons in the home; and does not include
+6 farmers.
+7 (g)(f) "Employer" means a person, corporation, partnership, public agency,
+8 or other legal entity that which acts in the interest of an employer in relation to a
+9 worker has a current business license issued—b-y—the—GemmenwealthT-is—deing
+10 business in the Commonwealth, and has one or more approved employment
+11 contracts with foreign national workers, or is acting directly or indirectly in the
+12 interest of a person, corporation, partnership or other legal entity in relation to an
+13 employee; or a person employing a farmer or domestic helper; and does not include
+14 the government of the United States.
+15 (h)"Exemptions" mean the specific conditions under which certain
+16 employers or projects may be exempt from workforce participation requirements.
+17 (i) "Expenditure Authority" means the designated official responsible for
+18 authorizing the disbursement of funds, typically the Secretary of the Department of
+19 Labor.
+20 al(g) "FAS citizen" means a citizen of the Freely Associated States, which
+21 are the Federated States of Micronesia, the Republic of the Marshall Islands, and
+- 13 -
+
+HOUSE BILL 24- 141
+1 the Republic of Palau, who is legally residing in the Commonwealth.
+2 (k) "Foreign national worker" means a person who is not a U.S. Eligible
+3 worker in the Commonwealth; this includes holders of such non-immigrant visa
+4 categories as CW-1 , H-1B, H-2A, and H-2B.
+5 (1) "Good Faith Efforts" means reasonable and documented attempts by an
+6 employer to hire a U.S. Eligible Worker before employing foreign national
+7 workers. Good faith efforts, may include, but are not limit to the following: Copies
+8 of job vacancy postings; Records of interviews or rejection letters; Job fair
+9 participation; Recruitment advertisements; or any methods that the Secretary shall
+10 adopt via regulations.
+11 (m)(h) "Hearing officer" means a hearing officer appointed by the Secretary
+12 who serves in the Administrative Hearing Office and who conducts mediations,
+13 hearings, and other proceedings as necessary; and for purposes of 1 CMC §§ 9109
+14 and §§ 9110 as those provisions may apply to this chapter.
+15 (i) "Indigenous" means a person generally recognized in the community as
+16 Mariunas who is also a citizen or permanent resident
+17 of the Commonwealth and speaks the Carolinian or Chamorro language to a degree
+18 of fluency such that the person may accomplish the basic daily tasks of life without
+19 resorting to a language other than the Carolinian or Chamorro language.
+20 (n)(j) "Job classification" means the job classifications described by
+21 regulation promulgated by Employment Services.
+- 14-
+
+47
+HOUSE BILL 24-
+1 (o) "Job Preference" means the requirement that U.S. Eligible Workers be
+2 given priority for employment opportunities within the Commonwealth.
+3 (p) "Jurisdiction" means the authority of the Administrative Hearing Office
+4 to resolve employment-related disputes and enforce labor laws.
+5 (q) "Mediation" means an informal, non-public, confidential meeting
+6 attended by the parties to a labor dispute or potential labor dispute together with a
+7 mediator at the Administrative Hearing Office in order to seek a voluntary
+8 resolution of the dispute satisfactory to all parties and reflected in a written
+9 agreement.
+10 (r)(k) "Permanent resident" means a person who is legally residing in the
+11 Commonwealth without restrictions as to employment in the Commonwealth,
+12 including but not limited to eligible immediate relatives of citizens and citizens of
+13 the Freely Associated States of the Federated States of Micronesia, the Republic of
+14 the Marshall Islands, and the Republic of Palau.
+15 (s) "Reductions in Force" means employer actions involving workforce
+16 reductions due to economic necessity, with priority given to retaining U.S. Eligible
+17 Workers over foreign national workers.
+18 (t) "Repatriation" means the exit from the Commonwealth and travel to the
+19 point of hire for a worker by voluntary action; and in the case of the death of a
+20 worker while in the Commonwealth, the embalming and shipment of the body to
+21 the point of hire.
+- 15 -
+
+HOUSE BILL 24- 4 17
+1 (u) (4) "Secretary" means the Secretary of Labor.
+2 (v) "U.S. Eligible Worker" means a citizen or non-citizen authorized to
+3 work in the United States. This includes U.S. Citizens, U.S. permanent residents,
+4 CNMI long-term residents and FAS Citizens.
+5 (w)(-m-) "U.S. permanent resident" means a person who has been granted
+6 permanent resident status by the United States.
+7 (x) "Worker" means a person who is employed in the Commonwealth of
+8 the Northern Mariana Islands."
+9 Section 6. Amendment. Title 3, Division 4, Part 2, Chapter 2, Article 2,
+10 § 4521 of the Commonwealth Code is hereby amended to read as follows:
+11 "§ 4521. Job Preference.
+12 Citizens and CNMI permanent residents and U.S. permanent residents US
+13 Eligible Workers shall be given preference for employment in the Commonwealth.
+14 Capability in the official languages of the Commonwealth is an important skill with
+15 respect to working effectively within the Commonwealth."
+16 Section 7. Repeal. Title 3, Division 4, Part 2, Chapter 2, Article 2, § 4523
+17 of the Commonwealth Code is hereby repealed.
+18 Section 8. Amendments. Title 3, Division 4, Part 2, Chapter 2, Article 2,
+19 § 4525 of the Commonwealth Code is hereby amended to read as follows:
+20 "§ 4525. U.S. Eligible Worker Workforce Participation By-Gitlz-ens-md
+21 QNMI-Per-manen4-Residents-and U.S. Permanent dents.
+- 16 -
+
+HOUSE BILL 24- 4/1
+1 In the full time workforce of any employer, the percentage of citizens, U.S.
+2 Eligible Workers permanent residents, and CNMI permanent residents and their
+3 immediate relatives employed shall equal or exceed the (30) thirty percentage as
+4 measured by the quarterly Census of Employment, of citizens, U.S. permanent
+5 residents, and CNMI permanent residents—anel—their—immediete—re-latives in the
+6 available private sector workforce unless aUainment of this goal is not feasible
+7 within the current calendar year after all reasonable efforts have been made by the
+8 employer. This requirement shall sunset one (1) year after the phaseout of the CW-
+9 1 CNMI-Only transitional worker visa category."
+10 Section 9. Amendments. Title 3, Division 4, Part 2, Chapter 2, Article 2,
+11 § 4526 of the Commonwealth Code is hereby amended to read as follows:
+12 "§ 4526. Exemptions.
+13 (a) The provisions of 3 CMC § 4525 shall not apply to employers of fewer
+14 than five employees, provided however, that the Secretary may, by regulation,
+15 require each business to have at least one employee who is a U.S Eligible Worker
+16 citizen or CNMI permanent resident and U.S. permanent resident, or remove the
+17 exemption available to employers against whom two or more judgments are entered
+18 in Department proceedings in any two year period.
+19 (b) The Secretary, or an authorized designee, may grant an exemption from
+20 this chapter for a particular construction project of limited duration.
+- 17-
+
+11
+HOUSE BILL 24-
+1 (c) The Department shall have the authority to establish additional
+2 regulations implementing this provision."
+3 Section 10. Amendments. Title 3, Division 4, Part 2, Chapter 2, Article
+4 2, § 4528 (a) of the Commonwealth Code is hereby amended to read as follows:
+5 "§ 4528. Adjudication of Claims.
+6 (a) A citizen or CNMI permanent resident or U.S. permanent resident U.S
+7 Eligible Worker who is qualified for a job may make a claim for damages if an
+8 employer has not met the requirements of 3 CMC § 4525, the employer rejects an
+9 application for the job without just cause, and the employer employs a person who
+10 is not a citizen or CNMI permanent resident or U.S. permanent resident U.S
+11 Eligible Worker for the job."
+12 Section 11. Amendment. Title 3, Division 4, Part 2, Chapter 2, Article 2,
+13 § 4529 (a) of the Commonwealth Code is hereby amended to read as follows:
+14 "§ 4529. Statistical Data.
+15 (a) The Secretary shall maintain statistical data with respect to the number
+16 of citizens and CNMI permanent residents and U.S. permanent residents workers
+17 employed in each of the relevant NAICS categories. The Secretary shall describe
+18 any special definitions used in these regards to account for all employment of
+19 citizens and CNMI permanent residents and U.S. permanent residents workers in
+20 the Commonwealth within the enumerated categories.
+21 (b) The Department shall have the authority to establish additional
+- 18 -
+
+417
+HOUSE BILL 24-
+1 regulations for this provision."
+2 Section 12. Repeal. Title 3, Division 4, Part 2, Chapter 2, Article 3 of the
+3 Commonwealth Code is hereby repealed in its entirety.
+4 Section 13. Repeal and Reenactment. Title 3, Division 4, Part 2, Chapter
+5 4 is hereby repealed and reenacted to read as follows:
+6 "Chapter 4. Employment.
+7 Article 1. Standards for Employment.
+8 § 101. Standard Conditions of Employment.
+9 (a) All employers in the Commonwealth shall provide a safe working
+10 environment, including an adequate supply of drinking water and sufficient and
+11 sanitary toilet facilities at the worksite, or reasonable access thereto.
+12 (b) Wage rates. No worker employed in the Commonwealth shall be paid
+13 less than the minimum wage provided by law.
+14 (c) Hours of work. The hours of work shall be specified to a worker a
+15 reasonable time in advance of the start of employment. Overtime work may be
+16 offered by the employer but not required. Any period of time during which the
+17 worker is required to be present at any location within the Commonwealth
+18 designated by his or her employer shall be considered working hours for purposes
+19 of determining wages and overtime pay.
+- 19 -
+
+HOUSE BILL 24- i t 91
+1 (d) Payment of wages. Payment of wages shall be in full compliance with
+2 Commonwealth law and applicable federal law. Nothing in this Section requires
+3 an employer to pay wages for which the employee did not work.
+4 (e) Deductions from wages. Each expense of the employer to be deducted
+5 from the wages of a worker shall be specified reasonably in advance and shall be
+6 itemized on the wage documentation provided to the worker by the employer.
+7 Allowable deductions shall be defined in regulations, and no other deductions may
+8 be made from the wages of a worker.
+9 (f) Documents. No employer may withhold from worker any passport,
+10 identification card, or other document related to the status of the worker.
+11 (g) The Department shall have the authority to establish regulations to
+12 enforce this provision, ensuring compliance with occupational safety and health
+13 standards.
+14 § 102. Reduction in Force.
+15 Economic hardship may force a business to reduce its workforce or close.
+16 Employers have the right to make these decisions. However, under Commonwealth
+17 law, U.S. Eligible Workers must be given job preference.
+18 Before laying off any U.S. Eligible Workers, employers must first lay off
+19 foreign national workers in the same job classification or any classification with
+20 equal or lesser minimum— requirements as defined by the Department through
+21 regulations.
+- 20 -
+
+HOUSE BILL 24- 11
+1 Employees have rights, and employers have responsibilities beyond what is
+2 stated here. These rules do not replace any other legal or contractual obligations.
+3 Employers must also follow the federal Worker Adjustment and Retraining
+4 Notification (WARN) Act. Businesses shall give 60 days' notice to the Department
+5 before a mass layoff or closure. Businesses shall give employees 30 days' notice
+6 before a mass layoff or closure.
+7 § 103. Avoidance and Early Resolution of Potential Labor Disputes.
+8 Mediation of labor disputes. The Administrative Hearing Office shall, as it
+9 finds necessary and useful, conduct early intervention in potential and actual labor
+10 disputes in order to seek a mediated resolution.
+11 (1) Upon the filing of a labor complaint, the Administrative Hearing Office
+12 may set the matter for prompt mediation and notify the parties to appear.
+13 (2) In the event that a matter is set for mediation, the parties shall attend the
+14 mediation and make a good faith attempt to settle the dispute before proceeding
+15 with the claim. If the Department is the complainant, it may waive the mediation
+16 requirement.
+17 (3) Failure of a complainant to appear at the mediation without providing
+18 the Administrative Hearing Office with advance written notice at least five days
+19 prior to the scheduled appearance may result in the dismissal of a complaint without
+20 prejudice.
+- 21 -
+
+4(7
+HOUSE BILL 24-
+1 (4) At a mediation session, a hearing officer may issue a notice of hearing
+2 with respect to the complaint, dismiss a complaint as untimely under Section
+3 4962(b), and take other administrative actions to assist in the prompt resolution of
+4 the complaint.
+5 § 104. Inspection of Worksite.
+6 (a) Administrative inspections of worksites. In order to enforce the labor
+7 laws of the Commonwealth, the Secretary or a designee may inspect any worksite
+8 where workers are employed.
+9 (1) No warrant is required for inspection of a worksite, and the Department
+10 need not present any evidence of a violation of labor laws or regulations as
+11 a basis for such an inspection.
+12 (2) No notice of the date and time of the inspection need be given to the
+13 employer in advance of the actual inspection.
+14 (3) The Department shall furnish, at a reasonable cost, to every employer
+15 whose worksite is subject to inspection a list of revised statutes and
+16 regulations describing the employer's obligations and defining the
+17 inspector's authority.
+18 (b) Frequency of inspections. The rules governing the frequency of
+19 administrative inspections shall be prescribed by regulation and published in an
+20 administrative schedule.
+21 (c) Scope of inspections. The inspector may inspect:
+- 22 -
+
+HOUSE BILL 24- 49
+1 (1) All public areas of the worksite and premises to which the general public
+2 might reasonably be expected to have access to during normal business hours;
+3 (2) All areas of the worksite and premises in which workers are observed,
+4 or might reasonably be expected to have access to during the normal operation of
+5 the employer's business;
+6 (3) The employer's payroll records, approved worker contracts, or any other
+7 documents or business records the employer is required to collect, maintain or
+8 produce for inspection pursuant to this chapter, regulations, and the Minimum
+9 Wage and Hour Act;
+10 (4) All equipment, machines, tools, or devices any worker might reasonably
+11 be expected to use, operate or maintain, in the normal course of the employer's
+12 business;
+13 (5) All safety devices, safeguards (such as machine guarding, electrical
+14 protection, scaffolding, safe walking-working surfaces, means of egress in case of
+15 emergencies or fire, ventilation, noise exposure protection, personal protective
+16 equipment for eyes, face, head and feet, fire protection and sanitation), drinking
+17 water supply and toilet facilities;
+18 (6) All waste disposal equipment, trash and refuse containers; and
+19 (7) Employer-provided housing and common areas, including, but not
+20 limited to: fire protection devices or improvements; sanitation equipment;
+21 ventilation, whether natural or mechanical; drinking water supply; toilet facilities;
+- 23 -
+
+HOUSE BILL 24- I/
+1 cooking facilities, equipment and appliances; food and food storage equipment and
+2 facilities; lighting; windows and screens; bedding; laundry facilities, equipment and
+3 supplies.
+4 (d) Authority of inspectors.
+5 (1) If a violation of any labor law or regulation is found, the inspector may
+6 issue a citation, notice of violation, or other process intended to correct the violation
+7 or enjoin the employer from certain practices or commence an enforcement action
+8 against the employer.
+9 (2) The inspector shall not detain or arrest any person, but may refer any
+10 person to another enforcement agency for further action consistent with the laws of
+11 the Commonwealth or of the United States.
+12 (e) Personnel for inspections. For purposes of carrying out responsibilities
+13 pursuant to this section, the Secretary may, by agreement with other agencies of the
+14 Commonwealth government, utilize with or without reimbursement, the services,
+15 personnel, or facilities of the other agencies.
+16 (f) Inspections of Worksites Pursuant to Warrant.
+17 (1) In those instances where the Secretary or a designee intends to inspect
+18 any location or worksite in furtherance of obtaining evidence related to a specific
+19 criminal investigation, a search warrant from the Commonwealth Superior Court,
+20 requiring a showing of probable cause, shall be required.
+- 24 -
+
+HOUSE BILL 24- l el
+1 (2) In the event that an employer refuses consent for an inspection or if the
+2 Department's inspection will exceed the scope or frequency of the inspections
+3 authorized under subsections (a) through (e) of this section, the Secretary or a
+4 designee may seek an administrative warrant from the Department's Administrative
+5 Hearing Office.
+6 (3) An administrative warrant shall be granted if the Department
+7 demonstrates to the satisfaction of a hearing officer that one of the following
+8 standards has been met:
+9 (i) The worksite has been chosen for an inspection on the basis of a
+10 general administrative plan derived from neutral criteria for the
+11 enforcement of Commonwealth labor laws and regulations;
+12 (ii) The Department has presented evidence establishing reasonable
+13 suspicion of a recent, ongoing or imminent violation of this chapter,
+14 regulations, the Minimum Wage and Hour Act, or any other
+15 Commonwealth law protecting the health and safety of employees,
+16 at the worksite for which the administrative warrant is sought; or
+17 (iii) The Department has presented evidence that the employer has
+18 been cited for a violation of Commonwealth labor laws or
+19 regulations within the past twelve months at the worksite in
+20 question, and the past violation is one that is easily repeated, easily
+- 25 -
+
+4')
+HOUSE BILL 24-
+1 concealed, and poses a risk to the health and safety of one or more
+2 employees.
+3 § 105. Investigations.
+4 The Department or a designee shall conduct investigations as the
+5 Department may deem appropriate and necessary to enforce the provisions of this
+6 chapter and regulations, and to ensure lawful working conditions, employer
+7 supplied benefits, and the health and safety of workers in the Commonwealth.
+8 Article 2. Adjudication of Employment disputes.
+9 § 201. Complaints and Actions in Labor Matters.
+10 (a) Individual complaints. Any worker who is aggrieved by the failure or
+11 refusal of his or her employer to comply with Commonwealth labor or wage laws,
+12 may make a complaint to the Department.
+13 (b) Department actions. The Department may commence an action against
+14 an employer for an alleged violation of the labor or wage laws of the
+15 Commonwealth.
+16 (c) Court actions. The Attorney General, at the request of the Secretary, may
+17 institute an action in any court of competent jurisdiction for a temporary restraining
+18 order, injunction, or other appropriate remedy to enforce any provision of this
+19 chapter.
+20 § 202. Jurisdiction of the Administrative Hearing Office.
+- 26 -
+
+HOUSE BILL 24-
+1 (a) Jurisdiction. The Administrative Hearing Office shall have original
+2 jurisdiction to resolve all actions involving alleged violations of the labor and wage
+3 laws of the Commonwealth, including but not limited to any violation of this
+4 chapter and regulations promulgated thereunder. The Commonwealth Superior
+5 Court shall have concurrent jurisdiction to resolve all labor and wage violations that
+6 are criminal in nature. The Administrative Hearing office may assist other
+7 government agencies that require administrative hearing services for a fee
+8 established by regulation.
+9 (b) Limitation on stays of proceedings. The Administrative Hearing Office
+10 shall not stay any proceeding to allow the parties to proceed with their claims in a
+11 different forum except upon order of a court of competent jurisdiction.
+12 § 203. Reserved.
+13 § 204. Powers of Hearing Officer.
+14 A hearing officer shall have general power to issue subpoenas, summon
+15 witnesses, require production of books, papers, documents and records, administer
+16 oaths, and such other powers as may be necessary to implement this chapter
+17 effectively. A hearing officer may refer a matter to the Department for investigation
+18 if the hearing officer deems investigation warranted and justified under the
+19 circumstances.
+20 § 205. Service of Process.
+- 27 -
+
+HOUSE BILL 24- 41
+1 Service of process for any notice of any kind required for any proceeding
+2 conducted by the Administrative Hearing Office may be by personal service, by
+3 first class mail, postage prepaid, to the worker at the address supplied with the
+4 complaint or the last known or verified address or any written update provided to
+5 the Department, and to the employer at the address supplied by the complainant or
+6 any written update provided to the Department, or by publication in any English-
+7 language newspaper of general circulation in the Commonwealth, if personal
+8 service or service by mail has been unsuccessful.
+9 § 206. Conduct of Hearings.
+10 A hearing shall be commenced as soon as practicable after filing of a
+11 complaint and any mediation that may be held in the matter. Adequate notice and
+12 opportunity to present relevant evidence shall be given to all parties.
+13 Notwithstanding any other provision of law, a hearing may be closed at the
+14 discretion of the Administrative Hearing Office upon a showing that it is in the best
+15 interests of a party. A decision to close or not to close a hearing shall be reviewable
+16 by the Secretary.
+17 § 207. Orders and Relief.
+18 (a) The hearing officer may, after notice and an opportunity to be heard is
+19 provided to the parties, dismiss sua sponte a complaint that the hearing officer finds
+20 to be without merit. Dismissal shall be reviewable pursuant to the Administrative
+21 Procedure Act (1 CMC § 9101 et seq.).
+-28-
+
+41
+HOUSE BILL 24-
+1 (b) The hearing officer shall, upon concluding a hearing, issue any
+2 necessary findings, decisions, and orders as soon as practicable.
+3 (c) Issuance of findings, decisions, and orders shall be pursuant to 1 CMC
+4 § 9110, but shall not be judicially reviewable until final.
+5 (d) The hearing officer is authorized to:
+6 (1) Award unpaid wages or overtime compensation, amounts
+7 unlawfully deducted from wages or unlawfully required by an employer to
+8 be paid by a worker, damages for unlawful termination of a contract, or
+9 damages, when appropriate, for conduct of the employer that is in violation
+10 of Commonwealth or federal law;
+11 (2) Assess liquidated damages in twice the amount of unpaid wages or
+12 overtime compensation in any case in which a worker prevails on unpaid
+13 wages or overtime compensation claims unless the hearing officer finds
+14 extenuating circumstances; and assess liquidated damages in an amount to
+15 be determined at the hearing in cases in which the employer's conduct in
+16 failing to pay wages or overtime is found to have been willful or retaliatory;
+17 (3) Levy a fine not to exceed two-thousand dollars for each violation of
+18 any provision of this chapter;
+19 (4) Issue declaratory or injunctive relief as appropriate;
+- 29 -
+
+HOUSE BILL 24- 11
+1 (5) Award attorney fees when appropriate in addition to any other
+2 enumerated remedy; provided however that attorney fees shall not be
+3 recoverable against the Commonwealth; and
+4 (6) Impose such other sanction, order or relief as may reasonably give
+5 effect to Division 4, Title 3.
+6 (e) The hearing officer may assess costs for repatriation of a worker to the
+7 point of hire.
+8 (f) The hearing officer may find an action to be frivolous if it is unfounded
+9 in fact or law or initiated primarily to obtain an undue pecuniary benefit or for
+10 distraction or delay.
+11 § 208. Appeal to the Secretary.
+12 (a) Within thirty days of issuance, any person or party affected by findings,
+13 decisions, or orders made pursuant to this chapter may appeal to the Secretary by
+14 filing a written notice of appeal, in a form prescribed by regulations, stating the
+15 grounds for the appeal. If no appeal is made to the Secretary within thirty days, the
+16 findings, decisions, or orders shall be unreviewable administratively or judicially.
+17 (b) Upon appeal, the Secretary may, in the Secretary's discretion, restrict
+18 review to the existing records, supplement the record with new evidence, hear oral
+19 argument, or hear the matter de novo pursuant to 1 CMC §§ 9109 and 9110. The
+20 Secretary shall have the same powers as a hearing officer in addition to other
+- 30 -
+
+HOUSE BILL 24- gq
+1 powers pursuant to this chapter. The Secretary shall affirm or reverse a decision
+2 based on a preponderance of the evidence in the administrative record.
+3 (c) Upon completion of review, the Secretary shall confirm or modify the
+4 finding, decision, or order in writing as soon as practicable. Any modification shall
+5 include supplemental findings. The Secretary's decision shall constitute final action
+6 for purposes of judicial review. Failure by the Secretary to confirm or modify a
+7 finding, decision, or order within thirty days shall constitute confirmation of each
+8 of the findings, decisions, or orders of the hearing officer as the final action of the
+9 Secretary for purposes of judicial review.
+10 § 209. Judicial Review.
+11 (a) Judicial review of a final action of the Secretary is authorized after
+12 exhaustion of all administrative remedies and shall be initiated within ninety days
+13 of final action.
+14 (b) Except as may be contrary to the provisions of this chapter, judicial
+15 review shall be pursuant to 1 CMC § 9112. Appeal from a final action by the
+16 Secretary shall be directly to the Commonwealth Superior Court.
+17 (c) Notwithstanding any other provision of law:
+18 (1) Notice of all actions and proceedings pursuant to this section shall be
+19 served upon the Attorney General;
+20 (2) Judicial review shall be confined to the record; and
+21 (3) Actions involving judicial review of final action by the Secretary shall
+-31 -
+
+HOUSE BILL 24- ifq
+1 be limited to the appeal; other causes of action may not be alleged in the
+2 action for judicial review.
+3 Article 3. Other Provisions.
+4 § 301. Regulations and Legislative Oversight.
+5 The Secretary shall promulgate regulations to implement the intent of this
+6 Act no later than 180 days after its effective date, pursuant to the Administrative
+7 Procedure Act (1 CMC § 9101 et seq.), including the delegation of any duties as
+8 imposed herein. In the event that more time is needed for the promulgation of
+9 regulations, the Legislature may grant an extension, for good cause shown, via joint
+10 resolution.
+11 § 302. Limitations.
+12 Time Limit for Filing Labor Complaints. Labor complaints must be filed
+13 within two years of the last event related to the complaint. If the issue was not
+14 immediately discoverable, the complaint must be filed within two years of when a
+15 reasonable person could have discovered it.
+16 § 303. Prohibitions.
+17 (a)(1) No person who enters the Commonwealth as a nonimmigrant resident
+18 alien may obtain a financial interest in, operate, or engage in any business, or
+19 become an employer without first qualifying to operate a business under applicable
+20 provisions of Commonwealth law.
+- 32 -
+
+dr?
+HOUSE BILL 24-
+1 (2) No person who has at any time entered the Commonwealth for
+2 employment may maintain a financial interest in, operate, or engage in any
+3 business, or employ others without first qualifying to operate a business under
+4 applicable provisions of Commonwealth law. Chapter 9 of Division 5 of Title 4,
+5 or other application provisions of Commonwealth law.
+6 (b) An employer shall not make a materially false statement or give
+7 materially misleading information, orally or in writing, to the Department or any
+8 employee or officer of the Executive Branch with respect to any requirement of this
+9 chapter.
+10 (c) An employer shall not pay a worker at a rate of pay lower than the
+11 minimum wage as provided by Commonwealth law or applicable federal law.
+12 (d) An employer shall not make any deduction from the wages of a worker
+13 in violation of Commonwealth law.
+14 (e) An employer shall not employ a person who is not a U.S. Eligible worker
+15 and who has entered the Commonwealth without authorization to work; provided
+16 however, the Attorney General may authorize a witness or victim of human
+17 trafficking or a material witness or victim in another civil or criminal proceeding to
+18 work in the Commonwealth without regard to this provision.
+19 (f) An employer shall not post a job vacancy announcement with the
+20 Department without the intent or present capability to provide a viable wage-paying
+21 job for the worker.
+- 33 -
+
+HOUSE BILL 24- 1 11
+1 (g) This section shall not stay or bar any civil or criminal action in any court.
+2 (h) Unauthorized Employment. An employer may not hire a foreign
+3 national worker without first posting the job vacancy on the official CNMI
+4 Department of Labor website and making a good faith effort to recruit a U.S.
+5 Eligible worker, as is required to comply with the CNMI job preference laws. This
+6 ensures that local U.S. eligible workers are given priority for employment
+7 opportunities before positions are offered to foreign national workers.
+8 (i) No employer shall employ, permit, or allow any person under the age of
+9 18 to engage in work that is hazardous, detrimental to their health or well-being, or
+10 interferes with their education. Employment of minors shall be strictly regulated in
+11 accordance with CNMI and federal labor laws, and no person under the age of 14
+12 shall be employed in any occupation, except as specifically permitted by law.
+13 § 304. Sanctions and Penalties.
+14 After hearing pursuant to the Administrative Procedure Act, 1 CMC § 9191
+15 et seq.:
+16 (a) Violation of any subsection of 3 CMC § 4931 by an employer shall be
+17 grounds for sanctioning an employer.
+18 (b) An employer who knowingly requires or permits a foreign national
+19 worker to pay initial visa application or renewal fees shall be subject to penalties
+20 and shall be reported to the Office of Foreign Labor Certification (OFLC).
+- 34 -
+
+HOUSE BILL 24- 7
+1 (c) Violation of 3 CMC § 4937 by failing to provide notice of a reduction
+2 in force shall be grounds for imposition of a fine in the employer of up to two-
+3 thousand dollars for each worker terminated in the reduction in force.
+4 (d) Violation of any subsection of 3 CMC § 4963 by an employer shall be
+5 a fine of up to two-thousand dollars for each unlawful action.
+6 (e) Failure to comply with the payment terms of an administrative order, in
+7 addition to any penalties or damages imposed in the order, shall be subject to
+8 additional monetary sanctions of up to twenty-five dollars per day until the
+9 obligation is satisfied. Such additional penalties shall be assessed as a sanction
+10 either by the Administrative Hearing Office, or by the Commonwealth Superior
+11 Court pursuant to a civil action filed by the Attorney General.
+12 (f) Any fine pursuant to this section shall be imposed by a hearing officer
+13 in an administrative order or by a court in an action filed by the Attorney General.
+14 (g) This section shall not stay or bar any civil or criminal action or remedy
+15 in any court of competent jurisdiction.
+16 (h) The Secretary or their designee shall submit a quarterly report of non-
+17 compliant businesses to the Department of Finance, Division of Revenue and
+18 Taxation. Failure to comply with the payment terms of an administrative order may
+19 result in the suspension of the business license until the full payment is made.
+20 § 305. Required Records.
+-35-
+
+HOUSE BILL 24- II
+1 An employer of any worker shall keep, and present immediately upon
+2 demand by the Secretary or a designee, the following information:
+3 (a) Personnel records for each worker including the name, current residence
+4 address, age, domicile, citizenship, and point of hire;
+5 (b) Payroll records for each worker including the job classification; wage
+6 rate or salary, number of hours worked each week, gross compensation, itemized
+7 deductions, and net payments;
+8 (c) Documentation for each worker including tax payment records; and
+9 (d) Business license and any other information or documentation required
+10 by regulations.
+11 §306. Fees.
+12 (a) The Secretary shall establish fees for the administrative actions to be
+13 taken by the Department under this part.
+14 (b) Fees imposed under subsection (a) for providing data not otherwise
+15 published by the Department shall reflect, to the extent practicable, the full
+16 allocated cost of collecting, storing, and delivering the data in usable form.
+17 (c) All fees collected pursuant to subsection (a) of this section shall be
+18 deposited into a fund to be known as the CNMI Department of Labor Fund. Funds
+19 provided for in this subsection shall not be subject to reprogramming, and shall be
+20 available without fiscal year limitation. The Secretary shall be the expenditure
+- 36 -
+
+HOUSE BILL 24- Vi
+1 authority for this account. The Secretary of Finance shall collect the funds and
+2 direct proceeds into three separate accounts as set forth below:
+3 (1) Department of Labor Account. All Administrative processing fees
+4 assigned by the Department shall be deposited into this account. This account shall
+5 be used for operations.
+6 (2) Administrative Hearing Account. All fees collected for providing
+7 administrative hearing services to other CNMI government entities shall be
+8 deposited into this account. This account shall be used for operations and personnel
+9 in the Administrative Hearing Office.
+10 (3) Enforcement Account. All penalties levied in enforcement actions of
+11 the Department of Labor shall be deposited into this account. This account shall be
+12 used for operations and personnel of the Department of Labor.
+13 § 307. Required Reports.
+14 (a) The Secretary shall prepare and submit to the Governor and the presiding
+15 officers of the Legislature the following written reports:
+16 (1) Within one-hundred-twenty days of the end of the government fiscal
+17 year, the Secretary shall prepare an annual report including data regarding the
+18 number of workers employed in the Commonwealth during the year, the citizenship
+19 of the workers, the job classifications filled by the workers; and other information
+20 as appropriate.
+-37-
+
+17
+HOUSE BILL 24-
+1 (2) Pursuant to 3 CMC § 4526(c), the Secretary shall report any exemptions
+2 granted within thirty days after the close of each calendar quarter.
+3 (b) Pursuant to 3 CMC § 306(d), no later than ninety days after the end of
+4 the fiscal year, the Secretary of Finance shall prepare and submit to the Governor
+5 and the presiding officers of the Legislature a report on the status of the CNMI
+6 Department of Labor.
+7 § 308. Electronic Filing and Access.
+8 (a) The Secretary shall establish by regulation a plan for switching from
+9 hard copy filing of documents to electronic filing of documents in order to reduce
+10 paper waste and cost.
+11 (b) The Secretary shall establish by regulation a plan for electronic filing
+12 processes, data collection, and storage."
+13 Section 14. Repeal. Title 3, Division 4, Part 3 is hereby repealed in its
+14 entirety.
+15 Section 15. Severability. If any provisions of this Act or the application of
+16 any such provision to any person or circumstance should be held invalid by a court
+17 of competent jurisdiction, the remainder of this Act or the application of its
+18 provisions to persons or circumstances other than those to which it is held invalid
+19 shall not be affected thereby.
+20 Section 16. Savings Clause. This Act and any repealer contained herein
+21 shall not be construed as affecting any existing right acquired under contract or
+- 38 -
+
+HOUSE BILL 24-
+1 acquired under statutes repealed or under any rule, regulation, or order adopted
+2 under the statutes. Repealers contained in this Act shall not affect any proceeding
+3 instituted under or pursuant to prior law. The enactment of the Act shall not have
+4 the effect of terminating, or in any way modifying, any liability, civil or criminal,
+5 which shall already be in existence on the date this Act becomes effective.
+6 Section 17. Effective Date. This Act shall take effect upon its approval by
+7 the Governor, or it becoming law without such approval.
+02
+Prefiled: 17
+Date: Introduced by:
+Reviewed for legal sufficiency by:
+JLç- 61-272.)-
+use Legal Counse
+Date:
+- 39 -
+
+[DELETED: R T  T L S T o L ( u m r r i u s a r i T t C t t f a t w r t u h l i t s c]
+[DELETED:  I e t o p a r t D a P t l l t c i t o l r a t r o L t a a w i t A i t r a c s a o D e t d a p w l e 1 1 t w p g t s a t l T 1]
+[DELETED:  A 1 B A ( " O m t h o t C § p ( " a c t d c w " u § N d]
+[DELETED:  ( T a f e i t o o p i c T o]
+[DELETED:  T r a c w t l t h a T e a e a w i a w ( L p o b D o D5]
+[DELETED:  T D o L s b t d s a r f a f f l a p S T D o L m e s a r t a i i § N r b e a u b l p w v s d I a t a f a p w v t s m b p t n b b t g i c a p A]
+[DELETED:  # 7 T § T a s w t D s a h r m a A § T D o E s b b t D o E w s b b t S a s u t S T b e i § T r i a c v 1 A]
+[DELETED:  D o A H s b h b t C A D o A H s b r f a A § T D o A H h o j t c u C l a e r m a h c w 1 C § 9 S s i a a ( T A H O m t a a a m p t e a a i h p a o d a p s -]
+[DELETED:  1 o 2 3 4 5 6 7 8 a 9 1 n ( a o r a 1 p _]
+[DELETED: r v e v a ( T A H O i l t a d § N a p b c a A a a r a r a s t M R o A H N y e o]
+[DELETED:  f l a e p o i m o p a d l g a 6 O S a A O S a H o L s s p i w a l e r a d]
+[DELETED:  l g p r a c S 4 T 3 D 4 P 2 C o t S T § " A ( " H m t h o o t L p o § t p a S p t S-1 p (]
+[DELETED:  I " ( h m c o w h a c b l b i t a h o o m a e c w w i i e t ( m t s c u w c e a a]
+[DELETED:  t w ( e t h a U W b e f n w m o j v R o i o l J f p o r j b]
+[DELETED:  ( t " m i n m a m a t A O i o t s a r o t d t a p a r i a a ( C r a t e i t C i t t ( F a w r W p w t]
+[DELETED:  41 ( a W n w T ( p ( t S § E C s w r T o § "]
+[DELETED:  4 E a p i mo U r a C p i t a w o e T 1 S § " ( t p h t m b r c i]
+[DELETED:  T D s h t a t e a r S T 2 " E e a i n a o p r o U r U E S § o T a s u i r a f c T h t t a]
+[DELETED:  T 4 " A § ( A i t C s p a s w l b b o w i r t p a a l w t d]
+[DELETED: it N a f i o w p t t b t A b N m w w a p i s l f o l t]
+[DELETED:  E s E m a f t f W A a R N B b B b § A M f d m ( m w r t p p]
+[DELETED:  w r t t c a a u u S 4 t § I ( l w ( a e w i s i a l o r s a r d e o a d t ( o i T r t f o]
+[DELETED:  4 m ( o t ( b r i p f p r a t W b A s s ( g o f n p p w a b n t f o]
+[DELETED:  c f I i o a ( p t p ( ( a]
+[DELETED:  le e i w e t s f o t i u s t o a H ( A a w s g i t D d t t s o a h t o o t f ( g a p d f n c t t W a H A o a o c f a v o l l o w t p m a t w i]
+[DELETED:  c § t D o a d s c i a D c a r a t e l w c e s A ( r a e f a v o l o w l t C i t c]
+[DELETED:  ( J T H O h o t i b n l t v o a r t T C C a c i T A H o m a g a r a h f a f e ( s d § w o a s o p a b n t i t c e i t o d i w a j t]
+[DELETED:  S f c t a n o g c i t C i p A h s b a a p a f o a c o t r e b g t a a p o l h m b a t]
+[DELETED:  ( T h s u a h i n § ( ( A u w o c a u b d o w a (]
+[DELETED:  ( A a f w i a t a o h t a f s n r p r o e ( p ( i b d ( d f g f r s o]
+[DELETED:  p T b f i f o S b b A t]
+[DELETED:  i b A O § T A P i I r r § T L w i r § m o b o b p]
+[DELETED:  ( N p w h a t e t f m m a f i i o o i a o o C o ( A e s m a m f s o g m e c ( m i a h t G m a a w o v o h t w A e s p a j v a w t D j]
+[DELETED: 1 ( U E A m n h a f w w f t j v o t C D L w f r E e t l U e w a g f e o 1 i a s § e g ( A e w k o p w a]
+[DELETED:   V i t b a ( a p i b a m s o u t t d p d u t o p b e i ( i ( T b t t o F o R a T r §]
+[DELETED:  A e o a w s k a i u d ( a ( r d ( ( b § t ( u s p p b t s r t t e p f a ( A p b d a f y b t]
+[DELETED:  a f o d ( D o A A A p f a b A H A f f p h s t o g e s i t T o t s p i n o]
+[DELETED:  g ( 3 t a D § ( h p ( p S T e S a o c j t r o t A o t a o i p s s]
+[DELETED:  a u u i t w S t]

@@ -1,0 +1,737 @@
+Title: A BILL FOR AN ACT
+Official Title: A BILL FOR AN ACT
+Number of Sections: 1
+Source: versions - HB 24-49
+Media Type: application/pdf
+Strikethrough Detection: 15 sections found
+
+================================================================================
+
+Section 1:
+TWENTY-FOURTH NORTHERN MARIANAS COMMONWEALTH
+LEGISLATURE
+IN THE HOUSE OF REPRESENTATIVES
+Regular Session, 2025 H. B. 24- 1( 7
+To establish the CNMI Next/Gen 911 Telephone
+Communications System within the CNMI; and for other
+purposes.
+BE IT ENACTED BY THE 24TH NORTHERN MARIANAS
+COMMONWEALTH LEGISLATURE:
+1 Section 1. Title. This Act shall be known and may be cited as the "CNMI
+2 Next/Gen 911 Communications Systems Act of 2025."
+3 Section 2. Findings and Purpose. The Legislature finds that there is no
+4 single governmental agency designated with the authority to establish, administer,
+5 and maintain the existing emergency "911" telephone communication system that
+6 is presently stationed at the Department of Public Safety. It is the intent of the
+7 Legislature to transfer all programs, positions, personnel, property, and
+8 appropriations which are currently under the direction of DPS or any other
+9 government agency to the Department of Fire & EMS.
+10 The Legislature finds that the emergency "911" system has not been
+11 effectively and efficiently operational due to lack of personnel, funding, supplies
+12 and equipment, and above all, coordinated efforts. The Legislature finds that twelve
+49
+HOUSE BILL 24-
+1 full-time 911 Dispatchers, a Section Officer in Charge under the DFEMS division
+2 of Emergency Services, funding for operations, equipment, personnel, training are
+3 critically needed in order to establish a fully functional and national compliant
+4 Emergency "911" communication system. Such a system will provide the residents
+5 and visitors of the CNMI with rapid and direct access to emergency agencies with
+6 the intent of reducing the response time to situations requiring police, fire, medical
+7 and other emergency services.
+8 The Legislature finds that there is a critical need for unified direction and
+9 administration to resolve the current fragmented, referral type service, for training
+10 of the Emergency 911 call takers. and a need for funding to include training,
+11 additional personnel, and compliant emergency 911 communications equipment.
+12 Section 3. Amendment. Title 1, Division 2, Part 1, Chapter 18, Article 4 of
+13 the Commonwealth Code is hereby amended by adding a new section 28034 to read
+14 as follows:
+15 "§ 28034. CNMI 911 Communications Systems.
+16 101. Definitions.
+17 (1) Call Routing shall mean the reception of emergency calls where the
+18 purpose of it is to only determine the course of direction of routing (police, fire, and
+19 medical) resulting in rapid transfer of medical emergency callers to the Department
+20 of Fire & EMS.
+2
+-
+HOUSE BILL 24- 41
+1 (2) Compliance to Protocol shall mean the adherence to the written text or
+2 scripts and other dispatch protocol reference system.
+3 (3) Continuous Quality Improvement (CQ1) Program shall mean a program
+4 administered by the Department of Fire and EMS for the purpose of insuring safe,
+5 efficient, and effective performance of dispatchers in regard to their use of the
+6 dispatch protocol reference system.
+7 (4) Dispatch Lite Support (DLS) shall mean the knowledge, procedures, and
+8 skills used by trained Emergency Dispatchers in providing care and advice through
+9 pre-arrival instructions and post-dispatch instructions to callers requesting
+10 emergency medical assistance.
+11 (5) Emergency Dispatcher shall mean a person trained and certified to
+12 provide emergency dispatch services in accordance with guidelines approved by
+13 the Department of Fire and Emergency Medical Services and is employed by the
+14 Department of Fire and EMS.
+15 (6) Emergency Dispatching shall mean the reception, evaluation,
+16 processing, and provision of dispatch, management of requests for emergency
+17 assistance, and participation on ongoing evaluation and improvement of the
+18 emergency dispatch process. This process includes identifying the nature of the
+19 request and prioritizing the severity of the request.
+20 (7) 911 Call Center shall mean a section of the CNMI Department of Fire
+21 & EMS under the Division of Emergency Services that is tasked to administer,
+3
+19
+HOUSE BILL 24-
+1 maintain and operate all 911 emergency calls for police, fire and medical dispatch
+2 services within the Commonwealth.
+3 (8) Emergency Dispatch Services shall mean the process for taking requests
+4 for emergency assistance from the public, identifying the nature of the request,
+5 prioritizing the severity of the request based on policies and procedures, dispatching
+6 the necessary resources, providing medical aid and safety instructions to the callers,
+7 and coordinating the responding resources as needed.
+8 (9) Next/Gen-911 shall mean the telephone, wireless, Voice Over IP
+9 (VOIP), satellite and radio communications system specifically designated for
+10 handling the police, fire, medical and public safety communications needs of the
+11 CNMI. The system must automatically identify the caller's telephone number,
+12 location with capabilities to receive and transmit SMS, Video Message and Access
+13 for Individuals with Hearing and Speech Disabilities.
+14 (10) Quality Assurance and Improvement Program shall mean a program
+15 approved by the Department of Fire and EMS for the purpose of insuring safe,
+16 efficient, and effective performance of emergency dispatchers.
+17 (11) Vehicle Response Configuration shall mean the specific vehicle(s) of
+18 varied types, capabilities, and numbers responding to render assistance.
+19 (12) Vehicle Response Mode shall mean the use of emergency driving
+20 techniques, such as warning lights-and-siren or routine driving response as assigned
+21 by the Department of Fire and Emergency Medical Services.
+-4
+-
+49
+HOUSE BILL 24-
+1 102. Certification.
+2 (1) No person may represent himself/herself as a dispatcher unless certified
+3 in the CNMI by the Department of Fire and EMS.
+4 (2) No business, organization, or government agency may represent itself
+5 as an emergency dispatch agency unless the business, organization, or government
+6 agency is certified by the Department of Fire and EMS.
+7 103. National Standards Required.
+8 The Department of Fire and EMS shall use applicable national standards
+9 when developing the rules and regulations for emergency dispatchers and
+10 emergency dispatch agencies.
+11 104. Authority and Responsibilities.
+12 Pursuant to this Act, the Department of Fire and EMS through its
+13 Commissioner shall have the authority and responsibility to establish rules and
+14 regulations, set standards, fees and collect fees for the following:
+15 (1) All Emergency Dispatch Protocols, Reporting, Standards, All
+16 Emergency Dispatcher Training, Curriculum, Certification and Re-Certification.
+17 (2) Land Based Mobile Dispatching:
+18 (a) Land Based Mobile Radio System (Smart-Net);
+19 (b) Rota, Tinian and Saipan in Interconnectivity. Towers/Repeaters
+20 on each island; and
+5
+HOUSE BILL 24- 41
+1 (c) Interoperability means upgrading Rota and Tinian to SmartNet
+2 and away from VHF.
+3 (3) Access for individuals with hearing and speech disabilities will be
+4 implemented in current and all future upgrades:
+5 (a) The CNMI Department of Fire & EMS's Emergency 911
+6 Telephone Communications System shall be accessible to individuals with
+7 hearing and speech disabilities.
+8 (b) The means for such accessibility shall primarily be mobile and
+9 landline telephones, but nothing herein shall be construed as to limit the
+10 CNMI Department of Fire & EMS from providing access to the Emergency
+11 911 Telephone Communications System through other modes of
+12 communication.
+13 (4) Violations and Penalties.
+14 (a) Any person guilty of willfully violating or failing to comply with
+15 any provisions of this Act or regulations set forth by the Department of Fire
+16 and EMS shall be fined not more than two hundred fifty dollars ($250), or
+17 imprisoned not more than three months, or both, per incident.
+18 (b) Any agency or organization guilty of willfully violating or
+19 failing to comply with any provision of this Act or regulations set forth by
+20 the Department of Fire and EMS shall be fined not more than one thousand
+6
+HOUSE BILL 24- 44 1
+1 dollars ($1,000) or imprisoned not more than six months or be both fined
+2 and imprisoned per incident.
+3 105. Authorization to Establish 911 Surcharge.
+4 (1) The Commonwealth Public Utilities Commission ("PUC") shall
+5 establish and amend, as required, a monthly surcharge to be known as the "911
+6 Surcharge" to be paid by Local Exchange Telephone, Broadband/Internet Providers
+7 and Commercial Mobile Radio Service subscribers.
+8 (2) If the PUC is not formalized then the rates listed in Section 105 shall be
+9 in effect within 90 days upon enactment of this legislation.
+10 (3) The "911 Surcharge" shall be established at a rate not less than the listed
+11 amount per month.
+12 Monthly 911 Designated Fee
+13 Individual landline $1.50
+14 Individual Extension $ .50
+15 Individual Wireless $1.50
+16 Individual Data in Wireless $1.00
+17 Individual Broadband/Internet subscription $1.00
+18 Radio/telephone $1.00
+19 Individual Prepaid Wireless $ .50
+20 Prepaid Reload Card 3% value of reload card
+7
+HOUSE BILL 24-
+1 (4) The purpose of the "911 Surcharge" is to fund the just and reasonable
+2 expenses of operating and maintaining the enhanced "911" emergency system.
+3 106. Collection of "911 Surcharge".
+4 (1) Each Local Exchange Carrier (LEC), Voice Over Internet Protocol
+5 (VOIP) provider, Internet/broadband and Commercial Mobile Radio Service
+6 (CMRS) provider shall collect the surcharge as established by the Commission, and
+7 identify such as a separate line item on its invoice.
+8 (2) Each LEC, VOIP, Internet/Broadband or CMRS provider shall remit the
+9 amounts collected to the Department of Finance designated "911 Surcharge"
+10 account no later than forty-five (45) days of each monthly billing.
+11 (3) Each LEC, VOIP, Internet/Broadband or CMRS provider shall charge
+12 for "administrative fees" to cover actual expenses incurred for collection services,
+13 maintaining the PSAP database, and for reports and audits as may be required by
+14 the Commission. These "administrative fees" shall NOT be charged to the monthly
+15 "911 Surcharge". The "administrative fees" shall be a separate charge and
+16 designated separately as "administrative fee for 911" and identify such as a separate
+17 line item on each customer billing. Each LEC, VOIP, Internet/Broadband or CMRS
+18 provider must ensure that the "administrative fees" are consistent with a
+19 Commission-approved budget for such expenses.
+8
+fl
+HOUSE BILL 24-
+1 (4) The surcharges collected pursuant to this Act are not subject to any tax,
+2 fee or assessment, nor are they considered revenue of the LEC, VOIP,
+3 Internet/Broadband or CMRS provider.
+4 (5) For purposes of this Act, a CMRS provider means a provider of wireless
+5 cellular, telephone service, or wireless personal communications service.
+6 (6) Subscriber lines are the lines that Incumbent Local Exchange Carriers
+7 (I-LEC) use to connect to, and that Competitive Local Exchange Carriers (C-LEC)
+8 and Voice Over Internet Protocol (VOIP) carriers use to interconnect to, the local
+9 (CNMI) telephone exchange.
+10 (7) For purposes of this Act, a VOIP provider means a provider of telephone
+11 service over the internet, and within the 670 area code.
+12 107. Creation of CNMI 911 Emergency Special Fund.
+13 There is hereby created, separate and apart from all other funds of the
+14 government, the CNMI 911 Emergency Call Center Fund. The Secretary of Finance
+15 shall create this fund account within 60 days of the enactment into law.
+16 All the 911 surcharges collected by each LEC, VOIP, Internet/Broadband
+17 or CMRS provider shall be deposited in the CNMI 911 Emergency Call Center
+18 Fund. The money collected and the interest earned shall be used by the Department
+19 of Fire and Emergency Medical Services solely for CNMI 911 Emergency Call
+20 Center. The Commissioner of the Department of Fire and Emergency Medical
+9
+-
+HOUSE BILL 24- 111
+1 Services is the expenditure authority of the CNMI 911 Emergency Call Center
+2 Fund.
+3 The Department of Fire and Emergency Medical Service shall only use the
+4 funds for the following:
+5 (1) Costs associated in the procurement of land, design,
+6 construction and maintenance of the CNMI 911 Emergency Call Center.
+7 (2) Purchase or lease of Next/Gen 911 or latest hardware, software
+8 and radio dispatching equipment for CNMI 911 Emergency Call Center
+9 System.
+10 (3) Costs associated in the installation, maintenance and upgrade of
+11 the Next/Gen 911 System.
+12 (4) Associated monthly recurring costs related to the Next/Gen 911
+13 system, operations and connectivity.
+14 (5) All costs associated in hiring and staffing of the CNMI 911
+15 Emergency Call Center System facility and operations.
+16 (6) All training costs associated to the CNMI 911 Emergency Call
+17 Center System.
+18 (7) All costs for consulting services associated with promulgating
+19 regulations, creating policy and procedures in the operations and
+20 enhancement of the CNMI 911 Emergency Call Center.
+- 10-
+9
+HOUSE BILL 24- 4(
+1 (8) All costs related to membership in the National Emergency
+2 Number Association (NENA), National Association of State 911
+3 Administrators (NASNA), Association of Public Safety Communication
+4 Officials (APCO), and other 911 related associations, National Emergency
+5 Management Administrators (NEMA), the International Association of
+6 Chief of Police (IACP), International Association of Fire Chiefs (IAFC),
+7 National Sheriffs Association (NSA) and sub-divisions of these national
+8 association.
+9 (9) All costs associated in attending national meetings, conferences
+10 and expos to further enhance the CNMI 911 Emergency Call Center.
+11 Notwithstanding any other provision of law, the CNMI 911 Emergency
+12 Call Center Fund shall be available to the Department of Fire and Emergency
+13 Medical Services without further appropriation. No monies in the CNMI 911
+14 Emergency Call Center Fund shall be expended for purposes other than provided
+15 for in this Section, without the expressed approval of the legislature.
+16 108. Exemptions from Surcharge.
+17 Recipients of life-line rates for local exchange telephone service, and
+18 telecommunication services that are incapable of "911" access, including, but not
+19 limited to, interstate and international interconnections, are exempted from the "911
+20 Surcharge".
+21 109. Uncollectible Surcharges.
+-11-
+II
+HOUSE BILL 24-
+1 Each LEC, VOIP, Internet/Broadband or CMRS provider collecting the
+2 surcharges shall be responsible for collection of surcharges.
+3 110. Establishment/Authorization of Positions.
+4 There is hereby authorized the creation of thirteen (15) new positions within
+5 the Department of Fire and Emergency Medical Services (DFEMS) Emergency
+6 Medical Dispatch Division, as follows:
+7 (1) Twelve (12) Emergency Medical Dispatchers, to be classified under the
+8 following ranks:
+9 (a) Emergency Medical Dispatcher I;
+10 (b) Emergency Medical Dispatcher II; and
+11 (c) Emergency Medical Dispatcher III.
+12 (2) One (1) Dispatch Office in Charge, who shall oversee the operations of
+13 the Emergency Medical Division.
+14 (3) One (1) IT Systems Administrator.
+15 (4) One (1) IT Support Specialist.
+16 (5) Duties and Responsibilities.
+17 (a) Emergency Medical Dispatcher I (EMD-I): Entry-level position
+18 responsible for answering emergency calls, dispatching emergency units,
+19 and providing pre-arrival instructions to callers under supervision.
+- 12 -
+HOUSE BILL 24- 549
+1 (b) Emergency Medical Dispatcher II (EMD-II): Intermediate-level
+2 dispatcher responsible for performing advanced call-taking and dispatch
+3 duties, mentoring EMD-I personnel, and assisting with quality assurance.
+4 (c) Emergency Medical Dispatcher III (EMD-III): Senior-level
+5 dispatcher with supervisory responsibilities over EMD-I and EMD-II
+6 personnel, overseeing complex dispatch operations, and assisting in training
+7 and evaluation.
+8 (d) Dispatch Officer in Charge (DOIC): Division head responsible
+9 for the management, administration, scheduling, and operational oversight
+10 of the Emergency Medical Dispatch Division.
+11 (e) IT Systems Administrator: Responsible for overseeing the
+12 maintenance, security, and performance of all IT systems used in the 911
+13 Call Center, including dispatch software, servers, network infrastructure,
+14 and communications technology.
+15 (f) IT Support Specialist: Responsible for providing day-to-day
+16 technical support to 911 operations staff, ensuring software and hardware
+17 functionality, assisting with troubleshooting, and supporting cybersecurity
+18 protocols.
+19 (4) Compensation.
+- 13 -
+HOUSE BILL 24- 4t /
+1 The starting salary and schedule shall be determined by the Commissioner
+2 of Fire and the Office of Personnel Management in accordance with the
+3 Government Classification and Pay Plan and shall be equal as such:
+4 (a) Firefighter I- Emergency Medical Dispatcher I
+5 (b) Firefighter II- Emergency Medical Dispatcher II
+6 (c) Firefighter III- Emergency Medical Dispatcher III
+7 (d) Fire Captain- Dispatch Section Officer in charge
+8 (5) Regulations.
+9 (a) The Department of Fire and Emergency Medical Services, in
+10 consultation with the Office of Personnel Management, shall promulgate
+11 rules and regulations to implement the provisions of this section, including
+12 but not limited to qualifications, training requirements, and promotion
+13 criteria for the ranks established herein.
+14 (b) The Department of Fire and Emergency Medical Services shall
+15 establish minimum qualifications and job descriptions for the IT Systems
+16 Administrator and IT Support Specialist positions in accordance with civil
+17 service rules and applicable CNMI hiring standards."
+18 Section 4. Severabilitv. If any provisions of this Act or the application of
+19 any such provision to any person or circumstance should be held invalid by a court
+20 of competent jurisdiction, the remainder of this Act or the application of its
+- 14 -
+HOUSE BILL 24- I/9
+1 provisions to persons or circumstances other than those to which it is held invalid
+2 shall not be affected thereby.
+3 Section 5. Savings Clause. This Act and any repealer contained herein
+4 shall not be construed as affecting any existing right acquired under contract or
+5 acquired under statutes repealed or under any rule, regulation, or order adopted
+6 under the statutes. Repealers contained in this Act shall not affect any proceeding
+7 instituted under or pursuant to prior law. The enactment of the Act shall not have
+8 the effect of terminating, or in any way modifying, any liability, civil or criminal,
+9 which shall already be in existence on the date this Act becomes effective.
+10 Section 6. Effective Date. This Act shall take effect upon its approval by
+11 the Governor, or its becoming law without such approval.
+eliI/ 2-c--
+Prefiled:
+Date: Introduced by:
+ep. Malcom J. Omar
+Reviewed for Legal Sufficiency by:
+,..-..-,.....
+K
+use Legal Counsel
+Date:
+- 15 -
+[DELETED: R   e t C N T S w C a f o T S F T s a i L t t a p p p p a w a c u t d o D o o g T f t t e s h n b]
+[DELETED:  f o c n f n E a t a T a o t E 9 c t a n f f t i t a a p]
+[DELETED:  s ( u d ( s p a p t c r e ( E s m a t a c t p t E D s m t r e p a p o m o r f e a p o o a i o t r &]
+[DELETED:  ( f p t a ( N s t t w V O I s a r s s f h C T m a i c t n l f b V V s m u o]
+[DELETED:  1 ( i ( a a 1 T w t r a r f e d a e 1 t t A t D o a E t i C h a t ( E P S A ( (]
+[DELETED:  4 ( a ( A f i w h a s w b i ( T C D o F & E 9 T ( l C T S t o m o ( A o g o v o]
+[DELETED:  a 441 T C U C ( s a i a . $]
+[DELETED:  ( 1 C ( E L E ( V O P ( I a M R S ( a c t t D o F " S a ( f m t " S T f s b a c a l m e t " a c a]
+[DELETED:  ( f o n a t r o t V I ( c ( a ( ( s 1 T i c a a f a o f g s A o F o C F]
+[DELETED:  S C F f ( C i t p l d c ( P a r 9 C S ( C t A s A A A p a i t a]
+[DELETED:  4( ( A r E N A ( N o S 9 A A S C O M A ( t I A o N a ( A a C C F s b a o F a E M w f N m i t C 9 1 o l f l t a]
+[DELETED:  E o s 1 M ( T ( E ( E E O t O O (]
+[DELETED:  54 ( E d r d d ( E M I ( d w s o E a E p a ( D f o I S A R f o t a I S R p d]
+[DELETED: t/ T o F a t o P M a w t G ( F ( F F ( F ( R ( c i b n l t q t r a p c T e A S o t o t o t o i]
+[DELETED:  I p s S T h s a u i t w I,]
+
+
+================================================================================
+
+Raw Text:
+TWENTY-FOURTH NORTHERN MARIANAS COMMONWEALTH
+LEGISLATURE
+IN THE HOUSE OF REPRESENTATIVES
+Regular Session, 2025 H. B. 24- 1( 7
+A BILL FOR AN ACT
+To establish the CNMI Next/Gen 911 Telephone
+Communications System within the CNMI; and for other
+purposes.
+BE IT ENACTED BY THE 24TH NORTHERN MARIANAS
+COMMONWEALTH LEGISLATURE:
+1 Section 1. Title. This Act shall be known and may be cited as the "CNMI
+2 Next/Gen 911 Communications Systems Act of 2025."
+3 Section 2. Findings and Purpose. The Legislature finds that there is no
+4 single governmental agency designated with the authority to establish, administer,
+5 and maintain the existing emergency "911" telephone communication system that
+6 is presently stationed at the Department of Public Safety. It is the intent of the
+7 Legislature to transfer all programs, positions, personnel, property, and
+8 appropriations which are currently under the direction of DPS or any other
+9 government agency to the Department of Fire & EMS.
+10 The Legislature finds that the emergency "911" system has not been
+11 effectively and efficiently operational due to lack of personnel, funding, supplies
+12 and equipment, and above all, coordinated efforts. The Legislature finds that twelve
+
+49
+HOUSE BILL 24-
+1 full-time 911 Dispatchers, a Section Officer in Charge under the DFEMS division
+2 of Emergency Services, funding for operations, equipment, personnel, training are
+3 critically needed in order to establish a fully functional and national compliant
+4 Emergency "911" communication system. Such a system will provide the residents
+5 and visitors of the CNMI with rapid and direct access to emergency agencies with
+6 the intent of reducing the response time to situations requiring police, fire, medical
+7 and other emergency services.
+8 The Legislature finds that there is a critical need for unified direction and
+9 administration to resolve the current fragmented, referral type service, for training
+10 of the Emergency 911 call takers. and a need for funding to include training,
+11 additional personnel, and compliant emergency 911 communications equipment.
+12 Section 3. Amendment. Title 1, Division 2, Part 1, Chapter 18, Article 4 of
+13 the Commonwealth Code is hereby amended by adding a new section 28034 to read
+14 as follows:
+15 "§ 28034. CNMI 911 Communications Systems.
+16 101. Definitions.
+17 (1) Call Routing shall mean the reception of emergency calls where the
+18 purpose of it is to only determine the course of direction of routing (police, fire, and
+19 medical) resulting in rapid transfer of medical emergency callers to the Department
+20 of Fire & EMS.
+2
+-
+
+HOUSE BILL 24- 41
+1 (2) Compliance to Protocol shall mean the adherence to the written text or
+2 scripts and other dispatch protocol reference system.
+3 (3) Continuous Quality Improvement (CQ1) Program shall mean a program
+4 administered by the Department of Fire and EMS for the purpose of insuring safe,
+5 efficient, and effective performance of dispatchers in regard to their use of the
+6 dispatch protocol reference system.
+7 (4) Dispatch Lite Support (DLS) shall mean the knowledge, procedures, and
+8 skills used by trained Emergency Dispatchers in providing care and advice through
+9 pre-arrival instructions and post-dispatch instructions to callers requesting
+10 emergency medical assistance.
+11 (5) Emergency Dispatcher shall mean a person trained and certified to
+12 provide emergency dispatch services in accordance with guidelines approved by
+13 the Department of Fire and Emergency Medical Services and is employed by the
+14 Department of Fire and EMS.
+15 (6) Emergency Dispatching shall mean the reception, evaluation,
+16 processing, and provision of dispatch, management of requests for emergency
+17 assistance, and participation on ongoing evaluation and improvement of the
+18 emergency dispatch process. This process includes identifying the nature of the
+19 request and prioritizing the severity of the request.
+20 (7) 911 Call Center shall mean a section of the CNMI Department of Fire
+21 & EMS under the Division of Emergency Services that is tasked to administer,
+3
+
+19
+HOUSE BILL 24-
+1 maintain and operate all 911 emergency calls for police, fire and medical dispatch
+2 services within the Commonwealth.
+3 (8) Emergency Dispatch Services shall mean the process for taking requests
+4 for emergency assistance from the public, identifying the nature of the request,
+5 prioritizing the severity of the request based on policies and procedures, dispatching
+6 the necessary resources, providing medical aid and safety instructions to the callers,
+7 and coordinating the responding resources as needed.
+8 (9) Next/Gen-911 shall mean the telephone, wireless, Voice Over IP
+9 (VOIP), satellite and radio communications system specifically designated for
+10 handling the police, fire, medical and public safety communications needs of the
+11 CNMI. The system must automatically identify the caller's telephone number,
+12 location with capabilities to receive and transmit SMS, Video Message and Access
+13 for Individuals with Hearing and Speech Disabilities.
+14 (10) Quality Assurance and Improvement Program shall mean a program
+15 approved by the Department of Fire and EMS for the purpose of insuring safe,
+16 efficient, and effective performance of emergency dispatchers.
+17 (11) Vehicle Response Configuration shall mean the specific vehicle(s) of
+18 varied types, capabilities, and numbers responding to render assistance.
+19 (12) Vehicle Response Mode shall mean the use of emergency driving
+20 techniques, such as warning lights-and-siren or routine driving response as assigned
+21 by the Department of Fire and Emergency Medical Services.
+-4
+-
+
+49
+HOUSE BILL 24-
+1 102. Certification.
+2 (1) No person may represent himself/herself as a dispatcher unless certified
+3 in the CNMI by the Department of Fire and EMS.
+4 (2) No business, organization, or government agency may represent itself
+5 as an emergency dispatch agency unless the business, organization, or government
+6 agency is certified by the Department of Fire and EMS.
+7 103. National Standards Required.
+8 The Department of Fire and EMS shall use applicable national standards
+9 when developing the rules and regulations for emergency dispatchers and
+10 emergency dispatch agencies.
+11 104. Authority and Responsibilities.
+12 Pursuant to this Act, the Department of Fire and EMS through its
+13 Commissioner shall have the authority and responsibility to establish rules and
+14 regulations, set standards, fees and collect fees for the following:
+15 (1) All Emergency Dispatch Protocols, Reporting, Standards, All
+16 Emergency Dispatcher Training, Curriculum, Certification and Re-Certification.
+17 (2) Land Based Mobile Dispatching:
+18 (a) Land Based Mobile Radio System (Smart-Net);
+19 (b) Rota, Tinian and Saipan in Interconnectivity. Towers/Repeaters
+20 on each island; and
+5
+
+HOUSE BILL 24- 41
+1 (c) Interoperability means upgrading Rota and Tinian to SmartNet
+2 and away from VHF.
+3 (3) Access for individuals with hearing and speech disabilities will be
+4 implemented in current and all future upgrades:
+5 (a) The CNMI Department of Fire & EMS's Emergency 911
+6 Telephone Communications System shall be accessible to individuals with
+7 hearing and speech disabilities.
+8 (b) The means for such accessibility shall primarily be mobile and
+9 landline telephones, but nothing herein shall be construed as to limit the
+10 CNMI Department of Fire & EMS from providing access to the Emergency
+11 911 Telephone Communications System through other modes of
+12 communication.
+13 (4) Violations and Penalties.
+14 (a) Any person guilty of willfully violating or failing to comply with
+15 any provisions of this Act or regulations set forth by the Department of Fire
+16 and EMS shall be fined not more than two hundred fifty dollars ($250), or
+17 imprisoned not more than three months, or both, per incident.
+18 (b) Any agency or organization guilty of willfully violating or
+19 failing to comply with any provision of this Act or regulations set forth by
+20 the Department of Fire and EMS shall be fined not more than one thousand
+6
+
+HOUSE BILL 24- 44 1
+1 dollars ($1,000) or imprisoned not more than six months or be both fined
+2 and imprisoned per incident.
+3 105. Authorization to Establish 911 Surcharge.
+4 (1) The Commonwealth Public Utilities Commission ("PUC") shall
+5 establish and amend, as required, a monthly surcharge to be known as the "911
+6 Surcharge" to be paid by Local Exchange Telephone, Broadband/Internet Providers
+7 and Commercial Mobile Radio Service subscribers.
+8 (2) If the PUC is not formalized then the rates listed in Section 105 shall be
+9 in effect within 90 days upon enactment of this legislation.
+10 (3) The "911 Surcharge" shall be established at a rate not less than the listed
+11 amount per month.
+12 Monthly 911 Designated Fee
+13 Individual landline $1.50
+14 Individual Extension $ .50
+15 Individual Wireless $1.50
+16 Individual Data in Wireless $1.00
+17 Individual Broadband/Internet subscription $1.00
+18 Radio/telephone $1.00
+19 Individual Prepaid Wireless $ .50
+20 Prepaid Reload Card 3% value of reload card
+7
+
+HOUSE BILL 24-
+1 (4) The purpose of the "911 Surcharge" is to fund the just and reasonable
+2 expenses of operating and maintaining the enhanced "911" emergency system.
+3 106. Collection of "911 Surcharge".
+4 (1) Each Local Exchange Carrier (LEC), Voice Over Internet Protocol
+5 (VOIP) provider, Internet/broadband and Commercial Mobile Radio Service
+6 (CMRS) provider shall collect the surcharge as established by the Commission, and
+7 identify such as a separate line item on its invoice.
+8 (2) Each LEC, VOIP, Internet/Broadband or CMRS provider shall remit the
+9 amounts collected to the Department of Finance designated "911 Surcharge"
+10 account no later than forty-five (45) days of each monthly billing.
+11 (3) Each LEC, VOIP, Internet/Broadband or CMRS provider shall charge
+12 for "administrative fees" to cover actual expenses incurred for collection services,
+13 maintaining the PSAP database, and for reports and audits as may be required by
+14 the Commission. These "administrative fees" shall NOT be charged to the monthly
+15 "911 Surcharge". The "administrative fees" shall be a separate charge and
+16 designated separately as "administrative fee for 911" and identify such as a separate
+17 line item on each customer billing. Each LEC, VOIP, Internet/Broadband or CMRS
+18 provider must ensure that the "administrative fees" are consistent with a
+19 Commission-approved budget for such expenses.
+8
+
+fl
+HOUSE BILL 24-
+1 (4) The surcharges collected pursuant to this Act are not subject to any tax,
+2 fee or assessment, nor are they considered revenue of the LEC, VOIP,
+3 Internet/Broadband or CMRS provider.
+4 (5) For purposes of this Act, a CMRS provider means a provider of wireless
+5 cellular, telephone service, or wireless personal communications service.
+6 (6) Subscriber lines are the lines that Incumbent Local Exchange Carriers
+7 (I-LEC) use to connect to, and that Competitive Local Exchange Carriers (C-LEC)
+8 and Voice Over Internet Protocol (VOIP) carriers use to interconnect to, the local
+9 (CNMI) telephone exchange.
+10 (7) For purposes of this Act, a VOIP provider means a provider of telephone
+11 service over the internet, and within the 670 area code.
+12 107. Creation of CNMI 911 Emergency Special Fund.
+13 There is hereby created, separate and apart from all other funds of the
+14 government, the CNMI 911 Emergency Call Center Fund. The Secretary of Finance
+15 shall create this fund account within 60 days of the enactment into law.
+16 All the 911 surcharges collected by each LEC, VOIP, Internet/Broadband
+17 or CMRS provider shall be deposited in the CNMI 911 Emergency Call Center
+18 Fund. The money collected and the interest earned shall be used by the Department
+19 of Fire and Emergency Medical Services solely for CNMI 911 Emergency Call
+20 Center. The Commissioner of the Department of Fire and Emergency Medical
+9
+-
+
+HOUSE BILL 24- 111
+1 Services is the expenditure authority of the CNMI 911 Emergency Call Center
+2 Fund.
+3 The Department of Fire and Emergency Medical Service shall only use the
+4 funds for the following:
+5 (1) Costs associated in the procurement of land, design,
+6 construction and maintenance of the CNMI 911 Emergency Call Center.
+7 (2) Purchase or lease of Next/Gen 911 or latest hardware, software
+8 and radio dispatching equipment for CNMI 911 Emergency Call Center
+9 System.
+10 (3) Costs associated in the installation, maintenance and upgrade of
+11 the Next/Gen 911 System.
+12 (4) Associated monthly recurring costs related to the Next/Gen 911
+13 system, operations and connectivity.
+14 (5) All costs associated in hiring and staffing of the CNMI 911
+15 Emergency Call Center System facility and operations.
+16 (6) All training costs associated to the CNMI 911 Emergency Call
+17 Center System.
+18 (7) All costs for consulting services associated with promulgating
+19 regulations, creating policy and procedures in the operations and
+20 enhancement of the CNMI 911 Emergency Call Center.
+- 10-
+
+9
+HOUSE BILL 24- 4(
+1 (8) All costs related to membership in the National Emergency
+2 Number Association (NENA), National Association of State 911
+3 Administrators (NASNA), Association of Public Safety Communication
+4 Officials (APCO), and other 911 related associations, National Emergency
+5 Management Administrators (NEMA), the International Association of
+6 Chief of Police (IACP), International Association of Fire Chiefs (IAFC),
+7 National Sheriffs Association (NSA) and sub-divisions of these national
+8 association.
+9 (9) All costs associated in attending national meetings, conferences
+10 and expos to further enhance the CNMI 911 Emergency Call Center.
+11 Notwithstanding any other provision of law, the CNMI 911 Emergency
+12 Call Center Fund shall be available to the Department of Fire and Emergency
+13 Medical Services without further appropriation. No monies in the CNMI 911
+14 Emergency Call Center Fund shall be expended for purposes other than provided
+15 for in this Section, without the expressed approval of the legislature.
+16 108. Exemptions from Surcharge.
+17 Recipients of life-line rates for local exchange telephone service, and
+18 telecommunication services that are incapable of "911" access, including, but not
+19 limited to, interstate and international interconnections, are exempted from the "911
+20 Surcharge".
+21 109. Uncollectible Surcharges.
+-11-
+
+II
+HOUSE BILL 24-
+1 Each LEC, VOIP, Internet/Broadband or CMRS provider collecting the
+2 surcharges shall be responsible for collection of surcharges.
+3 110. Establishment/Authorization of Positions.
+4 There is hereby authorized the creation of thirteen (15) new positions within
+5 the Department of Fire and Emergency Medical Services (DFEMS) Emergency
+6 Medical Dispatch Division, as follows:
+7 (1) Twelve (12) Emergency Medical Dispatchers, to be classified under the
+8 following ranks:
+9 (a) Emergency Medical Dispatcher I;
+10 (b) Emergency Medical Dispatcher II; and
+11 (c) Emergency Medical Dispatcher III.
+12 (2) One (1) Dispatch Office in Charge, who shall oversee the operations of
+13 the Emergency Medical Division.
+14 (3) One (1) IT Systems Administrator.
+15 (4) One (1) IT Support Specialist.
+16 (5) Duties and Responsibilities.
+17 (a) Emergency Medical Dispatcher I (EMD-I): Entry-level position
+18 responsible for answering emergency calls, dispatching emergency units,
+19 and providing pre-arrival instructions to callers under supervision.
+- 12 -
+
+HOUSE BILL 24- 549
+1 (b) Emergency Medical Dispatcher II (EMD-II): Intermediate-level
+2 dispatcher responsible for performing advanced call-taking and dispatch
+3 duties, mentoring EMD-I personnel, and assisting with quality assurance.
+4 (c) Emergency Medical Dispatcher III (EMD-III): Senior-level
+5 dispatcher with supervisory responsibilities over EMD-I and EMD-II
+6 personnel, overseeing complex dispatch operations, and assisting in training
+7 and evaluation.
+8 (d) Dispatch Officer in Charge (DOIC): Division head responsible
+9 for the management, administration, scheduling, and operational oversight
+10 of the Emergency Medical Dispatch Division.
+11 (e) IT Systems Administrator: Responsible for overseeing the
+12 maintenance, security, and performance of all IT systems used in the 911
+13 Call Center, including dispatch software, servers, network infrastructure,
+14 and communications technology.
+15 (f) IT Support Specialist: Responsible for providing day-to-day
+16 technical support to 911 operations staff, ensuring software and hardware
+17 functionality, assisting with troubleshooting, and supporting cybersecurity
+18 protocols.
+19 (4) Compensation.
+- 13 -
+
+HOUSE BILL 24- 4t /
+1 The starting salary and schedule shall be determined by the Commissioner
+2 of Fire and the Office of Personnel Management in accordance with the
+3 Government Classification and Pay Plan and shall be equal as such:
+4 (a) Firefighter I- Emergency Medical Dispatcher I
+5 (b) Firefighter II- Emergency Medical Dispatcher II
+6 (c) Firefighter III- Emergency Medical Dispatcher III
+7 (d) Fire Captain- Dispatch Section Officer in charge
+8 (5) Regulations.
+9 (a) The Department of Fire and Emergency Medical Services, in
+10 consultation with the Office of Personnel Management, shall promulgate
+11 rules and regulations to implement the provisions of this section, including
+12 but not limited to qualifications, training requirements, and promotion
+13 criteria for the ranks established herein.
+14 (b) The Department of Fire and Emergency Medical Services shall
+15 establish minimum qualifications and job descriptions for the IT Systems
+16 Administrator and IT Support Specialist positions in accordance with civil
+17 service rules and applicable CNMI hiring standards."
+18 Section 4. Severabilitv. If any provisions of this Act or the application of
+19 any such provision to any person or circumstance should be held invalid by a court
+20 of competent jurisdiction, the remainder of this Act or the application of its
+- 14 -
+
+HOUSE BILL 24- I/9
+1 provisions to persons or circumstances other than those to which it is held invalid
+2 shall not be affected thereby.
+3 Section 5. Savings Clause. This Act and any repealer contained herein
+4 shall not be construed as affecting any existing right acquired under contract or
+5 acquired under statutes repealed or under any rule, regulation, or order adopted
+6 under the statutes. Repealers contained in this Act shall not affect any proceeding
+7 instituted under or pursuant to prior law. The enactment of the Act shall not have
+8 the effect of terminating, or in any way modifying, any liability, civil or criminal,
+9 which shall already be in existence on the date this Act becomes effective.
+10 Section 6. Effective Date. This Act shall take effect upon its approval by
+11 the Governor, or its becoming law without such approval.
+eliI/ 2-c--
+Prefiled:
+Date: Introduced by:
+ep. Malcom J. Omar
+Reviewed for Legal Sufficiency by:
+,..-..-,.....
+K
+use Legal Counsel
+Date:
+- 15 -
+
+[DELETED: R   e t C N T S w C a f o T S F T s a i L t t a p p p p a w a c u t d o D o o g T f t t e s h n b]
+[DELETED:  f o c n f n E a t a T a o t E 9 c t a n f f t i t a a p]
+[DELETED:  s ( u d ( s p a p t c r e ( E s m a t a c t p t E D s m t r e p a p o m o r f e a p o o a i o t r &]
+[DELETED:  ( f p t a ( N s t t w V O I s a r s s f h C T m a i c t n l f b V V s m u o]
+[DELETED:  1 ( i ( a a 1 T w t r a r f e d a e 1 t t A t D o a E t i C h a t ( E P S A ( (]
+[DELETED:  4 ( a ( A f i w h a s w b i ( T C D o F & E 9 T ( l C T S t o m o ( A o g o v o]
+[DELETED:  a 441 T C U C ( s a i a . $]
+[DELETED:  ( 1 C ( E L E ( V O P ( I a M R S ( a c t t D o F " S a ( f m t " S T f s b a c a l m e t " a c a]
+[DELETED:  ( f o n a t r o t V I ( c ( a ( ( s 1 T i c a a f a o f g s A o F o C F]
+[DELETED:  S C F f ( C i t p l d c ( P a r 9 C S ( C t A s A A A p a i t a]
+[DELETED:  4( ( A r E N A ( N o S 9 A A S C O M A ( t I A o N a ( A a C C F s b a o F a E M w f N m i t C 9 1 o l f l t a]
+[DELETED:  E o s 1 M ( T ( E ( E E O t O O (]
+[DELETED:  54 ( E d r d d ( E M I ( d w s o E a E p a ( D f o I S A R f o t a I S R p d]
+[DELETED: t/ T o F a t o P M a w t G ( F ( F F ( F ( R ( c i b n l t q t r a p c T e A S o t o t o t o i]
+[DELETED:  I p s S T h s a u i t w I,]

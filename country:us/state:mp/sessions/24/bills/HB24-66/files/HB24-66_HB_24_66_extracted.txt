@@ -1,0 +1,606 @@
+Title: A BILL FOR AN ACT
+Official Title: A BILL FOR AN ACT
+Number of Sections: 1
+Source: versions - HB 24-66
+Media Type: application/pdf
+Strikethrough Detection: 12 sections found
+
+================================================================================
+
+Section 1:
+TWENTY-FOURTH NORTHERN MARIANAS COMMONWEALTH
+LEGISLATURE
+IN THE HOUSE OF REPRESENTATIVES
+Regular Session, 2025 H. B. 24- &&
+To regulate advisory and consulting engagements with the Commonwealth by
+requiring compliance with procurement laws, Attorney General approval, and
+Public Auditor oversight; to impose a $50,000.00 cap per engagement; to establish
+priority qualifications; to void non-compliant contracts; to provide remedies and
+penalties for violations; and to sunset this Act after five years.
+BE IT ENACTED BY THE 24TH NORTHERN MARIANAS
+COMMONWEALTH LEGISLATURE:
+1 Section 1. Short Title: This Act shall be known and may be cited as the
+2 "Public Procurement Integrity and Advisor Accountability Act of 2025".
+3 Section 2. Findings and Purpose: Procurement law in the Commonwealth
+4 requires that all public contracts comply with uniform procedures, and no
+5 agreement is valid unless it conforms to those statutory and regulatory standards.
+6 The Attorney General is specifically charged with reviewing and approving all
+7 contracts as to form and legality, and the Office of the Public Auditor has
+8 constitutional and statutory authority to audit procurement compliance and the
+9 disbursement of public funds.
+10 Accountability is compromised when infounal engagements, oral
+11 agreements, or uncompensated advisory arrangements occur within executive
+HOUSE BILL 24- &
+1 branch agencies, departments, boards, or commissions. Such practices risk
+2 violating procurement law, undermine transparency, expose the Commonwealth to
+3 fiscal and legal liability, and interfere with oversight. To prevent these dangers, the
+4 Legislature establishes a maximum contract value of fifty thousand dollars
+5 ($50,000.00) for any advisory engagement, a limit comparable to rates in other
+6 similarly situated jurisdictions and one that ensures fiscal responsibility. Priority is
+7 also given to economists and CNMI scholars with a master's degree in political
+8 science to foster local talent, attract skilled advisors, and support the rebuilding of
+9 the Commonwealth during this period of economic recovery.
+10 Constitutional principles require that no contract may bind the
+11 Commonwealth without proper expenditure authority under Articles II and III of
+12 the Constitution. This Act reinforces that mandate by prohibiting executive branch
+13 agencies, departments, boards, and commissions from authorizing salaries or
+14 payments in excess of the statutory fifty thousand dollar ($50,000.00) limit, thereby
+15 preserving separation of powers and legislative control over appropriations.
+16 Transparency is strengthened by requiring agencies to maintain public
+17 registers of advisory engagements and submit quarterly reports subject to audit by
+18 the Office of the Public Auditor. The Act also provides civil and criminal penalties
+19 consistent with statutory procedures in Title 4 of the Commonwealth Code, and it
+20 includes a five-year sunset provision to ensure future legislative review. Together,
+21 these safeguards limit financial and contractual authority to lawful bounds,
+2
+HOUSE BILL 24- 470
+1 guarantee the validity of public contracts, preserve oversight, and encourage skilled
+2 local professionals to contribute to the advancement of the Commonwealth.
+3 Section 3. Enactment. Subject to codification by the CNMI Law Revision
+4 Commission, the following provisions are hereby enacted into law:
+5 "Section 101. Definitions. For the purpose of this Act, the following tenns
+6 shall have the meanings ascribed to them in this section:
+7 (a) "Agency" includes any executive branch, agency, department, board, or
+8 commission of the Commonwealth.
+9 (b) "Advisor" means any individual or entity engaged to provide policy
+10 advice, technical assistance, research, analysis, or similar advisory services to an
+11 Agency, whether compensated or uncompensated.
+12 (c) "Economist" means an individual with formal training in economics
+13 and/or advanced degree in economics.
+14 (d) "CNMI Scholar" means an individual who is a citizen or permanent
+15 resident of the CNMI and holds a master's degree from an accredited institution.
+16 (e) "Contract" means a written agreement signed by the authorized
+17 Commonwealth official(s), prepared/executed in accordance with applicable CNMI
+18 procurement statutes and regulations, and subject to the Not-to-Exceed amount
+19 specified in this Act.
+3
+HOUSE BILL 24- & C,
+1 (0 "Procurement Regulations" means the Commonwealth procurement
+2 regulations applicable to the Agency involved, including Subchapter 70-30.3 (Title
+3 70) and agency-specific regulations.
+4 Section 102. Consultant Engagement Services.
+5 (a) Authorization of Engagement. The Secretary of Finance, or designated
+6 department head, is authorized to engage consultants to provide
+7 professional, technical, or advisory services as necessary to support the
+8 functions of the department. Each engagement shall be established by a
+9 written agreement specifying:
+10 1. Scope of services;
+11 2. Duration and deliverables;
+12 3. Compensation; and
+13 4. Performance standards.
+14 (b) Applicable law: Each engagement shall comply with the following:
+15 1. The CNMI Procurement Regulations, Title 70 of the Commonwealth
+16 Administrative Code (NMIAC 70-30.3)
+17 2. Applicable labor laws; and
+18 3. Any relevant federal funding requirements.
+19 (c) Consultants shall not be considered employees of the Commonwealth for
+20 any purpose, including retirement, health, or benefits coverage, unless
+21 expressly provided by law.
+4
+- -
+HOUSE BILL 24- 4 0
+1 Section 103. Scope of Engagement.
+2 (a) Each consultant engagement shall constitute a discrete assignment.
+3 Engagements shall prioritize projects that:
+4 1. Advance economic development;
+5 2. Promote tourism management and hospitality practices;
+6 3. Enhance social services programs.
+7 (b) Consultants may provide the following:
+8 1. Strategic planning, market analysis, and policy recommendations;
+9 2. Best practices, operational guidance, or capacity-building support;
+10 3. Design, evaluation, or implementation support for social service
+11 programs;
+12 4. Research, training, or technical assistance within their area of expertise.
+13 (c) Priority shall be given to individuals with advanced degrees in business
+14 disciplines (finance, management, economics, marketing, entrepreneurship), and
+15 off-island scholars may participate as digital nomads, subject to secure access,
+16 departmental operational requirements, and concurrence by the CNMI Scholarship
+17 and Financial Assistance Office verifying legal qualification to engage in
+18 consultancy services.
+19 (d) At least twenty-five percent (25%) of engagements shall be reserved for
+20 qualified CNMI-based professionals meeting the same eligibility standards. The
+21 Secretary shall implement a staggered engagement schedule to ensure no more than
+5
+_
+a 4)
+HOUSE BILL 24-
+1 6 consultants are engaged concurrently, to reduce administrative burden and
+2 optimize departmental oversight. For good cause shown, this limit may be
+3 increased at the sole discretion of the Secretary with written notice to the Presiding
+4 Officers of the CNMI Legislature certifying that the hiring of a consultant above
+5 the limit is needed for the benefit of the Commonwealth.
+6 (e) Off-island scholars performing as digital nomads shall comply with
+7 mandatory technology and integration protocols, including:
+8 1. Secure access to CNMI systems;
+9 2. Regular virtual meetings with local staff;
+10 3. Submission of electronic deliverables according to the engagement
+11 timeline;
+12 4. Participation in quarterly project reviews.
+13 (f) Consultants shall be compensated per engagement, with fees and
+14 reimbursement of expenses documented in the engagement agreement.
+15 Compensation for any single engagement shall not exceed fifty
+16 thousand dollars ($50,000.00). Engagement agreements may specify a
+17 price range for services but must not exceed the maximum.
+18 (g) Payment shall be subject to:
+19 1. Availability of appropriated funds;
+20 2. Compliance with CNMI fiscal laws, including proper accounting,
+21 reporting, and audit requirements; and
+6
+-
+HOUSE BILL 24- (de
+1 3. Any applicable federal funding restrictions, including prioritization of
+2 federal funds before local funds, where required.
+3 Section 104. Accountability and Reporting.
+4 (a) Consultants shall submit a written report at the conclusion of each
+5 engagement detailing:
+6 1. Services rendered;
+7 2. Findings; and
+8 3. Recommendations.
+9 (b) The Secretary shall maintain complete records of all engagements,
+10 compensation, and expenditures in accordance with:
+11 1. CNMI Public Financial Management Act;
+12 2. CNMI Constitution
+13 3. Any relevant federal reporting obligations.
+14 Section 105. Termination. Any engagement may be terminated for cause or
+15 convenience by the Secretary, consistent with the terms of the engagement
+16 agreement. Termination shall not create obligations beyond compensation earned
+17 per engagement prior to termination, which shall in no case exceed the not-to-
+18 exceed limit specified.
+19 Section 106. Non-Discrimination and Compliance. All consultant
+20 engagements shall be conducted without discrimination based on race, sex,
+7
+CV 0
+HOUSE BILL 24-
+1 religion, disability, national origin, or political affiliation, in compliance with
+2 CNMI and federal anti-discrimination laws, including:
+3 (a) Title VII of the Civil Rights Act;
+4 (b) CNMI Human Rights Act provisions.
+5 Section 107. Prohibition—Validity of Engagements; Requirement of Proper
+6 Contract; Not-to-Exceed Amount; Priority Order; Limitation on Legal Action;
+7 Salary Cap.
+8 (a) No agency, department, board, commission, officer, employee, or
+9 person acting on behalf of the Commonwealth shall:
+10 (1) Permit an Advisor to perform advisory, policy, or consulting
+11 services unless engaged under a written Contract that:
+12 (i) Complies with Procurement Regulations;
+13 (ii) Is reviewed/prepared by the contracting officer;
+14 (iii) Is certified by the Attorney General; and
+15 (iv) Does not exceed fifty thousand dollars ($50,000.00), except that
+16 any contract above this amount shall require the written approval
+17 of the Attorney General, who shall certify that the engagement
+18 is legally sufficient, necessary, and in the best interest of the
+19 Commonwealth.
+20 (2) Rely upon or accept deliverables from an Advisor not engaged under
+21 such a Contract.
+8
+at)
+HOUSE BILL 24-
+1 (b) Priority Engagement:
+2 (1) First priority: CNMI Scholars with advanced training or degree in
+3 Economics.
+4 (2) Second priority: CNMI Scholars with an emphasis in Business
+5 Administration and/or Tourism Management Degrees.
+6 (c) Any engagement not compliant with Procurement Regulations,
+7 Attorney General review, or exceeding the Fifty Thousand Dollars
+8 ($50,000.00) limit is void and unenforceable.
+9 (d) Limitation on Legal Action:
+10 (1) Only authorized expenditure authorities or officials may bind the
+11 Commonwealth; accordingly, other actions are presumptively ultra
+12 vires.
+13 Section 108. Disclosure, Filing, and Audit Reporting.
+14 (a) Agencies, departments, boards, and commissions shall maintain a
+15 public register of all Advisors, including name, scope, contract dates,
+16 contract value, and procurement method.
+17 (b) Registers must be posted publicly and provided quarterly to the Office
+18 of the Public Auditor.
+19 (c) Noncompliant engagements must be reported immediately to the
+20 Attorney General and the Office of the Public Auditor.
+21 Section 109. Remedies, Administrative Sanctions, and Restitution.
+9
+Go
+HOUSE BILL 24-
+1 (a) Agencies must terminate noncompliant engagements and pursue
+2 administrative remedies, including fund recovery, suspension of
+3 responsible officials, and personnel discipline.
+4 (b) Civil penalties: Up to Ten Thousand Dollars ($10,000.00) per violation
+5 for officials knowingly authorizing noncompliant engagements.
+6 (c) Any engagement exceeding Fifty Thousand Dollars ($50,000.00)
+7 triggers immediate termination, nullification, and possible civil liability.
+8 (d) Attempts by agencies, departments, boards, or commissions to exceed
+9 Fifty Thousand Dollars ($50,000.00) are unauthorized acts, subject to
+10 civil and administrative sanctions.
+11 Section 110. Criminal Penalties and Restitution. Any person who
+12 knowingly and willfully authorizes or executes a contract or obligation in
+13 circumvention of procurement law, or in excess of the authorized expenditure
+14 authority, where such action causes obligations exceeding Five Thousand Dollars
+15 ($5,000.00), commits a petty misdemeanor punishable by imprisonment of not
+16 more than six (6) months, or a fine not exceeding Two Thousand Dollars
+17 ($2,000.00), or both.
+18 In addition to any criminal penalty imposed, the court shall order full
+19 restitution to the Commonwealth equal to the amount of any unlawful obligation or
+20 expenditure caused by the violation. Restitution under this section shall be
+- 10-
+al (0
+HOUSE BILL 24-
+1 mandatory, enforceable as a civil judgment, and shall not be construed as a criminal
+2 fine for purposes of determining the right to a jury trial.
+3 Section 111. Attorney General Authority and Certification. No contract is
+4 effective against the Commonwealth, including agencies, departments, boards, or
+5 commissions, until reviewed and certified by the Attorney General.
+6 Section 112. Office of the Public Auditor Oversight.
+7 (a) The Office of the Public Auditor shall audit and review advisory
+8 engagements and contracts of all agencies, departments, boards, and
+9 commissions.
+10 (b) Agencies shall provide all requested documents, including contract,
+11 emails, invoices, and deliverables.
+12 Section 113. Regulations. The Department of Finance, in coordination with
+13 the Attorney General and the Office of the Public Auditor, shall issue implementing
+14 regulations, including templates, public registers, reporting procedures, penalties,
+15 enforcement procedures, and priority rules."
+16 Section 4. Sunset Provision. This Act shall expire five (5) years from its
+17 effective date, unless renewed by the Legislature after review. Any contract or
+18 engagement entered into prior to the expiration of this Act shall remain valid and
+19 enforceable until its stated term of performance, and shall not be affected by the
+20 sunset of this Act.
+HOUSE BILL 24- (06
+1 Section 5. Severability. If any provisions of this Act or the application of
+2 any such provision to any person or circumstance should be held invalid by a court
+3 of competent jurisdiction, the remainder of this Act or the application of its
+4 provisions to persons or circumstances other than those to which it is held invalid
+5 shall not be affected thereby.
+6 Section 6. Savings Clause. This Act and any repealer contained herein
+7 shall not be construed as affecting any existing right acquired under contract or
+8 acquired under statutes repealed or under any rule, regulation, or order adopted
+9 under the statutes. Repealers contained in this Act shall not affect any proceeding
+10 instituted under or pursuant to prior law. The enactment of the Act shall not have
+11 the effect of terminating, or in any way modifying, any liability, civil or criminal,
+12 which shall already be in existence on the date this Act becomes effective.
+13 Section 7. Effective Date. Upon its approval by the Governor, or it
+14 becoming law without such approval.
+Prefiled: al / / (11)1X
+rd I,
+Date: Introduced by:
+Reviewed for Legal Sufficiency by:
+eph L.G. Taijeron, Jr.
+ouse Legal Counsel
+Date:
+- 12 -
+[DELETED: R r a a c e w t C b c w p l A G a a S T " S r t a p c c w u p a n a T G i c w c a t f a l a t O o t P A h c a s a t a p c a t d A i c w e o o u a o w]
+[DELETED:  b a b o c p r L a m c v o f d ( s a s t C p r t n c m b t C t a d b c f a s o p T i s r a t p r t c t l f a t l]
+[DELETED:  g l S S C " D c m i o e a A ( m ( r " m a w a s b t a C p r t t N a s]
+[DELETED:  & C ( R m t p r 7 S ( h a t e c t p p w 1 S 2 D C 4 P ( E 1 T 2 A 3 A ( -]
+[DELETED:  4 S ( E c e s c a d a E 1 A 2 P E 1 2 3 D e o s f s s p 4 R P d o s p a s t s d a F O l q t i c ( q S]
+[DELETED:  6 c a e c t r a b a o d o F g c s t l m b i O t ( O s p a n s c w m S 2 R 3 S o e d t t e t 4 P ( s b c p w f a f a s s n e f t p ( 1 A 2 w f l p]
+[DELETED:  3 A S ( s a w r a t o e S 2 F R ( S s m c o a e c 1 C 2 C 3 A S c b t S c w t t o t e a p i c e 1 N C A c s b w d o r s]
+[DELETED:  r d n o o p a i c w C ( Sn— C N A P O L o L A S ( a d b c o e o ( a A p a p o c s ( ( i]
+[DELETED:  ( ( E ( p C w a e i B ( e n c P R A G r o e t F D ( ( o b a c s m a m b t t]
+[DELETED:  m t n e a p a r i f r s o r ( f ( e e F T D ( t ( F c S 1 C P a A p w k a w a o a c o o i o p l o i e o t a a ( p m b i o n m t s ( o a f n T T D ( I a t a p i t s o f r e b t R t s b]
+[DELETED:  m f S e O o t P A s a r a c s a r d c e S t r e S e b t r c e e s]
+[DELETED:  S a o c j t r o t A o t a o i p s S T h s a r u i t w 7 E D U i a b t G o i b a I,]
+
+
+================================================================================
+
+Raw Text:
+TWENTY-FOURTH NORTHERN MARIANAS COMMONWEALTH
+LEGISLATURE
+IN THE HOUSE OF REPRESENTATIVES
+Regular Session, 2025 H. B. 24- &&
+A BILL FOR AN ACT
+To regulate advisory and consulting engagements with the Commonwealth by
+requiring compliance with procurement laws, Attorney General approval, and
+Public Auditor oversight; to impose a $50,000.00 cap per engagement; to establish
+priority qualifications; to void non-compliant contracts; to provide remedies and
+penalties for violations; and to sunset this Act after five years.
+BE IT ENACTED BY THE 24TH NORTHERN MARIANAS
+COMMONWEALTH LEGISLATURE:
+1 Section 1. Short Title: This Act shall be known and may be cited as the
+2 "Public Procurement Integrity and Advisor Accountability Act of 2025".
+3 Section 2. Findings and Purpose: Procurement law in the Commonwealth
+4 requires that all public contracts comply with uniform procedures, and no
+5 agreement is valid unless it conforms to those statutory and regulatory standards.
+6 The Attorney General is specifically charged with reviewing and approving all
+7 contracts as to form and legality, and the Office of the Public Auditor has
+8 constitutional and statutory authority to audit procurement compliance and the
+9 disbursement of public funds.
+10 Accountability is compromised when infounal engagements, oral
+11 agreements, or uncompensated advisory arrangements occur within executive
+
+HOUSE BILL 24- &
+1 branch agencies, departments, boards, or commissions. Such practices risk
+2 violating procurement law, undermine transparency, expose the Commonwealth to
+3 fiscal and legal liability, and interfere with oversight. To prevent these dangers, the
+4 Legislature establishes a maximum contract value of fifty thousand dollars
+5 ($50,000.00) for any advisory engagement, a limit comparable to rates in other
+6 similarly situated jurisdictions and one that ensures fiscal responsibility. Priority is
+7 also given to economists and CNMI scholars with a master's degree in political
+8 science to foster local talent, attract skilled advisors, and support the rebuilding of
+9 the Commonwealth during this period of economic recovery.
+10 Constitutional principles require that no contract may bind the
+11 Commonwealth without proper expenditure authority under Articles II and III of
+12 the Constitution. This Act reinforces that mandate by prohibiting executive branch
+13 agencies, departments, boards, and commissions from authorizing salaries or
+14 payments in excess of the statutory fifty thousand dollar ($50,000.00) limit, thereby
+15 preserving separation of powers and legislative control over appropriations.
+16 Transparency is strengthened by requiring agencies to maintain public
+17 registers of advisory engagements and submit quarterly reports subject to audit by
+18 the Office of the Public Auditor. The Act also provides civil and criminal penalties
+19 consistent with statutory procedures in Title 4 of the Commonwealth Code, and it
+20 includes a five-year sunset provision to ensure future legislative review. Together,
+21 these safeguards limit financial and contractual authority to lawful bounds,
+2
+
+HOUSE BILL 24- 470
+1 guarantee the validity of public contracts, preserve oversight, and encourage skilled
+2 local professionals to contribute to the advancement of the Commonwealth.
+3 Section 3. Enactment. Subject to codification by the CNMI Law Revision
+4 Commission, the following provisions are hereby enacted into law:
+5 "Section 101. Definitions. For the purpose of this Act, the following tenns
+6 shall have the meanings ascribed to them in this section:
+7 (a) "Agency" includes any executive branch, agency, department, board, or
+8 commission of the Commonwealth.
+9 (b) "Advisor" means any individual or entity engaged to provide policy
+10 advice, technical assistance, research, analysis, or similar advisory services to an
+11 Agency, whether compensated or uncompensated.
+12 (c) "Economist" means an individual with formal training in economics
+13 and/or advanced degree in economics.
+14 (d) "CNMI Scholar" means an individual who is a citizen or permanent
+15 resident of the CNMI and holds a master's degree from an accredited institution.
+16 (e) "Contract" means a written agreement signed by the authorized
+17 Commonwealth official(s), prepared/executed in accordance with applicable CNMI
+18 procurement statutes and regulations, and subject to the Not-to-Exceed amount
+19 specified in this Act.
+3
+
+HOUSE BILL 24- & C,
+1 (0 "Procurement Regulations" means the Commonwealth procurement
+2 regulations applicable to the Agency involved, including Subchapter 70-30.3 (Title
+3 70) and agency-specific regulations.
+4 Section 102. Consultant Engagement Services.
+5 (a) Authorization of Engagement. The Secretary of Finance, or designated
+6 department head, is authorized to engage consultants to provide
+7 professional, technical, or advisory services as necessary to support the
+8 functions of the department. Each engagement shall be established by a
+9 written agreement specifying:
+10 1. Scope of services;
+11 2. Duration and deliverables;
+12 3. Compensation; and
+13 4. Performance standards.
+14 (b) Applicable law: Each engagement shall comply with the following:
+15 1. The CNMI Procurement Regulations, Title 70 of the Commonwealth
+16 Administrative Code (NMIAC 70-30.3)
+17 2. Applicable labor laws; and
+18 3. Any relevant federal funding requirements.
+19 (c) Consultants shall not be considered employees of the Commonwealth for
+20 any purpose, including retirement, health, or benefits coverage, unless
+21 expressly provided by law.
+4
+- -
+
+HOUSE BILL 24- 4 0
+1 Section 103. Scope of Engagement.
+2 (a) Each consultant engagement shall constitute a discrete assignment.
+3 Engagements shall prioritize projects that:
+4 1. Advance economic development;
+5 2. Promote tourism management and hospitality practices;
+6 3. Enhance social services programs.
+7 (b) Consultants may provide the following:
+8 1. Strategic planning, market analysis, and policy recommendations;
+9 2. Best practices, operational guidance, or capacity-building support;
+10 3. Design, evaluation, or implementation support for social service
+11 programs;
+12 4. Research, training, or technical assistance within their area of expertise.
+13 (c) Priority shall be given to individuals with advanced degrees in business
+14 disciplines (finance, management, economics, marketing, entrepreneurship), and
+15 off-island scholars may participate as digital nomads, subject to secure access,
+16 departmental operational requirements, and concurrence by the CNMI Scholarship
+17 and Financial Assistance Office verifying legal qualification to engage in
+18 consultancy services.
+19 (d) At least twenty-five percent (25%) of engagements shall be reserved for
+20 qualified CNMI-based professionals meeting the same eligibility standards. The
+21 Secretary shall implement a staggered engagement schedule to ensure no more than
+5
+_
+
+a 4)
+HOUSE BILL 24-
+1 6 consultants are engaged concurrently, to reduce administrative burden and
+2 optimize departmental oversight. For good cause shown, this limit may be
+3 increased at the sole discretion of the Secretary with written notice to the Presiding
+4 Officers of the CNMI Legislature certifying that the hiring of a consultant above
+5 the limit is needed for the benefit of the Commonwealth.
+6 (e) Off-island scholars performing as digital nomads shall comply with
+7 mandatory technology and integration protocols, including:
+8 1. Secure access to CNMI systems;
+9 2. Regular virtual meetings with local staff;
+10 3. Submission of electronic deliverables according to the engagement
+11 timeline;
+12 4. Participation in quarterly project reviews.
+13 (f) Consultants shall be compensated per engagement, with fees and
+14 reimbursement of expenses documented in the engagement agreement.
+15 Compensation for any single engagement shall not exceed fifty
+16 thousand dollars ($50,000.00). Engagement agreements may specify a
+17 price range for services but must not exceed the maximum.
+18 (g) Payment shall be subject to:
+19 1. Availability of appropriated funds;
+20 2. Compliance with CNMI fiscal laws, including proper accounting,
+21 reporting, and audit requirements; and
+6
+-
+
+HOUSE BILL 24- (de
+1 3. Any applicable federal funding restrictions, including prioritization of
+2 federal funds before local funds, where required.
+3 Section 104. Accountability and Reporting.
+4 (a) Consultants shall submit a written report at the conclusion of each
+5 engagement detailing:
+6 1. Services rendered;
+7 2. Findings; and
+8 3. Recommendations.
+9 (b) The Secretary shall maintain complete records of all engagements,
+10 compensation, and expenditures in accordance with:
+11 1. CNMI Public Financial Management Act;
+12 2. CNMI Constitution
+13 3. Any relevant federal reporting obligations.
+14 Section 105. Termination. Any engagement may be terminated for cause or
+15 convenience by the Secretary, consistent with the terms of the engagement
+16 agreement. Termination shall not create obligations beyond compensation earned
+17 per engagement prior to termination, which shall in no case exceed the not-to-
+18 exceed limit specified.
+19 Section 106. Non-Discrimination and Compliance. All consultant
+20 engagements shall be conducted without discrimination based on race, sex,
+7
+
+CV 0
+HOUSE BILL 24-
+1 religion, disability, national origin, or political affiliation, in compliance with
+2 CNMI and federal anti-discrimination laws, including:
+3 (a) Title VII of the Civil Rights Act;
+4 (b) CNMI Human Rights Act provisions.
+5 Section 107. Prohibition—Validity of Engagements; Requirement of Proper
+6 Contract; Not-to-Exceed Amount; Priority Order; Limitation on Legal Action;
+7 Salary Cap.
+8 (a) No agency, department, board, commission, officer, employee, or
+9 person acting on behalf of the Commonwealth shall:
+10 (1) Permit an Advisor to perform advisory, policy, or consulting
+11 services unless engaged under a written Contract that:
+12 (i) Complies with Procurement Regulations;
+13 (ii) Is reviewed/prepared by the contracting officer;
+14 (iii) Is certified by the Attorney General; and
+15 (iv) Does not exceed fifty thousand dollars ($50,000.00), except that
+16 any contract above this amount shall require the written approval
+17 of the Attorney General, who shall certify that the engagement
+18 is legally sufficient, necessary, and in the best interest of the
+19 Commonwealth.
+20 (2) Rely upon or accept deliverables from an Advisor not engaged under
+21 such a Contract.
+8
+
+at)
+HOUSE BILL 24-
+1 (b) Priority Engagement:
+2 (1) First priority: CNMI Scholars with advanced training or degree in
+3 Economics.
+4 (2) Second priority: CNMI Scholars with an emphasis in Business
+5 Administration and/or Tourism Management Degrees.
+6 (c) Any engagement not compliant with Procurement Regulations,
+7 Attorney General review, or exceeding the Fifty Thousand Dollars
+8 ($50,000.00) limit is void and unenforceable.
+9 (d) Limitation on Legal Action:
+10 (1) Only authorized expenditure authorities or officials may bind the
+11 Commonwealth; accordingly, other actions are presumptively ultra
+12 vires.
+13 Section 108. Disclosure, Filing, and Audit Reporting.
+14 (a) Agencies, departments, boards, and commissions shall maintain a
+15 public register of all Advisors, including name, scope, contract dates,
+16 contract value, and procurement method.
+17 (b) Registers must be posted publicly and provided quarterly to the Office
+18 of the Public Auditor.
+19 (c) Noncompliant engagements must be reported immediately to the
+20 Attorney General and the Office of the Public Auditor.
+21 Section 109. Remedies, Administrative Sanctions, and Restitution.
+9
+
+Go
+HOUSE BILL 24-
+1 (a) Agencies must terminate noncompliant engagements and pursue
+2 administrative remedies, including fund recovery, suspension of
+3 responsible officials, and personnel discipline.
+4 (b) Civil penalties: Up to Ten Thousand Dollars ($10,000.00) per violation
+5 for officials knowingly authorizing noncompliant engagements.
+6 (c) Any engagement exceeding Fifty Thousand Dollars ($50,000.00)
+7 triggers immediate termination, nullification, and possible civil liability.
+8 (d) Attempts by agencies, departments, boards, or commissions to exceed
+9 Fifty Thousand Dollars ($50,000.00) are unauthorized acts, subject to
+10 civil and administrative sanctions.
+11 Section 110. Criminal Penalties and Restitution. Any person who
+12 knowingly and willfully authorizes or executes a contract or obligation in
+13 circumvention of procurement law, or in excess of the authorized expenditure
+14 authority, where such action causes obligations exceeding Five Thousand Dollars
+15 ($5,000.00), commits a petty misdemeanor punishable by imprisonment of not
+16 more than six (6) months, or a fine not exceeding Two Thousand Dollars
+17 ($2,000.00), or both.
+18 In addition to any criminal penalty imposed, the court shall order full
+19 restitution to the Commonwealth equal to the amount of any unlawful obligation or
+20 expenditure caused by the violation. Restitution under this section shall be
+- 10-
+
+al (0
+HOUSE BILL 24-
+1 mandatory, enforceable as a civil judgment, and shall not be construed as a criminal
+2 fine for purposes of determining the right to a jury trial.
+3 Section 111. Attorney General Authority and Certification. No contract is
+4 effective against the Commonwealth, including agencies, departments, boards, or
+5 commissions, until reviewed and certified by the Attorney General.
+6 Section 112. Office of the Public Auditor Oversight.
+7 (a) The Office of the Public Auditor shall audit and review advisory
+8 engagements and contracts of all agencies, departments, boards, and
+9 commissions.
+10 (b) Agencies shall provide all requested documents, including contract,
+11 emails, invoices, and deliverables.
+12 Section 113. Regulations. The Department of Finance, in coordination with
+13 the Attorney General and the Office of the Public Auditor, shall issue implementing
+14 regulations, including templates, public registers, reporting procedures, penalties,
+15 enforcement procedures, and priority rules."
+16 Section 4. Sunset Provision. This Act shall expire five (5) years from its
+17 effective date, unless renewed by the Legislature after review. Any contract or
+18 engagement entered into prior to the expiration of this Act shall remain valid and
+19 enforceable until its stated term of performance, and shall not be affected by the
+20 sunset of this Act.
+
+HOUSE BILL 24- (06
+1 Section 5. Severability. If any provisions of this Act or the application of
+2 any such provision to any person or circumstance should be held invalid by a court
+3 of competent jurisdiction, the remainder of this Act or the application of its
+4 provisions to persons or circumstances other than those to which it is held invalid
+5 shall not be affected thereby.
+6 Section 6. Savings Clause. This Act and any repealer contained herein
+7 shall not be construed as affecting any existing right acquired under contract or
+8 acquired under statutes repealed or under any rule, regulation, or order adopted
+9 under the statutes. Repealers contained in this Act shall not affect any proceeding
+10 instituted under or pursuant to prior law. The enactment of the Act shall not have
+11 the effect of terminating, or in any way modifying, any liability, civil or criminal,
+12 which shall already be in existence on the date this Act becomes effective.
+13 Section 7. Effective Date. Upon its approval by the Governor, or it
+14 becoming law without such approval.
+Prefiled: al / / (11)1X
+rd I,
+Date: Introduced by:
+Reviewed for Legal Sufficiency by:
+eph L.G. Taijeron, Jr.
+ouse Legal Counsel
+Date:
+- 12 -
+
+[DELETED: R r a a c e w t C b c w p l A G a a S T " S r t a p c c w u p a n a T G i c w c a t f a l a t O o t P A h c a s a t a p c a t d A i c w e o o u a o w]
+[DELETED:  b a b o c p r L a m c v o f d ( s a s t C p r t n c m b t C t a d b c f a s o p T i s r a t p r t c t l f a t l]
+[DELETED:  g l S S C " D c m i o e a A ( m ( r " m a w a s b t a C p r t t N a s]
+[DELETED:  & C ( R m t p r 7 S ( h a t e c t p p w 1 S 2 D C 4 P ( E 1 T 2 A 3 A ( -]
+[DELETED:  4 S ( E c e s c a d a E 1 A 2 P E 1 2 3 D e o s f s s p 4 R P d o s p a s t s d a F O l q t i c ( q S]
+[DELETED:  6 c a e c t r a b a o d o F g c s t l m b i O t ( O s p a n s c w m S 2 R 3 S o e d t t e t 4 P ( s b c p w f a f a s s n e f t p ( 1 A 2 w f l p]
+[DELETED:  3 A S ( s a w r a t o e S 2 F R ( S s m c o a e c 1 C 2 C 3 A S c b t S c w t t o t e a p i c e 1 N C A c s b w d o r s]
+[DELETED:  r d n o o p a i c w C ( Sn— C N A P O L o L A S ( a d b c o e o ( a A p a p o c s ( ( i]
+[DELETED:  ( ( E ( p C w a e i B ( e n c P R A G r o e t F D ( ( o b a c s m a m b t t]
+[DELETED:  m t n e a p a r i f r s o r ( f ( e e F T D ( t ( F c S 1 C P a A p w k a w a o a c o o i o p l o i e o t a a ( p m b i o n m t s ( o a f n T T D ( I a t a p i t s o f r e b t R t s b]
+[DELETED:  m f S e O o t P A s a r a c s a r d c e S t r e S e b t r c e e s]
+[DELETED:  S a o c j t r o t A o t a o i p s S T h s a r u i t w 7 E D U i a b t G o i b a I,]
