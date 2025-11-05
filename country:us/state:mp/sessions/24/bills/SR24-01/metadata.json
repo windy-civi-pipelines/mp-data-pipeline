@@ -1,7 +1,7 @@
 {
   "legislative_session": "24",
   "identifier": "SR 24-01",
-  "title": "To adopt the Interim Rules of Procedure of the Senate",
+  "title": "Saipan Eagle Club",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -12,37 +12,25 @@
   "other_identifiers": [],
   "actions": [
     {
-      "description": "Date Introduced",
-      "date": "2025-01-23",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "introduction"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-04T03:08:08Z"
-      }
-    },
-    {
       "description": "Senate Final Reading",
-      "date": "2025-01-13",
+      "date": "2025-04-25",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
         "reading-2"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-11-04T03:08:08Z"
+        "log_file_created": "2025-11-05T03:09:22Z"
       }
     }
   ],
   "sponsorships": [
     {
-      "name": "Cruz",
+      "name": "Babauta",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Cruz\"}",
+      "person_id": "~{\"name\": \"Babauta\"}",
       "organization_id": null
     }
   ],
@@ -52,7 +40,7 @@
       "note": "SR 24-01",
       "links": [
         {
-          "url": "https://cnmileg.net/documents/senate/sen_res/24/24-01.pdf",
+          "url": "https://cnmileg.net/documents/senate/sen_comres/24/24-01.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -64,7 +52,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://cnmileg.net/leg_sts.asp?legID=19809&secID=2",
+      "url": "https://cnmileg.net/leg_sts.asp?legID=19896&secID=2",
       "note": ""
     }
   ],
@@ -76,7 +64,7 @@
     "division_id": "ocd-division/country:us/territory:mp"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-04T03:08:08Z",
+    "logs_latest_update": "2025-11-05T03:09:22Z",
     "text_extraction_latest_update": "2025-11-04T09:03:31.592678Z"
   }
 }
