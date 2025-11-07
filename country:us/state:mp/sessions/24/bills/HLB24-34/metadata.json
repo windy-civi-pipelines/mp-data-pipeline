@@ -1,7 +1,7 @@
 {
   "legislative_session": "24",
-  "identifier": "HB 24-57",
-  "title": "To re-establish a Government Liability Cap",
+  "identifier": "HLB 24-34",
+  "title": "To establish the \u201cSaipan Economic Incentive Zone\u201d within the Third Senatorial District, and to authorize the Commonwealth Economic Incentive Authority and other relevant agencies to administer and regulate investment activities within the designated zone.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -13,34 +13,34 @@
   "actions": [
     {
       "description": "Date Introduced",
-      "date": "2025-08-29",
+      "date": "2025-10-24",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
         "introduction"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-10-25T03:00:33Z"
+        "log_file_created": "2025-11-07T03:08:43Z"
       }
     }
   ],
   "sponsorships": [
     {
-      "name": "Villagomez, ES",
+      "name": "Camacho, AA\nAldan, VR",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Villagomez, ES\"}",
+      "person_id": "~{\"name\": \"Camacho, AA\\nAldan, VR\"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
-      "note": "HB 24-57",
+      "note": "HLB 24-34",
       "links": [
         {
-          "url": "https://cnmileg.net/documents/house/hse_bills/24/HB24-57.pdf",
+          "url": "https://cnmileg.net/documents/house/hse_lb/24/HLB24-34.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -52,7 +52,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://cnmileg.net/leg_sts.asp?legID=19962&secID=1",
+      "url": "https://cnmileg.net/leg_sts.asp?legID=20006&secID=1",
       "note": ""
     }
   ],
@@ -64,7 +64,6 @@
     "division_id": "ocd-division/country:us/territory:mp"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-07T03:08:43Z",
-    "text_extraction_latest_update": "2025-10-25T08:57:32.888284Z"
+    "logs_latest_update": "2025-11-07T03:08:43Z"
   }
 }

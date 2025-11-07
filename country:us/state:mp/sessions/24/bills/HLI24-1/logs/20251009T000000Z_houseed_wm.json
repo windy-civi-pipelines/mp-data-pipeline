@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "HOUSE-ED & WM",
+    "date": "2025-10-09",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HLI 24-1"
+}

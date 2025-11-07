@@ -1,7 +1,7 @@
 {
   "legislative_session": "24",
-  "identifier": "HB 24-57",
-  "title": "To re-establish a Government Liability Cap",
+  "identifier": "HB 24-68",
+  "title": "To conditionally authorize the Marianas Public Land Trust to establish a margin account solely to facilitate the $29,000,000 loan authorized under Public Law 24-13, subject to the continuing fiduciary and constitutional duties of the Trustees.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -13,34 +13,46 @@
   "actions": [
     {
       "description": "Date Introduced",
-      "date": "2025-08-29",
+      "date": "2025-10-15",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
         "introduction"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-10-25T03:00:33Z"
+        "log_file_created": "2025-11-07T03:08:43Z"
+      }
+    },
+    {
+      "description": "House Final Reading",
+      "date": "2025-11-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-07T03:08:43Z"
       }
     }
   ],
   "sponsorships": [
     {
-      "name": "Villagomez, ES",
+      "name": "Sablan, JP",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Villagomez, ES\"}",
+      "person_id": "~{\"name\": \"Sablan, JP\"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
-      "note": "HB 24-57",
+      "note": "HB 24-68",
       "links": [
         {
-          "url": "https://cnmileg.net/documents/house/hse_bills/24/HB24-57.pdf",
+          "url": "https://cnmileg.net/documents/house/hse_bills/24/HB24-68.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -52,7 +64,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://cnmileg.net/leg_sts.asp?legID=19962&secID=1",
+      "url": "https://cnmileg.net/leg_sts.asp?legID=20001&secID=1",
       "note": ""
     }
   ],
@@ -64,7 +76,6 @@
     "division_id": "ocd-division/country:us/territory:mp"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-07T03:08:43Z",
-    "text_extraction_latest_update": "2025-10-25T08:57:32.888284Z"
+    "logs_latest_update": "2025-11-07T03:08:43Z"
   }
 }

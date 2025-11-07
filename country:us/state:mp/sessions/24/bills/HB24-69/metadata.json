@@ -1,7 +1,7 @@
 {
   "legislative_session": "24",
-  "identifier": "HLB 24-31",
-  "title": "To appropriate Twelve thousand Five Hundred Dollars ($12,500.00) for the personnel and operations of the Tinian Casino Gaming Commission; and for other purposes.",
+  "identifier": "HB 24-69",
+  "title": "To amend Title 70, Subchapter 70-30.3 of the Northern Mariana Islands Administrative Code by adding a new section to authorize Indefinite-Delivery, Indefinite-Quantity Contracts; and for other purposes.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -13,7 +13,7 @@
   "actions": [
     {
       "description": "Date Introduced",
-      "date": "2025-10-09",
+      "date": "2025-10-24",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
         "introduction"
@@ -24,11 +24,23 @@
       }
     },
     {
-      "description": "TALD",
-      "date": "2025-10-09",
+      "description": "House First Reading",
+      "date": "2025-10-24",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
-        "referral-committee"
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-07T03:08:43Z"
+      }
+    },
+    {
+      "description": "House Final Reading",
+      "date": "2025-10-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
       ],
       "related_entities": [],
       "_processing": {
@@ -38,21 +50,21 @@
   ],
   "sponsorships": [
     {
-      "name": "San Nicolas, PH",
+      "name": "Flores, MR",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"San Nicolas, PH\"}",
+      "person_id": "~{\"name\": \"Flores, MR\"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
-      "note": "HLB 24-31",
+      "note": "HB 24-69",
       "links": [
         {
-          "url": "https://cnmileg.net/documents/house/hse_lb/24/HLB24-31.pdf",
+          "url": "https://cnmileg.net/documents/house/hse_bills/24/HB24-69.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -64,7 +76,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://cnmileg.net/leg_sts.asp?legID=19996&secID=1",
+      "url": "https://cnmileg.net/leg_sts.asp?legID=20002&secID=1",
       "note": ""
     }
   ],
@@ -76,7 +88,6 @@
     "division_id": "ocd-division/country:us/territory:mp"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-07T03:08:43Z",
-    "text_extraction_latest_update": "2025-10-25T09:02:24.888544Z"
+    "logs_latest_update": "2025-11-07T03:08:43Z"
   }
 }

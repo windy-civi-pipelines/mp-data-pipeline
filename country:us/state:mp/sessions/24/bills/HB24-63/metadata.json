@@ -10,7 +10,32 @@
   "abstracts": [],
   "other_titles": [],
   "other_identifiers": [],
-  "actions": [],
+  "actions": [
+    {
+      "description": "Date Introduced",
+      "date": "2025-09-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-07T03:08:43Z"
+      }
+    },
+    {
+      "description": "House Final Reading",
+      "date": "2025-10-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-07T03:08:43Z"
+      }
+    }
+  ],
   "sponsorships": [
     {
       "name": "Sablan, JP",
@@ -51,7 +76,7 @@
     "division_id": "ocd-division/country:us/territory:mp"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-25T03:00:33Z",
+    "logs_latest_update": "2025-11-07T03:08:43Z",
     "text_extraction_latest_update": "2025-10-25T08:59:27.612590Z"
   }
 }

@@ -22,18 +22,6 @@
       "_processing": {
         "log_file_created": "2025-10-25T03:00:33Z"
       }
-    },
-    {
-      "description": "HOUSE-JGO & TOURISM",
-      "date": "2025-07-31",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "referral-committee"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-10-25T03:00:33Z"
-      }
     }
   ],
   "sponsorships": [
@@ -76,7 +64,7 @@
     "division_id": "ocd-division/country:us/territory:mp"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-25T03:00:33Z",
+    "logs_latest_update": "2025-11-07T03:08:43Z",
     "text_extraction_latest_update": "2025-10-25T08:57:13.686203Z"
   }
 }

@@ -10,7 +10,20 @@
   "abstracts": [],
   "other_titles": [],
   "other_identifiers": [],
-  "actions": [],
+  "actions": [
+    {
+      "description": "Date Introduced",
+      "date": "2025-10-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-07T03:08:43Z"
+      }
+    }
+  ],
   "sponsorships": [
     {
       "name": "Aldan, VR",
@@ -51,7 +64,7 @@
     "division_id": "ocd-division/country:us/territory:mp"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-25T03:00:33Z",
+    "logs_latest_update": "2025-11-07T03:08:43Z",
     "text_extraction_latest_update": "2025-10-25T09:02:43.139010Z"
   }
 }
