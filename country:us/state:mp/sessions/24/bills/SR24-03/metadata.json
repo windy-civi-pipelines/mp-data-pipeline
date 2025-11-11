@@ -1,7 +1,7 @@
 {
   "legislative_session": "24",
   "identifier": "SR 24-03",
-  "title": "Willie Tan",
+  "title": "Lt. Col Adrian Evangelista",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -13,24 +13,36 @@
   "actions": [
     {
       "description": "Date Introduced",
-      "date": "2025-10-17",
+      "date": "2025-04-25",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
         "introduction"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-11-10T03:17:12Z"
+        "log_file_created": "2025-11-11T03:11:55Z"
+      }
+    },
+    {
+      "description": "Senate Final Reading",
+      "date": "2025-04-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-11T03:11:55Z"
       }
     }
   ],
   "sponsorships": [
     {
-      "name": "King-Nabors",
+      "name": "King-Nabors, Cruz and Hofschneider",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"King-Nabors\"}",
+      "person_id": "~{\"name\": \"King-Nabors, Cruz and Hofschneider\"}",
       "organization_id": null
     }
   ],
@@ -40,7 +52,7 @@
       "note": "SR 24-03",
       "links": [
         {
-          "url": "https://cnmileg.net/documents/senate/sen_comres/24/24-03.pdf",
+          "url": "https://cnmileg.net/documents/senate/sen_res/24/24-03.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -52,7 +64,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://cnmileg.net/leg_sts.asp?legID=20007&secID=2",
+      "url": "https://cnmileg.net/leg_sts.asp?legID=19882&secID=2",
       "note": ""
     }
   ],
@@ -64,7 +76,7 @@
     "division_id": "ocd-division/country:us/territory:mp"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-10T03:17:12Z",
+    "logs_latest_update": "2025-11-11T03:11:55Z",
     "text_extraction_latest_update": "2025-11-10T08:48:49.217616Z"
   }
 }
