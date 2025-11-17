@@ -1,7 +1,7 @@
 {
   "legislative_session": "24",
-  "identifier": "HB 24-43",
-  "title": "To create a new criminal offense for Desecration or Theft of Memorials and Historical Sites.",
+  "identifier": "HB 24-73",
+  "title": "To provide a nonrefundable tax credit to taxpayers who make donations of cash or food supplies to qualified community-based service organizations.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -13,19 +13,19 @@
   "actions": [
     {
       "description": "Date Introduced",
-      "date": "2025-07-31",
+      "date": "2025-11-06",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
         "introduction"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-10-25T03:00:33Z"
+        "log_file_created": "2025-11-17T03:13:54Z"
       }
     },
     {
       "description": "House First Reading",
-      "date": "2025-11-06",
+      "date": "2025-11-12",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
         "reading-1"
@@ -37,7 +37,7 @@
     },
     {
       "description": "House Final Reading",
-      "date": "2025-11-06",
+      "date": "2025-11-12",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
         "reading-2"
@@ -50,21 +50,21 @@
   ],
   "sponsorships": [
     {
-      "name": "Ogo, JMA",
+      "name": "Omar, MJ",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Ogo, JMA\"}",
+      "person_id": "~{\"name\": \"Omar, MJ\"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
-      "note": "HB 24-43",
+      "note": "HB 24-73",
       "links": [
         {
-          "url": "https://cnmileg.net/documents/house/hse_bills/24/HB24-43.pdf",
+          "url": "https://cnmileg.net/documents/house/hse_bills/24/HB24-73.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -76,7 +76,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://cnmileg.net/leg_sts.asp?legID=19935&secID=1",
+      "url": "https://cnmileg.net/leg_sts.asp?legID=20012&secID=1",
       "note": ""
     }
   ],
@@ -88,7 +88,6 @@
     "division_id": "ocd-division/country:us/territory:mp"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-17T03:13:54Z",
-    "text_extraction_latest_update": "2025-11-07T08:47:16.538033Z"
+    "logs_latest_update": "2025-11-17T03:13:54Z"
   }
 }

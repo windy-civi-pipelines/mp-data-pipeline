@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "SNILD",
+    "date": "2025-11-07",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HLB 24-34"
+}

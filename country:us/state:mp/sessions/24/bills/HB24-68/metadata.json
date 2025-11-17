@@ -24,6 +24,18 @@
       }
     },
     {
+      "description": "House First Reading",
+      "date": "2025-11-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-17T03:13:54Z"
+      }
+    },
+    {
       "description": "House Final Reading",
       "date": "2025-11-06",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -76,7 +88,7 @@
     "division_id": "ocd-division/country:us/territory:mp"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-07T03:08:43Z",
+    "logs_latest_update": "2025-11-17T03:13:54Z",
     "text_extraction_latest_update": "2025-11-07T08:48:05.115049Z"
   }
 }

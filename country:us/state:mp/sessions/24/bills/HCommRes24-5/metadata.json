@@ -1,10 +1,10 @@
 {
   "legislative_session": "24",
-  "identifier": "HB 24-43",
-  "title": "To create a new criminal offense for Desecration or Theft of Memorials and Historical Sites.",
+  "identifier": "HCommRes 24-5",
+  "title": "To celebrate and commemorate the Northern Marianas Islands Football Association\u2019s (NMIFA) 20th Anniversary and the remarkable impact NMIFA has made in the Commonwealth of the Northern Marianas Islands.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
-    "bill"
+    "resolution"
   ],
   "subject": [],
   "abstracts": [],
@@ -13,14 +13,14 @@
   "actions": [
     {
       "description": "Date Introduced",
-      "date": "2025-07-31",
+      "date": "2025-11-06",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
         "introduction"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-10-25T03:00:33Z"
+        "log_file_created": "2025-11-17T03:13:54Z"
       }
     },
     {
@@ -50,21 +50,21 @@
   ],
   "sponsorships": [
     {
-      "name": "Ogo, JMA",
+      "name": "Villagomez, ES",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Ogo, JMA\"}",
+      "person_id": "~{\"name\": \"Villagomez, ES\"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
-      "note": "HB 24-43",
+      "note": "HCommRes 24-5",
       "links": [
         {
-          "url": "https://cnmileg.net/documents/house/hse_bills/24/HB24-43.pdf",
+          "url": "https://cnmileg.net/documents/house/hse_comres/24/HCommRes24-5.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -76,7 +76,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://cnmileg.net/leg_sts.asp?legID=19935&secID=1",
+      "url": "https://cnmileg.net/leg_sts.asp?legID=20014&secID=1",
       "note": ""
     }
   ],
@@ -88,7 +88,6 @@
     "division_id": "ocd-division/country:us/territory:mp"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-17T03:13:54Z",
-    "text_extraction_latest_update": "2025-11-07T08:47:16.538033Z"
+    "logs_latest_update": "2025-11-17T03:13:54Z"
   }
 }

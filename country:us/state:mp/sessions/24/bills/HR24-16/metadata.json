@@ -1,10 +1,10 @@
 {
   "legislative_session": "24",
-  "identifier": "HB 24-43",
-  "title": "To create a new criminal offense for Desecration or Theft of Memorials and Historical Sites.",
+  "identifier": "HR 24-16",
+  "title": "To recognize and commend Project Buddy Check 670 for its unwavering dedication to empowering veterans and their families in the Commonwealth of the Northern Mariana Islands, and for its longstanding contributions to community service, unity, and the well-being of our veterans.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
-    "bill"
+    "resolution"
   ],
   "subject": [],
   "abstracts": [],
@@ -13,22 +13,10 @@
   "actions": [
     {
       "description": "Date Introduced",
-      "date": "2025-07-31",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "introduction"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-10-25T03:00:33Z"
-      }
-    },
-    {
-      "description": "House First Reading",
       "date": "2025-11-06",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
-        "reading-1"
+        "introduction"
       ],
       "related_entities": [],
       "_processing": {
@@ -50,21 +38,21 @@
   ],
   "sponsorships": [
     {
-      "name": "Ogo, JMA",
+      "name": "Manglona, TJDLC",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Ogo, JMA\"}",
+      "person_id": "~{\"name\": \"Manglona, TJDLC\"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
-      "note": "HB 24-43",
+      "note": "HR 24-16",
       "links": [
         {
-          "url": "https://cnmileg.net/documents/house/hse_bills/24/HB24-43.pdf",
+          "url": "https://cnmileg.net/documents/house/hse_res/24/HR24-16.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -76,7 +64,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://cnmileg.net/leg_sts.asp?legID=19935&secID=1",
+      "url": "https://cnmileg.net/leg_sts.asp?legID=20015&secID=1",
       "note": ""
     }
   ],
@@ -88,7 +76,6 @@
     "division_id": "ocd-division/country:us/territory:mp"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-17T03:13:54Z",
-    "text_extraction_latest_update": "2025-11-07T08:47:16.538033Z"
+    "logs_latest_update": "2025-11-17T03:13:54Z"
   }
 }
